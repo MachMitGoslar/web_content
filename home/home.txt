@@ -17,12 +17,19 @@ Subheadline: Willkommen in der Welt die Goslar verändert - jeden Tag und mit Di
 Oveda:
 
 organizer: ""
-start: 2024-06-27
+start: ""
 end: ""
 location:
-  latitude: ""
-  longiture: ""
-  distance: ""
+  lat: 51.9061838
+  lon: 10.4293554
+  city: Goslar
+  region: Niedersachsen
+  country: Deutschland
+  countryCode: de
+  postcode: "38640"
+  address: Markt
+  osm: 11675678215
+distance: 463
 organizers: "19"
 
 ----
