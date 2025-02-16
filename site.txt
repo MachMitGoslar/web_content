@@ -1,1 +1,27 @@
 Title: MachMit!Haus
+
+----
+
+Newsletterteaserheadline: Immer auf dem Laufenden sein?
+
+----
+
+Newsletterteasersubheadline: Jetzt Newsletter abonieren
+
+----
+
+Newsletterteasertext: 
+
+----
+
+Newsletterteaserbuttontext: Newsletter abonieren
+
+----
+
+Navigation:
+
+- page://wljMYhm0m3e9QOwC
+- page://qyKqay030eY9Png9
+- page://EgfXk155nyUvqqA1
+- page://6tHQiS64P6WyQOWm
+- page://ZWZVZSlNpA6VJzXZ

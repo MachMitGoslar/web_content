@@ -26,6 +26,18 @@ Team: - page://nefErdeTwpZpKraB
 
 ----
 
+Project-steps:
+
+- 
+  project_start_date: 2025-02-14
+  project_start_time: ""
+  project_status_from: in Planung
+  project_status_to: in Vorbereitung
+  description: '<p>Test</p>'
+  tags: ""
+
+----
+
 Tags: mountains, peak nature
 
 ----

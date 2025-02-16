@@ -29,6 +29,25 @@ Team:
 
 ----
 
+Project-steps:
+
+- 
+  project_start_date: 2025-02-01
+  project_start_time: ""
+  project_status_from: in Auswertung
+  project_status_to: abgeschlossen
+  description: '<p>fertig</p>'
+  tags: ""
+- 
+  project_start_date: 2025-02-09
+  project_start_time: ""
+  project_status_from: ""
+  project_status_to: ""
+  description: ""
+  tags: ""
+
+----
+
 Tags: 
 
 ----

@@ -6,17 +6,16 @@ Cover: - file://yUkKoMEwAEF6PlCW
 
 ----
 
-Headline: MachMit!Community - Bürgerbeteiligung Goslar
+Wellcomeheadline: Willkommen im MachMit!Haus
 
 ----
 
-Subheadline: Willkommen in der Welt die Goslar verändert - jeden Tag und mit Dir!
+Wellcometext: Willkommenstext
 
 ----
 
 Oveda:
 
-organizer: ""
 start: ""
 end: ""
 location:
@@ -31,6 +30,18 @@ location:
   osm: 11675678215
 distance: 463
 organizers: "19"
+
+----
+
+Blocks: 
+
+----
+
+Headline: MachMit!Community - Bürgerbeteiligung Goslar
+
+----
+
+Subheadline: Willkommen in der Welt die Goslar verändert - jeden Tag und mit Dir!
 
 ----
 

@@ -1,0 +1,33 @@
+Title: abgrschlossen
+
+----
+
+Project-start-date: 2025-02-28
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: abgeschlossen
+
+----
+
+Headline: <p>Fertig</p>
+
+----
+
+Description: <p>fsadd fasted asdfasdf</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: 443Mhx6bMu7wUnrr
