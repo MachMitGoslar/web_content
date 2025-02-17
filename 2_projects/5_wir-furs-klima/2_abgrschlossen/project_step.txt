@@ -1,4 +1,4 @@
-Title: abgrschlossen
+Title: Es geht los
 
 ----
 
@@ -18,7 +18,7 @@ Project-status-to: abgeschlossen
 
 ----
 
-Headline: <p>Fertig</p>
+Headline: 
 
 ----
 
