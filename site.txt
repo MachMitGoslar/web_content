@@ -25,3 +25,19 @@ Navigation:
 - page://EgfXk155nyUvqqA1
 - page://6tHQiS64P6WyQOWm
 - page://ZWZVZSlNpA6VJzXZ
+
+----
+
+Staff: - page://Cw3N87jTU3LFBVvj
+
+----
+
+Social:
+
+- 
+  link: https://www.instagram.com/machmitgoslar
+  title: 'IG - MachMit!Goslar'
+
+----
+
+General: - page://XScm21USw7BA3wj1
