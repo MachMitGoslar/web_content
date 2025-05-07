@@ -10,7 +10,7 @@ Wellcomeheadline: Willkommen im MachMit!Haus
 
 ----
 
-Wellcometext: Willkommenstext
+Wellcometext: Das Haus am Marktplatz für Bürgerinnen und Bürger Goslar
 
 ----
 

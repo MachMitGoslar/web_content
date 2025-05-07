@@ -1,0 +1,55 @@
+Title: MachMit!Wald
+
+----
+
+Cover: - file://B2E714RiipiGQhlC
+
+----
+
+Headline: MachMit!Wald
+
+----
+
+Subheadline: Kaufe der Welt einen Baum gegen das Baumsterben
+
+----
+
+Project-status: in Auswertung
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Wer sich die Harzer Wälder ansieht, bemerkt schnell, dass etwas getan werden muss. Verschiedene Umweltfaktoren belasten die hier wachsenden Bäume - auch im größten Stadtwald Niedersachsens in Goslar. Mit „MachMit!Wald - Dein Baum für Goslar“, einem Projekt von der Stadtforst Goslar und dem MachMit!Haus, könnt ihr aktiv zur Wiederaufforstung des Stadtwaldes und zum Erhalt der Natur beitragen. Mit jedem Erwerb einer Baumpatenschaft wird ein Baumsetzling auf einer ausgewiesenen Fläche am Steinberg gepflanzt, die für Besucherinnen und Besucher gut zugänglich ist. Der Pflanzort wird zudem dekoriert mit einer Schieferplakette, die ihr selbst vorab im MachMit!Haus gestalten könnt.</p>"},"id":"8a19858d-8cfc-4e56-8158-89a412d7d21f","isHidden":false,"type":"text"}],"id":"ad4b2193-b531-4cfa-8a5b-5f3c456dc0de","width":"1/1"}],"id":"57e791cf-c08e-4d3e-aba9-6323e30f09ea"},{"attrs":[],"columns":[{"blocks":[{"content":[],"id":"53238bae-53da-42f0-8df9-5978d3db5b47","isHidden":false,"type":"line"}],"id":"50c94fe4-c2ae-47da-a9ee-cc1633e3d53a","width":"1/1"}],"id":"bb5e403a-1e8e-4bed-82e7-c7e25527f6b3"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Ihr könnt aus vier Leistungspaketen wählen:</p><p></p>"},"id":"21ba4e0b-c16b-45ef-9c5d-fe512f9b85ef","isHidden":false,"type":"text"}],"id":"0959b3cf-4006-4d61-9bda-60d5e5f9f314","width":"1/1"}],"id":"736c4ad6-a571-43e4-9a14-2ce9dceeebab"},{"attrs":[],"columns":[{"blocks":[],"id":"59654fa5-e4a0-4f0b-9e67-9d71bfcdffdc","width":"1/1"}],"id":"9153a5f4-b1b7-42f6-908a-730128b174c3"},{"attrs":[],"columns":[{"blocks":[{"content":{"cardtype":"manual","page":[],"image":[],"headline":"Dein Baum für Goslar! Starter-Paket","subheadline":"","description_content":"[{\"content\":{\"text\":\"<ul><li><strong>Variante 1: 5,00 € </strong>für <strong>eine </strong>Baumpatenschaft und <strong>eine </strong>Schiefertafel (8x8 cm)</li><li><strong>Variante 2: 10,00 €</strong> für <strong>zwei</strong> Baumpatenschaften und <strong>zwei</strong> Schiefertafeln (8x8 cm); </li></ul>\"},\"id\":\"f10a4e53-677b-435b-99bd-eed991ebb9c0\",\"isHidden\":false,\"type\":\"list\"}]","color":"primary"},"id":"d9531b61-c729-496f-be13-9a49827bd4f1","isHidden":false,"type":"card"}],"id":"4e418a5e-0e93-488d-a5d4-4b1b4a93db0e","width":"1/1"}],"id":"0805a67f-646d-48b8-aca2-f85c96285f4f"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>beispielsweise eine Plakette für den Wald und eine zum Verschenken</p>"},"id":"7636f31b-274b-4fb9-9f34-c2bbd8163106","isHidden":false,"type":"text"}],"id":"86d9d8a9-62e3-4d7c-8819-052b40c705c7","width":"1/1"}],"id":"19d25e5b-c1ba-43d4-85e1-c49c99a2aade"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"Dein Baum für Goslar! Premium-Paket"},"id":"87cbb1be-3391-4068-a5e1-8662d400435a","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><strong>Variante 1: 25,00 €</strong> für <strong>fünf </strong>Baumpatenschaften und <strong>eine große </strong>Schiefertafel (15x15 cm)</li><li><strong>Variante 2: 50,00 €</strong> für <strong>zehn</strong> Baumpatenschaften und <strong>zwei große</strong> Schiefertafeln (15x15 cm);</li></ul>"},"id":"36eaf79e-2764-442a-9484-8d051d34b33f","isHidden":false,"type":"list"}],"id":"690db705-0734-4dc7-ad21-0129b345382a","width":"1/1"}],"id":"6b4f36cd-a3e6-4bb4-ad74-82549bb64f1e"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p> beispielsweise eine Plakette für den Wald und eine zum Verschenken</p>"},"id":"64dc2f4b-e896-47ea-939d-1eca519cca1a","isHidden":false,"type":"text"}],"id":"3d1b702a-98a6-4be3-9f92-15109286fc7b","width":"1/1"}],"id":"3aa4f7bd-c1d2-46e4-aa10-6cc605ccf716"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Einnahmen fließen ausnahmslos in die Realisierung des Projektes.</p>"},"id":"4b213bd9-387d-4574-8f16-6a94aae6b3c6","isHidden":false,"type":"text"}],"id":"651e47f3-3634-40d6-aceb-bb948ee3c2ac","width":"1/1"}],"id":"e8ff4ba0-cd57-454b-ae95-c4c4faf87f58"}]
+
+----
+
+Team:
+
+- page://Cw3N87jTU3LFBVvj
+- page://KCqFP3i3xe1WcgIM
+
+----
+
+Project-steps:
+
+- 
+  project_start_date: 2025-02-01
+  project_start_time: ""
+  project_status_from: in Auswertung
+  project_status_to: abgeschlossen
+  description: '<p>fertig</p>'
+  tags: ""
+- 
+  project_start_date: 2025-02-09
+  project_start_time: ""
+  project_status_from: ""
+  project_status_to: ""
+  description: ""
+  tags: ""
+
+----
+
+Tags: 
+
+----
+
+Uuid: w8ymxqAzqTvYkHJ4
