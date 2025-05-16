@@ -2,7 +2,7 @@ Title: Danke für euer Feedback
 
 ----
 
-Project-start-date: 
+Project-start-date: 2025-02-28
 
 ----
 
@@ -10,7 +10,19 @@ Project-start-time:
 
 ----
 
-Description: 
+Project-status-from: 
+
+----
+
+Project-status-to: in Planung
+
+----
+
+Headline: 
+
+----
+
+Description: Das Feedback unserer Veranstaltung vom 09.11.2024 - unserer Premiere - ist abgeschlossen. Ihr habt euch mehr Zeit für Gespräche und weniger laute Hintergrundmusik gewünscht. Außerdem haben wir wahnsinnig viel Lob von euch bekommen. Es wird also Zeit in die Planung für dieses Jahr einzusteigen
 
 ----
 
