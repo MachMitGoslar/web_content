@@ -2,7 +2,7 @@ Title: Welch ein Frühstück
 
 ----
 
-Project-start-date: 
+Project-start-date: 2025-05-11
 
 ----
 
@@ -10,7 +10,19 @@ Project-start-time:
 
 ----
 
-Description: 
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: 10 Goslarer Bürger:innen haben aufgefahren. Mit vollen Tischen und gespannten Blicken wurden Erik Elias Bolik (Luke Wild) und Santiago Ziesmer (Spongebob/Pjotr) im MachMit!Haus empfangen. Sogar einen eigens handgemalten Comic gab es für Santiago.
 
 ----
 
