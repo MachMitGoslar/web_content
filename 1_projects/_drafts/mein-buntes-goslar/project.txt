@@ -2,11 +2,23 @@ Title: Bürgerkunstwettbewerb: Mein buntes Goslar
 
 ----
 
-Cover: 
+Cover: - file://USnQ06srsbIhGcyQ
 
 ----
 
-Text: 
+Headline: Bürgerkunstwettbewerb
+
+----
+
+Subheadline: Mein buntes Goslar
+
+----
+
+Project-status: aktiv
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Im Jahr 2021 wurde zur Neugestaltung der Bahnunterführung ein Jugendkunstwettbewerb “Nur mit dir wird’s bunt - Junge Kaiser:innen machen Kunst” durchgeführt (<a href=\"https://jugend.goslar.de/mach-bunt\">https://jugend.goslar.de/mach-bunt</a>). Es entstanden drei Kunstwerke von Jugendlichen am südlichen Aufgang der Bahnunterführung (Girl on Fire, Goslarer Adler,&nbsp; Junge Stadt mit altem Herzen) sowie zwei Beteiligungs-/Selfie-Wände.</p><p>Nun rufen wir erneut Bürgerinnen und Bürger zum Einsenden ihrer schönsten Ideen unter dem Motto \"Mein buntes Goslar\" auf.&nbsp;</p>"},"id":"6b2e6ee7-f8c3-4bfe-8664-9fcfff77ccac","isHidden":false,"type":"text"}],"id":"fb7da379-e2b1-4e5b-8bc8-418e7aacb5d3","width":"1/1"}],"id":"2fb03df2-7704-4b81-a0e5-54a7c97c9a13"},{"attrs":[],"columns":[{"blocks":[],"id":"2444baf4-585b-49da-863f-f28596798515","width":"1/1"}],"id":"70b86866-331a-4973-9e5e-a3524e72bf18"}]
 
 ----
 
