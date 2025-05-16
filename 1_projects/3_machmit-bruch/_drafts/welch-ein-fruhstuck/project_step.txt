@@ -1,0 +1,21 @@
+Title: Welch ein Frühstück
+
+----
+
+Project-start-date: 
+
+----
+
+Project-start-time: 
+
+----
+
+Description: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: Q0k8MrjY7nQK0PJX
