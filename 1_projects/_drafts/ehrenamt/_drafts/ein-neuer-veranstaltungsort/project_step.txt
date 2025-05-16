@@ -1,0 +1,21 @@
+Title: Ein neuer Veranstaltungsort
+
+----
+
+Project-start-date: 
+
+----
+
+Project-start-time: 
+
+----
+
+Description: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: ucYqfUgQqLsx2J2x
