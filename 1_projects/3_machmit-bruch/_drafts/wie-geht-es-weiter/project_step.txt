@@ -10,7 +10,19 @@ Project-start-time:
 
 ----
 
-Description: 
+Project-status-from: aktiv
+
+----
+
+Project-status-to: in Auswertung
+
+----
+
+Headline: 
+
+----
+
+Description: Wäre das Format MachMit!Brunch etwas das wir fortsetzen sollten? Schreibt uns euer Feedback an (email: machmit@goslar.de text: machmit@goslar.de)
 
 ----
 
