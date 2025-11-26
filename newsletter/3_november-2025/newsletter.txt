@@ -24,6 +24,74 @@ Weekly-dates:
   end_time: 17:00:00
   activity: Schachschnupperkurs
   recurring: wöchentlich
+- 
+  day: monday
+  start_time: 15:00:00
+  end_time: 17:00:00
+  activity: 'BastelMit! - Kreatives Basteln'
+  recurring: wöchentlich
+- 
+  day: monday
+  start_time: 16:30:00
+  end_time: ""
+  activity: MachMit! Goslar Barrierefrei
+  recurring: jeden 2. und 4. Montag
+- 
+  day: tuesday
+  start_time: 18:00:00
+  end_time: 20:00:00
+  activity: SpielMit!Goslar
+  recurring: jeden 1. Dienstag
+- 
+  day: wednesday
+  start_time: 13:00:00
+  end_time: 18:00:00
+  activity: Steuerungsgruppe Jugendarbeit
+  recurring: wöchentlich
+- 
+  day: wednesday
+  start_time: 17:00:00
+  end_time: 19:00:00
+  activity: 'Coding & Making 4 Goslar'
+  recurring: wöchentlich
+- 
+  day: wednesday
+  start_time: 19:00:00
+  end_time: 22:00:00
+  activity: 'Coding & Making 4 Goslar'
+  recurring: wöchentlich
+- 
+  day: thursday
+  start_time: 15:00:00
+  end_time: ""
+  activity: >
+    Sprechstunde Sanierung östliche
+    Altstadt
+  recurring: zweiwöchentlich
+- 
+  day: thursday
+  start_time: 15:00:00
+  end_time: 17:00:00
+  activity: int. Sprachcafé für Frauen
+  recurring: wöchentlich
+- 
+  day: thursday
+  start_time: 16:00:00
+  end_time: 18:00:00
+  activity: ADFC Goslar
+  recurring: jeden 3. Donnerstag
+- 
+  day: thursday
+  start_time: 18:00:00
+  end_time: 21:00:00
+  activity: 'Goslar App #Dev Talk'
+  recurring: wöchentlich
+- 
+  day: friday
+  start_time: 19:30:00
+  end_time: ""
+  activity: Zwischen den Welten
+  recurring: monatlich
 
 ----
 
@@ -31,7 +99,7 @@ Upcomming-dates:
 
 - 
   event_name: Regionalversammlung ADFC
-  event_date: SatSat.NovNov.2025202520252025
+  event_date: ""
   event_date_end: ""
   show_event_date: 'true'
 
