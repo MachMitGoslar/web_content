@@ -37,16 +37,7 @@ Upcomming-dates:
 
 ----
 
-Review-entries:
-
-- 
-  layout: imageLeft
-  headline: ""
-  subheadline: ""
-  content_text: ""
-  image: [ ]
-  link: ""
-  mailto: ""
+Review-entries: 
 
 ----
 
