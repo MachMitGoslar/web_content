@@ -1,0 +1,79 @@
+Title: November 2025
+
+----
+
+Author: - page://Cw3N87jTU3LFBVvj
+
+----
+
+Greeting-text:
+
+Der Weihnachtsmarkt vor dem MachMit!Haus hat gerade eröffnet, die ersten Schneeflocken fliegen in der Luft. Der Winter naht mit großen Schritten - die beste Zeit, auf das zurückliegende Jahr zurückzuschauen. 
+Einmal ganz ungewohnt übernehme ich heute die Rolle als Vertretungs-Autor unseres Newsletters und darf euch ein paar Eindrücke aus dem letzten Jahr sowie einen Ausblick auf die restlichen Tage des Jahres 2025 geben. 
+Seit dem letzten Newsletter haben uns drei zentrale Veranstaltungen beschäftigt: Das Ehrenamt-Speed-Dating in Vienenburg, der erste Kommunale Präventionstag sowie das Zukunftsfest als neues Kooperationsprojekt mit dem Landkreis Goslar. 
+Aber auch neben den großen Projekten ist viel im MachMit!Haus in Bewegung. Wer in den letzten Wochen über den Marktplatz gelaufen ist, konnte unsere Renovierungsarbeiten an den Fenstern und dem Eingangsbereich entdecken. Hier entsteht etwas Neues und Schönes, was aber auch Zeit braucht und uns für eine gewisse Zeit nicht so sichtbar macht wie gewohnt.
+Im Rückblick auf das Jahr 2025 ist aber so viel mehr entstanden. Zwei Mottowochen und zahlreiche neue Veranstaltungsformate haben das Haus sprichwörtlich leben lassen. Kaum ein Tag vergeht, an dem im MachMit!Haus nicht fleißig gearbeitet, connected, geplant oder gelacht wird. Zahlreiche Stammgäste, Ehrenamtliche, Gruppen und Projekte sind aus dem alltäglichen Ablauf des Hauses nicht mehr wegzudenken. Nun aber wie gewohnt der Blick in den Newsletter...
+
+----
+
+Weekly-dates:
+
+- 
+  day: monday
+  start_time: 15:00:00
+  end_time: 17:00:00
+  activity: Schachschnupperkurs
+  recurring: wöchentlich
+
+----
+
+Upcomming-dates:
+
+- 
+  event_name: ""
+  event_date: ""
+  event_date_end: ""
+  show_event_date: 'false'
+
+----
+
+Review-entries:
+
+- 
+  layout: imageLeft
+  headline: ""
+  subheadline: ""
+  content_text: ""
+  image: [ ]
+  link: ""
+  mailto: ""
+
+----
+
+Actual-entries: 
+
+----
+
+Upcoming-entries: 
+
+----
+
+News: 
+
+----
+
+Blogentries:
+
+- 
+  _id: 1d698080-0863-463d-9b64-ea5fdd0e2da9
+  headline: null
+  subheadline: null
+  content_text: ""
+  image: [ ]
+  link: null
+  mailto: null
+  layout: imageLeft
+
+----
+
+Uuid: KuYRhZkhoQ3WOKdw
