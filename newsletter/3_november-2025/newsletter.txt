@@ -22,7 +22,7 @@ Weekly-dates:
   day: monday
   start_time: 15:00:00
   end_time: 17:00:00
-  activity: Schachschnupperkurs
+  activity: Schachschnupper-kurs
   recurring: wöchentlich
 - 
   day: monday
