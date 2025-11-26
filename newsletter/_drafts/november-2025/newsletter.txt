@@ -30,10 +30,10 @@ Weekly-dates:
 Upcomming-dates:
 
 - 
-  event_name: ""
-  event_date: ""
+  event_name: Regionalversammlung ADFC
+  event_date: SatSat.NovNov.2025202520252025
   event_date_end: ""
-  show_event_date: 'false'
+  show_event_date: 'true'
 
 ----
 
