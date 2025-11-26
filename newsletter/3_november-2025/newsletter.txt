@@ -105,7 +105,19 @@ Upcomming-dates:
 
 ----
 
-Review-entries: 
+Review-entries:
+
+- 
+  layout: imageRight
+  headline: 'MachMit! Goslar Barrierefrei '
+  subheadline: ist in der Umsetzung
+  content_text: |
+    Gemeinsam mit der Behindertenbeauftragten Andrea Simon haben wir die  Arbeitsgruppe MachMit! Goslar Barrierefrei ins Leben gerufen.
+    Jeden zweiten Montag  trifft sich die Arbeitsgruppe um einen Stadtplan zur Barrierefreiheit in Goslar zu entwickelt. Interessierte Teilnehmerinnen und Teilnehmer sind herzlich zur Mitarbeit eingelanden.
+  image:
+    - file://mrYLP4SKwi7jA1gI
+  link: ""
+  mailto: christian.warzecha@goslar.de
 
 ----
 
