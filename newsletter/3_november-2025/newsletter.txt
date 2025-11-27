@@ -99,7 +99,12 @@ Upcomming-dates:
 
 - 
   event_name: Regionalversammlung ADFC
-  event_date: ""
+  event_date: SatSat.NovNov.2025202520252025
+  event_date_end: ""
+  show_event_date: 'false'
+- 
+  event_name: Test
+  event_date: MonMon.DecDec.2025202520252025
   event_date_end: ""
   show_event_date: 'true'
 
