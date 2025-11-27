@@ -180,6 +180,22 @@ Timeline:
   summary: 'Wir werden offizielle #Refill Station und teilen gern Getränke an unsere Besucher:innen aus'
   image:
     - file://9tntapPpZWSU5vl0
+- 
+  year: Apr. 2025
+  summary: >
+    Der neue Kreisverband des ADFC gründet
+    sich. Ein Projekt was im MM!H sein
+    Ursprung fand.
+  image:
+    - file://2XtQuU3HmEXQcFAK
+- 
+  year: Apr. 2025
+  summary: >
+    Zum Altstadtlauf wird das MM!H zum
+    Sportstudio, Rennleitung und
+    Umkleidekabine
+  image:
+    - file://s2rja2nNFzv4k25J
 
 ----
 
