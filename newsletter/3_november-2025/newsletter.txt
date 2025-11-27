@@ -271,6 +271,21 @@ Timeline:
   summary: 'Die Spontan- und Hochwasserhelfer packen verlässlich beim ersten Einsatz zum Waldbrand nahe Goslar mit an.'
   image:
     - file://29FgrSYiVy3zyczW
+- 
+  year: Jun. 2025
+  summary: >
+    Zum “ersten Freitag” im Juli
+    verwandelt sich das MM!H mit der Tombola
+    in einen Karibischen Traum
+  image:
+    - file://spNtuVYspx40ryG2
+- 
+  year: Jul. 2025
+  summary: >
+    Im Rahmen des Ferienpasses werden Smarte
+    Thermometer von Jugendlichen gebaut
+  image:
+    - file://sFlB7xfWRDqVFLrU
 
 ----
 
