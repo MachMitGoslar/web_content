@@ -108,7 +108,7 @@ Upcomming-dates:
 Review-entries:
 
 - 
-  layout: imageRight
+  layout: imageLeft
   headline: 'MachMit! Goslar Barrierefrei '
   subheadline: ist in der Umsetzung
   content_text: |
