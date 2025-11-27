@@ -302,6 +302,14 @@ Timeline:
     die Planungen zur GeoTour
   image:
     - file://2Bhpw5jxEnDryPcF
+- 
+  year: Aug. 2025
+  summary: >
+    Der Gaming Day für Jugendliche findet
+    im MachMit!Haus statt. Minecraft und
+    MarioCart stehen auf dem Plan.
+  image:
+    - file://ek6GbmGpZOLLSjTD
 
 ----
 
