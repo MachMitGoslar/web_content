@@ -145,6 +145,33 @@ Review-entries:
     - file://ctAvzppX1us7XU9c
   link: ""
   mailto: ""
+- 
+  layout: imageLeft
+  headline: >
+    Der MachMit!Wald die nächste
+    Pflanzfläche ist da
+  subheadline: >
+    gute Nachrichten für zukünftige
+    Baumpatenschaften
+  content_text: >
+    Der MachMit!Wald ist ein Erfolgsprojekt
+    wie kaum ein anderes in Goslar. In
+    diesem Jahr ist es gelungen die
+    Pflanzfläche am Steinberg vollkommen
+    auszulasten. Zahlreiche kreative bunte
+    Tafeln zeugen davon und warten darauf
+    bei einem Spaziergang am Steinberg
+    entdeckt zu werden. Durch tatkräftige
+    Unterstützung ist nun eine weitere
+    Pflanzfläche am Bocksberg eröffnet
+    wurden. Noch mehr Platz für nachhaltige
+    Pflanzungen und zukünftige
+    Baumpatenschaften!
+  image:
+    - file://69vE4yw2c86wK2gJ
+  link: >
+    https://www.stadtforstgoslar.de/machmitwald
+  mailto: ""
 
 ----
 
