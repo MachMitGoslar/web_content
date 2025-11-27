@@ -334,6 +334,58 @@ Timeline:
     “Black Kaffe” im MachMit!Haus
   image:
     - file://rUjVQ9cxlpikD9RD
+- 
+  year: Sep. 2025
+  summary: >
+    Der OV Goslar des DRK organisiert einen
+    Infoabend zum Thema Notfallvorsorge
+  image:
+    - file://r0d3Zf76aSqqRq9q
+- 
+  year: Sep. 2025
+  summary: >
+    Der erste Kommunale Präventionstag
+    findet auf dem Marktplatz in Goslar
+    statt. Und das MM!H ist mittendrin.
+  image:
+    - file://Yct0tjqN3hNA3iWX
+- 
+  year: Sep. 2025
+  summary: 'Die Minimesse des MachMit!Goslar - Wir fürs Klima Bündnisses lädt Grunschüler ins MM!H ein'
+  image:
+    - file://gSOXTE9WDaflC6mD
+- 
+  year: Sep. 2025
+  summary: >
+    Das Zukunftsfest findet auf dem
+    Jakobikirchhof als Kooperationsprojekt
+    mit dem LK Goslar statt.
+  image:
+    - file://J308j2qQYMOOHVQl
+- 
+  year: Okt. 2025
+  summary: >
+    Ab Oktober wird die Fassade des
+    MachMit!Hauses zur Baustelle. Fenster,
+    Türen und ein neuer Eingangsbereich.
+  image:
+    - file://3s1WruCuWetESaqi
+- 
+  year: Okt. 2025
+  summary: >
+    Der MachMit!Wald bekommt eine neue
+    Pflanzfläche am Bocksberg in Goslar. So
+    viele Patenschaften sind entstanden!
+  image:
+    - file://aRLFuUklqyN8Jxef
+- 
+  year: Okt. 2025
+  summary: >
+    Die Goslar App ist nun öffentlich
+    erhältlich, profitiert aber noch immer
+    von zahlreichem Feedback
+  image:
+    - file://pB9Eqz4CPkin5uqC
 
 ----
 
