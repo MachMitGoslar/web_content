@@ -105,6 +105,16 @@ Upcomming-dates:
 
 ----
 
+Timeline:
+
+- 
+  year: Jan. 2025
+  summary: 'Die #ChristmasChallenge geht mit 2.400 “ersportelten” Bäumen erfolgreich zu Ende'
+  image:
+    - file://KSZaWxmr4xNJiYX6
+
+----
+
 Review-entries:
 
 - 
