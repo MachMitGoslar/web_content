@@ -310,6 +310,14 @@ Timeline:
     MarioCart stehen auf dem Plan.
   image:
     - file://ek6GbmGpZOLLSjTD
+- 
+  year: Aug. 2025
+  summary: >
+    Für 3 Wochen eröffnen wir das
+    MachMit!Haus am Marktplatz in
+    Vienenburg.
+  image:
+    - file://47RNTjyTRJgLYOmw
 
 ----
 
