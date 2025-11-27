@@ -146,7 +146,7 @@ Review-entries:
   link: ""
   mailto: ""
 - 
-  layout: imageLeft
+  layout: imageRight
   headline: >
     Der MachMit!Wald die nächste
     Pflanzfläche ist da
