@@ -115,9 +115,22 @@ Review-entries:
     Gemeinsam mit der Behindertenbeauftragten Andrea Simon haben wir die  Arbeitsgruppe MachMit! Goslar Barrierefrei ins Leben gerufen.
     Jeden zweiten Montag  trifft sich die Arbeitsgruppe um einen Stadtplan zur Barrierefreiheit in Goslar zu entwickelt. Interessierte Teilnehmerinnen und Teilnehmer sind herzlich zur Mitarbeit eingelanden.
   image:
-    - file://mrYLP4SKwi7jA1gI
+    - file://gSOXTE9WDaflC6mD
   link: ""
   mailto: christian.warzecha@goslar.de
+- 
+  layout: imageRight
+  headline: 1. Kommunaler Präventionstag in Goslar
+  subheadline: ""
+  content_text: |
+    Beim Kommunalen Präventionstag am 20. September auf dem Goslarer Marktplatz standen Sicherheit und Gemeinschaft im Mittelpunkt. Über 30 Institutionen, Vereine und Organisationen präsentierten ihre Arbeit und zeigten praxisnah, wie Unfälle im Alltag vermeiden und im Ernstfall richtig reagiert werden kann. Rund 120 Aktive sorgten mit Information, Unterhaltung und Mitmachaktionen für ein abwechslungsreiches Programm.
+    Ein besonderes Highlight war die Live-Demonstration eines Rettungseinsatzes: Feuerwehr, DRK und Asklepios Klinik führten unter fachlicher Leitung vor, wie nach einem Unfall Personen aus einem Fahrzeug gerettet werden. Das war absolut praxisnah, realistisch und beeindruckend für alle Zuschauerinnen und Zuschauer. Auch das Thema Gewaltprävention wurde von unseren Kolleginnen aktiv eingebracht.
+    Organisiert haben wir den KPT gemeinden mit unserer Kollegin Frau Hammerl.
+    Besonders erfreulich: Es wurde fleißig gespendet und das Netzwerk zog ein rundum positives Fazit. Der Präventionstag zeigte eindrucksvoll, wie Engagement, Information und gelebte Gemeinschaft Menschen bewegen und wir hoffen, dass auch künftig viele Unterstützerinnen und Unterstützer dabei sein werden.
+  image:
+    - file://SNashXpV5N0isMSK
+  link: ""
+  mailto: ""
 
 ----
 
