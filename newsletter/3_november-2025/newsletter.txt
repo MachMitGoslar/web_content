@@ -318,6 +318,14 @@ Timeline:
     Vienenburg.
   image:
     - file://47RNTjyTRJgLYOmw
+- 
+  year: Aug. 2025
+  summary: >
+    Mit insgesamt 17 Ausstellern findet
+    Speed-Dating Ehrenamt findet in
+    Vienenburg auf dem Marktplatz statt.
+  image:
+    - file://lvLgwZ44Nm4zI8j4
 
 ----
 
