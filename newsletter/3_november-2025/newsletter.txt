@@ -236,6 +236,36 @@ Timeline:
     zahlreiche Gäste ins MMH
   image:
     - file://c9sL8qAdnmSiCdu7
+- 
+  year: Mai 2025
+  summary: >
+    Ein weiteres Warm-Data-Lab nimmt
+    Bürger:innen mit in die Gestaltung der
+    Goslar App
+  image:
+    - file://GJGRgD64MKldd4IC
+- 
+  year: Jun. 2025
+  summary: >
+    Die erste öffentliche Sprechestunde des
+    ADFC Goslar findet im MachMit!Haus statt
+  image:
+    - file://Fw6yndnYJCWKwGeL
+- 
+  year: Jun. 2025
+  summary: >
+    Im Rahmen der Patchworktage wird das
+    MM!H zum “Patch-Kids” Hauptquartier
+  image:
+    - file://RmIyY66OqldztCs8
+- 
+  year: Jun. 2025
+  summary: >
+    Welterbetag im Rammelsberg, natürlich
+    mit dem MachMit!Haus und dem
+    MachMit!Wald vor Ort.
+  image:
+    - file://RmIyY66OqldztCs8
 
 ----
 
