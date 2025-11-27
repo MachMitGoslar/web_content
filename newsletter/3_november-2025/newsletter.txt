@@ -252,6 +252,26 @@ Actual-entries:
     - file://yfsRg9S22wKmQ3Yg
   link: https://machmit.goslar.de/wasapp
   mailto: ""
+- 
+  layout: imageLeft
+  headline: Weihnachtliche Angebot im MachMit!Haus
+  subheadline: Es wird weihnachtlich!
+  content_text: |
+    Wir freuen uns jetzt schon auf die Weihnachtszeit mit euch! Diese Termine erwarten euch:
+    
+    01.12.2025 - Weihnachtsplätzchen und -schmuck zum Welt-AIDS-Tag
+    Von 16:30 - 18:00 Uhr gibt es Plätzchen, Schmuck und Infos zum Thema (präsentiert von der AIDS Hilfe Goslar sowie dem Pflegeschulzentrum Goslar)
+    
+    09.12.2025 - Lebkuchen-Basteln für Eltern und Kids
+    von 17:00 - 19:00 Uhr basteln wir gemeinsam Lebkuchen Häuschen
+    (präsentiert vom MachMit!Team, dem Verein Wunschliste e.V. und dem Gastro Urban)
+    
+    19.12.2025 - WEIHNACHTEN IM MACHMIT!HAUS
+    von 13:00 - 18:00 Uhr laden wir euch zur MachMit!Weihnachtsfeier ein. Fotobox, Weihnachtsmusik, Plätzchen backen und Jahresausstellung erwarten euch.
+  image:
+    - file://rEIK8rIVQVJSWn6o
+  link: ""
+  mailto: ""
 
 ----
 
