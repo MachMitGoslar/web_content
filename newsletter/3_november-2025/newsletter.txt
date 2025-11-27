@@ -160,6 +160,26 @@ Timeline:
     MachMit!Haus
   image:
     - file://k3X5Q4m93FDheTVe
+- 
+  year: Apr. 2025
+  summary: >
+    Das Format “Warm-Data-Lab” im KHK
+    bezieht Bürger:innen direkt in den
+    Dialog ein
+  image:
+    - file://d2mtqKXDrGu9ZPnf
+- 
+  year: Apr. 2025
+  summary: >
+    Gemeinsam mit der Jugendarbeit laden wir
+    Bürger:innen zum Kunstwettbewerb ein
+  image:
+    - file://aysvLLaBTAg7J50W
+- 
+  year: Apr. 2025
+  summary: 'Wir werden offizielle #Refill Station und teilen gern Getränke an unsere Besucher:innen aus'
+  image:
+    - file://9tntapPpZWSU5vl0
 
 ----
 
