@@ -241,6 +241,17 @@ Actual-entries:
     - file://IorsG3BN46P5nCcz
   link: ""
   mailto: ""
+- 
+  layout: imageRight
+  headline: GoslarAPP
+  subheadline: Wir sind auf den letzten Metern!
+  content_text: |
+    Erneut hat die Goslar App eine große Hürde genommen. Die aktuelle Fassung der App ist nun offiziell im AppStore (iOS) und im PlayStore (Android) zu bekommen. Künftig brauchen Applenutzer keine Testflightumgebung zum Nutzen der App.
+    Aber! Noch ist die App nicht perfekt. Wir freuen uns noch immer über eure Testberichte und Anregungen zur weiteren Entwicklung der App.
+  image:
+    - file://yfsRg9S22wKmQ3Yg
+  link: https://machmit.goslar.de/wasapp
+  mailto: ""
 
 ----
 
