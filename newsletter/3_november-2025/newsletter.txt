@@ -299,7 +299,21 @@ Upcoming-entries:
 
 ----
 
-News: 
+News:
+
+- 
+  layout: imageLeft
+  headline: Neues von der Baustelle
+  subheadline: Trotz Baustelle für euch da!
+  content_text: |
+    Viele von euch haben es bestimmt schon gesehen. Seit Anfang Oktober ist das MachMit!Haus im Umbau. Unsere Fassade und Fensterfront wird erneuert bzw. nach historischem Vorbild saniert.
+    Doch auch Bauarbeiten entmutigen uns nicht. Bisher sind alle Bauarbeiten im Zeitplan und schreiten gut voran.  Wir sind für euch gewohnt in unseren Öffnungszeiten
+    Mo. - Fr. 13:00 - 18:00 Uhr zu erreichen und auch alle Wochenangebote finden derzeit unverändert statt.
+    In den kommenden Tagen können wir dabei auch endlich wieder unseren Haupteingang herrichten auch wenn uns die Trennwand wohl noch bis ins nächste Jahr erhalten bleiben wird.
+  image:
+    - file://VVVpnMkZSyHtt2BN
+  link: ""
+  mailto: ""
 
 ----
 
