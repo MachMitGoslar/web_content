@@ -266,6 +266,11 @@ Timeline:
     MachMit!Wald vor Ort.
   image:
     - file://RmIyY66OqldztCs8
+- 
+  year: Jun. 2025
+  summary: 'Die Spontan- und Hochwasserhelfer packen verlässlich beim ersten Einsatz zum Waldbrand nahe Goslar mit an.'
+  image:
+    - file://29FgrSYiVy3zyczW
 
 ----
 
