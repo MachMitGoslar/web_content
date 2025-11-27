@@ -386,6 +386,30 @@ Timeline:
     von zahlreichem Feedback
   image:
     - file://pB9Eqz4CPkin5uqC
+- 
+  year: Nov. 2025
+  summary: >
+    Der Marketing Club Harz lädt im
+    MachMit!Haus zum Workshop “Content
+    Coaching für Social Media” ein
+  image:
+    - file://Xzj1UJPWr7kWVWKh
+- 
+  year: Nov. 2025
+  summary: >
+    Die WiReGo organsiert mit dem
+    MachMit!Haus den ersten Workshop zur
+    Gründung eines Reparaturrates
+  image:
+    - file://1w5d6dC7Spa4GdGu
+- 
+  year: Nov. 2025
+  summary: >
+    Der Walderlebnisspfad in Goslar wird
+    eröffnet und bekommt eine App aus dem
+    MachMit!Haus
+  image:
+    - file://cd9AfhdZfIt4YMB2
 
 ----
 
