@@ -172,6 +172,20 @@ Review-entries:
   link: >
     https://www.stadtforstgoslar.de/machmitwald
   mailto: ""
+- 
+  layout: imageLeft
+  headline: 'Das Ehrenamts-Speeddating '
+  subheadline: >
+    3 Wochen MM!H am Marktplatz in
+    Vienenburg
+  content_text: |
+    Deutliche kleiner als gedacht, aber trotzdem gelungen. Das MachMit!Haus, Freiwilligenagentur Goslar und das Netzwerk Vienenburger Vereine und Verände blicken trotz wenig Teilnehmenden auf eine schöne Veranstaltung am 30. August 2025 zurück.
+    Für viele der anwesenden Vereine und Verbände zählte dabei nicht nur die Möglichkeit sich interessierten Bürgerinnen und Bürgern zu präsentieren, sondern auch sich untereinander besser kennenzulernen.
+    Allen Anwesenden sagen wir Danke für die Mithilfe und das Kennenlernen.
+  image:
+    - file://QJgZPgGb40B02e7l
+  link: https://machmit.goslar.de/ehrenamt
+  mailto: ""
 
 ----
 
