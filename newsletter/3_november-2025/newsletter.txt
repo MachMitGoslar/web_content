@@ -120,6 +120,18 @@ Timeline:
     geworden. Der Platz wird weniger
   image:
     - file://f2aSoqSy8seV11Gj
+- 
+  year: Jan. 2025
+  summary: 'Vom 27. - 31. Januar findet die Mottowoche zu den Verkehrsgerichtstagen statt'
+  image:
+    - file://D7ZYJbiIGIxKLnSY
+- 
+  year: Feb. 2025
+  summary: >
+    Das Format “Digitalcafé” findet zum
+    ersten Mal im MachMit!Haus statt
+  image:
+    - file://1M6Cu0toemSCiLBZ
 
 ----
 
