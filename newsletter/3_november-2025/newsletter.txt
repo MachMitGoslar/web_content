@@ -132,6 +132,34 @@ Timeline:
     ersten Mal im MachMit!Haus statt
   image:
     - file://1M6Cu0toemSCiLBZ
+- 
+  year: Feb. 2025
+  summary: >
+    Gemeinsam entwickeln wir das
+    MachMit!Haus weiter. Konzepte entstehen
+    für mehr Attraktivität
+  image:
+    - file://YIlUchHrlkBoxn7q
+- 
+  year: Mrz. 2025
+  summary: >
+    Die Neorx-Community stellt Ideen für
+    eine nachhaltige Gesellschaft vor
+  image:
+    - file://SIPJufIrWNu82H7Q
+- 
+  year: Mrz. 2025
+  summary: '#EarthHour im MachMit!Haus mit mehr als 50 Teilnehmer:innen. Ein eigener Song und Kerzenlicht im MMH'
+  image:
+    - file://7tLVEkQZWSpHDCTq
+- 
+  year: Mrz. 2025
+  summary: >
+    Ein neues Ehrenamtformat “Die
+    MachMit!Hosts” entsteht im
+    MachMit!Haus
+  image:
+    - file://k3X5Q4m93FDheTVe
 
 ----
 
