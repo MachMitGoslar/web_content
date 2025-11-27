@@ -212,6 +212,30 @@ Timeline:
     vorgestellt.
   image:
     - file://8SDJgpDM5ZPrAja1
+- 
+  year: Mai 2025
+  summary: >
+    Auf dem Gartenmarkt in Goslar darf
+    natürlich der MachMit!Wald nicht
+    fehlen.
+  image:
+    - file://cvoZdwbMhE0eZZCo
+- 
+  year: Mai 2025
+  summary: >
+    Toleranz und Demokratie ziehen als
+    Ausstellung und Mottwoche im
+    MachMit!Haus ein
+  image:
+    - file://5COcjbzK6C7G1ho1
+- 
+  year: Mai 2025
+  summary: >
+    Das Format “MachMit!Brunch” mit
+    Santiago Ziesmer und Luke Wild zieht
+    zahlreiche Gäste ins MMH
+  image:
+    - file://c9sL8qAdnmSiCdu7
 
 ----
 
