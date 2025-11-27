@@ -410,6 +410,43 @@ Timeline:
     MachMit!Haus
   image:
     - file://cd9AfhdZfIt4YMB2
+- 
+  year: Nov. 2025
+  summary: >
+    Das Tierheim und das MachMit!Haus laden
+    gemeinsam zum Weihnachtsschuck basteln
+    ein
+  image:
+    - file://3nhznrqKJ32nkcRV
+- 
+  year: Nov. 2025
+  summary: 'MachMit!Hosts: Goslarer Junge Stimmen laden zum Pokemon-Turnier ins MachMit!Haus ein'
+  image:
+    - file://2TIA4qHKKZdiUnQp
+- 
+  year: Dez. 2025
+  summary: >
+    Am 9. Dezember findet erneut unsere
+    Lebkuchenhaus-Werkstatt für Familien
+    statt.
+  image:
+    - file://yfFXBxOnx8Xv8l0r
+- 
+  year: Dez. 2025
+  summary: >
+    Am 19. Dezember laden wir im Rahmen
+    unserer Öffnungszeiten herzlich zur
+    Weihnachtsfeier ein.
+  image:
+    - file://RKYH6RztjxK75O0S
+- 
+  year: Dez. 2025
+  summary: >
+    Am zweiten, dritten und vierten
+    Adventswochenende findet die
+    Weihnachtswerkstatt im MMH statt.
+  image:
+    - file://c3Bf6ZIpDyVt8EIV
 
 ----
 
