@@ -206,6 +206,41 @@ Actual-entries:
     - file://gAIsuAL3ykVvqI7H
   link: ""
   mailto: ""
+- 
+  layout: imageLeft
+  headline: >
+    Offline Café zum ersten Freitag im
+    September
+  subheadline: Was für eine Stimmung!
+  content_text: |
+    Lichterketten, gute Stimmung und Handys bleiben am Eingang. Karaman und Martin zeigten sich hoch erfreut über den großen Zuspruch des “Black Kaffee” zum ersten Freitag  im Septemeber. Zahlreiche Gäste folgten der Einladung und genossen einen Abend mit viel Zeit,  Kuchen und Kaffee und guten Gesprächen.
+    Eigens für den Termin hatten die beiden den Eingangsraum in ein romantisches Café verwandelt und luden alle interessierten Bürgerinnen und Bürger zum entspannten Abend ein. Das Rezept ist ganz einfach: Wer etwas mitbringen möcht, der bringt etwas mit; es wird viel geredet und Getränke gibts im Haus. Das Ergebniss: Das sollten wir öffter machen.
+  image:
+    - file://VVVpnMkZSyHtt2BN
+  link: ""
+  mailto: ""
+- 
+  layout: imageRight
+  headline: Geotour und Geocaching
+  subheadline: >
+    Geocaching-Szene arbeitet an 30
+    neuartigen Geocaches
+  content_text: 'Die Goslarer Geocaching Community arbeitet mit großen Erfolgen an der zukünftigen Geotour in und um Goslar. In den letzten Monat hat die ca. 30 Personen starke Community riesige Fortschritte in der Vorbereitung der künftigen Tour verzeichnet. Insgesamt entstehen 30 hochwertige Geocaches unter dem Tourtitel: “GeoTour Goslar - Irgendwas mit Kaiser, (H)erz und Wasser”. Dieser Augenzwinkernde Titel umfasst dabei die Themenpalette der für 5 Tage angelegten Tour: Die reichhaltige Stadtgeschichte, die Naturimpressionen rund um das Thema Wasser sowie die Geschichte des Erztagebaus im Harz. Und natürlich steht die Verbundenheit der Harzer zu ihrer Stadt im Vordergrund. Dafür sorgt gerade der eigens kreierte Botschafter “Adelhart”, hier im Bild zu sehen.'
+  image:
+    - file://NadOEWf5pXOtKYxY
+  link: ""
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: Mottowoche verschoben
+  subheadline: '„Nicht sichtbar, aber immer da“  über unsichtbare Behinderungen'
+  content_text: |
+    Die geplante Mottowoche konnte leider nicht im November stattfinden, aber sie ist nur verschoben. Im nächsten Jahr nähern wir uns dem Thema:
+    Viele Behinderungen sind auf den ersten Blick nicht erkennbar – und genau darauf möchten wir mit verschiedenen Aktionen hinweisen. Geplant sind unter anderem Gesprächsrunden sowie Frage-und-Antwort-Formate im MachMit!Haus. Wir halten euch auf dem Laufenden!
+  image:
+    - file://IorsG3BN46P5nCcz
+  link: ""
+  mailto: ""
 
 ----
 
