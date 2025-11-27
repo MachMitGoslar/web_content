@@ -272,6 +272,26 @@ Actual-entries:
     - file://rEIK8rIVQVJSWn6o
   link: ""
   mailto: ""
+- 
+  layout: imageRight
+  headline: 'Prototype: BetterGS'
+  subheadline: Nachhaltigkeit digital
+  content_text: |
+    Derzeit arbeiten wir an einem neuen digitalen Format. Wir möchten gern nachhaltiges Engagement digital tracken und würdigen können.
+    Das Klimanetzwerk “MachMit!Goslar - Wir fürs Klima” und die geplante Nachhaltigkeits-Challenge haben uns auf diese Idee gebracht. Die App gibt es bereits jetzt als testbaren Prototypen unter:
+  image:
+    - file://u8zfCuWQscwV9YQd
+  link: https://machmit.goslar.de/wasapp
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: Walderlebnisspfad Goslar
+  subheadline: und Fritzi begleitet euch nun
+  content_text: 'Am 18.11. wird der überarbeitete Walderlebnisspfad vorgestellt und wir haben etwas Besonderes für euch  vorbereitet. Künftig wird euch “Fritzi” als digitaler Companion auf dem Walderlebnisspfad begleiten. Ganz kurzfristig ist ein Prototyp für eine weitere Web-App entstanden. Das interaktive Quiz begleitet euch auf dem neuen Pfad.'
+  image:
+    - file://tDWZOJB4FwUKNaOC
+  link: https://wald.goslar.app
+  mailto: ""
 
 ----
 
