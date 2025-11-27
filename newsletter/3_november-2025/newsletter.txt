@@ -131,6 +131,20 @@ Review-entries:
     - file://SNashXpV5N0isMSK
   link: ""
   mailto: ""
+- 
+  layout: imageLeft
+  headline: >
+    ZUKUNFTSFEST
+    nachhaltig.miteinander.handeln
+  subheadline: ""
+  content_text: |
+    Beim Zukunftsfest auf dem Jakobikirchhof am 27. September war richtig viel los: Über 30 regionale Akteure präsentierten nachhaltige Ideen rund um Energie, Mobilität, Kreislaufwirtschaft und soziales Engagement.  Besonders gut kam das Stempelheft bei den Kindern an. Durch den "Ablaufplan" des Stempelheftes gab es an allen Ständen ein reges Treiben vom rätseln bis Basteln über Malen daher blieben viele Familien lange, um möglichst viele Stationen zu erkunden.
+    Auch aus unserem Netzwerk gab es positives Feedback: Man sagte, es sei ein sehr gut organisiertes Event gewesen. Das hören wir sehr gerne und können das Lob nur an alle ehrenamtlichen Standbetreiber zurückgeben. Einfach toll, was alles angeboten wurde! Auch die Premiere auf dem Jakobikirchhof war ein voller Erfolg, es entstand eine echte Markt‑Atmosphäre, bei der sich Jung und Alt über Klimaschutz und Zukunftsperspektiven austauschen konnten.
+    Das Zukunftsfest wird es auch in 2026 wieder geben, momentan suchen wir nach einem geeigneterem Zeitpunkt, ggf. etwas früher im Jahr. Wir halten euch auf dem Laufenden.
+  image:
+    - file://ctAvzppX1us7XU9c
+  link: ""
+  mailto: ""
 
 ----
 
