@@ -326,6 +326,14 @@ Timeline:
     Vienenburg auf dem Marktplatz statt.
   image:
     - file://lvLgwZ44Nm4zI8j4
+- 
+  year: Sep. 2025
+  summary: >
+    Zum ersten Freitag im September
+    organisieren Ehrenamtliche das erste
+    “Black Kaffe” im MachMit!Haus
+  image:
+    - file://rUjVQ9cxlpikD9RD
 
 ----
 
