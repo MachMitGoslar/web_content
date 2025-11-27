@@ -286,6 +286,14 @@ Timeline:
     Thermometer von Jugendlichen gebaut
   image:
     - file://sFlB7xfWRDqVFLrU
+- 
+  year: Jul. 2025
+  summary: >
+    Die Ausstellung “Verlassene Schuhe”
+    von Quasim Alsharqy zieht für zwei
+    Wochen im MM!H ein.
+  image:
+    - file://FIppp9pgp7XPcAZe
 
 ----
 
