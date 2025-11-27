@@ -103,10 +103,62 @@ Upcomming-dates:
   event_date_end: ""
   show_event_date: 'true'
 - 
-  event_name: Test
+  event_name: 'Weihnachtsschmuck mit Herz - Tierheim'
+  event_date: 2025-11-22
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: 'Pokémon Turnier - Goslars Junge Stimme'
+  event_date: 2025-11-23
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: >
+    Plätzchenverkauf und Infotermin AIDS
+    Hilfe Goslar
   event_date: 2025-12-01
   event_date_end: ""
   show_event_date: 'true'
+- 
+  event_name: Lebkuchenhaus-Werkstatt
+  event_date: 2025-12-09
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Öffentliche Weihnachtsfeier im MM!H
+  event_date: 2025-12-19
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Weihnachtslieder im MM!H
+  event_date: 2025-12-12
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: >
+    Mottowoche "Sicher im Verkehr" zum VGT
+    Goslar
+  event_date: 2025-01-26
+  event_date_end: 2025-01-30
+  show_event_date: 'true'
+- 
+  event_name: Seniorenvertretung Workshop Notrufe
+  event_date: 2025-01-21
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Goslar APP Release Party
+  event_date: 2025-02-10
+  event_date_end: ""
+  show_event_date: 'false'
+- 
+  event_name: >
+    Aktionswoche über unsichtbare
+    Behinderungen "Nicht sichbar, aber immer
+    da"
+  event_date: 2025-02-10
+  event_date_end: ""
+  show_event_date: 'false'
 
 ----
 
