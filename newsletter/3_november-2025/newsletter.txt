@@ -112,6 +112,14 @@ Timeline:
   summary: 'Die #ChristmasChallenge geht mit 2.400 “ersportelten” Bäumen erfolgreich zu Ende'
   image:
     - file://KSZaWxmr4xNJiYX6
+- 
+  year: Jan. 2025
+  summary: >
+    Der MachMit!Wald ist über die
+    Weihnachtsfeiertag merklich voll
+    geworden. Der Platz wird weniger
+  image:
+    - file://f2aSoqSy8seV11Gj
 
 ----
 
