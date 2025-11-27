@@ -294,6 +294,14 @@ Timeline:
     Wochen im MM!H ein.
   image:
     - file://FIppp9pgp7XPcAZe
+- 
+  year: Aug. 2025
+  summary: >
+    Die Geocaching-Szene trifft sich zum
+    ersten Mal im MachMit!Haus und startet
+    die Planungen zur GeoTour
+  image:
+    - file://2Bhpw5jxEnDryPcF
 
 ----
 
