@@ -196,6 +196,22 @@ Timeline:
     Umkleidekabine
   image:
     - file://s2rja2nNFzv4k25J
+- 
+  year: Apr. 2025
+  summary: >
+    Im MMH findet der Klimaworkshop der WvSG
+    Klima-AG statt. Für zwei Wochen bleibt
+    die Klimawage im Haus
+  image:
+    - file://rAVZ5VDaagelALQy
+- 
+  year: Mai 2025
+  summary: >
+    Die neue Liniennetzplanung der
+    Stadtbusse wird im MachMit!Haus
+    vorgestellt.
+  image:
+    - file://8SDJgpDM5ZPrAja1
 
 ----
 
