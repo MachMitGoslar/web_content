@@ -138,17 +138,17 @@ Upcomming-dates:
   event_name: >
     Mottowoche "Sicher im Verkehr" zum VGT
     Goslar
-  event_date: 2025-01-26
-  event_date_end: 2025-01-30
+  event_date: 2026-01-26
+  event_date_end: 2026-01-30
   show_event_date: 'true'
 - 
   event_name: Seniorenvertretung Workshop Notrufe
-  event_date: 2025-01-21
+  event_date: 2026-01-21
   event_date_end: ""
   show_event_date: 'true'
 - 
   event_name: Goslar APP Release Party
-  event_date: 2025-02-10
+  event_date: 2026-02-10
   event_date_end: ""
   show_event_date: 'false'
 - 
@@ -156,7 +156,7 @@ Upcomming-dates:
     Aktionswoche über unsichtbare
     Behinderungen "Nicht sichbar, aber immer
     da"
-  event_date: 2025-02-10
+  event_date: 2026-02-10
   event_date_end: ""
   show_event_date: 'false'
 
