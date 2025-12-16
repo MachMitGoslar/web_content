@@ -6,19 +6,23 @@ Cover:
 
 ----
 
-Headline: 
+Headline: asdfssssdsd
 
 ----
 
-Subheadline: 
+Subheadline: asdfasfsssssdsdssdf
+
+----
+
+Text: <h3 class="font-titleXL">Diese Seite zeigt alle verfügbaren Design-Systemkönn-Komponenten der MachMit!Haus Website. Hier en Entwickler und Designer alle implementierten Komponenten mit verschiedenen Variationen und Zuständen betrachten.sdfsdfsddss </h3>
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Design System Komponentenfefsd</p><p>Diese Sammlung zeigt alle verfügbaren UI-Komponenten unserer Website.</p><p>Buttons (gs-c-btn)</p><p>Verschiedene Button-Variationen aus unserem Design System:</p><p><a href=\"#\">Primary ButtonSecondary ButtonLarge PrimarySmall Secondary</a></p>"},"id":"intro-buttons","isHidden":false,"type":"text"}],"id":"col1","width":"1/1"}],"id":"layout1"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Projekt Teaser Cards</p><p>Darstellung von Projekt-Teasern:</p><p>Aktiv</p><p>Beispiel Projekt</p><p>Ein spannendes Community-Projekt für Goslarsdf</p><p><a href=\"#\">Zum Projekt</a></p><p>Geplant</p><p>Digital Café</p><p>Regelmäßige Tech-Talks im MachMit!Haus</p><p><a href=\"#\">Zum Projekt</a></p>"},"id":"project-cards","isHidden":false,"type":"text"}],"id":"col2","width":"1/1"}],"id":"layout2"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Events Liste</p><p>Darstellung von Event-Listen:</p><p>Weihnachtsfeier im MachMit!Haus</p><p>Gemeinsame Feier mit Glühwein, Plätzchen und gemütlichem Beisammensein. Alle sind herzlich willkommen!</p><p>📍 MachMit!Haus, Marktplatz 7</p><p>Coding Workshop für Jugendliche</p><p>Lerne die Grundlagen der Programmierung in entspannter Atmosphäre. Keine Vorkenntnisse erforderlich.</p><p>📍 MachMit!Haus, Computerraum</p>"},"id":"events","isHidden":false,"type":"text"}],"id":"col3","width":"1/1"}],"id":"layout3"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Typografie Showcase</p><p>Verschiedene Schriftarten und -größen unseres Design Systems:</p><p>Titel XXL (font-titleXXL)</p><p>Titel XL (font-titleXL)</p><p>Titel (font-title)</p><p>Headline (font-headline)</p><p>Subheadline (font-subheadline)</p><p>Body Text (font-body) - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><p>ddddd</p><p>Footnote (font-footnote) - Kleinere Texte für zusätzliche Informationen.</p><p>Status Badgesddd</p><p>AktivGeplantBeendetPausiert</p><p>TestButtonss</p><p>ssss asdfasf</p><p></p>"},"id":"typography","isHidden":false,"type":"text"}],"id":"col4","width":"1/1"}],"id":"layout4"},{"attrs":[],"columns":[{"blocks":[],"id":"d26155f4-67e6-4c5d-91e0-86d29a54d19c","width":"1/1"}],"id":"9be0d75c-fc69-4ef6-a4d5-038775ea2fad"},{"attrs":[],"columns":[{"blocks":[{"content":{"cardtype":"manual","page":[],"image":["file://0zw1kToRD41lCboP"],"headline":"sadfasdfsa#<br>afsdfasdf","subheadline":"sdfadaf","description_content":"","color":"primary"},"id":"5aef9d71-d7f0-45e7-9b05-0e4228a6ddda","isHidden":false,"type":"card"}],"id":"8565c71d-2f68-4767-afef-927da0fc7ea7","width":"1/1"}],"id":"924914fe-305b-4dd2-8b1b-ca9529b017f4"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"dsdfadsf"},"id":"49e13eea-1978-44e4-83e7-e1806a0657e1","isHidden":false,"type":"heading"}],"id":"52590c00-9854-47a5-b3b7-736b553ae405","width":"1/1"}],"id":"fc8f3b4e-07ad-4b3a-b313-f7f9055f0803"}]
 
 ----
 
 Url: 
-
-----
-
-Text: Diese Seite zeigt alle verfügbaren Design-System-Komponenten der MachMit!Haus Website. Hier können Entwickler und Designer alle implementierten Komponenten mit verschiedenen Variationen und Zuständen betrachten.
 
 ----
 
@@ -38,8 +42,8 @@ Target: false
 
 ----
 
-Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<h2>Design System Komponenten</h2><p>Diese Sammlung zeigt alle verfügbaren UI-Komponenten unserer Website.</p><h2>Buttons (gs-c-btn)</h2><p>Verschiedene Button-Variationen aus unserem Design System:</p><div><a href=\"#\" class=\"gs-c-btn\" data-type=\"primary\" data-size=\"regular\" data-style=\"pill\">Primary Button</a><a href=\"#\" class=\"gs-c-btn\" data-type=\"secondary\" data-size=\"regular\" data-style=\"pill\">Secondary Button</a><a href=\"#\" class=\"gs-c-btn\" data-type=\"primary\" data-size=\"large\" data-style=\"pill\">Large Primary</a><a href=\"#\" class=\"gs-c-btn\" data-type=\"secondary\" data-size=\"small\" data-style=\"pill\">Small Secondary</a></div>"},"id":"intro-buttons","isHidden":false,"type":"text"}],"id":"col1","width":"1/1"}],"id":"layout1"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<h2>Projekt Teaser Cards</h2><p>Darstellung von Projekt-Teasern:</p><div class=\"project-showcase\"><ul><li class=\"c-projectTeaserCard\"><div></div><div class=\"content\"><div class=\"statusheader\"><span class=\"status-badge\">Aktiv</span></div><h3 class=\"font-headline\">Beispiel Projekt</h3><p class=\"font-footnote mb-3\">Ein spannendes Community-Projekt für Goslar</p><a href=\"#\" class=\"gs-c-btn\" data-type=\"secondary\" data-size=\"regular\" data-style=\"pill\">Zum Projekt</a></div></li><li class=\"c-projectTeaserCard\"><div></div><div class=\"content\"><div class=\"statusheader\"><span class=\"status-badge\">Geplant</span></div><h3 class=\"font-headline\">Digital Café</h3><p class=\"font-footnote mb-3\">Regelmäßige Tech-Talks im MachMit!Haus</p><a href=\"#\" class=\"gs-c-btn\" data-type=\"secondary\" data-size=\"regular\" data-style=\"pill\">Zum Projekt</a></div></li></ul></div>"},"id":"project-cards","isHidden":false,"type":"text"}],"id":"col2","width":"1/1"}],"id":"layout2"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Events Liste</p><p>Darstellung von Event-Listen:</p><p>Weihnachtsfeier im MachMit!Haus</p><p>Gemeinsame Feier mit Glühwein, Plätzchen und gemütlichem Beisammensein. Alle sind herzlich willkommen!</p><p>📍 MachMit!Haus, Marktplatz 7</p><p>Coding Workshop für Jugendliche</p><p>Lerne die Grundlagen der Programmierung in entspannter Atmosphäre. Keine Vorkenntnisse erforderlich.</p><p>📍 MachMit!Haus, Computerraum</p>"},"id":"events","isHidden":false,"type":"text"}],"id":"col3","width":"1/1"}],"id":"layout3"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Typografie Showcase</p><p>Verschiedene Schriftarten und -größen unseres Design Systems:</p><p>Titel XXL (font-titleXXL)</p><p>Titel XL (font-titleXL)</p><p>Titel (font-title)</p><p>Headline (font-headline)</p><p>Subheadline (font-subheadline)</p><p>Body Text (font-body) - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><p>ddddd</p><p>Footnote (font-footnote) - Kleinere Texte für zusätzliche Informationen.</p><p>Status Badgesddd</p><p>AktivGeplantBeendetPausiert</p><p>(button: Button Text url: /path type: primary)</p><p></p>"},"id":"typography","isHidden":false,"type":"text"}],"id":"col4","width":"1/1"}],"id":"layout4"}]
+Uuid: ComponentShowcase123
 
 ----
 
-Uuid: ComponentShowcase123
+Button: sasfdfasd ssadfsdfa  qfqwfasdfasd
