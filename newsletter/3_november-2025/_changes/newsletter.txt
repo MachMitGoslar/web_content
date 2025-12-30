@@ -2,7 +2,7 @@ Title: November 2025
 
 ----
 
-Cover: - file://yfsRg9S22wKmQ3Yg
+Cover: - file://q11MPxi8KxHQ5117
 
 ----
 
@@ -758,4 +758,4 @@ Uuid: KuYRhZkhoQ3WOKdw
 
 ----
 
-Lock: x2SXIhMM
+Lock: 9jz5v1SG
