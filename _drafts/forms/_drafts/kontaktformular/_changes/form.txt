@@ -6,11 +6,11 @@ Actions: [{"content":{"sendto":{"type":"static","value":"machmit@goslar.de"},"re
 
 ----
 
-Successmessage: 
+Successmessage: <p>Vielen Dank für deine Nachricht. Das MachMit!Team wurde darüber informatiert. In der Regel bekommst du eine Rückmeldung innerhalb der nächste 72 Stunden. Sollten wir bis dahin nicht geantwortet haben freuen wir uns über eine kurze Rückmeldung.</p>
 
 ----
 
-Continueonerror: false
+Continueonerror: true
 
 ----
 
