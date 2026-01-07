@@ -32,6 +32,24 @@ Navigation:
 
 ----
 
+Roles:
+
+- 
+  role: staff
+  name: Hauptamt
+  description: Hauptamt
+- 
+  role: volunteer
+  name: Ehrenamt
+- 
+  role: contractor
+  name: Auftraggeber
+- 
+  role: coop
+  name: Kooperationspartner
+
+----
+
 Staff: - page://Cw3N87jTU3LFBVvj
 
 ----
