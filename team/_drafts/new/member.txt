@@ -1,16 +1,16 @@
-Title: Christina
+Title: New
 
 ----
 
-Cover: - file://xD6ZVTElXyBCwuLr
+Cover: 
 
 ----
 
-Name: Christina Kraus
+Name: New
 
 ----
 
-Description: Test
+Description: 
 
 ----
 
@@ -30,7 +30,7 @@ Address:
 
 ----
 
-Teams: staff, volunteer
+Teams: volunteer
 
 ----
 
@@ -62,4 +62,4 @@ Tags:
 
 ----
 
-Uuid: KCqFP3i3xe1WcgIM
+Uuid: uxvbklu0klysmf84

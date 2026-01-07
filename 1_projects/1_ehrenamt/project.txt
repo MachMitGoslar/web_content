@@ -18,11 +18,14 @@ Project-status: in Vorbereitung
 
 ----
 
-Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Ehrenamt ist wie eine gute Beziehung: <strong>Alles sollte passen!</strong> Und weil sich auch das Ehrenamt im Laufe der Jahre geändert hat, braucht es neue Formen zusammenzufinden. Was würde da besser passen als ein Speed-Dating?</p><p>Am 30. August 2025 stellten sich Vereine, Verbände und Einrichtungen Ehrenamtlichen einmal ganz persönlich vor; in diesem Jahr unter dem freien, sommerlichen Himmel auf dem Marktplatz in Vienenburg.</p><p>Derzeit suchen wir Einrichtungen, Vereine und Verbände die auf der Suche nach ehrenamtlich tätigen sind. Bis zu 25 Stellplätze werden dabei von uns vergeben.</p>"},"id":"942653a3-681c-4761-a704-444aca4f9300","isHidden":false,"type":"text"}],"id":"e7400671-7fc5-4fc9-8f91-5746e4609242","width":"1/1"}],"id":"264a6f4e-e799-4543-a02f-4baf54ba2720"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Präsentiert von:"},"id":"f15513c9-bc5e-4047-898d-5dba5e3f5114","isHidden":false,"type":"heading"}],"id":"6f33a9a0-9aed-4272-9561-b44d6d6c6273","width":"1/1"}],"id":"a242caf9-82c0-466e-ba3e-c8e2a7b9f457"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://NBjBSlDMyitLafHk","file://mfDhv7fCDP7HlFfj","file://ExJUIcaBJPbr3hnK"],"caption":"","ratio":"","crop":"false"},"id":"90fa3dcd-6700-4a04-a8d5-a3d1bbe8662a","isHidden":false,"type":"gallery"}],"id":"5452ac0b-24c5-4014-b35a-b22f2a01c4ea","width":"1/1"}],"id":"02a658c4-149e-4c33-a3ab-efbf6d3db87e"}]
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Ehrenamt ist wie eine gute Beziehung: <strong>Alles sollte passen!</strong> Und weil sich auch das Ehrenamt im Laufe der Jahre geändert hat, braucht es neue Formen zusammenzufinden. Was würde da besser passen als ein Speed-Dating!</p><p>Am 30. August 2025 stellten sich Vereine, Verbände und Einrichtungen Ehrenamtlichen einmal ganz persönlich vor; in diesem Jahr unter dem freien, sommerlichen Himmel auf dem Marktplatz in Vienenburg.</p><p>Derzeit suchen wir Einrichtungen, Vereine und Verbände die auf der Suche nach ehrenamtlich tätigen sind. Bis zu 25 Stellplätze werden dabei von uns vergeben</p>"},"id":"942653a3-681c-4761-a704-444aca4f9300","isHidden":false,"type":"text"}],"id":"e7400671-7fc5-4fc9-8f91-5746e4609242","width":"1/1"}],"id":"264a6f4e-e799-4543-a02f-4baf54ba2720"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Präsentiert von:"},"id":"f15513c9-bc5e-4047-898d-5dba5e3f5114","isHidden":false,"type":"heading"}],"id":"6f33a9a0-9aed-4272-9561-b44d6d6c6273","width":"1/1"}],"id":"a242caf9-82c0-466e-ba3e-c8e2a7b9f457"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://NBjBSlDMyitLafHk","file://mfDhv7fCDP7HlFfj","file://ExJUIcaBJPbr3hnK"],"caption":"","ratio":"","crop":"false"},"id":"90fa3dcd-6700-4a04-a8d5-a3d1bbe8662a","isHidden":false,"type":"gallery"}],"id":"5452ac0b-24c5-4014-b35a-b22f2a01c4ea","width":"1/1"}],"id":"02a658c4-149e-4c33-a3ab-efbf6d3db87e"}]
 
 ----
 
-Team: 
+Team:
+
+- page://Cw3N87jTU3LFBVvj
+- page://KCqFP3i3xe1WcgIM
 
 ----
 

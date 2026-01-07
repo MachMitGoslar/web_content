@@ -42,7 +42,7 @@ Address: Charley-Jacob-Str. 3, 38640 Goslar
 
 ----
 
-Teams: Auftraggeber
+Teams: issuer
 
 ----
 
