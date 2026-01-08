@@ -55,8 +55,8 @@ Whitelist:
 
 - 
   label: Mac Laptio
-  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
-  ip: 172.19.0.4
+  uuid: ""
+  ip: ""
   approved_at: ""
   approved_by: ""
 - 
@@ -71,7 +71,7 @@ Whitelist:
 Pending-requests:
 
 - 
-  uuid: ""
+  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
   ip: 172.19.0.4
   requested_at: 2026-01-08 17:00:00
   user_agent: >
