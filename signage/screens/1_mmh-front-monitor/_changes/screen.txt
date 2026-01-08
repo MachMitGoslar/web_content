@@ -37,7 +37,7 @@ Active-times:
 
 ----
 
-Standby-mode: logo
+Standby-mode: custom
 
 ----
 
