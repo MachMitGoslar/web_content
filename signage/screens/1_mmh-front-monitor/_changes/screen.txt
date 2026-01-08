@@ -71,7 +71,7 @@ Whitelist:
 Pending-requests:
 
 - 
-  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
+  uuid: ""
   ip: 172.19.0.4
   requested_at: 2026-01-08 17:00:00
   user_agent: >
@@ -85,13 +85,13 @@ Uuid: vn7iv51tozpdvnkc
 
 ----
 
-Lock: 9jz5v1SG
-
-----
-
 Pending-requests-list:
 
 - 
   uuid: ""
   ip: ""
   requested_at: ""
+
+----
+
+Lock: 9jz5v1SG
