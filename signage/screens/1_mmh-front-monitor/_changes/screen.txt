@@ -55,7 +55,7 @@ Whitelist:
 
 - 
   label: Mac Laptio
-  uuid: ""
+  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
   ip: ""
   approved_at: ""
   approved_by: ""
