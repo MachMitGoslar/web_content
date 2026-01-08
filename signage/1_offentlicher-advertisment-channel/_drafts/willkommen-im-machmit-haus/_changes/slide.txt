@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Blocks: [{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4b7588dd-1633-49ee-8065-a072a2f7dc81","isHidden":false,"type":"image"}]
+Blocks: [{"content":{"location":"kirby","image":["file://zud0pkcidsethpps"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4b7588dd-1633-49ee-8065-a072a2f7dc81","isHidden":false,"type":"image"}]
 
 ----
 
