@@ -55,7 +55,16 @@ Whitelist:
 
 ----
 
-Pending-requests: 
+Pending-requests:
+
+- 
+  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
+  ip: 172.19.0.4
+  user_agent: >
+    Mozilla/5.0 (Macintosh; Intel Mac OS X
+    10.15; rv:146.0) Gecko/20100101
+    Firefox/146.0
+  requested_at: 2026-01-08 17:00:00
 
 ----
 
