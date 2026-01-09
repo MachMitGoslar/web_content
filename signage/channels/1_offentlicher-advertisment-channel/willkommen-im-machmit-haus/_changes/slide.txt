@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"text":"<p>Test!</p>"},"id":"f078594a-6f71-434c-a8a4-cc3152a53d27","isHidden":false,"type":"text"}],"id":"866f9986-1b95-47c4-bf46-7e066e142aab","width":"1/1"}],"id":"0d8e8cfc-0eeb-462f-810b-2c0dd8696e86"}]
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"level":"h2","text":"Test"},"id":"2c5ab30d-8dc9-4c59-bf93-a2631caf76a3","isHidden":false,"type":"heading"}],"id":"f0f827e4-f5b2-4874-bd82-8732583528da","width":"1/1"}],"id":"3895366f-6bee-44a7-abef-d0a6972e7f3c"}]
 
 ----
 
