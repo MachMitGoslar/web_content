@@ -50,11 +50,11 @@ Calendar-layout: list
 
 ----
 
-Calendar-range: week
+Calendar-range: month
 
 ----
 
-Calendar-max-events: 5
+Calendar-max-events: 7
 
 ----
 
