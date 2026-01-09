@@ -102,7 +102,7 @@ Overlay-color: #ff8300
 
 ----
 
-Overlay-opacity: 30
+Overlay-opacity: 40
 
 ----
 
