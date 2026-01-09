@@ -66,6 +66,10 @@ Duration-override: 15
 
 ----
 
+Content-position: bottom
+
+----
+
 Transition: fade
 
 ----
