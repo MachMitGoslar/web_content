@@ -90,7 +90,7 @@ Bg-position: center
 
 ----
 
-Bg-size: cover
+Bg-size: contain
 
 ----
 
