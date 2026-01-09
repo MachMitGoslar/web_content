@@ -58,11 +58,11 @@ Calendar-max-events: 5
 
 ----
 
-Duration-mode: auto
+Duration-mode: manual
 
 ----
 
-Duration-override: 15
+Duration-override: 3
 
 ----
 
