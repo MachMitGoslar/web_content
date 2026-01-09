@@ -46,7 +46,7 @@ Calendar-pages:
 
 ----
 
-Calendar-layout: list
+Calendar-layout: agenda
 
 ----
 
