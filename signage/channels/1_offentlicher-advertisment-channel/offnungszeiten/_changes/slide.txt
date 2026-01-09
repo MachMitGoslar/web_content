@@ -2,7 +2,7 @@ Title: Öffnungszeiten
 
 ----
 
-Slide-type: blocks
+Slide-type: calendar
 
 ----
 
