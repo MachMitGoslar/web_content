@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: [{"attrs":{"vertical_align":"start","padding":"medium"},"columns":[{"blocks":[{"content":{"level":"h2","text":"Öffnungszeiten"},"id":"b696642c-c981-4888-9c9c-8fbab82f51d6","isHidden":false,"type":"heading"},{"content":{"text":"<h4 class=\"font-title\">sadf asdefas dflayöksdfasödlfkasdölfasö fas dföla sjdkfösadjföklsadjf asdf sdöfl aksdöfa sdöfa sdfa dsfasdfasd fasfsadfas df</h4>"},"id":"b9e65b0c-0ef4-4f02-9d89-c8b72f6799fa","isHidden":false,"type":"text"}],"id":"0d51aafd-bf55-4e51-b431-3c58cb2aabe9","width":"1/1"}],"id":"98f2cd29-e1cb-4f19-89f9-d8ac632e51af"}]
+Content-layout: [{"attrs":{"vertical_align":"start","padding":"medium"},"columns":[{"blocks":[{"content":{"level":"h2","text":"Öffnungszeiten"},"id":"b696642c-c981-4888-9c9c-8fbab82f51d6","isHidden":false,"type":"heading"},{"content":{"text":"<h2 class=\"font-titleXXL\">sadf asdefas dflayöksdfasödlfkasdölfasö fas dföla sjdkfösadjföklsadjf asdf sdöfl aksdöfa sdöfa sdfa dsfasdfasd fasfsadfas df</h2>"},"id":"b9e65b0c-0ef4-4f02-9d89-c8b72f6799fa","isHidden":false,"type":"text"}],"id":"0d51aafd-bf55-4e51-b431-3c58cb2aabe9","width":"1/1"}],"id":"98f2cd29-e1cb-4f19-89f9-d8ac632e51af"}]
 
 ----
 
@@ -66,7 +66,7 @@ Duration-override: 15
 
 ----
 
-Content-position: right
+Content-position: 
 
 ----
 
