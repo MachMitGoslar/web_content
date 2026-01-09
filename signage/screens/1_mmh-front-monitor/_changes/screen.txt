@@ -18,7 +18,13 @@ Assigned-channel: signage/channels/offentlicher-advertisment-channel
 
 ----
 
-Channel-schedule: 
+Channel-schedule:
+
+- 
+  channel: >
+    signage/channels/offentlicher-advertisment-channel
+  time_start: 00:00:00
+  time_end: 23:00:00
 
 ----
 
