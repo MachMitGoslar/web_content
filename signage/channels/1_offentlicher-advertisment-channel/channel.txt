@@ -2,7 +2,7 @@ Title: Öffentlicher Advertisment Channel2
 
 ----
 
-Slug: adv-channel-mmh
+Channel-id: adv-channel-mmh
 
 ----
 
