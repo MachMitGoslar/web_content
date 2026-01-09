@@ -78,7 +78,7 @@ Bg-type: image
 
 ----
 
-Bg-image: 
+Bg-image: - file://dke15ky08etr9doq
 
 ----
 
@@ -98,11 +98,11 @@ Overlay-enabled: true
 
 ----
 
-Overlay-color: #000000
+Overlay-color: #ffffff
 
 ----
 
-Overlay-opacity: 40
+Overlay-opacity: 20
 
 ----
 

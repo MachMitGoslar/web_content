@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: 
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"level":"h2","text":"Öffnungszeiten"},"id":"b696642c-c981-4888-9c9c-8fbab82f51d6","isHidden":false,"type":"heading"}],"id":"0d51aafd-bf55-4e51-b431-3c58cb2aabe9","width":"1/1"}],"id":"98f2cd29-e1cb-4f19-89f9-d8ac632e51af"}]
 
 ----
 
@@ -74,11 +74,11 @@ Transition-duration: 1
 
 ----
 
-Bg-type: none
+Bg-type: image
 
 ----
 
-Bg-image: 
+Bg-image: - file://dke15ky08etr9doq
 
 ----
 
@@ -98,11 +98,11 @@ Overlay-enabled: true
 
 ----
 
-Overlay-color: #000000
+Overlay-color: #ffffff
 
 ----
 
-Overlay-opacity: 40
+Overlay-opacity: 20
 
 ----
 
