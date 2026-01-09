@@ -6,7 +6,7 @@ Slug: mmh-entrance
 
 ----
 
-Orientation: vertical
+Orientation: horizontal
 
 ----
 
