@@ -10,7 +10,7 @@ Description: Allgemeiner Vorstellungskanal des MachMit!Hauses
 
 ----
 
-Background-color: #720000
+Background-color: #ffffff
 
 ----
 
