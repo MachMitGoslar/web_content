@@ -49,7 +49,7 @@ Standby-image:
 
 ----
 
-Standby-message: 
+Standby-message: Hello
 
 ----
 
