@@ -20,8 +20,8 @@ Requester-organization:
 
 Requested-rooms:
 
-rooms/empfangsraum
-rooms/kuche
+- page://qr1vpvbb05ih0ytg
+- page://ummiwoghmw7xnh67
 
 ----
 
@@ -29,15 +29,15 @@ Request-date: 2026-01-16
 
 ----
 
-Request-time-start: 15:00
+Request-time-start: 15:00:00
 
 ----
 
-Request-time-end: 17:00
+Request-time-end: 17:00:00
 
 ----
 
-Is-recurring: 0
+Is-recurring: false
 
 ----
 
@@ -69,11 +69,11 @@ Denial-reason:
 
 ----
 
-Processed-at: 
+Processed-at: 2026-01-12 23:15:00
 
 ----
 
-Processed-by: 
+Processed-by: - user://9jz5v1SG
 
 ----
 
@@ -81,7 +81,7 @@ Calendar-event-added: false
 
 ----
 
-Created-at: 2026-01-12 23:13:56
+Created-at: 2026-01-12 23:15:00
 
 ----
 
