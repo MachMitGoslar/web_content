@@ -6,7 +6,7 @@ Cover:
 
 ----
 
-Short-description: 
+Short-description: Die Küche
 
 ----
 
@@ -14,7 +14,7 @@ Description:
 
 ----
 
-Gallery: 
+Gallery: - file://vmiszpe4nuw7nrdp
 
 ----
 
@@ -22,15 +22,15 @@ Virtual-tour-url:
 
 ----
 
-Capacity: 
+Capacity: 10
 
 ----
 
-Area: 
+Area: 15
 
 ----
 
-Floor: eg
+Floor: og1
 
 ----
 
