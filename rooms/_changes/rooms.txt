@@ -51,3 +51,7 @@ Notification-enabled: true
 ----
 
 Uuid: rooms
+
+----
+
+Lock: 9jz5v1SG
