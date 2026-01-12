@@ -1,0 +1,93 @@
+Title: Empfangsraum
+
+----
+
+Cover: 
+
+----
+
+Short-description: 
+
+----
+
+Description: 
+
+----
+
+Gallery: 
+
+----
+
+Virtual-tour-url: 
+
+----
+
+Capacity: 50
+
+----
+
+Area: 
+
+----
+
+Floor: eg
+
+----
+
+Accessible: false
+
+----
+
+Equipment: 
+
+----
+
+Pricing-enabled: false
+
+----
+
+Hourly-rate: 
+
+----
+
+Half-day-rate: 
+
+----
+
+Full-day-rate: 
+
+----
+
+Pricing-notes: 
+
+----
+
+Nonprofit-discount: false
+
+----
+
+Nonprofit-discount-percent: 
+
+----
+
+Google-calendar-id: 
+
+----
+
+Ical-url: 
+
+----
+
+Calendar-embed-url: 
+
+----
+
+Show-calendar: true
+
+----
+
+Uuid: qr1vpvbb05ih0ytg
+
+----
+
+Lock: 9jz5v1SG
