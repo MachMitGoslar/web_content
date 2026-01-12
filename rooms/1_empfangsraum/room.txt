@@ -6,15 +6,15 @@ Cover: - file://cla124ctzitv4yfw
 
 ----
 
-Short-description: 
+Short-description: Der Empfangsraum mit direkter Sicht auf den Marktplatz
 
 ----
 
-Description: 
+Description: [{"content":{"text":""},"id":"75442d2d-770d-4c4f-88ef-209cc81f354a","isHidden":false,"type":"text"}]
 
 ----
 
-Gallery: 
+Gallery: - file://cla124ctzitv4yfw
 
 ----
 
