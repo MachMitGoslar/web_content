@@ -1,0 +1,96 @@
+Title: Maritn - 16.01.2026
+
+----
+
+Requester-name: Maritn
+
+----
+
+Requester-email: stuff@stuffdev.de
+
+----
+
+Requester-phone: 
+
+----
+
+Requester-organization: 
+
+----
+
+Requested-rooms:
+
+rooms/empfangsraum
+rooms/kuche
+
+----
+
+Request-date: 2026-01-16
+
+----
+
+Request-time-start: 15:00
+
+----
+
+Request-time-end: 17:00
+
+----
+
+Is-recurring: 0
+
+----
+
+Recurrence-pattern: weekly
+
+----
+
+Recurrence-end-date: 
+
+----
+
+Expected-attendees: 15
+
+----
+
+Purpose: sadfasdf
+
+----
+
+Special-requirements: sadfadf
+
+----
+
+Admin-notes: 
+
+----
+
+Denial-reason: 
+
+----
+
+Processed-at: 
+
+----
+
+Processed-by: 
+
+----
+
+Calendar-event-added: false
+
+----
+
+Created-at: 2026-01-12 21:58:36
+
+----
+
+Ip-address: 
+
+----
+
+User-agent: PostmanRuntime/7.40.0
+
+----
+
+Uuid: metj0ndiqxot44jk
