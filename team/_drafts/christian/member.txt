@@ -2,7 +2,7 @@ Title: Christian
 
 ----
 
-Cover: 
+Cover: - file://s9rlpajusqfxyjfw
 
 ----
 
@@ -10,7 +10,7 @@ Name: Christian
 
 ----
 
-Description: 
+Description: Der Christian
 
 ----
 
