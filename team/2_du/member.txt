@@ -10,7 +10,7 @@ Name: Christina Kraus
 
 ----
 
-Description: 
+Description: Test
 
 ----
 
@@ -26,7 +26,35 @@ Phone:
 
 ----
 
-Teams: Hauptamt
+Address: 
+
+----
+
+Teams: staff, volunteer
+
+----
+
+Facebook: 
+
+----
+
+Instagram: 
+
+----
+
+X: 
+
+----
+
+Linkedin: 
+
+----
+
+Github: 
+
+----
+
+Youtube: 
 
 ----
 

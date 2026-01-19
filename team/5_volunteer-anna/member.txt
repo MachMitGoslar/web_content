@@ -1,0 +1,69 @@
+Title: Anna
+
+----
+
+Cover: 
+
+----
+
+Name: Anna Müller
+
+----
+
+Description: Anna unterstützt das MachMit!Haus ehrenamtlich bei der Organisation von Veranstaltungen und der Betreuung von Projekten. Als Goslarerin liegt ihr die Förderung der Bürgerbeteiligung besonders am Herzen.
+
+----
+
+Role: Ehrenamtliche Projektbetreuung
+
+----
+
+Email: 
+
+----
+
+Phone: 
+
+----
+
+Address: 
+
+----
+
+Teams: volunteer
+
+----
+
+Facebook: 
+
+----
+
+Instagram: 
+
+----
+
+X: 
+
+----
+
+Linkedin: 
+
+----
+
+Github: 
+
+----
+
+Youtube: 
+
+----
+
+Tags: 
+
+----
+
+Web: 
+
+----
+
+Uuid: V0lunt33rAnna2025

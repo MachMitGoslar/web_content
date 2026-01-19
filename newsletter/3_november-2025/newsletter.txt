@@ -1,0 +1,757 @@
+Title: November 2025
+
+----
+
+Cover: - file://u8zfCuWQscwV9YQd
+
+----
+
+Published: 2025-11-01
+
+----
+
+Author: - page://Cw3N87jTU3LFBVvj
+
+----
+
+Greeting-text:
+
+Der Weihnachtsmarkt vor dem MachMit!Haus hat gerade eröffnet, die ersten Schneeflocken fliegen in der Luft. Der Winter naht mit großen Schritten - die beste Zeit, auf das zurückliegende Jahr zurückzuschauen. 
+Einmal ganz ungewohnt übernehme ich heute die Rolle als Vertretungs-Autor unseres Newsletters und darf euch ein paar Eindrücke aus dem letzten Jahr sowie einen Ausblick auf die restlichen Tage des Jahres 2025 geben. 
+Seit dem letzten Newsletter haben uns drei zentrale Veranstaltungen beschäftigt: Das Ehrenamt-Speed-Dating in Vienenburg, der erste Kommunale Präventionstag sowie das Zukunftsfest als neues Kooperationsprojekt mit dem Landkreis Goslar. 
+Aber auch neben den großen Projekten ist viel im MachMit!Haus in Bewegung. Wer in den letzten Wochen über den Marktplatz gelaufen ist, konnte unsere Renovierungsarbeiten an den Fenstern und dem Eingangsbereich entdecken. Hier entsteht etwas Neues und Schönes, was aber auch Zeit braucht und uns für eine gewisse Zeit nicht so sichtbar macht wie gewohnt.
+Im Rückblick auf das Jahr 2025 ist aber so viel mehr entstanden. Zwei Mottowochen und zahlreiche neue Veranstaltungsformate haben das Haus sprichwörtlich leben lassen. Kaum ein Tag vergeht, an dem im MachMit!Haus nicht fleißig gearbeitet, connected, geplant oder gelacht wird. Zahlreiche Stammgäste, Ehrenamtliche, Gruppen und Projekte sind aus dem alltäglichen Ablauf des Hauses nicht mehr wegzudenken. Nun aber wie gewohnt der Blick in den Newsletter...
+
+----
+
+Weekly-dates:
+
+- 
+  day: monday
+  start_time: 15:00:00
+  end_time: 17:00:00
+  activity: Schachschnupper-kurs
+  recurring: wöchentlich
+- 
+  day: monday
+  start_time: 15:00:00
+  end_time: 17:00:00
+  activity: 'BastelMit! - Kreatives Basteln'
+  recurring: wöchentlich
+- 
+  day: monday
+  start_time: 16:30:00
+  end_time: ""
+  activity: MachMit! Goslar Barrierefrei
+  recurring: jeden 2. und 4. Montag
+- 
+  day: tuesday
+  start_time: 18:00:00
+  end_time: 20:00:00
+  activity: SpielMit!Goslar
+  recurring: jeden 1. Dienstag
+- 
+  day: wednesday
+  start_time: 13:00:00
+  end_time: 18:00:00
+  activity: Steuerungsgruppe Jugendarbeit
+  recurring: wöchentlich
+- 
+  day: wednesday
+  start_time: 17:00:00
+  end_time: 19:00:00
+  activity: 'Coding & Making 4 Goslar'
+  recurring: wöchentlich
+- 
+  day: wednesday
+  start_time: 19:00:00
+  end_time: 22:00:00
+  activity: 'Coding & Making 4 Goslar'
+  recurring: wöchentlich
+- 
+  day: thursday
+  start_time: 15:00:00
+  end_time: ""
+  activity: >
+    Sprechstunde Sanierung östliche
+    Altstadt
+  recurring: zweiwöchentlich
+- 
+  day: thursday
+  start_time: 15:00:00
+  end_time: 17:00:00
+  activity: int. Sprachcafé für Frauen
+  recurring: wöchentlich
+- 
+  day: thursday
+  start_time: 16:00:00
+  end_time: 18:00:00
+  activity: ADFC Goslar
+  recurring: jeden 3. Donnerstag
+- 
+  day: thursday
+  start_time: 18:00:00
+  end_time: 21:00:00
+  activity: 'Goslar App #Dev Talk'
+  recurring: wöchentlich
+- 
+  day: friday
+  start_time: 19:30:00
+  end_time: ""
+  activity: Zwischen den Welten
+  recurring: monatlich
+
+----
+
+Upcomming-dates:
+
+- 
+  event_name: Regionalversammlung ADFC
+  event_date: 2025-11-29
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: 'Weihnachtsschmuck mit Herz - Tierheim'
+  event_date: 2025-11-22
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: 'Pokémon Turnier - Goslars Junge Stimme'
+  event_date: 2025-11-23
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: >
+    Plätzchenverkauf und Infotermin AIDS
+    Hilfe Goslar
+  event_date: 2025-12-01
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Lebkuchenhaus-Werkstatt
+  event_date: 2025-12-09
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Öffentliche Weihnachtsfeier im MM!H
+  event_date: 2025-12-19
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Weihnachtslieder im MM!H
+  event_date: 2025-12-12
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: >
+    Mottowoche "Sicher im Verkehr" zum VGT
+    Goslar
+  event_date: 2026-01-26
+  event_date_end: 2026-01-30
+  show_event_date: 'true'
+- 
+  event_name: Seniorenvertretung Workshop Notrufe
+  event_date: 2026-01-21
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Goslar APP Release Party
+  event_date: 2026-02-10
+  event_date_end: ""
+  show_event_date: 'false'
+- 
+  event_name: >
+    Aktionswoche über unsichtbare
+    Behinderungen "Nicht sichbar, aber immer
+    da"
+  event_date: 2026-02-10
+  event_date_end: ""
+  show_event_date: 'false'
+
+----
+
+Timeline:
+
+- 
+  year: Jan. 2025
+  summary: 'Die #ChristmasChallenge geht mit 2.400 “ersportelten” Bäumen erfolgreich zu Ende'
+  image:
+    - file://KSZaWxmr4xNJiYX6
+- 
+  year: Jan. 2025
+  summary: >
+    Der MachMit!Wald ist über die
+    Weihnachtsfeiertag merklich voll
+    geworden. Der Platz wird weniger
+  image:
+    - file://f2aSoqSy8seV11Gj
+- 
+  year: Jan. 2025
+  summary: 'Vom 27. - 31. Januar findet die Mottowoche zu den Verkehrsgerichtstagen statt'
+  image:
+    - file://D7ZYJbiIGIxKLnSY
+- 
+  year: Feb. 2025
+  summary: >
+    Das Format “Digitalcafé” findet zum
+    ersten Mal im MachMit!Haus statt
+  image:
+    - file://1M6Cu0toemSCiLBZ
+- 
+  year: Feb. 2025
+  summary: >
+    Gemeinsam entwickeln wir das
+    MachMit!Haus weiter. Konzepte entstehen
+    für mehr Attraktivität
+  image:
+    - file://YIlUchHrlkBoxn7q
+- 
+  year: Mrz. 2025
+  summary: >
+    Die Neorx-Community stellt Ideen für
+    eine nachhaltige Gesellschaft vor
+  image:
+    - file://SIPJufIrWNu82H7Q
+- 
+  year: Mrz. 2025
+  summary: '#EarthHour im MachMit!Haus mit mehr als 50 Teilnehmer:innen. Ein eigener Song und Kerzenlicht im MMH'
+  image:
+    - file://7tLVEkQZWSpHDCTq
+- 
+  year: Mrz. 2025
+  summary: >
+    Ein neues Ehrenamtformat “Die
+    MachMit!Hosts” entsteht im
+    MachMit!Haus
+  image:
+    - file://k3X5Q4m93FDheTVe
+- 
+  year: Apr. 2025
+  summary: >
+    Das Format “Warm-Data-Lab” im KHK
+    bezieht Bürger:innen direkt in den
+    Dialog ein
+  image:
+    - file://d2mtqKXDrGu9ZPnf
+- 
+  year: Apr. 2025
+  summary: >
+    Gemeinsam mit der Jugendarbeit laden wir
+    Bürger:innen zum Kunstwettbewerb ein
+  image:
+    - file://aysvLLaBTAg7J50W
+- 
+  year: Apr. 2025
+  summary: 'Wir werden offizielle #Refill Station und teilen gern Getränke an unsere Besucher:innen aus'
+  image:
+    - file://9tntapPpZWSU5vl0
+- 
+  year: Apr. 2025
+  summary: >
+    Der neue Kreisverband des ADFC gründet
+    sich. Ein Projekt was im MM!H sein
+    Ursprung fand.
+  image:
+    - file://2XtQuU3HmEXQcFAK
+- 
+  year: Apr. 2025
+  summary: >
+    Zum Altstadtlauf wird das MM!H zum
+    Sportstudio, Rennleitung und
+    Umkleidekabine
+  image:
+    - file://s2rja2nNFzv4k25J
+- 
+  year: Apr. 2025
+  summary: >
+    Im MMH findet der Klimaworkshop der WvSG
+    Klima-AG statt. Für zwei Wochen bleibt
+    die Klimawage im Haus
+  image:
+    - file://rAVZ5VDaagelALQy
+- 
+  year: Mai 2025
+  summary: >
+    Die neue Liniennetzplanung der
+    Stadtbusse wird im MachMit!Haus
+    vorgestellt.
+  image:
+    - file://8SDJgpDM5ZPrAja1
+- 
+  year: Mai 2025
+  summary: >
+    Auf dem Gartenmarkt in Goslar darf
+    natürlich der MachMit!Wald nicht
+    fehlen.
+  image:
+    - file://cvoZdwbMhE0eZZCo
+- 
+  year: Mai 2025
+  summary: >
+    Toleranz und Demokratie ziehen als
+    Ausstellung und Mottwoche im
+    MachMit!Haus ein
+  image:
+    - file://5COcjbzK6C7G1ho1
+- 
+  year: Mai 2025
+  summary: >
+    Das Format “MachMit!Brunch” mit
+    Santiago Ziesmer und Luke Wild zieht
+    zahlreiche Gäste ins MMH
+  image:
+    - file://c9sL8qAdnmSiCdu7
+- 
+  year: Mai 2025
+  summary: >
+    Ein weiteres Warm-Data-Lab nimmt
+    Bürger:innen mit in die Gestaltung der
+    Goslar App
+  image:
+    - file://GJGRgD64MKldd4IC
+- 
+  year: Jun. 2025
+  summary: >
+    Die erste öffentliche Sprechestunde des
+    ADFC Goslar findet im MachMit!Haus statt
+  image:
+    - file://Fw6yndnYJCWKwGeL
+- 
+  year: Jun. 2025
+  summary: >
+    Im Rahmen der Patchworktage wird das
+    MM!H zum “Patch-Kids” Hauptquartier
+  image:
+    - file://RmIyY66OqldztCs8
+- 
+  year: Jun. 2025
+  summary: >
+    Welterbetag im Rammelsberg, natürlich
+    mit dem MachMit!Haus und dem
+    MachMit!Wald vor Ort.
+  image:
+    - file://RmIyY66OqldztCs8
+- 
+  year: Jun. 2025
+  summary: 'Die Spontan- und Hochwasserhelfer packen verlässlich beim ersten Einsatz zum Waldbrand nahe Goslar mit an.'
+  image:
+    - file://29FgrSYiVy3zyczW
+- 
+  year: Jun. 2025
+  summary: >
+    Zum “ersten Freitag” im Juli
+    verwandelt sich das MM!H mit der Tombola
+    in einen Karibischen Traum
+  image:
+    - file://spNtuVYspx40ryG2
+- 
+  year: Jul. 2025
+  summary: >
+    Im Rahmen des Ferienpasses werden Smarte
+    Thermometer von Jugendlichen gebaut
+  image:
+    - file://sFlB7xfWRDqVFLrU
+- 
+  year: Jul. 2025
+  summary: >
+    Die Ausstellung “Verlassene Schuhe”
+    von Quasim Alsharqy zieht für zwei
+    Wochen im MM!H ein.
+  image:
+    - file://FIppp9pgp7XPcAZe
+- 
+  year: Aug. 2025
+  summary: >
+    Die Geocaching-Szene trifft sich zum
+    ersten Mal im MachMit!Haus und startet
+    die Planungen zur GeoTour
+  image:
+    - file://2Bhpw5jxEnDryPcF
+- 
+  year: Aug. 2025
+  summary: >
+    Der Gaming Day für Jugendliche findet
+    im MachMit!Haus statt. Minecraft und
+    MarioCart stehen auf dem Plan.
+  image:
+    - file://ek6GbmGpZOLLSjTD
+- 
+  year: Aug. 2025
+  summary: >
+    Für 3 Wochen eröffnen wir das
+    MachMit!Haus am Marktplatz in
+    Vienenburg.
+  image:
+    - file://47RNTjyTRJgLYOmw
+- 
+  year: Aug. 2025
+  summary: >
+    Mit insgesamt 17 Ausstellern findet
+    Speed-Dating Ehrenamt findet in
+    Vienenburg auf dem Marktplatz statt.
+  image:
+    - file://lvLgwZ44Nm4zI8j4
+- 
+  year: Sep. 2025
+  summary: >
+    Zum ersten Freitag im September
+    organisieren Ehrenamtliche das erste
+    “Black Kaffe” im MachMit!Haus
+  image:
+    - file://rUjVQ9cxlpikD9RD
+- 
+  year: Sep. 2025
+  summary: >
+    Der OV Goslar des DRK organisiert einen
+    Infoabend zum Thema Notfallvorsorge
+  image:
+    - file://r0d3Zf76aSqqRq9q
+- 
+  year: Sep. 2025
+  summary: >
+    Der erste Kommunale Präventionstag
+    findet auf dem Marktplatz in Goslar
+    statt. Und das MM!H ist mittendrin.
+  image:
+    - file://Yct0tjqN3hNA3iWX
+- 
+  year: Sep. 2025
+  summary: 'Die Minimesse des MachMit!Goslar - Wir fürs Klima Bündnisses lädt Grunschüler ins MM!H ein'
+  image:
+    - file://gSOXTE9WDaflC6mD
+- 
+  year: Sep. 2025
+  summary: >
+    Das Zukunftsfest findet auf dem
+    Jakobikirchhof als Kooperationsprojekt
+    mit dem LK Goslar statt.
+  image:
+    - file://J308j2qQYMOOHVQl
+- 
+  year: Okt. 2025
+  summary: >
+    Ab Oktober wird die Fassade des
+    MachMit!Hauses zur Baustelle. Fenster,
+    Türen und ein neuer Eingangsbereich.
+  image:
+    - file://3s1WruCuWetESaqi
+- 
+  year: Okt. 2025
+  summary: >
+    Der MachMit!Wald bekommt eine neue
+    Pflanzfläche am Bocksberg in Goslar. So
+    viele Patenschaften sind entstanden!
+  image:
+    - file://aRLFuUklqyN8Jxef
+- 
+  year: Okt. 2025
+  summary: >
+    Die Goslar App ist nun öffentlich
+    erhältlich, profitiert aber noch immer
+    von zahlreichem Feedback
+  image:
+    - file://pB9Eqz4CPkin5uqC
+- 
+  year: Nov. 2025
+  summary: >
+    Der Marketing Club Harz lädt im
+    MachMit!Haus zum Workshop “Content
+    Coaching für Social Media” ein
+  image:
+    - file://Xzj1UJPWr7kWVWKh
+- 
+  year: Nov. 2025
+  summary: >
+    Die WiReGo organsiert mit dem
+    MachMit!Haus den ersten Workshop zur
+    Gründung eines Reparaturrates
+  image:
+    - file://1w5d6dC7Spa4GdGu
+- 
+  year: Nov. 2025
+  summary: >
+    Der Walderlebnisspfad in Goslar wird
+    eröffnet und bekommt eine App aus dem
+    MachMit!Haus
+  image:
+    - file://cd9AfhdZfIt4YMB2
+- 
+  year: Nov. 2025
+  summary: >
+    Das Tierheim und das MachMit!Haus laden
+    gemeinsam zum Weihnachtsschuck basteln
+    ein
+  image:
+    - file://3nhznrqKJ32nkcRV
+- 
+  year: Nov. 2025
+  summary: 'MachMit!Hosts: Goslarer Junge Stimmen laden zum Pokemon-Turnier ins MachMit!Haus ein'
+  image:
+    - file://2TIA4qHKKZdiUnQp
+- 
+  year: Dez. 2025
+  summary: >
+    Am 9. Dezember findet erneut unsere
+    Lebkuchenhaus-Werkstatt für Familien
+    statt.
+  image:
+    - file://yfFXBxOnx8Xv8l0r
+- 
+  year: Dez. 2025
+  summary: >
+    Am 19. Dezember laden wir im Rahmen
+    unserer Öffnungszeiten herzlich zur
+    Weihnachtsfeier ein.
+  image:
+    - file://RKYH6RztjxK75O0S
+- 
+  year: Dez. 2025
+  summary: >
+    Am zweiten, dritten und vierten
+    Adventswochenende findet die
+    Weihnachtswerkstatt im MMH statt.
+  image:
+    - file://c3Bf6ZIpDyVt8EIV
+
+----
+
+Review-entries:
+
+- 
+  layout: imageLeft
+  headline: 'MachMit! Goslar Barrierefrei '
+  subheadline: ist in der Umsetzung
+  content_text: |
+    Gemeinsam mit der Behindertenbeauftragten Andrea Simon haben wir die  Arbeitsgruppe MachMit! Goslar Barrierefrei ins Leben gerufen.
+    Jeden zweiten Montag  trifft sich die Arbeitsgruppe um einen Stadtplan zur Barrierefreiheit in Goslar zu entwickelt. Interessierte Teilnehmerinnen und Teilnehmer sind herzlich zur Mitarbeit eingelanden.
+  image:
+    - file://gSOXTE9WDaflC6mD
+  link: ""
+  mailto: christian.warzecha@goslar.de
+- 
+  layout: imageRight
+  headline: 1. Kommunaler Präventionstag in Goslar
+  subheadline: ""
+  content_text: |
+    Beim Kommunalen Präventionstag am 20. September auf dem Goslarer Marktplatz standen Sicherheit und Gemeinschaft im Mittelpunkt. Über 30 Institutionen, Vereine und Organisationen präsentierten ihre Arbeit und zeigten praxisnah, wie Unfälle im Alltag vermeiden und im Ernstfall richtig reagiert werden kann. Rund 120 Aktive sorgten mit Information, Unterhaltung und Mitmachaktionen für ein abwechslungsreiches Programm.
+    Ein besonderes Highlight war die Live-Demonstration eines Rettungseinsatzes: Feuerwehr, DRK und Asklepios Klinik führten unter fachlicher Leitung vor, wie nach einem Unfall Personen aus einem Fahrzeug gerettet werden. Das war absolut praxisnah, realistisch und beeindruckend für alle Zuschauerinnen und Zuschauer. Auch das Thema Gewaltprävention wurde von unseren Kolleginnen aktiv eingebracht.
+    Organisiert haben wir den KPT gemeinden mit unserer Kollegin Frau Hammerl.
+    Besonders erfreulich: Es wurde fleißig gespendet und das Netzwerk zog ein rundum positives Fazit. Der Präventionstag zeigte eindrucksvoll, wie Engagement, Information und gelebte Gemeinschaft Menschen bewegen und wir hoffen, dass auch künftig viele Unterstützerinnen und Unterstützer dabei sein werden.
+  image:
+    - file://SNashXpV5N0isMSK
+  link: ""
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: >
+    ZUKUNFTSFEST
+    nachhaltig.miteinander.handeln
+  subheadline: ""
+  content_text: |
+    Beim Zukunftsfest auf dem Jakobikirchhof am 27. September war richtig viel los: Über 30 regionale Akteure präsentierten nachhaltige Ideen rund um Energie, Mobilität, Kreislaufwirtschaft und soziales Engagement.  Besonders gut kam das Stempelheft bei den Kindern an. Durch den "Ablaufplan" des Stempelheftes gab es an allen Ständen ein reges Treiben vom rätseln bis Basteln über Malen daher blieben viele Familien lange, um möglichst viele Stationen zu erkunden.
+    Auch aus unserem Netzwerk gab es positives Feedback: Man sagte, es sei ein sehr gut organisiertes Event gewesen. Das hören wir sehr gerne und können das Lob nur an alle ehrenamtlichen Standbetreiber zurückgeben. Einfach toll, was alles angeboten wurde! Auch die Premiere auf dem Jakobikirchhof war ein voller Erfolg, es entstand eine echte Markt‑Atmosphäre, bei der sich Jung und Alt über Klimaschutz und Zukunftsperspektiven austauschen konnten.
+    Das Zukunftsfest wird es auch in 2026 wieder geben, momentan suchen wir nach einem geeigneterem Zeitpunkt, ggf. etwas früher im Jahr. Wir halten euch auf dem Laufenden.
+  image:
+    - file://ctAvzppX1us7XU9c
+  link: ""
+  mailto: ""
+- 
+  layout: imageRight
+  headline: >
+    Der MachMit!Wald die nächste
+    Pflanzfläche ist da
+  subheadline: >
+    gute Nachrichten für zukünftige
+    Baumpatenschaften
+  content_text: >
+    Der MachMit!Wald ist ein Erfolgsprojekt
+    wie kaum ein anderes in Goslar. In
+    diesem Jahr ist es gelungen die
+    Pflanzfläche am Steinberg vollkommen
+    auszulasten. Zahlreiche kreative bunte
+    Tafeln zeugen davon und warten darauf
+    bei einem Spaziergang am Steinberg
+    entdeckt zu werden. Durch tatkräftige
+    Unterstützung ist nun eine weitere
+    Pflanzfläche am Bocksberg eröffnet
+    wurden. Noch mehr Platz für nachhaltige
+    Pflanzungen und zukünftige
+    Baumpatenschaften!
+  image:
+    - file://69vE4yw2c86wK2gJ
+  link: >
+    https://www.stadtforstgoslar.de/machmitwald
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: 'Das Ehrenamts-Speeddating '
+  subheadline: >
+    3 Wochen MM!H am Marktplatz in
+    Vienenburg
+  content_text: |
+    Deutliche kleiner als gedacht, aber trotzdem gelungen. Das MachMit!Haus, Freiwilligenagentur Goslar und das Netzwerk Vienenburger Vereine und Verände blicken trotz wenig Teilnehmenden auf eine schöne Veranstaltung am 30. August 2025 zurück.
+    Für viele der anwesenden Vereine und Verbände zählte dabei nicht nur die Möglichkeit sich interessierten Bürgerinnen und Bürgern zu präsentieren, sondern auch sich untereinander besser kennenzulernen.
+    Allen Anwesenden sagen wir Danke für die Mithilfe und das Kennenlernen.
+  image:
+    - file://QJgZPgGb40B02e7l
+  link: https://machmit.goslar.de/ehrenamt
+  mailto: ""
+
+----
+
+Actual-entries:
+
+- 
+  layout: imageLeft
+  headline: >
+    Weihnachtsschmuck mit Herz
+    BastelMit!Workshop
+  subheadline: 'Die Spenden gehen zu 100% an das Tierheim Goslar,  kommt vorbei vom 01.12. bis 23.12. und macht mit.'
+  content_text: |
+    am 22. November, fand im MachMit!Haus unser Workshop „Weihnachtsbaumschmuck mit Herz“ 💚 statt. Viele engagierte Kinder haben mit viel Freude und Kreativität individuellen Weihnachtsschmuck 🎄✨ gestaltet - für den guten Zweck 🐱 Ein großes Dankeschön an alle kleinen Helferinnen und Helfer.
+    Ab dem 1. Dezember kann der gebastelte Weihnachtsschmuck 🎁 im MachMit!Haus gegen eine Spende erworben werden.
+    Der gesamte Erlös geht am 24. Dezember als tierisches Weihnachtsgeschenk an das Tierheim Goslar 🐶🐱.
+    Wir freuen uns sehr solche Aktionen unterstützen zu können
+  image:
+    - file://gAIsuAL3ykVvqI7H
+  link: ""
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: >
+    Offline Café zum ersten Freitag im
+    September
+  subheadline: Was für eine Stimmung!
+  content_text: |
+    Lichterketten, gute Stimmung und Handys bleiben am Eingang. Karaman und Martin zeigten sich hoch erfreut über den großen Zuspruch des “Black Kaffee” zum ersten Freitag  im Septemeber. Zahlreiche Gäste folgten der Einladung und genossen einen Abend mit viel Zeit,  Kuchen und Kaffee und guten Gesprächen.
+    Eigens für den Termin hatten die beiden den Eingangsraum in ein romantisches Café verwandelt und luden alle interessierten Bürgerinnen und Bürger zum entspannten Abend ein. Das Rezept ist ganz einfach: Wer etwas mitbringen möcht, der bringt etwas mit; es wird viel geredet und Getränke gibts im Haus. Das Ergebniss: Das sollten wir öffter machen.
+  image:
+    - file://VVVpnMkZSyHtt2BN
+  link: ""
+  mailto: ""
+- 
+  layout: imageRight
+  headline: Geotour und Geocaching
+  subheadline: >
+    Geocaching-Szene arbeitet an 30
+    neuartigen Geocaches
+  content_text: 'Die Goslarer Geocaching Community arbeitet mit großen Erfolgen an der zukünftigen Geotour in und um Goslar. In den letzten Monat hat die ca. 30 Personen starke Community riesige Fortschritte in der Vorbereitung der künftigen Tour verzeichnet. Insgesamt entstehen 30 hochwertige Geocaches unter dem Tourtitel: “GeoTour Goslar - Irgendwas mit Kaiser, (H)erz und Wasser”. Dieser Augenzwinkernde Titel umfasst dabei die Themenpalette der für 5 Tage angelegten Tour: Die reichhaltige Stadtgeschichte, die Naturimpressionen rund um das Thema Wasser sowie die Geschichte des Erztagebaus im Harz. Und natürlich steht die Verbundenheit der Harzer zu ihrer Stadt im Vordergrund. Dafür sorgt gerade der eigens kreierte Botschafter “Adelhart”, hier im Bild zu sehen.'
+  image:
+    - file://NadOEWf5pXOtKYxY
+  link: ""
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: Mottowoche verschoben
+  subheadline: '„Nicht sichtbar, aber immer da“  über unsichtbare Behinderungen'
+  content_text: |
+    Die geplante Mottowoche konnte leider nicht im November stattfinden, aber sie ist nur verschoben. Im nächsten Jahr nähern wir uns dem Thema:
+    Viele Behinderungen sind auf den ersten Blick nicht erkennbar – und genau darauf möchten wir mit verschiedenen Aktionen hinweisen. Geplant sind unter anderem Gesprächsrunden sowie Frage-und-Antwort-Formate im MachMit!Haus. Wir halten euch auf dem Laufenden!
+  image:
+    - file://IorsG3BN46P5nCcz
+  link: ""
+  mailto: ""
+- 
+  layout: imageRight
+  headline: GoslarAPP
+  subheadline: Wir sind auf den letzten Metern!
+  content_text: |
+    Erneut hat die Goslar App eine große Hürde genommen. Die aktuelle Fassung der App ist nun offiziell im AppStore (iOS) und im PlayStore (Android) zu bekommen. Künftig brauchen Applenutzer keine Testflightumgebung zum Nutzen der App.
+    Aber! Noch ist die App nicht perfekt. Wir freuen uns noch immer über eure Testberichte und Anregungen zur weiteren Entwicklung der App.
+  image:
+    - file://yfsRg9S22wKmQ3Yg
+  link: https://machmit.goslar.de/wasapp
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: Weihnachtliche Angebot im MachMit!Haus
+  subheadline: Es wird weihnachtlich!
+  content_text: |
+    Wir freuen uns jetzt schon auf die Weihnachtszeit mit euch! Diese Termine erwarten euch:
+    
+    01.12.2025 - Weihnachtsplätzchen und -schmuck zum Welt-AIDS-Tag
+    Von 16:30 - 18:00 Uhr gibt es Plätzchen, Schmuck und Infos zum Thema (präsentiert von der AIDS Hilfe Goslar sowie dem Pflegeschulzentrum Goslar)
+    
+    09.12.2025 - Lebkuchen-Basteln für Eltern und Kids
+    von 17:00 - 19:00 Uhr basteln wir gemeinsam Lebkuchen Häuschen
+    (präsentiert vom MachMit!Team, dem Verein Wunschliste e.V. und dem Gastro Urban)
+    
+    19.12.2025 - WEIHNACHTEN IM MACHMIT!HAUS
+    von 13:00 - 18:00 Uhr laden wir euch zur MachMit!Weihnachtsfeier ein. Fotobox, Weihnachtsmusik, Plätzchen backen und Jahresausstellung erwarten euch.
+  image:
+    - file://rEIK8rIVQVJSWn6o
+  link: ""
+  mailto: ""
+- 
+  layout: imageRight
+  headline: 'Prototype: BetterGS'
+  subheadline: Nachhaltigkeit digital
+  content_text: |
+    Derzeit arbeiten wir an einem neuen digitalen Format. Wir möchten gern nachhaltiges Engagement digital tracken und würdigen können.
+    Das Klimanetzwerk “MachMit!Goslar - Wir fürs Klima” und die geplante Nachhaltigkeits-Challenge haben uns auf diese Idee gebracht. Die App gibt es bereits jetzt als testbaren Prototypen unter:
+  image:
+    - file://u8zfCuWQscwV9YQd
+  link: https://machmit.goslar.de/wasapp
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: Walderlebnisspfad Goslar
+  subheadline: und Fritzi begleitet euch nun
+  content_text: 'Am 18.11. wird der überarbeitete Walderlebnisspfad vorgestellt und wir haben etwas Besonderes für euch  vorbereitet. Künftig wird euch “Fritzi” als digitaler Companion auf dem Walderlebnisspfad begleiten. Ganz kurzfristig ist ein Prototyp für eine weitere Web-App entstanden. Das interaktive Quiz begleitet euch auf dem neuen Pfad.'
+  image:
+    - file://tDWZOJB4FwUKNaOC
+  link: https://wald.goslar.app
+  mailto: ""
+
+----
+
+Upcoming-entries: 
+
+----
+
+News:
+
+- 
+  layout: imageLeft
+  headline: Neues von der Baustelle
+  subheadline: Trotz Baustelle für euch da!
+  content_text: |
+    Viele von euch haben es bestimmt schon gesehen. Seit Anfang Oktober ist das MachMit!Haus im Umbau. Unsere Fassade und Fensterfront wird erneuert bzw. nach historischem Vorbild saniert.
+    Doch auch Bauarbeiten entmutigen uns nicht. Bisher sind alle Bauarbeiten im Zeitplan und schreiten gut voran.  Wir sind für euch gewohnt in unseren Öffnungszeiten
+    Mo. - Fr. 13:00 - 18:00 Uhr zu erreichen und auch alle Wochenangebote finden derzeit unverändert statt.
+    In den kommenden Tagen können wir dabei auch endlich wieder unseren Haupteingang herrichten auch wenn uns die Trennwand wohl noch bis ins nächste Jahr erhalten bleiben wird.
+  image:
+    - file://VVVpnMkZSyHtt2BN
+  link: ""
+  mailto: ""
+
+----
+
+Closingsinfos:
+
+Ihr könnt uns gerne auch auf Instagram folgen unter dem Account: (link: https://instagram.com/machmitgoslar text: @machmitgoslar)
+Außerdem findet ihr weitere Informationen zu unseren Veranstaltungen unter
+(link: https://machmit.goslar.de text: machmit.goslar.de)
+Wir möchten euch auch auf die offene Veranstaltungsdatenbank
+Oveda aufmerksam machen, mit der ihr euch unter (link: https://www.oveda.de/eventdates text: www.oveda.de/eventdates) über Veranstaltungen in Goslar informieren und sogar selbst Veranstaltungen für eure Organisationen dort einstellen könnt.
+
+
+Euer Martin
+
+----
+
+Blogentries:
+
+- 
+  _id: 1d698080-0863-463d-9b64-ea5fdd0e2da9
+  headline: null
+  subheadline: null
+  content_text: ""
+  image: [ ]
+  link: null
+  mailto: null
+  layout: imageLeft
+
+----
+
+Uuid: KuYRhZkhoQ3WOKdw
