@@ -14,7 +14,7 @@ Subheadline: Brunchen mit Spongebob und Luke Wild
 
 ----
 
-Project-status: in Auswertung
+Project-status: abgeschlossen
 
 ----
 

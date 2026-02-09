@@ -1,0 +1,276 @@
+Title: MachMit!Wald
+
+----
+
+Cover: - file://f17cd83a66
+
+----
+
+Headline: MachMit!Wald
+
+----
+
+Subheadline: #Christmas Challenge
+
+----
+
+Project-status: abgeschlossen
+
+----
+
+Text:
+
+[
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "text": "<p>Wir freuen uns, euch ein ganz besonderes Projekt als weihnachtliches Special unseres MachMit!Waldes vorzustellen: die „MachMit!Wald – ChristmasChallenge“. In Kooperation mit Summitree, der innovativen Bewegungs-App, laden wir euch ganz herzlich dazu ein, aktiv an der Wiederaufforstung unseres Stadtwaldes mitzuwirken. Lasst uns gemeinsam etwas Großartiges schaffen! Was beinhaltet die Challenge? In der Adventszeit habt ihr die Chance, durch eure Bewegung Punkte zu sammeln, die in Baumsetzlinge für unseren lokalen Stadtforst umgewandelt werden. Jeder Schritt zählt! Ob beim Joggen, Radfahren oder im Training – über 40 verschiedene Sportarten können in der Sumitree-App getrackt werden. Jede Aktivität bringt uns dem Ziel näher, unseren Stadtwald zu beleben und zu bereichern.</p>"
+                  },
+                  "id": "942653a3-681c-4761-a704-444aca4f9300",
+                  "isHidden": false,
+                  "type": "text"
+                },
+                {
+                  "content": {
+                    "text": "<p>Live aus der Challenge</p>",
+                    "level": "h2"
+                  },
+                  "id": "text",
+                  "isHidden": false,
+                  "type": "heading"
+                }
+              ],
+              "id": "e7400671-7fc5-4fc9-8f91-5746e4609242",
+              "width": "1/1"
+            }
+          ],
+          "id": "264a6f4e-e799-4543-a02f-4baf54ba2720"
+        },
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "width": "1/1",
+              "id": "col-iframe-01",
+              "blocks": [
+                {
+                  "type": "text",
+                  "id": "iframe-live-challenge",
+                  "isHidden": false,
+                  "content": {
+                    "text": "<iframe src=\"https://summitree-fair.web.app/ctModeCouuEB4dC54C7t\" width=\"100%\" height=\"600\" style=\"border:0;\" loading=\"lazy\" referrerpolicy=\"no-referrer\"></iframe>"
+                  }
+                }
+              ]
+            }
+          ],
+          "id": "row-iframe-01"
+        },
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "width": "1/2",
+              "id": "col-text-01",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "id": "text-header",
+                  "isHidden": false,
+                  "content": {
+                    "level": "h2",
+                    "text": "So machst du mit!"
+                  }
+                },
+                {
+                  "type": "card",
+                  "id": "card-04",
+                  "isHidden": false,
+                  "content": {
+                    "cardtype": "manual",
+                    "page": [],
+                    "image": [],
+                    "headline": "",
+                    "subheadline": "",
+                    "description_content": "[{\"type\":\"text\",\"id\":\"card-text-04\",\"isHidden\":false,\"content\":{\"text\":\"<ol style=\\\"list-style-type: decimal; padding-left: 1.5em; margin-left: 0;\\\"><li><strong>Ladet die kostenlose Summitree-App in eurem App-Store herunter und registriert euch</strong><p>Handyapp herunterladen:</p><p><a href=\\\"https://apps.apple.com/de/app/summitree/id1560790983\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\"><u>App Store</u></a> · <a href=\\\"https://play.google.com/store/apps/details?id=com.summitree.summitree_app&pcampaignid=web_share\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\"><u>Play Store</u></a></p></li><li><strong>Bewegt euch</strong><ul></ul>Sammelt fleißig Bewegungspunkte durch eure sportlichen Aktivitäten.</li><li><strong>Teilt eure Erfolge</strong><ul></ul>Postet eure Fortschritte im Newsfeed der Summitree-App oder unter dem Hashtag #ChristmasChallenge in den sozialen Medien. Lasst eure Freunde und Familie wissen, wie aktiv ihr seid, und inspiriert sie zur Teilnahme!</li></ol>\"}}]",
+                    "color": "primary"
+                  }
+                },
+
+
+                {
+                  "type": "heading",
+                  "id": "text-header-03",
+                  "isHidden": false,
+                  "content": {
+                    "level": "h2",
+                    "text": "So funtioniert die App"
+                  }
+                },
+                {
+                  "type": "text",
+                  "id": "text-02",
+                  "isHidden": false,
+                  "content": {
+                    "text": "Jonas erklärt euch wie die Summitree App funktioniert"
+                  }
+                },
+              {
+                "type": "video",
+                "id": "video-youtube-01",
+                "isHidden": false,
+                "content": {
+                  "location": "web",
+                  "url": "https://www.youtube.com/watch?v=ZLLX7Otjizk",
+                  "controls": "true",
+                  "autoplay": "false",
+                  "muted": "false"
+                }
+              }
+              ]
+            },
+            {
+              "width": "1/2",
+              "id": "col-text-02",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "id": "text-header-02",
+                  "isHidden": false,
+                  "content": {
+                    "level": "h2",
+                    "text": "Sport im MachMit!Haus"
+                  }
+                },
+                {
+                  "type": "image",
+                  "id": "image-01",
+                  "isHidden": false,
+                  "content": {
+                    "image": "file://eda9e28d8c"
+                  }
+                },
+                {
+                  "type": "text",
+                  "id": "text-01",
+                  "isHidden": false,
+                  "content": {
+                    "text": "Gaia und Martin laden euch zu aktivierenden Bewegungseinheiten in das MachMit!Haus ein. Gemeinsam sammeln wir Bäume und werden aktiv. Die Einheiten sind dabei extra drauf abgestimmt nicht zu intensiv und schweißtreibend zu sein. Vor Ort stellen wir euch Wasser und Yoga-Matten. Ihr solltet lediglich Wechselsachen und ein kleines Handtuch mitbringen."
+                  }
+                }
+              ]
+            }
+          ],
+          "id": "row-01"
+        },
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "blocks": [
+              {
+                "content": {
+                  "text": "<p>Noch nicht überzeugt? Drei gute Gründe mitzumachen:</p>",
+                  "level": "h2"
+                },
+                "id": "",
+                "isHidden": false,
+                "type": "heading"
+              },
+                {
+                  "content": {
+                    "text": "<p>Seid dabei und macht mit! Lasst uns in der Adventszeit aktiv werden und einen echten Unterschied für unseren Stadtwald schaffen. Wir freuen uns auf eure Teilnahme und darauf, gemeinsam etwas Großartiges zu erreichen!</p>"
+                  },
+                  "id": "9",
+                  "isHidden": false,
+                  "type": "text"
+                }
+
+              ],
+              "id": "",
+              "width": "1/1"
+            }
+          ],
+          "id": ""
+        },
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "width": "1/3",
+              "id": "col-card-01",
+              "blocks": [
+                {
+                  "type": "card",
+                  "id": "card-01",
+                  "isHidden": false,
+                  "content": {
+                    "cardtype": "manual",
+                    "page": [],
+                    "image": ["file://3abab668d1"],
+                    "headline": "Bewegung für einen guten Zweck",
+                    "subheadline": "",
+                    "description_content": "[{\"type\":\"text\",\"id\":\"card-text-01\",\"isHidden\":false,\"content\":{\"text\":\"<p>Ihr tut nicht nur etwas für eure Gesundheit, sondern auch für die Umwelt – ganz besonders für unseren lokalen Stadtwald.</p>\"}}]",
+                    "color": "primary"
+                  }
+                }
+              ]
+            },
+            {
+              "width": "1/3",
+              "id": "col-card-02",
+              "blocks": [
+                {
+                  "type": "card",
+                  "id": "card-02",
+                  "isHidden": false,
+                  "content": {
+                    "cardtype": "manual",
+                    "page": [],
+                    "image": ["file://97e5edfdf2"],
+                    "headline": "Gemeinschaftsgefühl",
+                    "subheadline": "",
+                    "description_content": "[{\"type\":\"text\",\"id\":\"card-text-02\",\"isHidden\":false,\"content\":{\"text\":\"<p>Gemeinsam können wir einen echten Unterschied für unsere Stadt und die Natur machen.</p>\"}},{\"type\":\"text\",\"id\":\"card-text-04\",\"isHidden\":false,\"content\":{\"text\":\"<hr />\"}}]",
+                    "color": "primary"
+                  }
+                }
+              ]
+            },
+            {
+              "width": "1/3",
+              "id": "col-card-03",
+              "blocks": [
+                {
+                  "type": "card",
+                  "id": "card-03",
+                  "isHidden": false,
+                  "content": {
+                    "cardtype": "manual",
+                    "page": [],
+                    "image": ["file://584033c2b9"],
+                    "headline": "Belohnung",
+                    "subheadline": "",
+                    "description_content": "[{\"type\":\"text\",\"id\":\"card-text-03\",\"isHidden\":false,\"content\":{\"text\":\"<p>Für die aktivsten Teilnehmer gibt es tolle Preise – und das gute Gefühl, gemeinsam etwas bewirkt zu haben.</p>\"}}]",
+                    "color": "primary"
+                  }
+                }
+              ]
+            }
+          ],
+          "id": "row-cards-01"
+        }
+
+
+      ]
+
+----
+
+Team: 
+
+----
+
+Uuid: bdotihszg5k5kyty

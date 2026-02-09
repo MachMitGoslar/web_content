@@ -1,0 +1,69 @@
+Title: Black (&White) Kaffee
+
+----
+
+Cover: - file://80_da5e71ad07
+
+----
+
+Headline: Black (&White) Kaffee
+
+----
+
+Subheadline: Das Offline Café
+
+----
+
+Project-status: aktiv
+
+----
+
+Text:
+
+[
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "text": "<p><strong>Ohne Handy aber dafür mit viel Zeit? Lieber Teilen als Kaufen? Lieber Schach statt Doom-Scrolling? </strong></p>"
+                  },
+                  "id": "942653a3-681c-4761-a704-444aca4f9300",
+                  "isHidden": false,
+                  "type": "text"
+                },
+                {
+                  "content": {
+                    "text": "<p>Das gibt es bei uns! Kahraman, Ole und Anja laden euch erneut zum Black & White Kaffee in das MachMit!Haus ein. </p>"
+                  },
+                  "id": "text-03",
+                  "isHidden": false,
+                  "type": "text"
+                },
+                {
+                  "content": {
+                    "text": "<p>Am 6. Februar wird das MachMit!Haus zum offenen Café. Das heißt ihr könnt mitbringen was ihr wollt und teilen. Kaffee und Tee gibts frisch von uns gegen Spende.</p>"
+                  },
+                  "id": "text-02",
+                  "isHidden": false,
+                  "type": "text"
+                }
+
+              ],
+              "id": "e7400671-7fc5-4fc9-8f91-5746e4609242",
+              "width": "1/1"
+            }
+          ],
+          "id": "264a6f4e-e799-4543-a02f-4baf54ba2720"
+        }
+      ]
+
+----
+
+Team: 
+
+----
+
+Uuid: t3rdroodrlmjz4xs

@@ -1,0 +1,223 @@
+Title: So ist Tết
+
+----
+
+Cover: - file://80_cae7f8c337
+
+----
+
+Headline: So ist Tết
+
+----
+
+Subheadline: das vietnamnesische Neujahrsfest
+
+----
+
+Project-status: in Vorbereitung
+
+----
+
+Text: [
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "text": "<p>Am 17.02.2026 beginnt das Jahr des Pferdes in China und in Vietnam. Tết ist das wichtigste Fest in Vietnam – vergleichbar mit Weihnachten und Neujahr zusammen. Es markiert den Beginn des neuen Jahres nach dem Mondkalender.  Tết ist auch eine Zeit des Zusammenkommens. Menschen kehren in ihre Heimat zurück, besuchen Verwandte, Bekannte und  Freunde. Sie schmücken ihre Häuser mit Pfirsich-, Aprikosen und Kumquatbäumen und bereiten traditionelle Speisen zu.  Bei unserer Veranstaltung „So ist Tết“ möchte die Community der Vietnamesen in Goslar Ihnen authentisch zeigen, wie sie dieses besondere Fest feiert.</p>"
+                  },
+                  "id": "942653a3-681c-4761-a704-444aca4f9300",
+                  "isHidden": false,
+                  "type": "text"
+                }
+              ],
+              "id": "e7400671-7fc5-4fc9-8f91-5746e4609242",
+              "width": "1/1"
+            }
+          ],
+          "id": "264a6f4e-e799-4543-a02f-4baf54ba2720"
+        },
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "level": "h2",
+                    "text": "Und das steht auf dem Programm:"
+                  },
+                  "id": "f15513c9-bc5e-4047-898d-5dba5e3f5114",
+                  "isHidden": false,
+                  "type": "heading"
+                }
+              ],
+              "id": "6f33a9a0-9aed-4272-9561-b44d6d6c6273",
+              "width": "1/1"
+            }
+          ],
+          "id": "a242caf9-82c0-466e-ba3e-c8e2a7b9f457"
+        },
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "image": "file://d8d90dfc85",
+                    "caption": "<strong>Traditionelle Musik und Tänze</strong><p>z.B. Kinderlöwentanz</p>"
+                  },
+                  "type": "image",
+                  "id": "img-1",
+                  "isHidden": false
+                }
+              ],
+              "width": "auto",
+              "id": "col-img-1"
+            },
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "image": "file://f81375c58c",
+                    "caption": "<strong>Vietnamesische Spezialitäten</strong><p>zum probieren</p>"
+                  },
+                  "type": "image",
+                  "id": "img-2",
+                  "isHidden": false
+                }
+              ],
+              "width": "auto",
+              "id": "col-img-2"
+            },
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "image": "file://d60a02d28d",
+                    "caption": "<strong>Geschichte und Bräuche</strong>"
+                  },
+                  "type": "image",
+                  "id": "img-3",
+                  "isHidden": false
+                }
+              ],
+              "width": "auto",
+              "id": "col-img-3"
+            },
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "image": "file://6c40740387",
+                    "caption": "<strong>Vietnamesische Spezialitäten</strong><p>zum probieren</p>"
+                  },
+                  "type": "image",
+                  "id": "img-4",
+                  "isHidden": false
+                }
+              ],
+              "width": "auto",
+              "id": "col-img-4"
+            }
+          ],
+          "id": "new-row-images"
+        },
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "level": "h2",
+                    "text": "Worauf sollte ich mich einstellen?"
+                  },
+                  "id": "new-header-01",
+                  "isHidden": false,
+                  "type": "heading"
+                }
+              ],
+              "id": "new-column-01",
+              "width": "1/1"
+            }
+          ],
+          "id": "new-row-01"
+        },
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "text": "<p>Die vietnamesische Community feiert im MachMit!Haus das traditionelle Tet-Fest. Angemeldete Besucherinnen und Besucher sind dabei herzlich willkommen und können einmal ganz nah und ganz persönlich die Traditionen und Bräuche des Festes erleben. Dabei geht es um ein gemeinsames Miteinander… ein Lernen und interessiert sein.</p><p>Wer dabei selbst etwas zum Fest beitragen möchte, der findet mit unserem Orga eine nette Organisation für weitere Absprachen.</p><p>Am Tag selbst ist das MachMit!Haus dekoriert und vorbereitet für alle Gäste. Wer angemeldet ist kommt einfach hinein und feiert mit.</p><p> </p><p><strong>Da nur eine begrenzte Anzahl an Plätzen besteht, ist eine Anmeldung mit entsprechender Bestätigung im Vorfeld zwingend notwendig!</strong></p>"
+                  },
+                  "id": "new-text-01",
+                  "isHidden": false,
+                  "type": "text"
+                }
+              ],
+              "id": "new-column-02",
+              "width": "1/1"
+            }
+          ],
+          "id": "new-row-02"
+        },
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "level": "h2",
+                    "text": "Die Anmeldung ist geschlossen"
+                  },
+                  "id": "closed-header-01",
+                  "isHidden": false,
+                  "type": "heading"
+                }
+              ],
+              "id": "closed-column-01",
+              "width": "1/1"
+            }
+          ],
+          "id": "closed-row-01"
+        },
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "text": "<p>Wir sind überwältigt von der hohen Nachfrage nach unserer Veranstaltung. Derzeit können wir keine Anmeldungen mehr annehmen. Sollten weitere Plätze frei werden, schalten wir die Anmeldung erneut frei.</p><p>Vielen Dank für euer Interesse!</p><p>Euer Orga-Team</p>"
+                  },
+                  "id": "closed-text-01",
+                  "isHidden": false,
+                  "type": "text"
+                }
+              ],
+              "id": "closed-column-02",
+              "width": "1/1"
+            }
+          ],
+          "id": "closed-row-02"
+        }
+
+      ]
+
+
+
+
+----
+
+Team:
+
+----
+
+Uuid: h4SoHYy8fooH538V
