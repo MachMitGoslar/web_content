@@ -6,7 +6,7 @@ Cover:
 
 ----
 
-Headline: Test für Goslar-App Kachel
+Headline: Die verschiedenen Goslar-Apps
 
 ----
 
