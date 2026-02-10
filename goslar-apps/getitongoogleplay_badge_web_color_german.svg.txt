@@ -23,3 +23,7 @@ Uuid: 0dwl6as7urq2a3zs
 ----
 
 Template: blocks/image
+
+----
+
+Sort: 1
