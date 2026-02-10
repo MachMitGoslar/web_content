@@ -18,7 +18,7 @@ Text:
 
 ----
 
-Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Die Goslar-App"},"id":"3d79b36f-9490-4b64-8f5a-7f74eab53559","isHidden":false,"type":"heading"}],"id":"c3ae6510-fdf9-4839-8609-649d99b3f5f9","width":"1/1"}],"id":"8c02c05e-09db-4ab7-8546-e7afebbebb4e"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Goslar-App ....</p>"},"id":"e15bd7d5-3fbf-4d54-b53f-ac24a04ace08","isHidden":false,"type":"text"}],"id":"36395eeb-fd5d-4593-a0b6-bf71fa8fef79","width":"1/1"}],"id":"82d3be9b-4384-488d-90f6-3f9a1f6bd327"}]
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Die Goslar-App"},"id":"3d79b36f-9490-4b64-8f5a-7f74eab53559","isHidden":false,"type":"heading"}],"id":"c3ae6510-fdf9-4839-8609-649d99b3f5f9","width":"1/1"}],"id":"8c02c05e-09db-4ab7-8546-e7afebbebb4e"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die Goslar-App und so weiter...</p>"},"id":"e15bd7d5-3fbf-4d54-b53f-ac24a04ace08","isHidden":false,"type":"text"}],"id":"36395eeb-fd5d-4593-a0b6-bf71fa8fef79","width":"1/1"}],"id":"82d3be9b-4384-488d-90f6-3f9a1f6bd327"}]
 
 ----
 
