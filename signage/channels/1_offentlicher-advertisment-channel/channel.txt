@@ -1,0 +1,53 @@
+Title: Öffentlicher Advertisment Channel2
+
+----
+
+Channel-id: adv-channel-mmh
+
+----
+
+Description: Allgemeiner Vorstellungskanal des MachMit!Hauses
+
+----
+
+Background-color: #ffffff
+
+----
+
+Default-bg-image: - file://c9pykpcjc0fg3ijj
+
+----
+
+Default-bg-video: 
+
+----
+
+Default-overlay-color: 
+
+----
+
+Default-overlay-opacity: 
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Text: 
+
+----
+
+Layout: 
+
+----
+
+Uuid: 3awhnern8xvlpoqd

@@ -1,0 +1,93 @@
+Title: MMH Front Monitor
+
+----
+
+Screen-id: mmh-entrance
+
+----
+
+Orientation: horizontal
+
+----
+
+Status: true
+
+----
+
+Assigned-channel: signage/channels/offentlicher-advertisment-channel
+
+----
+
+Channel-schedule: 
+
+----
+
+Active-times:
+
+- 
+  start: 08:00:00
+  end: 20:00:00
+  days: mon, tue, wed, thu, fri, sat, sun
+
+----
+
+Standby-mode: custom
+
+----
+
+Standby-transition: 5
+
+----
+
+Standby-image: 
+
+----
+
+Standby-message: Hello
+
+----
+
+Whitelist-enabled: true
+
+----
+
+Whitelist:
+
+- 
+  label: Mac Laptio
+  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
+  ip: ""
+  approved_at: ""
+  approved_by: ""
+- 
+  label: ""
+  uuid: ""
+  ip: ""
+  approved_at: ""
+  approved_by: ""
+
+----
+
+Pending-requests:
+
+- 
+  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
+  ip: 172.19.0.4
+  requested_at: 2026-01-08 17:00:00
+  user_agent: >
+    Mozilla/5.0 (Macintosh; Intel Mac OS X
+    10.15; rv:146.0) Gecko/20100101
+    Firefox/146.0
+
+----
+
+Uuid: vn7iv51tozpdvnkc
+
+----
+
+Pending-requests-list:
+
+- 
+  uuid: ""
+  ip: ""
+  requested_at: ""
