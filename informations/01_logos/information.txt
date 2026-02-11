@@ -1,0 +1,98 @@
+Title: Logos
+
+----
+
+Cover: - file://97e4e6d8d8
+
+----
+
+Headline: Logos und Pressematerial
+
+----
+
+Subheadline: Verwendungsrichtlinie für das Logo-Paket des MachMit!Hauses
+
+----
+
+Text: [
+        {
+          "type": "text",
+          "id": "text-logos-01",
+          "isHidden": false,
+          "content": {
+            "text": "Das Logo des MachMit!Hauses sowie dessen Schreibweise als Wort- und Bildmarke ist ein geschütztes Erkennungszeichen und steht für unsere gemeinsamen Werte, Projekte und die verbindende Arbeit mit und für die Menschen in Goslar. Um den verantwortungsvollen Umgang mit unserem Logo sicherzustellen, gelten folgende verbindliche Regeln für dessen Verwendung:"
+          }
+        },
+        {
+          "type": "text",
+          "id": "text-logos-02",
+          "isHidden": false,
+          "content": {
+            "text": "<strong>1. Verwendung nur nach Absprache</strong><ul><li>Die Nutzung des Logos ist ausschließlich im Rahmen von <strong>gemeinsamen Projekten oder Kooperationen</strong> mit dem MachMit!Haus erlaubt.</li><li>Eine vorherige Absprache und Freigabe ist erforderlich. Bitte nehmen Sie hierfür rechtzeitig Kontakt mit uns auf unter:<ul/> <u><a href='mailto:machmit@goslar.de'>machmit@goslar.de</a></u> oder 05321 704 525</li></ul>"
+          }
+        },
+        {
+          "type": "text",
+          "id": "text-logos-03",
+          "isHidden": false,
+          "content": {
+            "text": "<strong>2. Missbräuchliche Nutzung</strong><ul><li>Eine Verwendung des Logos ohne <strong>vorherige Zustimmung</strong> ist ausdrücklich untersagt.</li><li>Sollte das Logo dennoch ohne unser Wissen oder unsere Genehmigung verwendet werden, behalten wir uns <strong>rechtliche Schritte</strong> vor, insbesondere in Fällen von:</li><ul><li>irreführender Darstellung einer Partnerschaft</li><li>kommerzieller Nutzung ohne Bezug zum MachMit!Haus</li><li>rufschädigender oder politisch missbräuchlicher Verwendung</li></ul></ul>"
+          }
+        },
+        {
+          "type": "text",
+          "id": "text-logos-04",
+          "isHidden": false,
+          "content": {
+            "text": "<strong>3. Keine Veränderung des Logos</strong><ul><li>Das Logo darf in keiner Form verändert, verfremdet oder verfälscht werden. Dazu zählen insbesondere:</li><ul><li>Veränderung von Farben, Schriftarten oder Proportionen</li><li>Einbindung in eigene Layouts oder Logos ohne Freigabe</li><li>Kombination mit fremden grafischen Elementen</li></ul><li>Wenn in einem bestimmten Format oder in einer abweichenden Darstellungsform ein Logo benötigt wird (z.B. für barrierefreie oder drucktechnische Zwecke), kann nach vorheriger Rücksprache und Prüfung im Einzelfall eine alternative Version bereitgestellt werden. Wenden Sie sich hierfür bitte an: <ul/><u><a href='mailto:machmit@goslar.de'>machmit@goslar.de</a></u></li></ul>"
+          }
+        },
+        {
+          "type": "text",
+          "id": "text-logos-05",
+          "isHidden": false,
+          "content": {
+            "text": "<strong>4. Weitergabe an Dritte</strong><ul><li>Die Weitergabe des Logos an Dritte ist <strong>nur mit ausdrücklicher Zustimmung</strong> des MachMit!Hauses erlaubt.</li><li>Auch innerhalb einer Organisation ist sicherzustellen, dass alle Personen, die das Logo verwenden möchten, über diese Richtlinie informiert sind.</li></ul>"
+          }
+        },
+        {
+          "type": "text",
+          "id": "text-logos-06",
+          "isHidden": false,
+          "content": {
+            "text": "<strong>5. Platzierung und Kontext</strong><ul><li>Das Logo darf <strong>nur in einem positiven und sachlich angemessenen Kontext</strong> verwendet werden.</li><li>Es darf nicht in Zusammenhang mit Inhalten stehen, die gegen die freiheitlich-demokratische Grundordnung, gegen geltendes Recht oder gegen die Grundsätze des MachMit!Hauses verstoßen.</li></ul>"
+          }
+        },
+        {
+          "type": "text",
+          "id": "text-logos-07",
+          "isHidden": false,
+          "content": {
+            "text": "<strong>6. Gültigkeit und Änderungen</strong><ul><li>Diese Verwendungsrichtlinie kann bei Bedarf aktualisiert werden.</li><li>Bitte informieren Sie sich regelmäßig auf unserer Website über den aktuellen Stand.</li></ul>"
+          }
+        },
+        {
+          "type": "text",
+          "id": "text-logos-08",
+          "isHidden": false,
+          "content": {
+            "text": "<strong>Hinweis:</strong> Die unautorisierte oder missbräuchliche Verwendung unseres Logos kann eine <strong>Verletzung von Marken-, Urheber- oder Persönlichkeitsrechten</strong> darstellen und wird gegebenenfalls juristisch verfolgt."
+          }
+        },
+        {
+          "type": "heading",
+          "id": "text-logos-08",
+          "isHidden": false,
+          "content": {
+            "level":"h2",
+            "text": "Material"
+          }
+        }
+      ]
+
+
+
+
+----
+
+Uuid: phszm75qnbzxvw2c

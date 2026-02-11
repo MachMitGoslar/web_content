@@ -1,0 +1,29 @@
+Caption:
+
+----
+
+Alt:
+
+----
+
+Photographer:
+
+----
+
+License:
+
+----
+
+Link:
+
+----
+
+Uuid: fa5fd120eb
+
+----
+
+Template: image
+
+----
+
+Focus: 50.0% 50.0%
