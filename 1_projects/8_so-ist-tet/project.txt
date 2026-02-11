@@ -75,7 +75,7 @@ Text: [
                   "isHidden": false
                 }
               ],
-              "width": "auto",
+              "width": "1/4",
               "id": "col-img-1"
             },
             {
@@ -90,7 +90,7 @@ Text: [
                   "isHidden": false
                 }
               ],
-              "width": "auto",
+              "width": "1/4",
               "id": "col-img-2"
             },
             {
@@ -105,7 +105,7 @@ Text: [
                   "isHidden": false
                 }
               ],
-              "width": "auto",
+              "width": "1/4",
               "id": "col-img-3"
             },
             {
@@ -120,7 +120,7 @@ Text: [
                   "isHidden": false
                 }
               ],
-              "width": "auto",
+              "width": "1/4",
               "id": "col-img-4"
             }
           ],
