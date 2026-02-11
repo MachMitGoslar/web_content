@@ -1,0 +1,89 @@
+Title: Empfangsraum
+
+----
+
+Cover: - file://cla124ctzitv4yfw
+
+----
+
+Short-description: Der Empfangsraum mit direkter Sicht auf den Marktplatz
+
+----
+
+Description: [{"content":{"text":""},"id":"75442d2d-770d-4c4f-88ef-209cc81f354a","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://cla124ctzitv4yfw
+
+----
+
+Virtual-tour-url: 
+
+----
+
+Capacity: 50
+
+----
+
+Area: 
+
+----
+
+Floor: eg
+
+----
+
+Accessible: false
+
+----
+
+Equipment: 
+
+----
+
+Pricing-enabled: false
+
+----
+
+Hourly-rate: 
+
+----
+
+Half-day-rate: 
+
+----
+
+Full-day-rate: 
+
+----
+
+Pricing-notes: 
+
+----
+
+Nonprofit-discount: false
+
+----
+
+Nonprofit-discount-percent: 
+
+----
+
+Google-calendar-id: c4ac637dc3186bf002bd2c70b24eb571d5acbe6b098ad39522e7c35af07cc080@group.calendar.google.com
+
+----
+
+Ical-url: https://calendar.google.com/calendar/ical/c4ac637dc3186bf002bd2c70b24eb571d5acbe6b098ad39522e7c35af07cc080%40group.calendar.google.com/public/basic.ics
+
+----
+
+Calendar-embed-url: https://calendar.google.com/calendar/embed?src=c4ac637dc3186bf002bd2c70b24eb571d5acbe6b098ad39522e7c35af07cc080%40group.calendar.google.com&ctz=Europe%2FBerlin
+
+----
+
+Show-calendar: true
+
+----
+
+Uuid: qr1vpvbb05ih0ytg
