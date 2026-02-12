@@ -14,7 +14,7 @@ Subheadline: Verwendungsrichtlinie für das Logo-Paket des MachMit!Hauses
 
 ----
 
-Text: [
+Layout: [
         {
           "type": "text",
           "id": "text-logos-01",
