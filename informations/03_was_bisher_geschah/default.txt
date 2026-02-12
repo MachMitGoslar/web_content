@@ -14,7 +14,7 @@ Subheadline: Eine kleine Zeitreise durch das MachMit!Haus
 
 ----
 
-Text:
+Layout:
 [
   {
     "id": "history-row-00",

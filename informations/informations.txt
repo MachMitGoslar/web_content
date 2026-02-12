@@ -14,10 +14,8 @@ Subheadline: Alles was du wissen solltest
 
 ----
 
-Text:
-[
+Layout:
 
-]
 
 ----
 

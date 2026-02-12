@@ -14,7 +14,7 @@ Subheadline: So gehts voran im MachMit!Haus Goslar
 
 ----
 
-Text: [
+Layout: [
 {
           "attrs": [],
           "columns": [
