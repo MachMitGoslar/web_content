@@ -1,0 +1,413 @@
+Title: Baustellentagebuch
+
+----
+
+Cover: - file://c4118946c2
+
+----
+
+Headline: Bildergalerie: Das Baustellentagebuch
+
+----
+
+Subheadline: So gehts voran im MachMit!Haus Goslar
+
+----
+
+Layout: [
+{
+          "attrs": [],
+          "columns": [
+            {
+              "width": "1/1",
+              "id": "col-image-10",
+              "blocks": [
+                {
+                    "type": "text",
+                    "id": "text-logos-08",
+                    "isHidden": false,
+                    "content": {
+                      "text": "Hier findest du einige Bilder aus dem Erdgeschoss."
+                  }
+                }
+              ]
+            },
+
+            {
+              "width": "1/4",
+              "id": "col-image-14",
+              "blocks": [
+                {
+                  "type": "image",
+                  "id": "image-14",
+                  "isHidden": false,
+                  "content": {
+                    "location": "kirby",
+                    "image": "file://74831920ef",
+                    "alt": "",
+                    "caption": ""
+                  }
+                }
+              ]
+            },
+            {
+              "width": "1/4",
+              "id": "col-image-12",
+              "blocks": [
+                {
+                  "type": "image",
+                  "id": "image-12",
+                  "isHidden": false,
+                  "content": {
+                    "location": "kirby",
+                    "image": "file://8f723b510f",
+                    "alt": "",
+                    "caption": ""
+                  }
+                }
+              ]
+            },
+            {
+              "width": "1/4",
+              "id": "col-image-13",
+              "blocks": [
+                {
+                  "type": "image",
+                  "id": "image-13",
+                  "isHidden": false,
+                  "content": {
+                    "location": "kirby",
+                    "image": "file://1bfc69eca6",
+                    "alt": "",
+                    "caption": ""
+                  }
+                }
+              ]
+            },
+
+            {
+              "width": "1/4",
+              "id": "col-image-15",
+              "blocks": [
+                {
+                  "type": "image",
+                  "id": "image-15",
+                  "isHidden": false,
+                  "content": {
+                    "location": "kirby",
+                    "image": "file://17a36b767c",
+                    "alt": "",
+                    "caption": ""
+                  }
+                }
+              ]
+            },
+            {
+              "width": "1/4",
+              "id": "col-image-16",
+              "blocks": [
+                {
+                  "type": "image",
+                  "id": "image-16",
+                  "isHidden": false,
+                  "content": {
+                    "location": "kirby",
+                    "image": "file://9f5e895b21",
+                    "alt": "",
+                    "caption": ""
+                  }
+                }
+              ]
+            },
+            {
+              "width": "1/4",
+              "id": "col-image-17",
+              "blocks": [
+                {
+                  "type": "image",
+                  "id": "image-17",
+                  "isHidden": false,
+                  "content": {
+                    "location": "kirby",
+                    "image": "file://290155ae27",
+                    "alt": "",
+                    "caption": ""
+                  }
+                }
+              ]
+            },
+            {
+              "width": "1/4",
+              "id": "col-image-11",
+              "blocks": [
+                {
+                  "type": "image",
+                  "id": "text-logos-08",
+                  "isHidden": false,
+                  "content": {
+                    "image": "file://ee820f5014"
+                  }
+                }
+              ]
+            }
+          ],
+          "id": "row-images-04"
+        },
+        {
+                  "attrs": [],
+                  "columns": [
+                    {
+                      "width": "1/1",
+                      "id": "col-image-10",
+                      "blocks": [
+                        {
+                            "type": "text",
+                            "id": "text-logos-08",
+                            "isHidden": false,
+                            "content": {
+                              "text": "Und Bilder aus dem Obergeschoss"
+                          }
+                        }
+                      ]
+                    },
+
+                    {
+                      "width": "1/4",
+                      "id": "col-image-14",
+                      "blocks": [
+                        {
+                          "type": "image",
+                          "id": "image-14",
+                          "isHidden": false,
+                          "content": {
+                            "location": "kirby",
+                            "image": "file://bfd5235dc2",
+                            "alt": "",
+                            "caption": ""
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "width": "1/4",
+                      "id": "col-image-12",
+                      "blocks": [
+                        {
+                          "type": "image",
+                          "id": "image-12",
+                          "isHidden": false,
+                          "content": {
+                            "location": "kirby",
+                            "image": "file://1d3afb7d8c",
+                            "alt": "",
+                            "caption": ""
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "width": "1/4",
+                      "id": "col-image-13",
+                      "blocks": [
+                        {
+                          "type": "image",
+                          "id": "image-13",
+                          "isHidden": false,
+                          "content": {
+                            "location": "kirby",
+                            "image": "file://e84ab2e94d",
+                            "alt": "",
+                            "caption": ""
+                          }
+                        }
+                      ]
+                    },
+
+                    {
+                      "width": "1/4",
+                      "id": "col-image-15",
+                      "blocks": [
+                        {
+                          "type": "image",
+                          "id": "image-15",
+                          "isHidden": false,
+                          "content": {
+                            "location": "kirby",
+                            "image": "file://cfc265cc51",
+                            "alt": "",
+                            "caption": ""
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "width": "1/4",
+                      "id": "col-image-16",
+                      "blocks": [
+                        {
+                          "type": "image",
+                          "id": "image-16",
+                          "isHidden": false,
+                          "content": {
+                            "location": "kirby",
+                            "image": "file://09de2ecff9",
+                            "alt": "",
+                            "caption": ""
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "width": "1/4",
+                      "id": "col-image-17",
+                      "blocks": [
+                        {
+                          "type": "image",
+                          "id": "image-17",
+                          "isHidden": false,
+                          "content": {
+                            "location": "kirby",
+                            "image": "file://830b7ed6aa",
+                            "alt": "",
+                            "caption": ""
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "width": "1/4",
+                      "id": "col-image-20",
+                      "blocks": [
+                        {
+                          "type": "image",
+                          "id": "text-logos-08",
+                          "isHidden": false,
+                          "content": {
+                            "image": "file://6022432263"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "width": "1/4",
+                      "id": "col-image-21",
+                      "blocks": [
+                        {
+                          "type": "image",
+                          "id": "text-logos-08",
+                          "isHidden": false,
+                          "content": {
+                            "image": "file://411fd28653"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "width": "1/4",
+                      "id": "col-image-22",
+                      "blocks": [
+                        {
+                          "type": "image",
+                          "id": "text-logos-08",
+                          "isHidden": false,
+                          "content": {
+                            "image": "file://712e9fecbf"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                          "width": "1/4",
+                          "id": "col-image-23",
+                          "blocks": [
+                            {
+                              "type": "image",
+                              "id": "text-logos-08",
+                              "isHidden": false,
+                              "content": {
+                                "image": "file://549404935e"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "width": "1/4",
+                          "id": "col-image-24",
+                          "blocks": [
+                            {
+                              "type": "image",
+                              "id": "text-logos-08",
+                              "isHidden": false,
+                              "content": {
+                                "image": "file://6bae39a847"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "width": "1/4",
+                          "id": "col-image-25",
+                          "blocks": [
+                            {
+                              "type": "image",
+                              "id": "text-logos-08",
+                              "isHidden": false,
+                              "content": {
+                                "image": "file://6e09628426"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "width": "1/4",
+                          "id": "col-image-26",
+                          "blocks": [
+                            {
+                              "type": "image",
+                              "id": "text-logos-08",
+                              "isHidden": false,
+                              "content": {
+                                "image": "file://fa5fd120eb"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "width": "1/4",
+                          "id": "col-image-27",
+                          "blocks": [
+                            {
+                              "type": "image",
+                              "id": "text-logos-08",
+                              "isHidden": false,
+                              "content": {
+                                "image": "file://fc8b477652"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "width": "1/4",
+                          "id": "col-image-28",
+                          "blocks": [
+                            {
+                              "type": "image",
+                              "id": "text-logos-08",
+                              "isHidden": false,
+                              "content": {
+                                "image": "file://f896322325"
+                              }
+                            }
+                          ]
+                        }
+
+                  ],
+                  "id": "row-images-05"
+                }
+
+]
+
+
+----
+
+Uuid: phszm75qnbzxvw2c

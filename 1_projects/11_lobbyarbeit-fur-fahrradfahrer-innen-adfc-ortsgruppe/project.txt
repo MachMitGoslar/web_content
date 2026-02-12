@@ -1,0 +1,59 @@
+Title: Lobbyarbeit für Fahrradfahre:innen - ADFC Ortsgruppe
+
+----
+
+Cover: - file://87850f6fe6
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Project-status: aktiv
+
+----
+
+Text:
+
+[
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "width": "1/1",
+              "id": "col-text-adfc-01",
+              "blocks": [
+                {
+                  "type": "text",
+                  "id": "text-adfc-01",
+                  "isHidden": false,
+                  "content": {
+                    "text": "<p><strong>„In Goslar fehlt die entsprechende Lobby von und für Fahrradfahrer:innen“</strong> – das war der Auslöser, der 16 engagierte Personen am 30. Januar 2025 im MachMit!Haus zusammenbrachte. „Welche Organisationsform und welche Aufgaben übernimmt solch eine Lobbygruppe? Wer kann etwas einbringen? Wie geht es weiter?“ sind nur ein paar der zentralen Fragen, die an diesem Abend von den Anwesenden gestellt wurden.</p><p>Initiator Michael Bornholdt blickt dabei positiv auf die Veranstaltung zurück: „Die Resonanz spricht dafür, dass es ein starkes Engagement für das Thema Fahrrad gibt. Wir treten nun in die Phase vor der offiziellen Gründung einer ADFC-Ortsgruppe ein.“</p><p>Gezielt lädt er engagierte Unterstützer:innen für die weitere Arbeit zur Gründung einer ADFC-Ortsgruppe ein. Ein nächster Termin zur weiteren Arbeit im MachMit!Haus ist dabei bereits gefunden.</p><p>Interessierte Bürger:innen, die sich vorstellen können, eine aktive Rolle zu übernehmen, sind herzlich willkommen. Wer mag, kann dabei direkt über unser Formular in Kontakt kommen.</p>"
+                  }
+                }
+              ]
+            }
+          ],
+          "id": "row-text-adfc-01"
+        },
+        {"attrs":[],
+                    "columns":[
+                        {"blocks":[
+                        {"content":
+                        {"form":["page://o9rzwowhwfd5d2qw"]},"id":"5f1111f8-b2fe-461c-a8b8-efaefa184b62","isHidden":false,"type":"form"}],"id":"67b0beac-aaf5-4f44-b2bd-6b379c81ce2e","width":"1/1"}],"id":"6dc96038-71e4-41f9-bb7c-fd9d6916cabd"}
+
+
+      ]
+
+----
+
+Team: 
+
+----
+
+Uuid: zohbori8gpmenhjr

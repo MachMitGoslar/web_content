@@ -1,0 +1,93 @@
+Title: Kontakt und AnsprechpartnerInnen
+
+----
+
+Intro: 
+
+----
+
+Text:
+
+[
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "level": "h2",
+                    "text": "Unsere Öffnungszeiten"
+                  },
+                  "id": "942653a3-681c-4761-a704-444aca4f9300",
+                  "isHidden": false,
+                  "type": "heading"
+                },
+                {
+                  "content": {
+                    "text": "<p>Zu diesen Zeiten erreicht ihr uns im Haus oder telefonisch:</p>"
+                  },
+                  "id": "text-02",
+                  "isHidden": false,
+                  "type": "text"
+                },
+                {
+                  "content": {
+                    "text": "<table style=\"width: 100%; border-collapse: separate; border-spacing: 0 10px;\" border=\"1\"><thead><tr><th style=\"text-align: left; width: 50%; padding: 10px 8px;\"><strong>Öffnungszeiten:</strong></th><th style=\"text-align: left; width: 50%; padding: 10px 8px;\"></th></tr></thead><tbody><tr style=\"background-color: #dcdcdc;\"><td style=\"padding: 10px 8px;\">Montag - Freitag</td><td style=\"padding: 10px 8px;\">13:00 Uhr - 18:00 Uhr und nach Vereinbarung</td></tr><tr style=\"background-color: #fff;\"><td style=\"padding: 10px 8px;\"></td><td style=\"padding: 10px 8px;\">an Feiertagen geschlossen</td></tr><tr style=\"background-color: #dcdcdc;\"><td style=\"padding: 10px 8px;\">Besondere Öffnungstage</td><td style=\"padding: 10px 8px;\">Diese finden Sie im Veranstaltungskalender</td></tr></tbody></table>"
+                  },
+                  "id": "text-05",
+                  "isHidden": false,
+                  "type": "text"
+                }
+
+
+
+              ],
+              "id": "e7400671-7fc5-4fc9-8f91-5746e4609242",
+              "width": "1/1"
+            }
+          ],
+          "id": "264a6f4e-e799-4543-a02f-4baf54ba2720"
+        },
+        {"attrs":[],
+                            "columns":[
+                                {"blocks":[
+                                {"content":
+                                {"form":["page://c2uyxj79gsugt2mz"]},"id":"5f1111f8-b2fe-461c-a8b8-efaefa184b62","isHidden":false,"type":"form"}],"id":"67b0beac-aaf5-4f44-b2bd-6b379c81ce2e","width":"1/1"}],"id":"6dc96038-71e4-41f9-bb7c-fd9d6916cabd"}
+
+
+      ]
+
+----
+
+Email: machmit@goslar.de
+
+----
+
+Phone: 05321704525
+
+----
+
+Website: https://machmit.goslar.de
+
+----
+
+Address: Markt 7, 38640 Goslar
+
+----
+
+Lat: 51.906169
+
+----
+
+Lng: 10.429327
+
+----
+
+Mapbox-token: pk.eyJ1IjoicmFuZ2FyaWFuIiwiYSI6ImNrZGVxNzNhODI5MTcyenM4dGR5bnZhb3UifQ.7WvcNEBQJn9iV42IiyG8rQ
+
+----
+
+
+
+Uuid: y89diz2faheszrrz

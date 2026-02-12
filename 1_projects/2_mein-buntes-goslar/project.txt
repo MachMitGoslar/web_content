@@ -14,7 +14,7 @@ Subheadline: Mein buntes Goslar
 
 ----
 
-Project-status: aktiv
+Project-status: abgeschlossen
 
 ----
 

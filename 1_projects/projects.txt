@@ -2,6 +2,18 @@ Title: MachMit!Projekte
 
 ----
 
+Show_active: true
+
+----
+
+Show_archive: false
+
+----
+
+Show_search: false
+
+----
+
 Cover: - file://QhHkUyrrZqFflVDP
 
 ----
