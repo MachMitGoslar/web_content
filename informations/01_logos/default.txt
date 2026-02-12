@@ -87,7 +87,27 @@ Layout: [
             "level":"h2",
             "text": "Material"
           }
-        }
+        },
+        {
+            "type": "download",
+            "id": "download-logos-01",
+            "isHidden": false,
+            "content": {
+              "title": "Logo des MachMit!Hauses",
+              "text" : "Version 1",
+              "file": ["file://mm_1"]
+            }
+          },
+          {
+            "type": "download",
+            "id": "download-logos-02",
+            "isHidden": false,
+            "content": {
+              "title": "Logo des MachMit!Hauses",
+              "text" : "Version 2",
+              "file": ["file://mm_2"]
+            }
+          }
       ]
 
 
