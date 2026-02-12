@@ -1,0 +1,371 @@
+Title: Was bisher geschah
+
+----
+
+Cover: - file://19ab62844a
+
+----
+
+Headline: Was bisher geschah
+
+----
+
+Subheadline: Eine kleine Zeitreise durch das MachMit!Haus
+
+----
+
+Layout:
+[
+  {
+    "id": "history-row-00",
+    "attrs": [],
+    "columns": [
+      {
+        "width": "1/1",
+        "blocks": [
+          {
+            "type": "text",
+            "id": "text-logos-01",
+            "isHidden": false,
+            "content": {
+              "text": "<p>Das MachMit!Haus war schon zu Beginn ein voller Erfolg. Eröffnet – geschlossen und neu eröffnet.</p>"
+            }
+          },
+          {
+            "type": "text",
+            "id": "text-logos-02",
+            "isHidden": false,
+            "content": {
+              "text": "<p>Hier finden Sie die wichtigsten Dinge, die bisher im und mit dem MachMit!Haus passiert sind:</p>"
+            }
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "history-row-01",
+    "attrs": [],
+    "columns": [
+      {
+        "width": "3/4",
+        "blocks": [
+          {
+            "type": "card",
+            "id": "history-card-01",
+            "isHidden": false,
+            "content": {
+              "cardtype": "manual",
+              "headline": "Eröffnung des 1. MachMit!Hauses",
+              "subheadline": "",
+              "description_content": "[{\"type\":\"text\",\"content\":{\"text\":\"<p>Am 21. Januar 2011 eröffnete die erste Version des MachMit!Hauses ihre Tore. Die Adresse: Fleischscharren 7. Von Anfang an war klar: Das hier wird eine Art Digitalisierungsladen zur Bürgerbeteiligung in Goslar.</p><p>Das waren die ersten Themen:</p><li>Jugendbüro (Jugendpflege Stadt Goslar)</li><li>Herausforderung: Das sichere selbstfahrende Auto!</li><li>KI – Künstliche Intelligenz</li><li>Info Bürgerworkshop</li>\"}}]",
+              "color": "primary"
+            }
+          }
+        ]
+      },
+      {
+        "width": "1/4",
+        "blocks": [
+          {
+            "type": "text",
+            "id": "history-heading-01",
+            "isHidden": false,
+            "content": {
+              "text": "<h2 class=\"font-titleXL\">21. Januar 2011</h2>"
+            }
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "history-row-02",
+    "attrs": [],
+    "columns": [
+      {
+        "width": "1/4",
+        "blocks": [
+          {
+            "type": "text",
+            "id": "history-heading-02",
+            "isHidden": false,
+            "content": {
+              "text": "<h2 class=\"font-titleXL\">Januar – März 2011</h2>"
+            }
+          }
+        ]
+      },
+      {
+        "width": "3/4",
+        "blocks": [
+          {
+            "type": "card",
+            "id": "history-card-02",
+            "isHidden": false,
+            "content": {
+              "cardtype": "manual",
+              "headline": "Viele große & kleine Themen",
+              "description_content": "[{\"type\":\"text\",\"content\":{\"text\":\"<p>In den Monaten gab es regelmäßige Treffen rund um die Themen, die eingebracht wurden. Dazu gehörten: Digitale Stadtplanung, Goslar und Handicap, Rikscha-Radler auch in Goslar, Digitale Baugebiete und viele mehr.</p>\"}}]",
+              "color": "primary"
+            }
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "history-row-03",
+    "attrs": [],
+    "columns": [
+      {
+        "width": "3/4",
+        "blocks": [
+          {
+            "type": "card",
+            "id": "history-card-03",
+            "isHidden": false,
+            "content": {
+              "cardtype": "manual",
+              "headline": "MachMit!Haus sagt Tschüß",
+              "description_content": "[{\"type\":\"text\",\"content\":{\"text\":\"<p>Das MachMit!Haus schloss seine Pforten. Vorerst. Bald sollte die Neueröffnung kommen. Aber erst wurde Feedback der Bürgerinnen & Bürger eingeholt, um zu schauen, ob sich das Projekt weiterhin lohnt und es angenommen wird.</p>\"}}]",
+              "color": "primary"
+            }
+          }
+        ]
+      },
+      {
+        "width": "1/4",
+        "blocks": [
+          {
+            "type": "text",
+            "id": "history-heading-03",
+            "isHidden": false,
+            "content": {
+              "text": "<h2 class=\"font-titleXL\">01. März 2019</h2>"
+            }
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "history-row-04",
+    "attrs": [],
+    "columns": [
+        {
+            "width": "1/4",
+            "blocks": [
+              {
+                "type": "text",
+                "id": "history-heading-04",
+                "isHidden": false,
+                "content": {
+                  "text": "<h2 class=\"font-titleXL\">14. September 2020</h2>"
+                }
+              }
+            ]
+          },
+      {
+        "width": "3/4",
+        "blocks": [
+          {
+            "type": "card",
+            "id": "history-card-04",
+            "isHidden": false,
+            "content": {
+              "cardtype": "manual",
+              "headline": "Start MachMit!Haus 2.0 - Neueröffnung!",
+              "description_content": "[{\"type\":\"text\",\"content\":{\"text\":\"<p>Das MachMit!Haus öffnete nach 2019 wieder seine Türen - an der neuen Adresse in der Marktstraße 4a. Dieses Mal war das MachMit!Haus bis zum 30.10.2020 geöffnet. <ul/>Das erste Thema: Weihnachtsmärkte und Corona. Also gleich ein heikles Ding! Die Aufgabe: <ul/>„Sammeln Sie bitte kreative, innovative, digitale, smarte Ideen die einen möglichen Weihnachtsmarkt GS 2020 in der Pandemie sicherer, hygienkonform, besucherleitend, aber auch erlebnisreicher, visuell beeindruckend, von Stories begleitet und bezaubernd machen!“</p>\"}}]",
+              "color": "primary"
+            }
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "history-row-05",
+    "attrs": [],
+    "columns": [
+      {
+        "width": "3/4",
+        "blocks": [
+          {
+            "type": "card",
+            "id": "history-card-05",
+            "isHidden": false,
+            "content": {
+              "cardtype": "manual",
+              "headline": "Regionalministerin besuchte das MachMit!Haus",
+                "description_content": "[{\"type\":\"text\",\"content\":{\"text\":\"<p>Birgit Honé, Niedersachsens Ministerin für Bundes- und Europaangelegenheiten und Regionale Entwicklung, hat am Montag die künftigen Räume des MachMit!Hauses in Goslar besucht. Mit diesem Besuch startete sie ihre Sommerreise durch Niedersachsen mit Besuchen verschiedenster Projekte der Förderprogramme „Zukunftsräume Niedersachsen“ und „Soziale Innovation“.</p><p>„Das ist ein Förderprogramm, das mir persönlich ganz wichtig ist“, so Birgit Honé. „Es fehlte eines zur Aktivierung der Innenstadt.“ Jetzt gibt es endlich auch Förderprogramme für kleine und mittlere Städte, was vorher nicht der Fall war.</p><p>Es gab den Förderbescheid über 300.000 € vom Land Niedersachsen. Mit dieser Förderung kann das MachMit!Haus über drei Jahre lang geöffnet bleiben.</p><p><a href=\\\"https://www.goslar.de/presse/pressemitteilungen/stadtverwaltung-buergerservice/689526-regionalministerin-besuchte-das-machmit-haus\\\" style=\\\"text-decoration: underline;\\\">Zur gesamten Pressemitteilung.</a></p>\"}}]",
+              "color": "primary"
+            }
+          }
+        ]
+      },
+      {
+        "width": "1/4",
+        "blocks": [
+          {
+          "type": "text",
+          "id": "history-heading-05",
+          "isHidden": false,
+          "content": {
+            "text": "<h2 class=\"font-titleXL\">26. Juli 2022</h2>"
+          }
+        }
+        ]
+      }
+    ]
+  },
+  {
+      "id": "history-row-06",
+      "attrs": [],
+      "columns": [
+          {
+              "width": "1/4",
+              "blocks": [
+                {
+                  "type": "text",
+                  "id": "history-heading-04",
+                  "isHidden": false,
+                  "content": {
+                    "text": "<h2 class=\"font-titleXL\">24. Juni 2022</h2>"
+                  }
+                }
+              ]
+            },
+        {
+          "width": "3/4",
+          "blocks": [
+            {
+              "type": "card",
+              "id": "history-card-04",
+              "isHidden": false,
+              "content": {
+                "cardtype": "manual",
+                "headline": "Bundesweiter Digitaltag auch in Goslar",
+                 "description_content": "[{\"type\":\"text\",\"content\":{\"text\":\"<p>Zum bundesweiten Digitaltag am 24.06.2022 organisierten wir einen Live-Stream für die Stadt Goslar mit verschiedenen Themen zur Digitalisierung. Auch hier ging es – wie beim MachMit!Haus – darum, zu zeigen, was in Goslar derzeit schon zum Thema Digitalisierung läuft, aber auch darum, ins Gespräch zu kommen. Zusehen und mitmachen konnten alle via YouTube.</p><p>Alle Beiträge sind online auf YouTube hier abrufbar:</p><p style=\\\"margin-top: 1.5rem;\\\"><a href='https://www.youtube.com/playlist?list=PLqtJ3mjjFH62FnwG4ffuI9sOyrMvKiuba' class=\\\"gs-c-btn\\\" title=\\\"Digitaltag Goslar 2022 Videos\\\" data-button=\\\"true\\\" data-type=\\\"primary\\\" data-size=\\\"normal\\\" data-style=\\\"pill\\\">Zu den Videos</a></p>\"}}]",
+                "color": "primary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "id": "history-row-07",
+        "attrs": [],
+        "columns": [
+          {
+            "width": "3/4",
+            "blocks": [
+              {
+                "type": "card",
+                "id": "history-card-05",
+                "isHidden": false,
+                "content": {
+                  "cardtype": "manual",
+                  "headline": "Es geht voran",
+                    "description_content": "[{\"type\":\"text\",\"content\":{\"text\":\"<p>Wir sind in den letzten Zügen zur neuen Neueröffnung. Es wird gebaut, gestrichen und geplant. Im Baustellentagebuch haben wir einige Eindrücke der Baustelle und fertigen Räume vereweigt.</p><p style=\\\"margin-top: 1.5rem;\\\"><a href='/informations/baustellentagebuch' class=\\\"gs-c-btn\\\" title=\\\"Digitaltag Goslar 2022 Videos\\\" data-button=\\\"true\\\" data-type=\\\"primary\\\" data-size=\\\"normal\\\" data-style=\\\"pill\\\">Baustellentagebuch</a></p>\"}}]",
+                  "color": "primary"
+                }
+              }
+            ]
+          },
+          {
+            "width": "1/4",
+            "blocks": [
+              {
+              "type": "text",
+              "id": "history-heading-05",
+              "isHidden": false,
+              "content": {
+                "text": "<h2 class=\"font-titleXL\">???</h2>"
+              }
+            }
+            ]
+          }
+        ]
+      },
+      {
+            "id": "history-row-08",
+            "attrs": [],
+            "columns": [
+                {
+                    "width": "1/4",
+                    "blocks": [
+                      {
+                        "type": "text",
+                        "id": "history-heading-04",
+                        "isHidden": false,
+                        "content": {
+                          "text": "<h2 class=\"font-titleXL\">16. Oktober 2022</h2>"
+                        }
+                      }
+                    ]
+                  },
+              {
+                "width": "3/4",
+                "blocks": [
+                  {
+                    "type": "card",
+                    "id": "history-card-04",
+                    "isHidden": false,
+                    "content": {
+                      "cardtype": "manual",
+                      "headline": "Eröffnung",
+                      "description_content": "[{\"type\":\"text\",\"content\":{\"text\":\"<p>Wir freuen uns auf die Eröffnung des Obergeschosses im neuen MachMit!Haus</p>\"}}]",
+                      "color": "primary"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+              "id": "history-row-09",
+              "attrs": [],
+              "columns": [
+                {
+                  "width": "3/4",
+                  "blocks": [
+                    {
+                      "type": "card",
+                      "id": "history-card-05",
+                      "isHidden": false,
+                      "content": {
+                        "cardtype": "manual",
+                        "headline": "Betrieb",
+                          "description_content": "[{\"type\":\"text\",\"content\":{\"text\":\"<p>Ab dem 17.10.2022 nimmt das neue MachMit!Haus am Markt 7 in Goslar seinen Betrieb auf.</p>\"}}]",
+                        "color": "primary"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "width": "1/4",
+                  "blocks": [
+                    {
+                    "type": "text",
+                    "id": "history-heading-05",
+                    "isHidden": false,
+                    "content": {
+                      "text": "<h2 class=\"font-titleXL\">17. Oktober 2022</h2>"
+                    }
+                  }
+                  ]
+                }
+              ]
+            }
+]
+
+----
+
+Uuid: ke5mutysclyiusjl

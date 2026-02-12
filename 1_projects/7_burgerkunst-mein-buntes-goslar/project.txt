@@ -2,15 +2,16 @@ Title: Bürgerkunst: Mein buntes Goslar
 
 ----
 
-Cover: - file://g479fx9cR70fXoVY
+Cover:
+  - file://g479fx9cR70fXoVY
 
 ----
 
-Headline: 
+Headline:
 
 ----
 
-Subheadline: 
+Subheadline:
 
 ----
 
@@ -18,11 +19,364 @@ Project-status: aktiv
 
 ----
 
-Text: [{"content":{"text":"<p>Im Jahr 2021 wurde zur Neugestaltung der Bahnunterführung ein Jugendkunstwettbewerb “Nur mit dir wird’s bunt - Junge Kaiser:innen machen Kunst” durchgeführt <a href=\"https://jugend.goslar.de/mach-bunt\" class=\"gs-c-btn\" title=\"Mehr hier\" data-button=\"true\" data-type=\"primary\" data-size=\"small\" data-style=\"rounded-corners\" target=\"_blank\">(Mehr hier)</a> Es entstanden drei Kunstwerke von Jugendlichen am südlichen Aufgang der Bahnunterführung (Girl on Fire, Goslarer Adler,&nbsp; Junge Stadt mit altem Herzen) sowie zwei Beteiligungs-/Selfie-Wände.?</p><p>Nun rufen wir erneut Bürgerinnen und Bürger zum Einsenden ihrer schönsten Ideen unter dem Motto \"Mein buntes Goslar\" auf.&nbsp;?</p>"},"id":"ddd47662-49f2-4670-a2c2-406a930b3de4","isHidden":false,"type":"text"}]
+Text:
+  [
+    {
+      "attrs": [],
+      "columns": [
+        {
+          "width": "1/1",
+          "id": "col-text",
+          "blocks": [
+            {
+              "content": {
+                "text": "Der Bürgerkunstwettbewerb „Mein buntes Goslar“ geht nun in die Umsetzung. Bereits im Mai hatte die Stadt Goslar zum Bürgerkunstwettbewerb zur Gestaltung des nördlichen Teils der Bahnunterführung aufgerufen. Bereits im April hatten an dieser Stelle Jugendliche aus Israel und Deutschland eine erstes Kunstwerk im Rahmen einer internationalen Jugendbegegnung gestaltet."
+              },
+              "id": "ddd47662-49f2-4670-a2c2-406a930b3de4",
+              "isHidden": false,
+              "type": "text"
+            },
+            {
+              "content": {
+                "text": "Insgesamt wurden 11 Werke von Bürgerinnen und Bürgern unterschiedlichster Altersklassen eingesendet. Nach einer Vorstellung aller Werke auf den Social Media Kanälen der Stadt Goslar entschied dann eine Jury über die Gewinnerentwürfe."
+              },
+              "id": "new-text-block-001",
+              "isHidden": false,
+              "type": "text"
+            },
+            {
+              "content": {
+                "text": "Die Gewinnerentwürfe",
+                "level": "h2"
+              },
+              "id": "new-header-block-001",
+              "isHidden": false,
+              "type": "heading"
+            }
+          ]
+        }
+      ],
+      "id": "row-text-01"
+    },
+    {
+      "attrs": [],
+      "columns": [
+        {
+          "width": "1/3",
+          "id": "col-image-01",
+          "blocks": [
+            {
+              "type": "image",
+              "id": "image-01",
+              "isHidden": false,
+              "content": {
+                "location": "kirby",
+                "image": "file://58e769ed21",
+                "alt": "",
+                "caption": "by Shauny Streckenbach"
+              }
+            }
+          ]
+        },
+        {
+          "width": "1/3",
+          "id": "col-image-02",
+          "blocks": [
+            {
+              "type": "image",
+              "id": "image-02",
+              "isHidden": false,
+              "content": {
+                "location": "kirby",
+                "image": "file://43fd9708f3",
+                "alt": "",
+                "caption": "by Franziskus Steinmetz"
+              }
+            }
+          ]
+        },
+        {
+          "width": "1/3",
+          "id": "col-image-03",
+          "blocks": [
+            {
+              "type": "image",
+              "id": "image-03",
+              "isHidden": false,
+              "content": {
+                "location": "kirby",
+                "image": "file://06b96889c2",
+                "alt": "",
+                "caption": "by Janis Hochbohm"
+              }
+            }
+          ]
+        }
+      ],
+      "id": "row-images-00"
+    },
+    {
+          "attrs": [],
+          "columns": [
+            {
+              "width": "1/1",
+              "id": "col-text-02",
+              "blocks": [
+                {
+                  "content": {
+                    "text": "Alle weiteren Entwürfe",
+                    "level": "h2"
+                  },
+                  "id": "new-header-block-002",
+                  "isHidden": false,
+                  "type": "heading"
+                }
+              ]
+            }
+          ],
+          "id": "row-text-02"
+        },
+
+          {
+            "attrs": [],
+            "columns": [
+              {
+                "width": "1/3",
+                "id": "col-image-01",
+                "blocks": [
+                  {
+                    "type": "image",
+                    "id": "image-01",
+                    "isHidden": false,
+                    "content": {
+                      "location": "kirby",
+                      "image": "file://38b031fd77",
+                      "alt": "",
+                      "caption": "<strong>Regenbogen</strong> by Anne Kurrat"
+                    }
+                  }
+                ]
+              },
+              {
+                "width": "1/3",
+                "id": "col-image-02",
+                "blocks": [
+                  {
+                    "type": "image",
+                    "id": "image-02",
+                    "isHidden": false,
+                    "content": {
+                      "location": "kirby",
+                      "image": "file://a724e15fed",
+                      "alt": "",
+                      "caption": "<strong>Gemeinsame Stärke</strong> by Evuallavea"
+                    }
+                  }
+                ]
+              },
+              {
+                "width": "1/3",
+                "id": "col-image-03",
+                "blocks": [
+                  {
+                    "type": "image",
+                    "id": "image-03",
+                    "isHidden": false,
+                    "content": {
+                      "location": "kirby",
+                      "image": "file://4e5bf49098",
+                      "alt": "",
+                      "caption": "<strong>Held Mario in Goslar</strong> by Emilie"
+                    }
+                  }
+                ]
+              }
+            ],
+            "id": "row-images-01"
+          },
+          {
+            "attrs": [],
+            "columns": [
+              {
+                "width": "1/3",
+                "id": "col-image-04",
+                "blocks": [
+                  {
+                    "type": "image",
+                    "id": "image-04",
+                    "isHidden": false,
+                    "content": {
+                      "location": "kirby",
+                      "image": "file://2659856c96",
+                      "alt": "",
+                      "caption": "<strong>Nachtwächter</strong> by Janis Hochbohm"
+                    }
+                  }
+                ]
+              },
+              {
+                "width": "1/3",
+                "id": "col-image-05",
+                "blocks": [
+                  {
+                    "type": "image",
+                    "id": "image-05",
+                    "isHidden": false,
+                    "content": {
+                      "location": "kirby",
+                      "image": "file://a7332e49bf",
+                      "alt": "",
+                      "caption": "<strong>Sortieren was nicht mir gehört</strong> by Leonie Nasser el Dine"
+                    }
+                  }
+                ]
+              },
+              {
+                "width": "1/3",
+                "id": "col-image-06",
+                "blocks": [
+                  {
+                    "type": "image",
+                    "id": "image-06",
+                    "isHidden": false,
+                    "content": {
+                      "location": "kirby",
+                      "image": "file://380a34ba25",
+                      "alt": "",
+                      "caption": "<strong>Löwenzahn</strong> Dagmar  Gentner"
+                    }
+                  }
+                ]
+              }
+            ],
+            "id": "row-images-02"
+          },
+          {
+            "attrs": [],
+            "columns": [
+              {
+                "width": "1/3",
+                "id": "col-image-07",
+                "blocks": [
+                  {
+                    "type": "image",
+                    "id": "image-07",
+                    "isHidden": false,
+                    "content": {
+                      "location": "kirby",
+                      "image": "file://15e7f01752",
+                      "alt": "",
+                      "caption": "by Krestena.k.h"
+                    }
+                  }
+                ]
+              },
+              {
+                "width": "1/3",
+                "id": "col-image-08",
+                "blocks": [
+                  {
+                    "type": "image",
+                    "id": "image-08",
+                    "isHidden": false,
+                    "content": {
+                      "location": "kirby",
+                      "image": "file://aeed130610",
+                      "alt": "",
+                      "caption": "by F.A.R.B.K.L.E.C.K.S."
+                    }
+                  }
+                ]
+              }
+            ],
+            "id": "row-images-03"
+          },
+          {
+            "attrs": [],
+            "columns": [
+              {
+                "width": "1/1",
+                "id": "col-text-03",
+                "blocks": [
+                  {
+                    "content": {
+                      "text": "Die Flächen",
+                      "level": "h2"
+                    },
+                    "id": "new-header-block-003",
+                    "isHidden": false,
+                    "type": "heading"
+                  }
+                ]
+              }
+            ],
+            "id": "row-text-03"
+          },
+          {
+          "attrs": [],
+          "columns": [
+            {
+              "width": "1/2",
+              "id": "col-image-10",
+              "blocks": [
+                {
+                  "type": "image",
+                  "id": "image-10",
+                  "isHidden": false,
+                  "content": {
+                    "location": "kirby",
+                    "image": "file://58ede8e159",
+                    "alt": "",
+                    "caption": ""
+                  }
+                }
+              ]
+            },
+            {
+              "width": "1/2",
+              "id": "col-image-11",
+              "blocks": [
+                {
+                  "type": "image",
+                  "id": "image-11",
+                  "isHidden": false,
+                  "content": {
+                    "location": "kirby",
+                    "image": "file://wand_2",
+                    "alt": "",
+                    "caption": ""
+                  }
+                }
+              ]
+            },
+            {
+              "width": "1/2",
+              "id": "col-image-12",
+              "blocks": [
+                {
+                  "type": "image",
+                  "id": "image-12",
+                  "isHidden": false,
+                  "content": {
+                    "location": "kirby",
+                    "image": "file://ad6a91a78a",
+                    "alt": "",
+                    "caption": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "id": "row-images-04"
+        }
+
+
+
+  ]
 
 ----
 
-Team: 
+Team:
 
 ----
 

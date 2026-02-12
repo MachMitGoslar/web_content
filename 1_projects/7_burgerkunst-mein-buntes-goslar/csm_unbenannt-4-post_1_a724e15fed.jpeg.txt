@@ -1,0 +1,29 @@
+Caption:
+
+----
+
+Alt:
+
+----
+
+Photographer:
+
+----
+
+License:
+
+----
+
+Link:
+
+----
+
+Uuid: a724e15fed
+
+----
+
+Template: image
+
+----
+
+Focus: 50.0% 50.0%

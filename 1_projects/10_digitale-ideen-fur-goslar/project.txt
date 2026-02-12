@@ -1,0 +1,102 @@
+Title: Goslar Digital
+
+----
+
+Cover: - file://44304cb9da
+
+----
+
+Headline: Goslar Digital
+
+----
+
+Subheadline: suche Probleme, biete Lösung
+
+----
+
+Project-status: aktiv
+
+----
+
+Text: [
+        {
+          "attrs": [],
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "content": {
+                    "text": "<p><strong>Gestalte die digitale Zukunft deiner Stadt – Deine Ideen sind gefragt!</strong></p>"
+                  },
+                  "id": "942653a3-681c-4761-a704-444aca4f9300",
+                  "isHidden": false,
+                  "type": "text"
+                },
+                {
+                  "content": {
+                    "text": "<p>Liebe GoslarerInnen,</p>"
+                  },
+                  "id": "text-03",
+                  "isHidden": false,
+                  "type": "text"
+                },
+                {
+                  "content": {
+                    "text": "<p>habt ihr ein Problem oder eine Herausforderung in unserer Stadt, für die ihr euch eine digitale Lösung wünscht bzw. vorstellen könnt? Jetzt habt ihr die Chance, aktiv mitzuwirken! Gemeinsam mit dem Kooperationsstudiengang „Digitec“ der TU Clausthal, Ostfalia Hochschule für angewandte Wissenschaften und dem Center for Digital Technologies (DIGIT) starten wir ein innovatives Projekt, bei dem eure Anliegen im Mittelpunkt stehen.</p>"
+                  },
+                  "id": "text-02",
+                  "isHidden": false,
+                  "type": "text"
+                },
+                {
+                  "content": {
+                    "text": "<ul><strong>Wie funktioniert es?</strong></ul>Ihr könnt eure Ideen oder Herausforderungen, die das Leben in unserer Stadt verbessern könnten, einreichen. Ob es um smarte Mobilität, nachhaltige Energienutzung, digitale Bürgerdienste oder andere Themen geht – wir suchen nach euren Vorschlägen! Die Studierenden wählen aus den eingereichten Ideen ein Problem aus, das sie im Rahmen ihrer Studienarbeit bis hin zu einem Prototypen weiterentwickeln.</p>"
+                  },
+                  "id": "text-01",
+                  "isHidden": false,
+                  "type": "text"
+                },
+                {
+                  "content": {
+                    "text": "<ul><strong>Was bringt euch das? </strong></ul> <li><strong>Direkte Mitwirkung: </strong> Ihr gestaltet aktiv die digitale Zukunft unserer Stadt mit.</li><li><strong>Innovative Lösungen:</strong> Euer Problem könnte schon bald eine maßgeschneiderte digitale Lösung erhalten.</li><li><strong>Einblick in die Forschung:</strong> Seht, wie eure Idee in Zusammenarbeit mit der Universität zur Realität wird.</li>"
+                  },
+                  "id": "text",
+                  "isHidden": false,
+                  "type": "text"
+                },
+                {
+                  "content": {
+                    "text": "<ul><strong>So macht ihr mit: </strong></ul><ul>Reicht eure Ideen einfach jederzeit über unser Onlineformular ein. Beschreibt kurz euer Anliegen und warum eine digitale Lösung helfen könnte. Wir geben eure Ideen zu den nächstmöglichen Pitchterminen an die Uni weiter und informieren im Erfolgsfall. </ul>"
+                  },
+                  "id": "text-04",
+                  "isHidden": false,
+                  "type": "text"
+                },
+                {
+                  "content": {
+                    "text": "<p><strong>Lasst uns gemeinsam unsere Stadt weiter digitalisieren!</strong> Wir freuen uns auf eure Vorschläge!</p>"
+                  },
+                  "id": "text-05",
+                  "isHidden": false,
+                  "type": "text"
+                }
+              ],
+              "id": "e7400671-7fc5-4fc9-8f91-5746e4609242",
+              "width": "1/1"
+            }
+          ],
+          "id": "264a6f4e-e799-4543-a02f-4baf54ba2720"
+        },
+        {"attrs":[],
+            "columns":[
+                {"blocks":[
+                {"content":
+                {"form":["page://hcp0dmga1geeypqv"]},"id":"5f1111f8-b2fe-461c-a8b8-efaefa184b62","isHidden":false,"type":"form"}],"id":"67b0beac-aaf5-4f44-b2bd-6b379c81ce2e","width":"1/1"}],"id":"6dc96038-71e4-41f9-bb7c-fd9d6916cabd"}
+ ]
+----
+
+Team:
+
+----
+
+Uuid: new_id
