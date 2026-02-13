@@ -1,0 +1,99 @@
+Name: Peter Hase
+
+----
+
+Email: nantke.janssen@proton.me
+
+----
+
+Message:
+
+Mein Problem!
+- dies ist ein text
+
+----
+
+Checks: dsgvo_accepted, mitarbeit
+
+----
+
+Dreamform-submitted: 2026-02-13T14:57:08+00:00
+
+----
+
+Dreamform-referer: projects/digitale-ideen-fur-goslar
+
+----
+
+Dreamform-log:
+
+- 
+  data:
+    text: dreamform.actions.email.error.sender
+    template:
+      type: email
+  id: 2778eb51-91e3-43ef-8068-e94cb639495b
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770994629
+- 
+  data:
+    text: >
+      No sender email or transport username
+      specified
+    template:
+      type: email
+  id: e8b97754-614c-4894-ad39-3bb67c61f5e5
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770994629
+- 
+  data:
+    text: dreamform.actions.email.error.sender
+    template:
+      type: email
+  id: f3502f24-a9f8-4f33-9df4-8daf748d0af5
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770994629
+- 
+  data:
+    text: >
+      No sender email or transport username
+      specified
+    template:
+      type: email
+  id: dfe2c6a5-d8d3-40de-8b9d-fe0a1620caf9
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770994629
+
+----
+
+Dreamform-sender: 
+
+----
+
+Dreamform-state:
+
+success: true
+partial: false
+spam: false
+step: 1
+redirect: null
+error: null
+errors: [ ]
+actions: [ ]
+actionsdidrun: true
+
+----
+
+Uuid: lglib0kljwcs1aff
+
+----
+
+Dreamform-gravatar: 0
