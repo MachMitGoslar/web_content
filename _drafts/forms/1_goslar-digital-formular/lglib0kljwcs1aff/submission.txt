@@ -32,6 +32,46 @@ Dreamform-log:
     text: dreamform.actions.email.error.sender
     template:
       type: email
+  id: 95b5b6a0-6f1d-484a-8616-c9978bb415e0
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770995030
+- 
+  data:
+    text: Keine Absender-E-Mail-Adresse angegeben
+    template:
+      type: email
+  id: de5e2bfe-c940-4355-82e6-b301ed315ed0
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770995030
+- 
+  data:
+    text: dreamform.actions.email.error.sender
+    template:
+      type: email
+  id: 627b51e4-66bb-4a25-8db4-bc3f2622a745
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770995030
+- 
+  data:
+    text: Keine Absender-E-Mail-Adresse angegeben
+    template:
+      type: email
+  id: 1b413311-4ae7-451e-9e8a-6b89c27f774d
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770995030
+- 
+  data:
+    text: dreamform.actions.email.error.sender
+    template:
+      type: email
   id: 2778eb51-91e3-43ef-8068-e94cb639495b
   type: error
   icon: email
