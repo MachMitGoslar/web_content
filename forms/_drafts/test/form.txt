@@ -6,7 +6,7 @@ Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"email","label":"Em
 
 ----
 
-Actions: [{"content":{"sendto":[],"replyto":[],"subject":"","fieldtemplate":"","kirbytemplate":"dreamform","attachments":""},"id":"f79d9eee-6dc5-4367-8bde-ea497ae77d10","isHidden":false,"type":"email-action"}]
+Actions: [{"content":{"sendto":{"type":"static","value":"machmit@goslar.de"},"replyto":{"type":"dynamic","field":"efad1934-9cc2-47c6-b568-6fa5321a609c"},"subject":"Eine Anmeldung ist eingegangen","fieldtemplate":"<p>Test Empfänger</p>","kirbytemplate":"dreamform","attachments":"ad9c697b-a252-4b3c-80e8-7596cb6d4fed"},"id":"f79d9eee-6dc5-4367-8bde-ea497ae77d10","isHidden":false,"type":"email-action"},{"content":{"sendto":{"type":"dynamic","field":"efad1934-9cc2-47c6-b568-6fa5321a609c"},"replyto":{"type":"static","value":"machmit@goslar.de"},"subject":"Test: Deine Anmeldung ist eingegangen","fieldtemplate":"<p>Test Absender</p>","kirbytemplate":"dreamform","attachments":"ad9c697b-a252-4b3c-80e8-7596cb6d4fed"},"id":"12add20d-e5ab-429e-b4e4-8fb910014f67","isHidden":false,"type":"email-action"}]
 
 ----
 
