@@ -29,6 +29,18 @@ Dreamform-log:
 
 - 
   data:
+    template:
+      to: machmit@goslar.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: Test
+    body: Dies ist ein Test.
+  id: a907aec7-b6f7-4f33-adde-e3620d5cf026
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771231002
+- 
+  data:
     text: 'SMTP Error: Could not connect to SMTP host. Failed to connect to server'
     template:
       type: email
