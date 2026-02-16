@@ -6,7 +6,7 @@ Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"name","label":"Wie
 
 ----
 
-Actions: [{"content":{"sendto":{"type":"static","value":"machmit@goslar.de"},"replyto":{"type":"dynamic","field":"dc38631f-c758-47c1-af10-7f47fba77214"},"subject":"MachMit!Website: Eine neue Problemlage: Digitales Goslar ist eingegangen","fieldtemplate":"<p>Hallo liebes MachMit!Team,</p><p>eine neue Problemlage aus Goslar Digital auf mmh.goslar.de ist eingegangen.</p>","kirbytemplate":"dreamform","attachments":""},"id":"88269e4e-17b9-485e-94eb-82469357304b","isHidden":false,"type":"email-action"}]
+Actions: [{"content":{"sendto":{"type":"static","value":"machmit@goslar.de"},"replyto":{"type":"dynamic","field":"dc38631f-c758-47c1-af10-7f47fba77214"},"subject":"MachMit!Website: Eine neue Problemlage: Digitales Goslar ist eingegangen","fieldtemplate":"<p>Hallo liebes MachMit!Team,</p><p>eine neue Problemlage aus Goslar Digital auf mmh.goslar.de ist eingegangen.</p>","kirbytemplate":"dreamform","attachments":""},"id":"88269e4e-17b9-485e-94eb-82469357304b","isHidden":false,"type":"email-action"},{"content":{"sendto":{"type":"dynamic","field":"dc38631f-c758-47c1-af10-7f47fba77214"},"replyto":{"type":"static","value":"machmit@goslar.de"},"subject":"Gopslar Digital: Wir haben deine Problage erhalten","fieldtemplate":"<p>Vielen Dank für deine Nachricht. Das MachMit!Team wurde darüber informatiert. In der Regel bekommst du eine Rückmeldung innerhalb der nächste 72 Stunden. Sollten wir bis dahin nicht geantwortet haben freuen wir uns über eine kurze Rückmeldung.</p>","kirbytemplate":"dreamform","attachments":""},"id":"fb2b4f2d-e0a1-4e88-88dd-df2470406bdd","isHidden":false,"type":"email-action"}]
 
 ----
 
