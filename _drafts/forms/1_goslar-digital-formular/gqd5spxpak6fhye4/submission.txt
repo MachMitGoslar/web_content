@@ -1,0 +1,74 @@
+Name: Nanni
+
+----
+
+Email: nantke.janssen@goslar.de
+
+----
+
+Message: Testing
+
+----
+
+Checks: dsgvo_accepted
+
+----
+
+Dreamform-submitted: 2026-02-16T07:37:45+00:00
+
+----
+
+Dreamform-referer: projects/digitale-ideen-fur-goslar
+
+----
+
+Dreamform-log:
+
+- 
+  data:
+    text: dreamform.actions.email.error.sender
+    template:
+      type: email
+  id: 0091d700-14e0-424a-b4a7-7217c1d439b1
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1771227696
+- 
+  data:
+    text: >
+      No sender email or transport username
+      specified
+    template:
+      type: email
+  id: fee2b0e7-45b7-4f4e-8589-ee96ce354a9f
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1771227696
+
+----
+
+Dreamform-sender: 
+
+----
+
+Dreamform-state:
+
+success: true
+partial: false
+spam: false
+step: 1
+redirect: null
+error: null
+errors: [ ]
+actions: [ ]
+actionsdidrun: true
+
+----
+
+Uuid: gqd5spxpak6fhye4
+
+----
+
+Dreamform-gravatar: 0
