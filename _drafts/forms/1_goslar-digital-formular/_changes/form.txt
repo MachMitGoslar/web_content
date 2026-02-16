@@ -6,7 +6,7 @@ Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"name","label":"Wie
 
 ----
 
-Actions: [{"content":{"sendto":{"type":"static","value":"machmit@goslar.de"},"replyto":{"type":"dynamic","field":"dc38631f-c758-47c1-af10-7f47fba77214"},"subject":"Test","fieldtemplate":"<p>Dies ist ein Test.</p>","kirbytemplate":"dreamform","attachments":""},"id":"88269e4e-17b9-485e-94eb-82469357304b","isHidden":false,"type":"email-action"}]
+Actions: [{"content":{"sendto":{"type":"static","value":"machmit@goslar.de"},"replyto":{"type":"dynamic","field":"dc38631f-c758-47c1-af10-7f47fba77214"},"subject":"MachMit!Website: Eine neue Problemlage: Digitales Goslar ist eingegangen","fieldtemplate":"","kirbytemplate":"dreamform","attachments":""},"id":"88269e4e-17b9-485e-94eb-82469357304b","isHidden":false,"type":"email-action"}]
 
 ----
 
