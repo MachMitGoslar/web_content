@@ -1,0 +1,74 @@
+Name: erneuter test
+
+----
+
+Email: nantke.janssen@goslar.de
+
+----
+
+Message: Dies ist ein Test!
+
+----
+
+Checks: dsgvo_accepted
+
+----
+
+Dreamform-submitted: 2026-02-16T07:16:28+00:00
+
+----
+
+Dreamform-referer: projects/digitale-ideen-fur-goslar
+
+----
+
+Dreamform-log:
+
+- 
+  data:
+    text: dreamform.actions.email.error.sender
+    template:
+      type: email
+  id: a8a53d7b-88de-4664-8212-28321535ba75
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1771226211
+- 
+  data:
+    text: >
+      No sender email or transport username
+      specified
+    template:
+      type: email
+  id: 12d57b2f-0358-42e9-a92c-87123158f0e4
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1771226211
+
+----
+
+Dreamform-sender: 
+
+----
+
+Dreamform-state:
+
+success: true
+partial: false
+spam: false
+step: 1
+redirect: null
+error: null
+errors: [ ]
+actions: [ ]
+actionsdidrun: true
+
+----
+
+Uuid: z5xrtkld0spx6pst
+
+----
+
+Dreamform-gravatar: 0
