@@ -1,0 +1,65 @@
+Name: Nantke
+
+----
+
+Email: nantke.janssen@proton.me
+
+----
+
+Message:
+
+Diest ist ein Test.
+Hoffentlich funktioniert dieser.
+
+----
+
+Checks: dsgvo_accepted
+
+----
+
+Dreamform-submitted: 2026-02-16T08:18:06+00:00
+
+----
+
+Dreamform-referer: projects/digitale-ideen-fur-goslar
+
+----
+
+Dreamform-log:
+
+- 
+  data:
+    text: 'SMTP Error: Could not connect to SMTP host. Failed to connect to server'
+    template:
+      type: email
+  id: 27860ed9-6153-45b2-8559-c8c04a638bc0
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1771229890
+
+----
+
+Dreamform-sender: 
+
+----
+
+Dreamform-state:
+
+success: true
+partial: false
+spam: false
+step: 1
+redirect: null
+error: null
+errors: [ ]
+actions: [ ]
+actionsdidrun: true
+
+----
+
+Uuid: i3hdi2hnqdmhgfb6
+
+----
+
+Dreamform-gravatar: 0
