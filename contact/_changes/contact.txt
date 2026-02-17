@@ -1,0 +1,45 @@
+Title: Kontakt
+
+----
+
+Intro: 
+
+----
+
+Email: mmh@goslar.de
+
+----
+
+Phone: 05321704525
+
+----
+
+Website: https://machmit.goslar.de
+
+----
+
+Address: Markt 7, 38640 Goslar
+
+----
+
+Text: [{"content":{"level":"h2","text":"Unsere Öffnungszeiten"},"id":"942653a3-681c-4761-a704-444aca4f9300","isHidden":false,"type":"heading"},{"content":{"text":"<p>Zu diesen Zeiten erreicht ihr uns im Haus oder telefonisch:</p>"},"id":"text-02","isHidden":false,"type":"text"},{"content":{"text":"<th style=\"text-align: left; width: 50%; padding: 10px 8px;\"><strong>Öffnungszeiten:</strong></th><th style=\"text-align: left; width: 50%; padding: 10px 8px;\"></th><td style=\"padding: 10px 8px;\">Montag - Freitag</td><td style=\"padding: 10px 8px;\">13:00 Uhr - 18:00 Uhr und nach Vereinbarung</td><td style=\"padding: 10px 8px;\"></td><td style=\"padding: 10px 8px;\">an Feiertagen geschlossen</td><td style=\"padding: 10px 8px;\">Besondere Öffnungstage</td><td style=\"padding: 10px 8px;\">Diese finden Sie im Veranstaltungskalender</td>"},"id":"text-05","isHidden":false,"type":"text"},{"content":{"form":["page://c2uyxj79gsugt2mz"]},"id":"5f1111f8-b2fe-461c-a8b8-efaefa184b62","isHidden":false,"type":"form"}]
+
+----
+
+Lat: 51.906169
+
+----
+
+Lng: 10.429327
+
+----
+
+Mapbox-token: pk.eyJ1IjoicmFuZ2FyaWFuIiwiYSI6ImNrZGVxNzNhODI5MTcyenM4dGR5bnZhb3UifQ.7WvcNEBQJn9iV42IiyG8rQ
+
+----
+
+Uuid: y89diz2faheszrrz
+
+----
+
+Lock: G1NVm727
