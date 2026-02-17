@@ -26,6 +26,72 @@ Dreamform-log:
 
 - 
   data:
+    template:
+      to: machmit@goslar.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'MachMit!Website: Eine neue Problemlage: Digitales Goslar ist eingegangen'
+    body: |
+      Hallo liebes MachMit!Team,
+      eine neue Problemlage aus Goslar Digital auf mmh.goslar.de ist eingegangen.
+  id: 57907893-3b57-44b9-9317-ca68f423a27d
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771235136
+- 
+  data:
+    template:
+      to: nantke.janssen@proton.me
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'Goslar Digital: Wir haben deine Problage erhalten'
+    body: >
+      Vielen Dank für deine Nachricht. Das
+      MachMit!Team wurde darüber
+      informatiert. In der Regel bekommst du
+      eine Rückmeldung innerhalb der nächste
+      72 Stunden. Sollten wir bis dahin nicht
+      geantwortet haben freuen wir uns über
+      eine kurze Rückmeldung.
+  id: d67d175a-09de-4234-9923-a9dea8429ff3
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771235136
+- 
+  data:
+    template:
+      to: machmit@goslar.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'MachMit!Website: Eine neue Problemlage: Digitales Goslar ist eingegangen'
+    body: |
+      Hallo liebes MachMit!Team,
+      eine neue Problemlage aus Goslar Digital auf mmh.goslar.de ist eingegangen.
+  id: 2888ddc9-05ab-41f2-86cd-761cf9042484
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771234471
+- 
+  data:
+    template:
+      to: nantke.janssen@proton.me
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'Goslar Digital: Wir haben deine Problage erhalten'
+    body: >
+      Vielen Dank für deine Nachricht. Das
+      MachMit!Team wurde darüber
+      informatiert. In der Regel bekommst du
+      eine Rückmeldung innerhalb der nächste
+      72 Stunden. Sollten wir bis dahin nicht
+      geantwortet haben freuen wir uns über
+      eine kurze Rückmeldung.
+  id: d93b0fb3-46ac-4ff8-9e67-6e85ffc183f8
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771234471
+- 
+  data:
     text: dreamform.actions.email.error.sender
     template:
       type: email
