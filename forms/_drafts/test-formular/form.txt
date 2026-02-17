@@ -1,0 +1,29 @@
+Title: Test-Formular
+
+----
+
+Fields: 
+
+----
+
+Actions: 
+
+----
+
+Successmessage: 
+
+----
+
+Continueonerror: false
+
+----
+
+Runworkflowinqueue: true
+
+----
+
+Storesubmissions: true
+
+----
+
+Uuid: 7n7vunpqlqfrhhvj
