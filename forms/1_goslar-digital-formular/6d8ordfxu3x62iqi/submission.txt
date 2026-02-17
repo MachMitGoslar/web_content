@@ -2,11 +2,11 @@ Name: Nantke
 
 ----
 
-Email: nantke.janssen@proton.me
+Email: nantke@test.de
 
 ----
 
-Message: Hellooooooooooooo
+Message: Helloooooooooooooooooooooooooooo
 
 ----
 
@@ -18,7 +18,7 @@ Checks02:
 
 ----
 
-Dreamform-submitted: 2026-02-17T14:28:20+00:00
+Dreamform-submitted: 2026-02-17T15:02:11+00:00
 
 ----
 
@@ -31,21 +31,7 @@ Dreamform-log:
 - 
   data:
     template:
-      to: machmit@goslar.de
-    from: noreply@gs-mmh-web.ddev.site
-    subject: 'MachMit!Website: Eine neue Problemlage: Digitales Goslar ist eingegangen'
-    body: |
-      Hallo liebes MachMit!Team,
-      eine neue Problemlage aus Goslar Digital auf mmh.goslar.de ist eingegangen.
-  id: 62813c1f-faea-4b60-bdf3-4cf48b6f9a3d
-  type: email
-  icon: email
-  title: dreamform.actions.email.log.success
-  timestamp: 1771338500
-- 
-  data:
-    template:
-      to: nantke.janssen@proton.me
+      to: nantke@test.de
     from: noreply@gs-mmh-web.ddev.site
     subject: 'Goslar Digital: Wir haben deine Problage erhalten'
     body: >
@@ -56,11 +42,25 @@ Dreamform-log:
       72 Stunden. Sollten wir bis dahin nicht
       geantwortet haben freuen wir uns über
       eine kurze Rückmeldung.
-  id: dcb80943-163f-4d53-a54a-f47b77decb35
+  id: ccdedc79-435f-4a10-9673-4df72d72c597
   type: email
   icon: email
   title: dreamform.actions.email.log.success
-  timestamp: 1771338500
+  timestamp: 1771340532
+- 
+  data:
+    template:
+      to: machmit@goslar.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'MachMit!Website: Eine neue Problemlage: Digitales Goslar ist eingegangen'
+    body: |
+      Hallo liebes MachMit!Team,
+      eine neue Problemlage aus Goslar Digital auf mmh.goslar.de ist eingegangen.
+  id: 2e0f6e3d-56df-4ba2-b933-4f8c33b47922
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771340531
 
 ----
 
@@ -82,7 +82,7 @@ actionsdidrun: true
 
 ----
 
-Uuid: yu8vvzqjugjbbnr2
+Uuid: 6d8ordfxu3x62iqi
 
 ----
 
