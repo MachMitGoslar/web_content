@@ -10,7 +10,11 @@ Message: dies ist ein test
 
 ----
 
-Checks: dsgvo_accepted, mitarbeit
+Checks: dsgvo_accepted
+
+----
+
+Checks02: 
 
 ----
 
