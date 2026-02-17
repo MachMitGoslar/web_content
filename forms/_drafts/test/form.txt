@@ -2,7 +2,7 @@ Title: test
 
 ----
 
-Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"key","label":"","placeholder":"","required":"false","errormessage":""},"id":"3c3b6a10-eef5-45da-9407-fc2010098e3c","isHidden":false,"type":"text-field"}],"id":"d4247015-2855-41f9-a627-99bbbc92dae0","width":"1/1"}],"id":"6b6f49fa-bb90-4720-9f2b-a1df78c8a962"}]
+Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"key","label":"Test","placeholder":"","required":"false","errormessage":""},"id":"3c3b6a10-eef5-45da-9407-fc2010098e3c","isHidden":false,"type":"text-field"}],"id":"d4247015-2855-41f9-a627-99bbbc92dae0","width":"1/1"}],"id":"6b6f49fa-bb90-4720-9f2b-a1df78c8a962"}]
 
 ----
 
