@@ -1,0 +1,29 @@
+Title: test
+
+----
+
+Fields: 
+
+----
+
+Actions: 
+
+----
+
+Successmessage: 
+
+----
+
+Continueonerror: false
+
+----
+
+Runworkflowinqueue: true
+
+----
+
+Storesubmissions: true
+
+----
+
+Uuid: 4ypnteczx7nf3hyc
