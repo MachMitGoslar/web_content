@@ -1,4 +1,4 @@
-Title: Kontakt und AnsprechpartnerInnen
+Title: Kontakt
 
 ----
 
@@ -87,7 +87,5 @@ Lng: 10.429327
 Mapbox-token: pk.eyJ1IjoicmFuZ2FyaWFuIiwiYSI6ImNrZGVxNzNhODI5MTcyenM4dGR5bnZhb3UifQ.7WvcNEBQJn9iV42IiyG8rQ
 
 ----
-
-
 
 Uuid: y89diz2faheszrrz
