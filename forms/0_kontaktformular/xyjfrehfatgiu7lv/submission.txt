@@ -1,0 +1,84 @@
+Dreamform-submitted: 2026-02-18T09:22:01+00:00
+
+----
+
+Dreamform-referer: contact
+
+----
+
+Dreamform-log:
+
+- 
+  data:
+    template:
+      to: machmit@goslar.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'MachMit!Website: Eine Kontaktanfrage ist eingegangen'
+    body: |
+      Hallo liebes MachMit!Team,
+      
+      eine Kontaktanfrage auf mmh.goslar.de ist eingegangen.
+      
+      Name:
+  id: 39627019-2dd5-440c-9d7c-61af137fd489
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771406522
+- 
+  data:
+    template:
+      to: test@test.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'MachMit!Haus Goslar: Wir haben deine Anfrage erhalten'
+    body: >
+      Vielen Dank für deine Nachricht. Das
+      MachMit!Team wurde darüber
+      informatiert. In der Regel bekommst du
+      eine Rückmeldung innerhalb der nächste
+      72 Stunden. Sollten wir bis dahin nicht
+      geantwortet haben freuen wir uns über
+      eine kurze Rückmeldung.
+  id: 51ff8eb8-4838-4cf6-9a8c-4da090ec826f
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771406522
+
+----
+
+Dreamform-sender: 
+
+----
+
+Dreamform-state:
+
+success: true
+partial: false
+spam: false
+step: 1
+redirect: null
+error: null
+errors: [ ]
+actions: [ ]
+actionsdidrun: true
+
+----
+
+Uuid: xyjfrehfatgiu7lv
+
+----
+
+Name: Nantke Testet
+
+----
+
+Email: test@test.de
+
+----
+
+Message: Meine Nachricht.
+
+----
+
+Checks: dsgvo_accepted
