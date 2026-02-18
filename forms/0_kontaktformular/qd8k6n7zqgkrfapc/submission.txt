@@ -1,12 +1,12 @@
-Name: Nantke Testet
+Name: Nantke
 
 ----
 
-Email: nantke.janssen@mail.de
+Email: nantke@test.de
 
 ----
 
-Message: Ein Tester
+Message: Ich habe folgende Frage:
 
 ----
 
@@ -14,15 +14,11 @@ Checks: dsgvo_accepted
 
 ----
 
-Checks02: 
+Dreamform-submitted: 2026-02-17T08:38:45+00:00
 
 ----
 
-Dreamform-submitted: 2026-02-18T09:00:48+00:00
-
-----
-
-Dreamform-referer: projects/digitale-ideen-fur-goslar
+Dreamform-referer: contact
 
 ----
 
@@ -33,21 +29,24 @@ Dreamform-log:
     template:
       to: machmit@goslar.de
     from: noreply@gs-mmh-web.ddev.site
-    subject: 'MachMit!Website: Eine neue Problemlage: Digitales Goslar ist eingegangen'
+    subject: 'MachMit!Website: Eine Kontaktanfrage ist eingegangen'
     body: |
       Hallo liebes MachMit!Team,
-      eine neue Problemlage aus Goslar Digital auf mmh.goslar.de ist eingegangen.
-  id: 23ab95e0-5eac-41fa-afc8-cb01fefd9d4a
+      
+      eine Kontaktanfrage auf mmh.goslar.de ist eingegangen.
+      
+      Name:
+  id: 93278d51-87d8-4cac-b71c-9984702f4db8
   type: email
   icon: email
   title: dreamform.actions.email.log.success
-  timestamp: 1771405258
+  timestamp: 1771317526
 - 
   data:
     template:
-      to: nantke.janssen@mail.de
+      to: nantke@test.de
     from: noreply@gs-mmh-web.ddev.site
-    subject: 'Goslar Digital: Wir haben deine Problage erhalten'
+    subject: 'MachMit!Haus Goslar: Wir haben deine Anfrage erhalten'
     body: >
       Vielen Dank für deine Nachricht. Das
       MachMit!Team wurde darüber
@@ -56,11 +55,11 @@ Dreamform-log:
       72 Stunden. Sollten wir bis dahin nicht
       geantwortet haben freuen wir uns über
       eine kurze Rückmeldung.
-  id: fcd4f445-31d6-46a2-bba6-f1f7e73f763c
+  id: c3a5cc54-0a2d-4fb1-a0ed-61a1e0c8fc75
   type: email
   icon: email
   title: dreamform.actions.email.log.success
-  timestamp: 1771405258
+  timestamp: 1771317526
 
 ----
 
@@ -82,7 +81,7 @@ actionsdidrun: true
 
 ----
 
-Uuid: igd9qyxazqjhanud
+Uuid: qd8k6n7zqgkrfapc
 
 ----
 
