@@ -1,0 +1,96 @@
+Name: test
+
+----
+
+Email: test@test.de
+
+----
+
+Message: dies ist ein test
+
+----
+
+Checks: dsgvo_accepted, mitarbeit
+
+----
+
+Dreamform-submitted: 2026-02-13T15:07:03+00:00
+
+----
+
+Dreamform-referer: projects/digitale-ideen-fur-goslar
+
+----
+
+Dreamform-log:
+
+- 
+  data:
+    text: dreamform.actions.email.error.sender
+    template:
+      type: email
+  id: 9010d282-cf1c-4193-85be-d7147e4e4b49
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770995223
+- 
+  data:
+    text: >
+      No sender email or transport username
+      specified
+    template:
+      type: email
+  id: 0065e7b3-ae3e-4fec-bb01-eda7784c0e1b
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770995223
+- 
+  data:
+    text: dreamform.actions.email.error.sender
+    template:
+      type: email
+  id: a7a1ae3e-c7d5-47c1-b887-6fb579d8559e
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770995223
+- 
+  data:
+    text: >
+      No sender email or transport username
+      specified
+    template:
+      type: email
+  id: f1bdb9a4-4f92-4282-b7e9-1eed259d90ed
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770995223
+
+----
+
+Dreamform-sender: 
+
+----
+
+Dreamform-state:
+
+success: true
+partial: false
+spam: false
+step: 1
+redirect: null
+error: null
+errors: [ ]
+actions: [ ]
+actionsdidrun: true
+
+----
+
+Uuid: l7yjrxc75tqds7ui
+
+----
+
+Dreamform-gravatar: 0

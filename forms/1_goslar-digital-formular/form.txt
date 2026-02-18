@@ -1,0 +1,25 @@
+Title: Goslar Digital: Deine Problemlage für uns
+
+----
+
+Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"name","label":"Wie sollen wir dich nennen?","placeholder":"","required":"true","errormessage":""},"id":"82e0cd25-0715-4699-8905-d7972035b5f0","isHidden":false,"type":"text-field"},{"content":{"key":"email","label":"E-Mail","placeholder":"Deine Email","required":"true","errormessage":""},"id":"dc38631f-c758-47c1-af10-7f47fba77214","isHidden":false,"type":"email-field"}],"id":"ee44c8fe-015c-4598-8ed8-a893c4ad66fa","width":"1/1"}],"id":"30351842-471b-4066-9696-6828deaa8690"},{"attrs":[],"columns":[{"blocks":[{"content":{"key":"message","label":"Die Problemstellung","placeholder":"Erkläre uns, gern ausschweifend, deine Problemlage. Und wenn du sogar schon weiterdenken willst... Erkläre uns gern einen möglichen Lösungsansatz dafür. Das muss auch gar nicht technisch sein","required":"false","errormessage":""},"id":"a6b4f817-dec2-41d8-8f5d-d81fa147e8da","isHidden":false,"type":"textarea-field"}],"id":"7841cea9-7f0f-44e9-869b-3129d8c0401a","width":"1/1"}],"id":"be02e333-b194-4ddd-844d-19036ec71ef1"},{"attrs":[],"columns":[{"blocks":[{"content":{"key":"checks","label":"","options":[{"value":"dsgvo_accepted","label":"Ich stimme der Übertragung, Speicherung und Nutzung meiner Daten zu. Ich erkläre mich mit den Datenschutzbestimmungen einverstanden"}],"min":1,"max":"","errormessage":""},"id":"check","isHidden":false,"type":"checkbox-field"},{"content":{"key":"checks02","label":"","options":[{"value":"mitarbeit","label":"Ich würde gern selbst an der Lösung weiterarbeiten, haltet mich also auf dem Laufenden"}],"min":"","max":"","errormessage":""},"id":"4d7503e5-4631-477b-9d7f-33e22f637d7e","isHidden":false,"type":"checkbox-field"}],"id":"b8840e7e-0753-47e8-a2f4-b5747c0060ee","width":"1/1"}],"id":"9babec35-30a4-45c2-969b-d84b050be9fb"},{"attrs":[],"columns":[{"blocks":[{"content":{"label":""},"id":"879d9e04-9efd-4701-900b-7bbeb51365b9","isHidden":false,"type":"button-field"}],"id":"66b485ca-f350-41ce-a79b-9dfd9c423aa1","width":"1/1"}],"id":"d11ebea6-bd46-49f4-8629-d06dac82ca9c"}]
+
+----
+
+Actions: [{"content":{"sendto":{"type":"static","value":"machmit@goslar.de"},"replyto":{"type":"dynamic","field":"dc38631f-c758-47c1-af10-7f47fba77214"},"subject":"MachMit!Website: Eine neue Problemlage: Digitales Goslar ist eingegangen","fieldtemplate":"<p>Hallo liebes MachMit!Team,</p><p>eine neue Problemlage aus Goslar Digital auf mmh.goslar.de ist eingegangen.</p>","kirbytemplate":"dreamform","attachments":""},"id":"88269e4e-17b9-485e-94eb-82469357304b","isHidden":false,"type":"email-action"},{"content":{"sendto":{"type":"dynamic","field":"dc38631f-c758-47c1-af10-7f47fba77214"},"replyto":{"type":"static","value":"machmit@goslar.de"},"subject":"Goslar Digital: Wir haben deine Problage erhalten","fieldtemplate":"<p>Vielen Dank für deine Nachricht. Das MachMit!Team wurde darüber informatiert. In der Regel bekommst du eine Rückmeldung innerhalb der nächste 72 Stunden. Sollten wir bis dahin nicht geantwortet haben freuen wir uns über eine kurze Rückmeldung.</p>","kirbytemplate":"dreamform","attachments":""},"id":"fb2b4f2d-e0a1-4e88-88dd-df2470406bdd","isHidden":false,"type":"email-action"}]
+
+----
+
+Successmessage: <p>Vielen Dank für deine Nachricht. Das MachMit!Team wurde darüber informatiert. In der Regel bekommst du eine Rückmeldung innerhalb der nächste 72 Stunden. Sollten wir bis dahin nicht geantwortet haben freuen wir uns über eine kurze Rückmeldung.</p>
+
+----
+
+Continueonerror: true
+
+----
+
+Storesubmissions: true
+
+----
+
+Uuid: hcp0dmga1geeypqv
