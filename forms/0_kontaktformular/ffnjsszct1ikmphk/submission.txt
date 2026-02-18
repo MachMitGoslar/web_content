@@ -1,0 +1,88 @@
+Name: nantke
+
+----
+
+Email: test@test.de
+
+----
+
+Message: Wie funktioniert dieses Kontaktformular?
+
+----
+
+Checks: dsgvo_accepted
+
+----
+
+Dreamform-submitted: 2026-02-16T13:17:08+00:00
+
+----
+
+Dreamform-referer: informations/stadtleben-in-goslar
+
+----
+
+Dreamform-log:
+
+- 
+  data:
+    template:
+      to: test@test.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'MachMit!Haus Goslar: Wir haben deine Anfrage erhalten'
+    body: >
+      Vielen Dank für deine Nachricht. Das
+      MachMit!Team wurde darüber
+      informatiert. In der Regel bekommst du
+      eine Rückmeldung innerhalb der nächste
+      72 Stunden. Sollten wir bis dahin nicht
+      geantwortet haben freuen wir uns über
+      eine kurze Rückmeldung.
+  id: d92244f9-f0c7-49ff-b6a1-0e7b6757aab7
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771247830
+- 
+  data:
+    template:
+      to: machmit@goslar.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'MachMit!Website: Eine Kontaktanfrage ist eingegangen'
+    body: |
+      Hallo liebes MachMit!Team,
+      
+      eine Kontaktanfrage auf mmh.goslar.de ist eingegangen.
+      
+      Name:
+  id: b60cf1e7-c6b5-4e49-ab38-f3034d80dcb9
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771247829
+
+----
+
+Dreamform-sender: 
+
+----
+
+Dreamform-state:
+
+success: true
+partial: false
+spam: false
+step: 1
+redirect: null
+error: null
+errors: [ ]
+actions: [ ]
+actionsdidrun: true
+
+----
+
+Uuid: ffnjsszct1ikmphk
+
+----
+
+Dreamform-gravatar: 0
