@@ -1,0 +1,89 @@
+Name: Nantke Testet
+
+----
+
+Email: nantke.janssen@mail.de
+
+----
+
+Message: Ein Tester
+
+----
+
+Checks: dsgvo_accepted
+
+----
+
+Checks02: 
+
+----
+
+Dreamform-submitted: 2026-02-18T09:00:48+00:00
+
+----
+
+Dreamform-referer: projects/digitale-ideen-fur-goslar
+
+----
+
+Dreamform-log:
+
+- 
+  data:
+    template:
+      to: machmit@goslar.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'MachMit!Website: Eine neue Problemlage: Digitales Goslar ist eingegangen'
+    body: |
+      Hallo liebes MachMit!Team,
+      eine neue Problemlage aus Goslar Digital auf mmh.goslar.de ist eingegangen.
+  id: 23ab95e0-5eac-41fa-afc8-cb01fefd9d4a
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771405258
+- 
+  data:
+    template:
+      to: nantke.janssen@mail.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'Goslar Digital: Wir haben deine Problage erhalten'
+    body: >
+      Vielen Dank für deine Nachricht. Das
+      MachMit!Team wurde darüber
+      informatiert. In der Regel bekommst du
+      eine Rückmeldung innerhalb der nächste
+      72 Stunden. Sollten wir bis dahin nicht
+      geantwortet haben freuen wir uns über
+      eine kurze Rückmeldung.
+  id: fcd4f445-31d6-46a2-bba6-f1f7e73f763c
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771405258
+
+----
+
+Dreamform-sender: 
+
+----
+
+Dreamform-state:
+
+success: true
+partial: false
+spam: false
+step: 1
+redirect: null
+error: null
+errors: [ ]
+actions: [ ]
+actionsdidrun: true
+
+----
+
+Uuid: igd9qyxazqjhanud
+
+----
+
+Dreamform-gravatar: 0
