@@ -1,0 +1,96 @@
+Name: Nanni
+
+----
+
+Email: nantke.janssen@proton.me
+
+----
+
+Message: Test
+
+----
+
+Checks: dsgvo_accepted
+
+----
+
+Dreamform-submitted: 2026-02-13T13:41:13+00:00
+
+----
+
+Dreamform-referer: projects/digitale-ideen-fur-goslar
+
+----
+
+Dreamform-log:
+
+- 
+  data:
+    text: dreamform.actions.email.error.sender
+    template:
+      type: email
+  id: a8177865-0761-4c5a-a213-865127161f4c
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770990073
+- 
+  data:
+    text: >
+      No sender email or transport username
+      specified
+    template:
+      type: email
+  id: 1245e5a1-8dcd-4ad8-a23d-257d1a10c093
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770990073
+- 
+  data:
+    text: dreamform.actions.email.error.sender
+    template:
+      type: email
+  id: bcd046a4-a40b-46cb-b38d-1fd78e11b85d
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770990073
+- 
+  data:
+    text: >
+      No sender email or transport username
+      specified
+    template:
+      type: email
+  id: f34e1023-4083-4d5c-a13d-7d3d3d51dc24
+  type: error
+  icon: email
+  title: dreamform.actions.email.name
+  timestamp: 1770990073
+
+----
+
+Dreamform-sender: 
+
+----
+
+Dreamform-state:
+
+success: true
+partial: false
+spam: false
+step: 1
+redirect: null
+error: null
+errors: [ ]
+actions: [ ]
+actionsdidrun: true
+
+----
+
+Uuid: b8sdp4lr3qg6oyyh
+
+----
+
+Dreamform-gravatar: 0
