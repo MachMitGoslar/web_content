@@ -32,6 +32,21 @@ Navigation:
 
 ----
 
+Social:
+
+- 
+  link: https://www.instagram.com/machmitgoslar
+  title: 'IG - MachMit!Goslar'
+
+----
+
+General:
+
+- page://XScm21USw7BA3wj1
+- page://y89diz2faheszrrz
+
+----
+
 Roles:
 
 - 
@@ -51,15 +66,3 @@ Roles:
 ----
 
 Staff: - page://Cw3N87jTU3LFBVvj
-
-----
-
-Social:
-
-- 
-  link: https://www.instagram.com/machmitgoslar
-  title: 'IG - MachMit!Goslar'
-
-----
-
-General: - page://XScm21USw7BA3wj1
