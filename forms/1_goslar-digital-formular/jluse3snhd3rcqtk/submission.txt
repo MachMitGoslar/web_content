@@ -1,0 +1,89 @@
+Name: der tester
+
+----
+
+Email: test@test.de
+
+----
+
+Message: dies ist ein test
+
+----
+
+Checks: dsgvo_accepted
+
+----
+
+Checks02: 
+
+----
+
+Dreamform-submitted: 2026-02-18T06:55:15+00:00
+
+----
+
+Dreamform-referer: projects/digitale-ideen-fur-goslar
+
+----
+
+Dreamform-log:
+
+- 
+  data:
+    template:
+      to: machmit@goslar.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'MachMit!Website: Eine neue Problemlage: Digitales Goslar ist eingegangen'
+    body: |
+      Hallo liebes MachMit!Team,
+      eine neue Problemlage aus Goslar Digital auf mmh.goslar.de ist eingegangen.
+  id: 1a104194-2e03-4fe7-80f7-ca199f885481
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771397716
+- 
+  data:
+    template:
+      to: test@test.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'Goslar Digital: Wir haben deine Problage erhalten'
+    body: >
+      Vielen Dank für deine Nachricht. Das
+      MachMit!Team wurde darüber
+      informatiert. In der Regel bekommst du
+      eine Rückmeldung innerhalb der nächste
+      72 Stunden. Sollten wir bis dahin nicht
+      geantwortet haben freuen wir uns über
+      eine kurze Rückmeldung.
+  id: 7843e532-6eab-46ab-a3a8-51b83b046bc3
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771397716
+
+----
+
+Dreamform-sender: 
+
+----
+
+Dreamform-state:
+
+success: true
+partial: false
+spam: false
+step: 1
+redirect: null
+error: null
+errors: [ ]
+actions: [ ]
+actionsdidrun: true
+
+----
+
+Uuid: jluse3snhd3rcqtk
+
+----
+
+Dreamform-gravatar: 0
