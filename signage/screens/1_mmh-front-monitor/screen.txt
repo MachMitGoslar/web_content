@@ -59,6 +59,12 @@ Whitelist:
   ip: ""
   approved_at: ""
   approved_by: ""
+- 
+  label: Nantke Lenovo
+  uuid: 23720a85-37e5-406c-85ae-981b4e670814
+  ip: 172.18.0.5
+  approved_at: ""
+  approved_by: ""
 
 ----
 
