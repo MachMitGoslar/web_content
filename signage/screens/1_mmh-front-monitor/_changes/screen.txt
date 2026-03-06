@@ -79,11 +79,7 @@ Pending-requests-list:
 
 ----
 
-Denied-requests:
-
-- 
-  uuid: 954af41e-6a75-4ffc-b634-0e68322b6a7a
-  denied_at: 2026-03-06 12:59:29
+Denied-requests: 
 
 ----
 
