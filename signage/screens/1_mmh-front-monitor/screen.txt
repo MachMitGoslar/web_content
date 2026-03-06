@@ -59,12 +59,6 @@ Whitelist:
   ip: ""
   approved_at: ""
   approved_by: ""
-- 
-  label: Lenovo Nantke
-  uuid: 954af41e-6a75-4ffc-b634-0e68322b6a7a
-  ip: 172.18.0.5
-  approved_at: 2026-03-06 13:50:00
-  approved_by: nantke.janssen@goslar.de
 
 ----
 
