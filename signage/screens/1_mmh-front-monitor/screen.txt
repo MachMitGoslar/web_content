@@ -62,16 +62,7 @@ Whitelist:
 
 ----
 
-Pending-requests:
-
-- 
-  uuid: 954af41e-6a75-4ffc-b634-0e68322b6a7a
-  ip: 172.18.0.5
-  user_agent: >
-    Mozilla/5.0 (Windows NT 10.0; Win64;
-    x64) AppleWebKit/537.36 (KHTML, like
-    Gecko) Chrome/145.0.0.0 Safari/537.36
-  requested_at: 2026-03-06 13:05:45
+Pending-requests: 
 
 ----
 
@@ -92,4 +83,9 @@ Denied-requests:
 
 - 
   uuid: 954af41e-6a75-4ffc-b634-0e68322b6a7a
-  denied_at: 2026-03-06 12:59:29
+  ip: 172.18.0.5
+  user_agent: >
+    Mozilla/5.0 (Windows NT 10.0; Win64;
+    x64) AppleWebKit/537.36 (KHTML, like
+    Gecko) Chrome/145.0.0.0 Safari/537.36
+  denied_at: 2026-03-06 13:25:51
