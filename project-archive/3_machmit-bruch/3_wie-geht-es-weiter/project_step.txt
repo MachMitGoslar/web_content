@@ -1,0 +1,33 @@
+Title: Wie geht es weiter
+
+----
+
+Project-start-date: 2025-05-12
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: in Auswertung
+
+----
+
+Headline: 
+
+----
+
+Description: Wäre das Format MachMit!Brunch etwas das wir fortsetzen sollten? Schreibt uns euer Feedback an (email: machmit@goslar.de text: machmit@goslar.de)
+
+----
+
+Tags: 
+
+----
+
+Uuid: MCY1WQzo8u8x8nFs

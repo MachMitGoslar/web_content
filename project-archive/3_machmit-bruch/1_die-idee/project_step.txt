@@ -1,0 +1,33 @@
+Title: Die Idee
+
+----
+
+Project-start-date: 2025-02-01
+
+----
+
+Project-start-time: 11:00:00
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: 
+
+----
+
+Headline: 
+
+----
+
+Description: Wir haben die Anfrage bekommen den deutschen Synchronsprecher von Spongebob zu einer Veranstaltung einzuladen. Lässt sich daraus nicht ein MachMit!Projekt" kreieren?"
+
+----
+
+Tags: syncronsprecher, hörspiel, elternnetzwerk
+
+----
+
+Uuid: zDLBMgVwwWo7wLy1

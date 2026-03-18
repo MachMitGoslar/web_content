@@ -1,24 +1,24 @@
-Caption:
+Caption: 
 
 ----
 
-Alt:
+Alt: 
 
 ----
 
-Photographer:
+Photographer: 
 
 ----
 
-License:
+License: 
 
 ----
 
-Link:
+Link: 
 
 ----
 
-Uuid: d60a02d28d
+Uuid: 4WyjTpUQzZSquddJ
 
 ----
 
