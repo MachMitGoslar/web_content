@@ -14,7 +14,7 @@ Subheadline: das vietnamnesische Neujahrsfest
 
 ----
 
-Project-status: in Planung
+Project-status: abgeschlossen
 
 ----
 
