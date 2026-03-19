@@ -47,3 +47,7 @@ Uuid: ComponentShowcase123
 ----
 
 Button: sasfdfasd ssadfsdfa  qfqwfasdfasd
+
+----
+
+Lock: 9jz5v1SG
