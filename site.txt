@@ -22,10 +22,7 @@ Sections: - page://LbjZDDGT59VEUWp5
 
 ----
 
-Navigation:
-
-- page://wljMYhm0m3e9QOwC
-- page://qyKqay030eY9Png9
+Navigation: - page://wljMYhm0m3e9QOwC
 
 ----
 
