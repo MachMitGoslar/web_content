@@ -137,11 +137,24 @@ Upcoming-entries:
 
 ----
 
-News: 
+News:
+
+- 
+  layout: imageLeft
+  headline: ""
+  subheadline: ""
+  content_text: ""
+  image: [ ]
+  link: ""
+  mailto: ""
 
 ----
 
-Closingsinfos: 
+Closingsinfos:
+
+Kommt gerne zu unseren Veranstaltung oder einfach auf ein gutes Gespräch zu uns ins MachMit!Haus. Die nächste gute Idee für unsere schöne Stadt findet sich bestimmt!
+Bis bald,
+Euer MachMit!Team
 
 ----
 
