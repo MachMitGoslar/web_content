@@ -1,16 +1,14 @@
-<<<<<<< HEAD
-Title: Veranstaltungen
+Head-title: Veranstaltungen
 
 ----
 
-=======
->>>>>>> 61b2091ef80489f6e7fd0667f0af9a7442a20a30
-Cover: - file://uhb7op99dqk2ung4
+61b2091ef80489f6e7fd0667f0af9a7442a20a30-cover: - file://uhb7op99dqk2ung4
 
 ----
 
-<<<<<<< HEAD
-Headline: Unsere Veranstaltungen
+Head-headline:
+
+Unsere Veranstaltungen
 =======
 Headline: 
 >>>>>>> 61b2091ef80489f6e7fd0667f0af9a7442a20a30
@@ -21,12 +19,12 @@ Description:
 
 ----
 
-<<<<<<< HEAD
-Uuid: v21wdmfeltonozez
+Head-uuid:
+
+v21wdmfeltonozez
 =======
 Uuid: v21wdmfeltonozez
 
 ----
 
-Lock: 9jz5v1SG
->>>>>>> 61b2091ef80489f6e7fd0667f0af9a7442a20a30
+Uuid: wvbjqm0djxyntjhd
