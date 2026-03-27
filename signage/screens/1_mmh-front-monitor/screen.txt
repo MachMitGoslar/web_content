@@ -59,6 +59,12 @@ Whitelist:
   ip: ""
   approved_at: ""
   approved_by: ""
+- 
+  label: MAC
+  uuid: 9c069be4-98d2-41c8-88db-c9a65eea8081
+  ip: 172.18.0.5
+  approved_at: 2026-03-27 11:15:00
+  approved_by: nantke.janssen@goslar.de
 
 ----
 
@@ -88,13 +94,4 @@ Pending-requests-list:
 
 ----
 
-Denied-requests:
-
-- 
-  uuid: 9c069be4-98d2-41c8-88db-c9a65eea8081
-  ip: 172.18.0.5
-  user_agent: >
-    Mozilla/5.0 (Macintosh; Intel Mac OS X
-    10_15_7) AppleWebKit/605.1.15 (KHTML,
-    like Gecko) Version/26.0 Safari/605.1.15
-  denied_at: 2026-03-27 11:15:19
+Denied-requests: 
