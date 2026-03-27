@@ -1,0 +1,21 @@
+Title: test
+
+----
+
+Fields: 
+
+----
+
+Actions: 
+
+----
+
+Successmessage: 
+
+----
+
+Continueonerror: false
+
+----
+
+Uuid: 52kpqssvyjx37kl3
