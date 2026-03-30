@@ -59,12 +59,6 @@ Whitelist:
   ip: ""
   approved_at: ""
   approved_by: ""
-- 
-  label: Mac Nantke
-  uuid: 9c069be4-98d2-41c8-88db-c9a65eea8081
-  ip: 172.18.0.5
-  approved_at: 2026-03-30 13:05:00
-  approved_by: nantke.janssen@goslar.de
 
 ----
 
