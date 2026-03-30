@@ -51,17 +51,6 @@ Whitelist-enabled: true
 
 ----
 
-Whitelist:
-
-- 
-  label: Mac Laptio
-  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
-  ip: ""
-  approved_at: ""
-  approved_by: ""
-
-----
-
 Pending-requests:
 
 - 
@@ -80,6 +69,23 @@ Pending-requests:
     10_15_7) AppleWebKit/605.1.15 (KHTML,
     like Gecko) Version/26.0 Safari/605.1.15
   requested_at: 2026-03-30 13:07:49
+
+----
+
+Whitelist:
+
+- 
+  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
+  ip: ""
+  label: Mac Laptio
+  approved_at: ""
+  approved_by: ""
+- 
+  uuid: 6e868aff-2b79-4eba-8d48-96ada3cafe83
+  ip: 172.18.0.5
+  label: Device 6e868aff
+  approved_at: 2026-03-30 13:49:31
+  approved_by: nantke.janssen@goslar.de
 
 ----
 
