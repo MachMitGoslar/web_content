@@ -60,7 +60,7 @@ Whitelist:
   approved_at: ""
   approved_by: ""
 - 
-  label: Device 6e868aff
+  label: Mac Nantke
   uuid: 6e868aff-2b79-4eba-8d48-96ada3cafe83
   ip: 172.18.0.5
   approved_at: 2026-03-30 13:15:00
