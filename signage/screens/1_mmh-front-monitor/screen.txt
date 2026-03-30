@@ -80,6 +80,12 @@ Whitelist:
   label: Mac Laptio
   approved_at: ""
   approved_by: ""
+- 
+  uuid: 6e868aff-2b79-4eba-8d48-96ada3cafe83
+  ip: 172.18.0.5
+  label: Unknown Device
+  approved_at: 2026-03-30 14:08:44
+  approved_by: nantke.janssen@goslar.de
 
 ----
 
