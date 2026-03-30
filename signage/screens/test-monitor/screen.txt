@@ -18,11 +18,22 @@ Assigned-channel: signage/channels/offentlicher-advertisment-channel
 
 ----
 
-Channel-schedule: 
+Channel-schedule:
+
+- 
+  channel: >
+    signage/channels/offentlicher-advertisment-channel
+  time_start: 06:00:00
+  time_end: 11:00:00
 
 ----
 
-Active-times: 
+Active-times:
+
+- 
+  start: 08:00:00
+  end: 11:00:00
+  days: mon, tue, wed, thu, fri
 
 ----
 
