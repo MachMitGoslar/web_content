@@ -13,12 +13,12 @@ Onboarding-requests:
     Mozilla/5.0 (Macintosh; Intel Mac OS X
     10_15_7) AppleWebKit/605.1.15 (KHTML,
     like Gecko) Version/26.0 Safari/605.1.15
-  status: pending
-  assigned_screen: ""
+  status: approved
+  assigned_screen: mmh-front-monitor
   requested_at: 2026-03-30 12:47:47
   last_seen_at: 2026-03-30 12:47:47
-  approved_at: ""
-  approved_by: ""
+  approved_at: 2026-03-30 12:48:28
+  approved_by: nantke.janssen@goslar.de
   denied_at: ""
 
 ----
