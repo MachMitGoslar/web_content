@@ -1,0 +1,29 @@
+Title: hallo
+
+----
+
+Fields: 
+
+----
+
+Actions: 
+
+----
+
+Successmessage: 
+
+----
+
+Continueonerror: false
+
+----
+
+Runworkflowinqueue: true
+
+----
+
+Storesubmissions: true
+
+----
+
+Uuid: z4z3qyyw2gbavc7n
