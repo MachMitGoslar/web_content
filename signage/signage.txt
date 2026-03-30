@@ -13,12 +13,12 @@ Onboarding-requests:
     Mozilla/5.0 (Macintosh; Intel Mac OS X
     10_15_7) AppleWebKit/605.1.15 (KHTML,
     like Gecko) Version/26.0 Safari/605.1.15
-  status: pending
-  assigned_screen: ""
+  status: approved
+  assigned_screen: mmh-front-monitor
   requested_at: 2026-03-30 13:16:20
   last_seen_at: 2026-03-30 14:08:29
-  approved_at: ""
-  approved_by: ""
+  approved_at: 2026-03-30 14:08:44
+  approved_by: nantke.janssen@goslar.de
   denied_at: ""
 
 ----
@@ -27,4 +27,21 @@ Uuid: signage
 
 ----
 
-Denied-onboarding-requests: 
+Denied-onboarding-requests:
+
+- 
+  uuid: 6e868aff-2b79-4eba-8d48-96ada3cafe83
+  ip: 172.18.0.5
+  backend: https://gs-mmh-web.ddev.site
+  url: https://gs-mmh-web.ddev.site/signage
+  user_agent: >
+    Mozilla/5.0 (Macintosh; Intel Mac OS X
+    10_15_7) AppleWebKit/605.1.15 (KHTML,
+    like Gecko) Version/26.0 Safari/605.1.15
+  status: denied
+  assigned_screen: ""
+  requested_at: 2026-03-30 13:16:20
+  last_seen_at: 2026-03-30 14:08:39
+  approved_at: ""
+  approved_by: ""
+  denied_at: 2026-03-30 14:08:35
