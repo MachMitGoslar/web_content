@@ -39,7 +39,7 @@ Standby-transition: 5
 
 ----
 
-Standby-image: 
+Standby-image: - file://wrovq7xryb6aw3hh
 
 ----
 
