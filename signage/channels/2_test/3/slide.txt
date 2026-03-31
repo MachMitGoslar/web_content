@@ -98,11 +98,11 @@ Overlay-enabled: true
 
 ----
 
-Overlay-color: #000000
+Overlay-color: #ffffff
 
 ----
 
-Overlay-opacity: 40
+Overlay-opacity: 100
 
 ----
 
