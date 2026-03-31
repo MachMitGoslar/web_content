@@ -61,14 +61,6 @@ Pending-requests:
     10.15; rv:146.0) Gecko/20100101
     Firefox/146.0
   requested_at: 2026-01-08 17:00:00
-- 
-  uuid: 6e868aff-2b79-4eba-8d48-96ada3cafe83
-  ip: 172.18.0.5
-  user_agent: >
-    Mozilla/5.0 (Macintosh; Intel Mac OS X
-    10_15_7) AppleWebKit/605.1.15 (KHTML,
-    like Gecko) Version/26.0 Safari/605.1.15
-  requested_at: 2026-03-31 09:20:53
 
 ----
 
@@ -80,6 +72,12 @@ Whitelist:
   label: Mac Laptio
   approved_at: ""
   approved_by: ""
+- 
+  uuid: 6e868aff-2b79-4eba-8d48-96ada3cafe83
+  ip: 172.18.0.5
+  label: Mac Nantke
+  approved_at: 2026-03-31 09:21:03
+  approved_by: nantke.janssen@goslar.de
 
 ----
 
