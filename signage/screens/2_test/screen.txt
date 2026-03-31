@@ -47,7 +47,7 @@ Standby-message: Anzeige wird morgen fortgesetzt
 
 ----
 
-Whitelist-enabled: true
+Whitelist-enabled: false
 
 ----
 
