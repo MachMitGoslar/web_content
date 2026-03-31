@@ -9,14 +9,18 @@ Onboarding-requests:
     Mozilla/5.0 (Macintosh; Intel Mac OS X
     10_15_7) AppleWebKit/605.1.15 (KHTML,
     like Gecko) Version/26.0 Safari/605.1.15
-  status: approved
-  assigned_screen: mmh-front-monitor
+  status: pending
+  assigned_screen: ""
   requested_at: 2026-03-31 07:37:58
-  last_seen_at: 2026-03-31 07:38:06
-  approved_at: 2026-03-31 07:38:06
-  approved_by: nantke.janssen@goslar.de
+  last_seen_at: 2026-03-31 07:37:58
+  approved_at: ""
+  approved_by: ""
   denied_at: ""
 
 ----
 
 Uuid: jeljfsxs6gdvx6bo
+
+----
+
+Denied-onboarding-requests: 
