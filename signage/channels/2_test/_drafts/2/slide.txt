@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: 
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"text":"<strong>„Ich wähle für schwierige Aufgaben einen Faulpelz. Denn ein Faulpelz findet immer einen einfachen Weg.“</strong>","citation":"Bill Gates"},"id":"b9f55f56-0ea8-417c-9ff0-e741530c785a","isHidden":false,"type":"quote"}],"id":"fe924bf9-a641-4b79-9667-f5021c9dbc4b","width":"1/1"}],"id":"e3626a06-b982-4db3-a974-c377e195e480"}]
 
 ----
 
