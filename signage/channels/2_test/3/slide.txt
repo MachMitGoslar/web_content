@@ -38,7 +38,7 @@ Calendar-source-type: external
 
 ----
 
-Calendar-source: https://horaro.org/vikingtv/test/ical-feed
+Calendar-source: https://oveda.de/organizations/19/ical
 
 ----
 
