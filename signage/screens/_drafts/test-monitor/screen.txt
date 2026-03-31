@@ -14,7 +14,7 @@ Status: true
 
 ----
 
-Assigned-channel: 
+Assigned-channel: signage/channels/offentlicher-advertisment-channel
 
 ----
 
