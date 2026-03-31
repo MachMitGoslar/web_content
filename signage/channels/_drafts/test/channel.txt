@@ -2,11 +2,11 @@ Title: test
 
 ----
 
-Channel-id: 
+Channel-id: 2
 
 ----
 
-Description: 
+Description: testen
 
 ----
 
