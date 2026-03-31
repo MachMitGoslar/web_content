@@ -58,7 +58,7 @@ Calendar-max-events: 5
 
 ----
 
-Duration-mode: manual
+Duration-mode: auto
 
 ----
 
