@@ -22,7 +22,12 @@ Channel-schedule:
 
 ----
 
-Active-times: 
+Active-times:
+
+- 
+  start: 08:00:00
+  end: 18:00:00
+  days: mon, tue, wed, thu, fri
 
 ----
 
