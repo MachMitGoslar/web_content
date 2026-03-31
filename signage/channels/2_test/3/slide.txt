@@ -54,7 +54,7 @@ Calendar-range: week
 
 ----
 
-Calendar-max-events: 10
+Calendar-max-events: 9
 
 ----
 
