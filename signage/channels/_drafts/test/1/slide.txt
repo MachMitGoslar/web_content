@@ -2,7 +2,7 @@ Title: 1
 
 ----
 
-Slide-type: blocks
+Slide-type: calendar
 
 ----
 
@@ -34,7 +34,7 @@ Video-loop: false
 
 ----
 
-Calendar-source-type: external
+Calendar-source-type: pages
 
 ----
 
@@ -42,11 +42,11 @@ Calendar-source:
 
 ----
 
-Calendar-pages: 
+Calendar-pages: - page://wvbjqm0djxyntjhd
 
 ----
 
-Calendar-layout: list
+Calendar-layout: agenda
 
 ----
 
