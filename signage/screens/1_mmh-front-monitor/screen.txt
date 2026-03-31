@@ -72,14 +72,7 @@ Pending-requests:
 
 ----
 
-Whitelist:
-
-- 
-  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
-  ip: ""
-  label: Mac Laptio
-  approved_at: ""
-  approved_by: ""
+Whitelist: 
 
 ----
 
