@@ -31,7 +31,7 @@ Active-times:
 
 ----
 
-Standby-mode: logo
+Standby-mode: custom
 
 ----
 
@@ -43,7 +43,7 @@ Standby-image:
 
 ----
 
-Standby-message: 
+Standby-message: Anzeige wird morgen fortgesetzt
 
 ----
 
