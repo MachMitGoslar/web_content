@@ -2,7 +2,7 @@ Title: 1
 
 ----
 
-Slide-type: blocks
+Slide-type: video
 
 ----
 
@@ -14,7 +14,7 @@ Video-source: upload
 
 ----
 
-Video-file: 
+Video-file: - file://e6y8urmjqb9mhg7e
 
 ----
 
