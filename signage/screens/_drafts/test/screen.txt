@@ -2,7 +2,7 @@ Title: test
 
 ----
 
-Screen-id: 
+Screen-id: 1
 
 ----
 
@@ -14,7 +14,7 @@ Status: true
 
 ----
 
-Assigned-channel: 
+Assigned-channel: signage/channels/test
 
 ----
 
