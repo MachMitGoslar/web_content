@@ -2,11 +2,11 @@ Title: 1
 
 ----
 
-Slide-type: calendar
+Slide-type: blocks
 
 ----
 
-Content-layout: 
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Hallo</strong></p>"},"id":"6b3fb1b6-31b3-49b6-88dc-ce19937254d7","isHidden":false,"type":"signage-text"}],"id":"e801efca-d1ec-45ac-b491-0cba37aa6118","width":"1/1"}],"id":"6f5df389-d9c9-494b-9d1e-db9d53a3c4b6"}]
 
 ----
 
