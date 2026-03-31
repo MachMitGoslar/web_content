@@ -1,0 +1,19 @@
+Onboarding-requests:
+
+- 
+  uuid: 6e868aff-2b79-4eba-8d48-96ada3cafe83
+  ip: 172.18.0.5
+  backend: ""
+  url: ""
+  user_agent: Unknown
+  status: pending
+  assigned_screen: ""
+  requested_at: 2026-03-31 07:35:55
+  last_seen_at: 2026-03-31 07:35:55
+  approved_at: ""
+  approved_by: ""
+  denied_at: ""
+
+----
+
+Uuid: uygtli3dsndoh0ky
