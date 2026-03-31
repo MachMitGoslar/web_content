@@ -2,7 +2,7 @@ Title: 1
 
 ----
 
-Slide-type: video
+Slide-type: blocks
 
 ----
 
