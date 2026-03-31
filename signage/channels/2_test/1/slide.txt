@@ -62,7 +62,7 @@ Duration-mode: manual
 
 ----
 
-Duration-override: 50
+Duration-override: 15
 
 ----
 
