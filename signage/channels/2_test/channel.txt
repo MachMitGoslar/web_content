@@ -10,7 +10,7 @@ Description: testen
 
 ----
 
-Default-bg-image: 
+Default-bg-image: - file://0gamaebdfjqtr7eg
 
 ----
 
