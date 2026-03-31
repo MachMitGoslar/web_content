@@ -59,7 +59,14 @@ Uuid: dsfyg8ptnon5xioo
 
 ----
 
-Whitelist: 
+Whitelist:
+
+- 
+  uuid: 6e868aff-2b79-4eba-8d48-96ada3cafe83
+  ip: 172.18.0.5
+  label: MAC Nantke
+  approved_at: 2026-03-31 09:24:03
+  approved_by: nantke.janssen@goslar.de
 
 ----
 
