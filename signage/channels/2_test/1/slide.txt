@@ -102,7 +102,7 @@ Overlay-color: #f9b6b6
 
 ----
 
-Overlay-opacity: 40
+Overlay-opacity: 70
 
 ----
 
