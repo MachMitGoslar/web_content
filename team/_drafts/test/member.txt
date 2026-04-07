@@ -10,7 +10,7 @@ Name: Test
 
 ----
 
-Description: 
+Description: Dies ist ein Test
 
 ----
 
