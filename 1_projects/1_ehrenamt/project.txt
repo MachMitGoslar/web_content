@@ -26,12 +26,7 @@ Form:
 
 ----
 
-Team:
-
-- page://Cw3N87jTU3LFBVvj
-- page://nptsef9geyexw0gz
-- page://KCqFP3i3xe1WcgIM
-- page://V0lunt33rAnna2025
+Team: - page://Cw3N87jTU3LFBVvj
 
 ----
 
