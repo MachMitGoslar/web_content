@@ -12,8 +12,7 @@ Name: Nantke
 
 Description:
 
-### Digitalisierung und alles was sonst noch so anfällt
-### 
+## Digitalisierung und alles was sonst noch so anfällt
 Seit August 2023 taucht Nantke immer mal wieder im MachMit!Haus auf und unterstützt das Team tatkräftig.
 Ihr fachliches Gebiet: Digitalisierung.
 
