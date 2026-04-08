@@ -1,0 +1,73 @@
+Title: Nantke
+
+----
+
+Cover: 
+
+----
+
+Name: Nantke
+
+----
+
+Description: 
+
+----
+
+Role: 
+
+----
+
+Email: 
+
+----
+
+Phone: 
+
+----
+
+Address: 
+
+----
+
+Teams: staff
+
+----
+
+Facebook: 
+
+----
+
+Instagram: 
+
+----
+
+X: 
+
+----
+
+Linkedin: 
+
+----
+
+Github: 
+
+----
+
+Youtube: 
+
+----
+
+Tags: 
+
+----
+
+Headline: Teams und Unterstützer
+
+----
+
+Subheadline: Unsere Wegbegleiter zur Bürgerbeteiligung
+
+----
+
+Uuid: elvezdtmvhsvcaqu
