@@ -10,7 +10,7 @@ Published:
 
 ----
 
-Author: - page://nptsef9geyexw0gz
+Author: 
 
 ----
 
@@ -40,17 +40,7 @@ Weekly-dates:
 Upcomming-dates:
 
 - 
-  event_name: Osterbrunch im MachMit!Haus
-  event_date: 2026-04-05
-  event_date_end: ""
-  show_event_date: 'true'
-- 
-  event_name: 'SpielMit! - Gesellschaftsspieleabend von Bürgern für Bürger'
-  event_date: 2026-04-07
-  event_date_end: ""
-  show_event_date: 'true'
-- 
-  event_name: 'Jugendtag - Stadtjagd auf Mister X '
+  event_name: '"Gosland Yard - Die Jagd nach dem Schwarzen Mönch"'
   event_date: 2026-04-15
   event_date_end: ""
   show_event_date: 'true'
@@ -60,12 +50,12 @@ Upcomming-dates:
   event_date_end: ""
   show_event_date: 'true'
 - 
-  event_name: Hackathon
+  event_name: Hackathon "Quelloffen"
   event_date: 2026-04-17
   event_date_end: ""
   show_event_date: 'true'
 - 
-  event_name: 'Geocaching '
+  event_name: 'Vorstellung des neuen Geocahes "der goldene Hydrant" & Musikszene Goslar '
   event_date: 2026-04-18
   event_date_end: ""
   show_event_date: 'true'
@@ -85,26 +75,26 @@ Upcomming-dates:
   event_name: Das Kreativcafé stellt sich vor
   event_date: 2026-04-20
   event_date_end: ""
-  show_event_date: 'false'
+  show_event_date: 'true'
 - 
   event_name: >
     MachMit!Goslar Barrierefrei stellt sich
     vor
   event_date: 2026-04-20
   event_date_end: ""
-  show_event_date: 'false'
+  show_event_date: 'true'
 - 
   event_name: Pomodoro Coworking
   event_date: 2026-04-20
   event_date_end: ""
-  show_event_date: 'false'
+  show_event_date: 'true'
 - 
   event_name: 'SpielMit! - Gesellschaftsspieleabend von Bürgern für Bürger'
   event_date: 2026-04-20
   event_date_end: ""
-  show_event_date: 'false'
+  show_event_date: 'true'
 - 
-  event_name: 'Tatort Handy - Wie Senioren Betrugsmachen verhindern können'
+  event_name: 'Tatort Handy - Wie Senioren Betrugsmachen verhindern können (FWA)'
   event_date: 2026-04-21
   event_date_end: ""
   show_event_date: 'true'
@@ -129,7 +119,16 @@ Review-entries:
 
 ----
 
-Actual-entries: 
+Actual-entries:
+
+- 
+  layout: imageLeft
+  headline: ""
+  subheadline: ""
+  content_text: ""
+  image: [ ]
+  link: ""
+  mailto: ""
 
 ----
 
