@@ -132,7 +132,18 @@ Actual-entries:
 
 ----
 
-Upcoming-entries: 
+Upcoming-entries:
+
+- 
+  layout: imageLeft
+  headline: >
+    „Gosland Yard – Die Jagd nach dem
+    Schwarzen Mönch“
+  subheadline: ""
+  content_text: ""
+  image: [ ]
+  link: ""
+  mailto: ""
 
 ----
 
