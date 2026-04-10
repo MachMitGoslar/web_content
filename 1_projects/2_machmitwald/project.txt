@@ -26,10 +26,7 @@ Form:
 
 ----
 
-Team:
-
-- page://Cw3N87jTU3LFBVvj
-- page://nefErdeTwpZpKraB
+Team: - page://Cw3N87jTU3LFBVvj
 
 ----
 
