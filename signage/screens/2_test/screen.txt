@@ -6,7 +6,7 @@ Screen-id: 1
 
 ----
 
-Orientation: vertical
+Orientation: horizontal
 
 ----
 
