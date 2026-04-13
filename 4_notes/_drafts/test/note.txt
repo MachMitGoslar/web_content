@@ -1,0 +1,49 @@
+Title: test
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Text: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Featured: false
+
+----
+
+Internal-notes: 
+
+----
+
+Subheadline: Berichte aus unserem täglichen Alltag
+
+----
+
+Uuid: esyawftp4thgwyd9
