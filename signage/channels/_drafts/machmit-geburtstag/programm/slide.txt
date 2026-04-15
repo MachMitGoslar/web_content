@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: 
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://xppoxwuwsrbwvo9p"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b040ec2a-07ba-4418-a365-d4e74b0018fc","isHidden":false,"type":"image"}],"id":"7efe2990-0f87-4c8f-b86c-155d7509ec0b","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://kjl0l0qha3d874xr"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"dd1a9144-eed6-4f73-87ac-8b263b1ac60c","isHidden":false,"type":"image"}],"id":"8e02cb79-4432-4b00-a7ee-aee35c2a8ea9","width":"1/2"}],"id":"6476ea29-ee7d-4156-87f7-1c2d40e6e16c"}]
 
 ----
 
@@ -58,7 +58,7 @@ Calendar-max-events: 5
 
 ----
 
-Duration-mode: auto
+Duration-mode: manual
 
 ----
 
