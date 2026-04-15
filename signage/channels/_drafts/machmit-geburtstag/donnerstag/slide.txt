@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"db12e34b-9787-4ec2-8ed3-778a18af1afa","width":"1/2"},{"blocks":[],"id":"e456e9f4-0885-4e8f-91b2-98d4904c0f22","width":"1/2"}],"id":"06eeca4a-8232-4b1c-9403-58d411e0fef1"}]
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://yphmoa1xbuvmdp6d"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"db43c982-b7ca-46d6-9570-c9a49e13d9df","isHidden":false,"type":"image"}],"id":"db12e34b-9787-4ec2-8ed3-778a18af1afa","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://2t5kbys2uxuaztmb"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"6295f68b-520e-4e15-9a19-3768c1302b8b","isHidden":false,"type":"image"}],"id":"e456e9f4-0885-4e8f-91b2-98d4904c0f22","width":"1/2"}],"id":"06eeca4a-8232-4b1c-9403-58d411e0fef1"}]
 
 ----
 
@@ -74,7 +74,7 @@ Transition-duration: 1
 
 ----
 
-Bg-type: none
+Bg-type: color
 
 ----
 
