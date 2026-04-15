@@ -76,7 +76,7 @@ Whitelist:
 - 
   uuid: c347a655-c41b-4fe5-8334-34a8098791e4
   ip: 185.238.219.12
-  label: Device c347a655
+  label: Großer Bildschirm
   approved_at: 2026-04-15 13:03:31
   approved_by: nantke.janssen@goslar.de
 
