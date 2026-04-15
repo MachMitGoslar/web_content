@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: 
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"db12e34b-9787-4ec2-8ed3-778a18af1afa","width":"1/2"},{"blocks":[],"id":"e456e9f4-0885-4e8f-91b2-98d4904c0f22","width":"1/2"}],"id":"06eeca4a-8232-4b1c-9403-58d411e0fef1"}]
 
 ----
 
