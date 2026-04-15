@@ -20,8 +20,8 @@ Onboarding-requests:
   status: approved
   assigned_screen: test
   requested_at: 2026-03-31 07:54:55
-  last_seen_at: 2026-03-31 14:20:18
-  approved_at: 2026-03-31 14:20:17
+  last_seen_at: 2026-04-14 10:22:18
+  approved_at: 2026-04-14 10:22:18
   approved_by: nantke.janssen@goslar.de
   denied_at: ""
 

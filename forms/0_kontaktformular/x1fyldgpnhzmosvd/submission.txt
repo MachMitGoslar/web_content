@@ -1,0 +1,84 @@
+Dreamform-submitted: 2026-02-19T17:08:39+01:00
+
+----
+
+Dreamform-referer: contact
+
+----
+
+Dreamform-log:
+
+- 
+  data:
+    template:
+      to: machmit@goslar.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'MachMit!Website: Eine Kontaktanfrage ist eingegangen'
+    body: |
+      Hallo liebes MachMit!Team,
+      
+      eine Kontaktanfrage auf mmh.goslar.de ist eingegangen.
+      
+      Name:
+  id: 187695a2-b14d-4c22-b717-61309a2a44af
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771517329
+- 
+  data:
+    template:
+      to: stuff@stuffdev.de
+    from: noreply@gs-mmh-web.ddev.site
+    subject: 'MachMit!Haus Goslar: Wir haben deine Anfrage erhalten'
+    body: >
+      Vielen Dank für deine Nachricht. Das
+      MachMit!Team wurde darüber
+      informatiert. In der Regel bekommst du
+      eine Rückmeldung innerhalb der nächste
+      72 Stunden. Sollten wir bis dahin nicht
+      geantwortet haben freuen wir uns über
+      eine kurze Rückmeldung.
+  id: 0dc391c2-c163-4678-8cd2-72f7e9708658
+  type: email
+  icon: email
+  title: dreamform.actions.email.log.success
+  timestamp: 1771517329
+
+----
+
+Dreamform-sender: 
+
+----
+
+Dreamform-state:
+
+success: true
+partial: false
+spam: false
+step: 1
+redirect: null
+error: null
+errors: [ ]
+actions: [ ]
+actionsdidrun: true
+
+----
+
+Uuid: x1fyldgpnhzmosvd
+
+----
+
+Name: Martin
+
+----
+
+Email: stuff@stuffdev.de
+
+----
+
+Message: test
+
+----
+
+Checks: dsgvo_accepted

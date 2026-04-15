@@ -1,0 +1,187 @@
+Title: Das MachMit!Haus feiert Geburtstag!
+
+----
+
+Cover: 
+
+----
+
+Published: 
+
+----
+
+Author: 
+
+----
+
+Greeting-text:
+
+Liebe Freundinnen und Freunde des MachMit!Hauses,
+
+im April ist es soweit: Das MachMit!Haus wird drei Jahre alt. In dieser Zeit haben wir gemeinsam Höhen und Tiefen erlebt, Erfolge gefeiert und aus Herausforderungen gelernt. Vor allem aber waren es die vielen Begegnungen, inspirierenden Gespräche, kreativen Ideen und gemeinsamen Projekte, die unser Haus zu dem gemacht haben, was es heute ist: ein lebendiger Ort für Austausch, Engagement und Mitgestaltung für die Bürgerinnen und Bürger unserer Stadt.
+
+Das möchten wir mit euch feiern.
+
+Vom 15.04. bis zum 21.04. erwartet euch eine ganze Woche voller spannender Veranstaltungen, abwechslungsreicher Aktionen und besonderer Momente. Für jeden Tag haben wir ein vielfältiges Programm vorbereitet – für euch und alle Goslarerinnen und Goslarer, die neugierig sind, mitmachen möchten oder das MachMit!Haus neu entdecken wollen.
+
+Jeder Tag steht dabei unter einem eigenen Themenschwerpunkt, der die unterschiedlichen Facetten unserer Arbeit sichtbar macht. Von digitaler Teilhabe für Seniorinnen und Senioren, über eine interaktive „Verwaltungsralley“, bis hin zu einem Hackathon haben wir ein breites Spektrum an Themen und Formaten für euch zusammengestellt.
+
+Schaut gerne in unser Programm, lasst euch inspirieren und kommt vorbei, wenn ihr ein passendes Angebot für euch entdeckt. Ganz gleich, ob ihr schon lange dabei seid oder das MachMit!Haus gerade erst kennenlernt – wir freuen uns darauf, diese besondere Woche gemeinsam mit euch zu verbringen.
+
+Herzliche Grüße
+Euer MachMit!Team
+
+----
+
+Weekly-dates: 
+
+----
+
+Upcomming-dates:
+
+- 
+  event_name: '"Gosland Yard - Die Jagd nach dem Schwarzen Mönch"'
+  event_date: 2026-04-15
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Verwaltungsralley
+  event_date: 2026-04-16
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Hackathon "Quelloffen"
+  event_date: 2026-04-17
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: 'Vorstellung des neuen Geocahes "der goldene Hydrant" & Musikszene Goslar '
+  event_date: 2026-04-18
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Coworking
+  event_date: 2026-04-19
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: >
+    Das Sprachcafé für Frauen mit
+    Migrationshintergrund stellt sich vor
+  event_date: 2026-04-20
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Das Kreativcafé stellt sich vor
+  event_date: 2026-04-20
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: >
+    MachMit!Goslar Barrierefrei stellt sich
+    vor
+  event_date: 2026-04-20
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Pomodoro Coworking
+  event_date: 2026-04-20
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: 'SpielMit! - Gesellschaftsspieleabend von Bürgern für Bürger'
+  event_date: 2026-04-20
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: 'Tatort Handy - Wie Senioren Betrugsmachen verhindern können (FWA)'
+  event_date: 2026-04-21
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: 'Handy- & Tablethilfe für Senioren (FWA)'
+  event_date: 2026-04-21
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Die Goslar App für Senioren
+  event_date: 2026-04-21
+  event_date_end: ""
+  show_event_date: 'true'
+
+----
+
+Timeline: 
+
+----
+
+Review-entries: 
+
+----
+
+Actual-entries:
+
+- 
+  layout: imageLeft
+  headline: ""
+  subheadline: ""
+  content_text: ""
+  image: [ ]
+  link: ""
+  mailto: ""
+
+----
+
+Upcoming-entries:
+
+- 
+  layout: imageLeft
+  headline: >
+    „Gosland Yard – Die Jagd nach dem
+    Schwarzen Mönch“
+  subheadline: ""
+  content_text: ""
+  image: [ ]
+  link: ""
+  mailto: ""
+
+----
+
+News:
+
+- 
+  layout: imageLeft
+  headline: ""
+  subheadline: ""
+  content_text: ""
+  image: [ ]
+  link: ""
+  mailto: ""
+
+----
+
+Closingsinfos:
+
+Den Auftakt zu unserer Geburtstagswoche macht der traditionelle Jugend-Mittwoch am 15. April. Gemeinsam mit der Stadtjugendpflege lädt das MachMit!Haus zu einem spannenden Live-Spiel ein: „Gosland Yard – Die Jagd nach dem Schwarzen Mönch“ führt Jugendliche und Familien quer durch Goslar. Ab 14 Uhr können kleine Teams den flüchtigen Schwarzen Mönch aufspüren, und bis in den Abend hinein können immer wieder neue Teams starten. Interessierte Gruppen können sich bereits jetzt unter https://machmit.goslar.de/gosland-yard anmelden.
+
+Am folgenden Tag steht ab 14:00 Uhr eine Verwaltungsrallye auf dem Programm. Die Teilnehmenden erkunden auf spielerische Weise die verschiedenen Stationen der Stadtverwaltung und erhalten so einen einzigartigen Einblick hinter die Kulissen der städtischen Abläufe.
+
+Für alle Coding-begeisterten bietet der Freitagabend beim Hackathon „Quelloffen“ die Gelegenheit, sich mit den inneren Mechanismen der GoslarAPP zu beschäftigen. Gesucht werden Lösungen zur Gamification der Goslar App.
+
+Am Samstag wird öffentlich ab 13:00 Uhr im und vor dem MachMit!Haus mit interessierten Besucherinnen und Besuchern gefeiert. Mit dem Release der Geotour Goslar steht dabei ein besonderes Geocaching-Event im Programm. Dann wird auch das Geheimnis um Goslars neuen, goldenen Hydranten gelüftet. Für alle Geocaching-Enthusiasten heißt das: um 15:30 Uhr wird der Cache als gemeinsamer FTF geloggt. Weiterhin kommt die Goslarer Music Szene ins MachMit!Haus. Hier geht es darum, die Arbeit des Vereins zu erleben und über die traditionelle Junge Bühne zum Altstadtfest ins Gespräch kommen zu können.
+
+Am Sonntag steht das Haus dann ganz im Zeichen des Coworkings. Ab 16 Uhr sind alle eingeladen, in ruhiger, aber geselliger Atmosphäre an privaten oder beruflichen Projekten im MachMit!Haus zu arbeiten und dabei den Austausch mit anderen zu genießen.
+
+Montag, der 20. April, widmet sich Integration und Inklusion. Für das Sprachcafé für Frauen mit Migrationshintergrund berichten um 14:00 Uhr Frau Künnecke, einer der Betreuerinnen der Gruppe, und Frau Sharifi, eine der Teilnehmerinnen, über ihre Erfahrungen in der Integrationsarbeit. Frau Sharifi berichtet außerdem über ihre Erfahrungen in Deutschland und beantwortet gerne Fragen über ihr ehemaliges Leben im Iran. Kurze Zeit später öffnet um 15:00 Uhr das Kreativcafé seine Türen, und Besucherinnen und Besucher können selbst Häkeln, Stricken oder Serviettenfalten ausprobieren. Später am Nachmittag stellt um 16:30 Uhr die Gruppe MachMit!Goslar Barrierefrei, eine Kooperation zwischen der Behindertenbeauftragten Andrea Simon und dem MachMit!Haus, ihr aktuelles Projekt vor: einen Stadtplan für Menschen mit Mobilitätseinschränkungen. Interessierte können den Entwurf einsehen und Feedback geben. Am Abend treffen sich dann um 18:00 Uhr die Mitglieder der Spielegruppe „SpielMit!“ zum gemeinsamen Spielen, während nebenan das Pomodoro Coworking stattfindet – konzentriertes Arbeiten in kurzen Einheiten, verbunden mit Pausen für Austausch und Vernetzung.
+
+Den Abschluss der Geburtstagswoche bildet am Dienstag, den 21. April, ein Tag, der ganz der digitalen Teilhabe für Seniorinnen und Senioren gewidmet ist. Um 11:00 Uhr hält die Polizei den Vortrag „Tatort Handy“ und gibt wertvolle Tipps, wie man sich vor Betrugsmaschen auf dem Smartphone schützen kann. Dieser Vortrag ist zugleich der Auftakt für die neue Veranstaltungsreihe zum Thema digitale Teilhabe für Seniorinnen und Senioren, die das MachMit!Haus gemeinsam mit der Freiwilligenagentur organisiert. Ab 13:00 Uhr bietet die Handy- und Tablethilfe der Freiwilligenagentur individuelle Unterstützung bei der Nutzung von Smartphone oder Tablet an. Betreut werden die Teilnehmenden von den Ehrenamtlichen Thomas Döpke und Andreas Nienstadt. Eine Anmeldung ist zwingend erforderlich unter info@freiwilligenagentur-goslar.de, da die Betreuung im 1:1-Format erfolgt. Den Abschluss bildet um 15:30 Uhr die Vorstellung der neuen Goslar-App durch die Digitalisierungsbeauftragte Rebecca Spaunhorst. Sie beantwortet alle Fragen zu den digitalen Angeboten der Stadt für Seniorinnen und Senioren.
+
+Das MachMit!Haus lädt alle Goslarerinnen und Goslarer ein, während der Geburtstagswoche mitzufeiern, Neues auszuprobieren, kreativ zu werden, sich zu vernetzen und in geselliger Atmosphäre die Vielfalt der Projekte kennenzulernen. Weitere Informationen oder Anmeldungen sind per E-Mail an machmit@goslar.de möglich.
+
+----
+
+Uuid: bf22zlaa1oxdtpln
+
+----
+
+Lock: riPd9OMz
