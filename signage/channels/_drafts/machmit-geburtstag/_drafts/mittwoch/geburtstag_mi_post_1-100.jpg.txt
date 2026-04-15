@@ -1,0 +1,25 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: xts63cpu6dp0kfmp
+
+----
+
+Template: blocks/image
