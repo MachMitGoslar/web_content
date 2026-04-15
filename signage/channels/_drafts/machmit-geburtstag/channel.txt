@@ -2,11 +2,11 @@ Title: MachMit!Geburtstag
 
 ----
 
-Channel-id: 
+Channel-id: geburtstag
 
 ----
 
-Description: 
+Description: Zum 3. Geburtstag des MachMit!Hauses ein Kanal.
 
 ----
 
