@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: 
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://doohvrpibzr26ugz"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f0ef0436-27f8-4d6a-b90d-1481f28ae29e","isHidden":false,"type":"image"}],"id":"aa0c0b26-3236-48bd-9198-3910d41b14b9","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://q2dytynrysrfanbe"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"a57ee5d8-3569-40bc-a3ae-8aa63d9fea21","isHidden":false,"type":"image"}],"id":"ac9c01d9-3a04-4376-a4a9-eb76d0261722","width":"1/2"}],"id":"785190c2-b110-42a0-88b5-fda84948ae8c"}]
 
 ----
 
