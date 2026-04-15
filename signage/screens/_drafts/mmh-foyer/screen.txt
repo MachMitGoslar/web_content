@@ -1,0 +1,49 @@
+Title: MMH Foyer
+
+----
+
+Screen-id: 
+
+----
+
+Orientation: horizontal
+
+----
+
+Status: true
+
+----
+
+Assigned-channel: 
+
+----
+
+Channel-schedule: 
+
+----
+
+Active-times: 
+
+----
+
+Standby-mode: custom
+
+----
+
+Standby-transition: 5
+
+----
+
+Standby-image: 
+
+----
+
+Standby-message: 
+
+----
+
+Whitelist-enabled: true
+
+----
+
+Uuid: uh4rkbaodconxyti
