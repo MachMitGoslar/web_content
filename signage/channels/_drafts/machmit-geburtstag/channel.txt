@@ -1,0 +1,29 @@
+Title: MachMit!Geburtstag
+
+----
+
+Channel-id: 
+
+----
+
+Description: 
+
+----
+
+Default-bg-image: 
+
+----
+
+Default-bg-video: 
+
+----
+
+Default-overlay-color: #000000
+
+----
+
+Default-overlay-opacity: 40
+
+----
+
+Uuid: vy83vdrunpy0mv6t
