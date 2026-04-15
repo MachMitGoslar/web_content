@@ -67,6 +67,12 @@ Whitelist:
   label: MAC Nantke
   approved_at: 2026-04-14 10:22:18
   approved_by: nantke.janssen@goslar.de
+- 
+  uuid: e7276699-852a-48a4-9487-657e48040652
+  ip: 185.238.219.8
+  label: Device e7276699
+  approved_at: 2026-04-15 11:36:46
+  approved_by: nantke.janssen@goslar.de
 
 ----
 
