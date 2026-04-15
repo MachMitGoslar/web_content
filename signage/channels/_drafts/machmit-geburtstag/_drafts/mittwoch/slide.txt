@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://xts63cpu6dp0kfmp"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"118a2f44-d734-4163-b635-322122bf44e5","isHidden":false,"type":"image"}],"id":"77aadb05-c200-4e8a-8812-154b09a5e03d","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://j4fxn5iu6kkwbbdz"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b945c600-12da-42ba-bd9a-892d05a1975b","isHidden":false,"type":"image"}],"id":"4c69c3f9-f7f6-4be0-b934-51f183eac085","width":"1/2"}],"id":"4d87f72b-09e4-4664-8a02-88596e23784f"}]
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://xts63cpu6dp0kfmp"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"118a2f44-d734-4163-b635-322122bf44e5","isHidden":false,"type":"image"}],"id":"77aadb05-c200-4e8a-8812-154b09a5e03d","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b945c600-12da-42ba-bd9a-892d05a1975b","isHidden":false,"type":"image"}],"id":"4c69c3f9-f7f6-4be0-b934-51f183eac085","width":"1/2"}],"id":"4d87f72b-09e4-4664-8a02-88596e23784f"}]
 
 ----
 
