@@ -1,0 +1,25 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: q2dytynrysrfanbe
+
+----
+
+Template: blocks/image
