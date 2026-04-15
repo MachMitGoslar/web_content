@@ -1,5 +1,30 @@
-Title: Signage System
+Title: Signage
 
 ----
 
-Uuid: signage
+Uuid: 0ukapogfcivmitbd
+
+----
+
+Onboarding-requests:
+
+- 
+  uuid: 6e868aff-2b79-4eba-8d48-96ada3cafe83
+  ip: 172.18.0.5
+  backend: https://gs-mmh-web.ddev.site
+  url: https://gs-mmh-web.ddev.site/signage
+  user_agent: >
+    Mozilla/5.0 (Macintosh; Intel Mac OS X
+    10_15_7) AppleWebKit/605.1.15 (KHTML,
+    like Gecko) Version/26.0 Safari/605.1.15
+  status: approved
+  assigned_screen: test
+  requested_at: 2026-03-31 07:54:55
+  last_seen_at: 2026-04-14 10:22:18
+  approved_at: 2026-04-14 10:22:18
+  approved_by: nantke.janssen@goslar.de
+  denied_at: ""
+
+----
+
+Denied-onboarding-requests: 

@@ -1,0 +1,113 @@
+Title: 1
+
+----
+
+Slide-type: blocks
+
+----
+
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"text":"<h2 class=\"font-titleXXL\"><strong>Hallo</strong></h2>"},"id":"6b3fb1b6-31b3-49b6-88dc-ce19937254d7","isHidden":false,"type":"signage-text"},{"content":{"location":"kirby","image":["file://e6y8urmjqb9mhg7e"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"32689c1c-d8bd-40db-9310-b9a35ebc7bcf","isHidden":false,"type":"image"}],"id":"e801efca-d1ec-45ac-b491-0cba37aa6118","width":"1/1"}],"id":"6f5df389-d9c9-494b-9d1e-db9d53a3c4b6"}]
+
+----
+
+Video-source: upload
+
+----
+
+Video-file: - file://e6y8urmjqb9mhg7e
+
+----
+
+Video-embed: 
+
+----
+
+Video-autoplay: true
+
+----
+
+Video-muted: true
+
+----
+
+Video-loop: false
+
+----
+
+Calendar-source-type: external
+
+----
+
+Calendar-source: https://oveda.de/eventdates
+
+----
+
+Calendar-pages: - page://wvbjqm0djxyntjhd
+
+----
+
+Calendar-layout: agenda
+
+----
+
+Calendar-range: week
+
+----
+
+Calendar-max-events: 5
+
+----
+
+Duration-mode: manual
+
+----
+
+Duration-override: 5
+
+----
+
+Transition: fade
+
+----
+
+Transition-duration: 1
+
+----
+
+Bg-type: none
+
+----
+
+Bg-image: 
+
+----
+
+Bg-video: 
+
+----
+
+Bg-position: center
+
+----
+
+Bg-size: cover
+
+----
+
+Overlay-enabled: false
+
+----
+
+Overlay-color: #f9b6b6
+
+----
+
+Overlay-opacity: 100
+
+----
+
+Overlay-gradient: none
+
+----
+
+Uuid: xhmlir1zhfcilljj

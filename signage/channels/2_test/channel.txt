@@ -1,0 +1,29 @@
+Title: test
+
+----
+
+Channel-id: 2
+
+----
+
+Description: testen
+
+----
+
+Default-bg-image: - file://0gamaebdfjqtr7eg
+
+----
+
+Default-bg-video: 
+
+----
+
+Default-overlay-color: #000000
+
+----
+
+Default-overlay-opacity: 40
+
+----
+
+Uuid: d5repugmilwrbicf

@@ -1,0 +1,113 @@
+Title: 3
+
+----
+
+Slide-type: calendar
+
+----
+
+Content-layout: 
+
+----
+
+Video-source: upload
+
+----
+
+Video-file: 
+
+----
+
+Video-embed: 
+
+----
+
+Video-autoplay: true
+
+----
+
+Video-muted: true
+
+----
+
+Video-loop: false
+
+----
+
+Calendar-source-type: external
+
+----
+
+Calendar-source: https://oveda.de/organizations/19/ical
+
+----
+
+Calendar-pages: 
+
+----
+
+Calendar-layout: grid
+
+----
+
+Calendar-range: week
+
+----
+
+Calendar-max-events: 9
+
+----
+
+Duration-mode: manual
+
+----
+
+Duration-override: 60
+
+----
+
+Transition: fade
+
+----
+
+Transition-duration: 1
+
+----
+
+Bg-type: none
+
+----
+
+Bg-image: 
+
+----
+
+Bg-video: 
+
+----
+
+Bg-position: center
+
+----
+
+Bg-size: cover
+
+----
+
+Overlay-enabled: false
+
+----
+
+Overlay-color: #ffffff
+
+----
+
+Overlay-opacity: 65
+
+----
+
+Overlay-gradient: none
+
+----
+
+Uuid: yfrews1tjv8nvoco

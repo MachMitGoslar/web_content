@@ -1,0 +1,79 @@
+Title: test
+
+----
+
+Screen-id: 1
+
+----
+
+Orientation: horizontal
+
+----
+
+Status: false
+
+----
+
+Assigned-channel: signage/channels/test
+
+----
+
+Channel-schedule: 
+
+----
+
+Active-times:
+
+- 
+  start: 08:00:00
+  end: 18:00:00
+  days: mon, wed, thu, fri, tue
+
+----
+
+Standby-mode: custom
+
+----
+
+Standby-transition: 5
+
+----
+
+Standby-image: - file://wrovq7xryb6aw3hh
+
+----
+
+Standby-message: Anzeige wird morgen fortgesetzt
+
+----
+
+Whitelist-enabled: true
+
+----
+
+Pending-requests: 
+
+----
+
+Uuid: dsfyg8ptnon5xioo
+
+----
+
+Whitelist:
+
+- 
+  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
+  ip: ""
+  label: Mac Laptio
+  approved_at: 2026-03-31 12:44:21
+  approved_by: nantke.janssen@goslar.de
+- 
+  uuid: 6e868aff-2b79-4eba-8d48-96ada3cafe83
+  ip: 172.18.0.5
+  label: MAC Nantke
+  approved_at: 2026-04-14 10:22:18
+  approved_by: nantke.janssen@goslar.de
+
+----
+
+Denied-requests: 
