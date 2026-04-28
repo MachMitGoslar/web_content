@@ -2,18 +2,6 @@ Title: Projekt Archiv
 
 ----
 
-Show_active: false
-
-----
-
-Show_archive: true
-
-----
-
-Show_search: true
-
-----
-
 Cover: - file://QhHkUyrrZqFflVDP
 
 ----
@@ -22,9 +10,20 @@ Headline: Projektarchiv
 
 ----
 
-Subheadline: Ein Blick abgeschlossene Projekte
+Subheadline: Ein Blick auf abgeschlossene Projekte
 
 ----
 
+Show-active: false
+
+----
+
+Show-archive: true
+
+----
+
+Show-search: true
+
+----
 
 Uuid: x3cqvnddchasugfg
