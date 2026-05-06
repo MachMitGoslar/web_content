@@ -18,11 +18,13 @@ Newsletterteaserbuttontext: Newsletter abonieren
 
 ----
 
-Sections: - page://LbjZDDGT59VEUWp5
+Navigation:
 
-----
-
-Navigation: - page://wljMYhm0m3e9QOwC
+- page://6tHQiS64P6WyQOWm
+- page://wljMYhm0m3e9QOwC
+- page://qyKqay030eY9Png9
+- page://EgfXk155nyUvqqA1
+- page://ZWZVZSlNpA6VJzXZ
 
 ----
 
@@ -38,6 +40,10 @@ General:
 
 - page://XScm21USw7BA3wj1
 - page://y89diz2faheszrrz
+
+----
+
+Sections: - page://LbjZDDGT59VEUWp5
 
 ----
 
