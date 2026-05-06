@@ -1,0 +1,93 @@
+Title: Nantke Janssen - 11.05.2026
+
+----
+
+Requester-name: Nantke Janssen
+
+----
+
+Requester-email: nantke.janssen@goslar.de
+
+----
+
+Requester-phone: 
+
+----
+
+Requester-organization: 
+
+----
+
+Requested-rooms: rooms/kuche
+
+----
+
+Request-date: 2026-05-11
+
+----
+
+Request-time-start: 10:00
+
+----
+
+Request-time-end: 12:00
+
+----
+
+Is-recurring: 0
+
+----
+
+Recurrence-pattern: weekly
+
+----
+
+Recurrence-end-date: 
+
+----
+
+Expected-attendees: 6
+
+----
+
+Purpose: Test
+
+----
+
+Special-requirements: Nichts
+
+----
+
+Admin-notes: 
+
+----
+
+Denial-reason: 
+
+----
+
+Processed-at: 
+
+----
+
+Processed-by: 
+
+----
+
+Calendar-event-added: false
+
+----
+
+Created-at: 2026-05-06 15:48:36
+
+----
+
+Ip-address: 
+
+----
+
+User-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15
+
+----
+
+Uuid: hewycqblj5uufvh3
