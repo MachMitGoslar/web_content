@@ -18,7 +18,7 @@ Requester-organization:
 
 ----
 
-Requested-rooms: rooms/kuche
+Requested-rooms: - page://ummiwoghmw7xnh67
 
 ----
 
@@ -26,15 +26,15 @@ Request-date: 2026-05-11
 
 ----
 
-Request-time-start: 10:00
+Request-time-start: 10:00:00
 
 ----
 
-Request-time-end: 12:00
+Request-time-end: 12:00:00
 
 ----
 
-Is-recurring: 0
+Is-recurring: false
 
 ----
 
@@ -74,11 +74,11 @@ Processed-by:
 
 ----
 
-Calendar-event-added: false
+Calendar-event-added: true
 
 ----
 
-Created-at: 2026-05-06 15:48:36
+Created-at: 2026-05-06 15:50:00
 
 ----
 
