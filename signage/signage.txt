@@ -18,10 +18,42 @@ Onboarding-requests:
     10_15_7) AppleWebKit/605.1.15 (KHTML,
     like Gecko) Version/26.0 Safari/605.1.15
   status: approved
-  assigned_screen: test
+  assigned_screen: mmh-foyer
   requested_at: 2026-03-31 07:54:55
   last_seen_at: 2026-04-14 10:22:18
   approved_at: 2026-04-14 10:22:18
+  approved_by: nantke.janssen@goslar.de
+  denied_at: ""
+- 
+  uuid: e7276699-852a-48a4-9487-657e48040652
+  ip: 185.238.219.8
+  backend: https://mmh.goslar.de
+  url: https://mmh.goslar.de/signage
+  user_agent: >
+    Mozilla/5.0 (Macintosh; Intel Mac OS X
+    10_15_7) AppleWebKit/605.1.15 (KHTML,
+    like Gecko) Version/26.0 Safari/605.1.15
+  status: approved
+  assigned_screen: mmh-foyer
+  requested_at: 2026-04-15 11:36:34
+  last_seen_at: 2026-04-15 11:36:46
+  approved_at: 2026-04-15 11:36:46
+  approved_by: nantke.janssen@goslar.de
+  denied_at: ""
+- 
+  uuid: c347a655-c41b-4fe5-8334-34a8098791e4
+  ip: 185.238.219.12
+  backend: https://mmh.goslar.de
+  url: https://mmh.goslar.de/signage
+  user_agent: >
+    Mozilla/5.0 (Windows NT 10.0; Win64;
+    x64) AppleWebKit/537.36 (KHTML, like
+    Gecko) Chrome/146.0.0.0 Safari/537.36
+  status: approved
+  assigned_screen: mmh-foyer
+  requested_at: 2026-04-15 13:03:13
+  last_seen_at: 2026-04-15 13:03:31
+  approved_at: 2026-04-15 13:03:31
   approved_by: nantke.janssen@goslar.de
   denied_at: ""
 
