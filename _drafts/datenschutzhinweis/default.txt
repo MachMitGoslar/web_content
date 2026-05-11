@@ -6,11 +6,11 @@ Cover:
 
 ----
 
-Headline: 
+Headline: Datenschutzhinweis
 
 ----
 
-Subheadline: 
+Subheadline: Transparenz- und Informationspflicht nach Art.13 und 14Datenschutzgrundverordnung (DSGVO)
 
 ----
 
