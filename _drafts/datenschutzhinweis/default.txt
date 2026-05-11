@@ -10,7 +10,7 @@ Headline: Datenschutzhinweis
 
 ----
 
-Subheadline: Transparenz- und Informationspflicht nach Art.13 und 14Datenschutzgrundverordnung (DSGVO)
+Subheadline: 
 
 ----
 
@@ -18,7 +18,7 @@ Text:
 
 ----
 
-Layout: 
+Layout: [{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[{"content":{"text":"<p><strong>Transparenz- und Informationspflicht nach Art.13 und 14Datenschutzgrundverordnung (DSGVO)</strong></p>"},"id":"7d5a0df4-3819-4392-8163-fa3258c57e64","isHidden":false,"type":"text"}],"id":"632a6d66-375c-4b08-bed0-feb05d74499e","width":"1/1"}],"id":"0714171c-6b88-486c-8a57-18b8fc33810b"}]
 
 ----
 
