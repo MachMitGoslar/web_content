@@ -111,9 +111,9 @@ News:
     abgeschlossen
   content_text: |
     Nachdem schon einige Monate im MachMit!Haus tatkräftig hantiert wurde sind die Umbauarbeiten nun größtenteils abgeschlossen.
-    Die Fensterfront wurde erneuert, sodass nun alle Fenster wieder sprungfrei sind und noch mehr Licht ins MachMit!Haus kommt.
+    Die Fensterfront wurde erneuert, sodass nun alle Fenster wieder sprungfrei sind und noch mehr Licht ins MachMit!Haus strahlt.
     Auch ein neuer Fußboden wurde verlegt und eine große Aufräumaktion wurde gestartet.
-    Jetzt können wir sagen: Willkommen im MachMit!Haus, Goslars Wohnzimmer am Marktplatz.
+    Jetzt können wir sagen: Willkommen im MachMit!Haus, Goslars Wohnzimmer am Marktplatz!
   image:
     - file://anjr4ophpvf93uyk
   link: ""
