@@ -70,15 +70,15 @@ Nonprofit-discount-percent:
 
 ----
 
-Google-calendar-id: c4ac637dc3186bf002bd2c70b24eb571d5acbe6b098ad39522e7c35af07cc080@group.calendar.google.com
+Nextcloud-calendar-uri: empfangsraum
 
 ----
 
-Ical-url: https://calendar.google.com/calendar/ical/c4ac637dc3186bf002bd2c70b24eb571d5acbe6b098ad39522e7c35af07cc080%40group.calendar.google.com/public/basic.ics
+Ical-url: 
 
 ----
 
-Calendar-embed-url: https://calendar.google.com/calendar/embed?src=c4ac637dc3186bf002bd2c70b24eb571d5acbe6b098ad39522e7c35af07cc080%40group.calendar.google.com&ctz=Europe%2FBerlin
+Calendar-embed-url: 
 
 ----
 

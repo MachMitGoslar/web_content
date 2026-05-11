@@ -70,15 +70,15 @@ Nonprofit-discount-percent:
 
 ----
 
-Google-calendar-id: e7c72f5025955ad2cf168f7f5e6a8e5a7e088fa263e8ddf5a0b20cc5ceda1ffc@group.calendar.google.com
+Nextcloud-calendar-uri: kuche
 
 ----
 
-Ical-url: https://calendar.google.com/calendar/ical/e7c72f5025955ad2cf168f7f5e6a8e5a7e088fa263e8ddf5a0b20cc5ceda1ffc%40group.calendar.google.com/public/basic.ics
+Ical-url: 
 
 ----
 
-Calendar-embed-url: https://calendar.google.com/calendar/embed?src=e7c72f5025955ad2cf168f7f5e6a8e5a7e088fa263e8ddf5a0b20cc5ceda1ffc%40group.calendar.google.com&ctz=Europe%2FBerlin
+Calendar-embed-url: 
 
 ----
 
