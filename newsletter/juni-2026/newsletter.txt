@@ -81,7 +81,21 @@ Weekly-dates:
 
 ----
 
-Upcomming-dates: 
+Upcomming-dates:
+
+- 
+  event_name: >
+    Bürgerbeteiligung im Rahmen von
+    "Integriertes Handlungskonzept
+    Sanierungsgebiet östlicher Teil"
+  event_date: 2026-06-01
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: Ausbildungsmesse
+  event_date: 2026-06-23
+  event_date_end: ""
+  show_event_date: 'true'
 
 ----
 
