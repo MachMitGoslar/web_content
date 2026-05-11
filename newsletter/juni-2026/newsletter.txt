@@ -10,15 +10,74 @@ Published:
 
 ----
 
-Author: 
+Author: - page://elvezdtmvhsvcaqu
 
 ----
 
-Greeting-text: 
+Greeting-text:
+
+Liebe Freundinnen und Freunde des MachMit!Hauses,
+
+im kommenden Monat erwarten euch wieder spannende Veranstaltungen zum Thema
 
 ----
 
-Weekly-dates: 
+Weekly-dates:
+
+- 
+  day: monday
+  start_time: 15:00:00
+  end_time: 16:30:00
+  activity: Kreativ Café
+  recurring: ""
+- 
+  day: monday
+  start_time: 16:30:00
+  end_time: 18:00:00
+  activity: MachMit! Barrierefrei
+  recurring: 2. und 4. Montag im Monat
+- 
+  day: monday
+  start_time: 18:00:00
+  end_time: ""
+  activity: 'Work & Study Lounge'
+  recurring: ""
+- 
+  day: tuesday
+  start_time: 18:00:00
+  end_time: ""
+  activity: SpielMit!
+  recurring: 1. Dienstag im Monat
+- 
+  day: wednesday
+  start_time: 17:00:00
+  end_time: 19:00:00
+  activity: Coding4Youth
+  recurring: ""
+- 
+  day: wednesday
+  start_time: 19:00:00
+  end_time: ""
+  activity: Coding4Goslar
+  recurring: ""
+- 
+  day: thursday
+  start_time: 15:00:00
+  end_time: 17:00:00
+  activity: Internationales Sprachcafé für Frauen
+  recurring: ""
+- 
+  day: thursday
+  start_time: 18:00:00
+  end_time: ""
+  activity: 'Goslar App: Dev Talk'
+  recurring: ""
+- 
+  day: friday
+  start_time: 18:00:00
+  end_time: ""
+  activity: Black Kaffee
+  recurring: 1. Freitag im Monat
 
 ----
 
@@ -42,7 +101,23 @@ Upcoming-entries:
 
 ----
 
-News: 
+News:
+
+- 
+  layout: imageLeft
+  headline: Cozy MachMit!Haus
+  subheadline: >
+    Umbauarbeiten größtenteils
+    abgeschlossen
+  content_text: |
+    Nachdem schon einige Monate im MachMit!Haus tatkräftig hantiert wurde sind die Umbauarbeiten nun größtenteils abgeschlossen.
+    Die Fensterfront wurde erneuert, sodass nun alle Fenster wieder sprungfrei sind und noch mehr Licht ins MachMit!Haus kommt.
+    Auch ein neuer Fußboden wurde verlegt und eine große Aufräumaktion wurde gestartet.
+    Jetzt können wir sagen: Willkommen im MachMit!Haus, Goslars Wohnzimmer am Marktplatz.
+  image:
+    - file://anjr4ophpvf93uyk
+  link: ""
+  mailto: ""
 
 ----
 
