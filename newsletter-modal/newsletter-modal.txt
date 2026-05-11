@@ -22,7 +22,7 @@ Newslettermodalemaillabel: E-Mail-Adresse
 
 ----
 
-Newslettermodalprivacytext: Hiermit erkläre ich mich mit der Übermittlung, Speicherung und Verwendung meiner Daten einverstanden. Ich habe die (link: page://eyiewhebjmlckhnj text: Datenschutzinformationen)gelesen und akzeptiere diese.
+Newslettermodalprivacytext: Hiermit erkläre ich mich mit der Übermittlung, Speicherung und Verwendung meiner Daten einverstanden. Ich habe die (link: page://eyiewhebjmlckhnj text: Datenschutzinformationen) gelesen und akzeptiere diese.
 
 ----
 
