@@ -18,7 +18,7 @@ Text:
 
 ----
 
-Layout: [{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[{"content":{"text":"<p><strong>Transparenz- und Informationspflicht nach Art.13 und 14Datenschutzgrundverordnung (DSGVO)</strong></p>"},"id":"7d5a0df4-3819-4392-8163-fa3258c57e64","isHidden":false,"type":"text"}],"id":"632a6d66-375c-4b08-bed0-feb05d74499e","width":"1/1"}],"id":"0714171c-6b88-486c-8a57-18b8fc33810b"}]
+Layout: [{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[{"content":{"text":"<p><strong>Transparenz- und Informationspflicht nach Art.13 und 14Datenschutzgrundverordnung (DSGVO)</strong></p>"},"id":"7d5a0df4-3819-4392-8163-fa3258c57e64","isHidden":false,"type":"text"},{"content":{"text":"<p>Der Schutz Ihrer Daten hat für uns oberste Priorität. Die Stadt Goslar verwendet Ihre personenbezogenen Daten ausschließlich zur Bearbeitung Ihrer konkreten Anfrage bzw. Zusendungen von Informationen rund um das MachMit!Haus und gibt sie nicht an Dritte weiter. Im Sinne der EU-Datenschutz-Grundverordnung (DSGVO) werden Sie nachstehend über die Verarbeitung von personenbezogenen Daten informiert.</p>"},"id":"4660d6b3-cecc-4791-b967-d6c5d5aeb6a0","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Kontaktdaten</strong></p><p><strong>Verantwortliche Stelle gemäß Art. 13 und 14 DSGVO</strong></p><p>Stadt Goslar, Oberbürgermeisterin, Charley-Jacob-Straße 3, 38640 Goslar, Tel.: 05321/704-0,</p><p>E-Mail:&nbsp; stadtverwaltung@goslar.de</p>"},"id":"01cf65d4-e170-4271-9536-1798abbee351","isHidden":false,"type":"text"}],"id":"632a6d66-375c-4b08-bed0-feb05d74499e","width":"1/1"}],"id":"0714171c-6b88-486c-8a57-18b8fc33810b"}]
 
 ----
 
