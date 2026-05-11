@@ -1,0 +1,33 @@
+Title: Newsletter Modal
+
+----
+
+Newslettermodalheadline: Newsletter abonnieren
+
+----
+
+Newslettermodaltext: Du möchtest gern zuerst wissen wenn etwas Neues passiert? Dann melde dich jetzt für unseren Newsletter an. Christian lässt euch monatlich wissen welche aktuellen Themen im Bereich MachMit!Haus und Bürgerbeteiligung passiert sind. Jetzt anmelden und nie wieder ein Thema verpassen!
+
+----
+
+Newslettermodalfirstnamelabel: Vorname
+
+----
+
+Newslettermodallastnamelabel: Nachname
+
+----
+
+Newslettermodalemaillabel: E-Mail-Adresse
+
+----
+
+Newslettermodalprivacytext: Hiermit erkläre ich mich mit der Übermittlung, Speicherung und Verwendung meiner Daten einverstanden. Ich habe die (link: https://www.goslar.de/datenschutz text: Datenschutzinformationen) gelesen und akzeptiere diese.
+
+----
+
+Newslettermodalsubmitbuttontext: Anmelden
+
+----
+
+Uuid: 3xldggvhkx1un2at
