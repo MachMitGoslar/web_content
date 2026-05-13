@@ -1,0 +1,13 @@
+Title: Newsletter abmelden
+
+----
+
+Headline: Abmeldung
+
+----
+
+Intro: Hier kannst du dich vom MachMit!Haus Newsletter abmelden.
+
+----
+
+Successtext: Du wurdest erfolgreich vom Newsletter abgemeldet.
