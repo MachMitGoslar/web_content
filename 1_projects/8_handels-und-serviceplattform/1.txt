@@ -6,7 +6,7 @@ Cover:
 
 ----
 
-Headline: 
+Headline: Handels- und Serviceplattform
 
 ----
 
@@ -18,7 +18,7 @@ Text:
 
 ----
 
-Layout: 
+Layout: [{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[],"id":"199c6766-c6eb-4e13-abe6-2ebbb387ee4e","width":"1/1"}],"id":"2f39f9a0-a57d-465c-856e-8805d9833fe5"}]
 
 ----
 
