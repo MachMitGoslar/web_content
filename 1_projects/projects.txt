@@ -2,27 +2,27 @@ Title: MachMit!Projekte
 
 ----
 
-Show_active: true
-
-----
-
-Show_archive: false
-
-----
-
-Show_search: false
-
-----
-
 Cover: - file://QhHkUyrrZqFflVDP
 
 ----
 
-Headline: MachMit!Projekte
+Headline: Mitmachen im MachMit!Haus
 
 ----
 
-Subheadline: Ein Blick in laufende und abgeschlossene Projekte
+Subheadline: Ein Blick in laufende und abgeschlossene Projekte + Veranstaltungen
+
+----
+
+Show-active: true
+
+----
+
+Show-archive: false
+
+----
+
+Show-search: false
 
 ----
 
