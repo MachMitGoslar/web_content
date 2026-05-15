@@ -14,7 +14,7 @@ Subheadline: suche Probleme, biete Lösung
 
 ----
 
-Project-status: aktiv
+Project-status: abgeschlossen
 
 ----
 
