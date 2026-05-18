@@ -10,23 +10,27 @@ Name: Christian
 
 ----
 
-Description: Der Christian
+Description:
+
+Der fürs Ehrenamt
+
+Christian ist der Einzige, der seit Eröffnung des MachMit!Hauses Teil des MachMit!-Teams ist. Die Freiwillige Hochwasserhilfe, der Stadtplan für Menschen mit Mobilitätseinschränkung, Digitale Teilhabe für Senioren und die Aktionstage "Unsichtbare Behinderungen Sichtbar Machen" sind einige seiner Projekte. Für ihn ist Bürgerbeteiligung Befähigung: Im MachMit!Haus werden Bürgerinnen und Bürger dabei unterstützt und befähigt, sich für mit ihren eigenen Projekten für ihre Stadt und ihre Mitmenschen einzusetzen.
 
 ----
 
-Role: 
+Role: Projektmacher
 
 ----
 
-Email: 
+Email: christian.warzecha@goslar.de
 
 ----
 
-Phone: 
+Phone: 05321 704-487
 
 ----
 
-Address: 
+Address: Markt 7, 38640 Goslar
 
 ----
 
