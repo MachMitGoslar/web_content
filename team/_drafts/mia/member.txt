@@ -2,7 +2,7 @@ Title: Mia
 
 ----
 
-Cover: 
+Cover: - file://z0va5qrhsqokpexg
 
 ----
 
@@ -10,11 +10,18 @@ Name: Mia
 
 ----
 
-Description: 
+Description:
+
+Eigentlich war 2005 nur ein Schüleraustausch am Ratsgymnasium Goslar geplant. Fast 20 Jahre später arbeitet Mia nun gemeinsam mit dem MachMit!Haus Goslar, der NewKammer Seesen und dem DIGIT Forschungszentrum der TU Clausthal daran, Studierende, Unternehmen und neue Ideen miteinander zu vernetzen und Innovation langfristig in der Region zu verankern.
+
+Facts über Mia: 
+Findet man oft an der Granetalsperre
+Würzt vermutlich alles mit scharfen Chilis
+Hat Piranesi von Susanna Clarke nicht nur einmal gelesen
 
 ----
 
-Role: 
+Role: Professionelle Menschenzusammenbringerin
 
 ----
 
