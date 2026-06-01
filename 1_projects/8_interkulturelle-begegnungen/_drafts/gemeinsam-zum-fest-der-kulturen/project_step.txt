@@ -2,19 +2,19 @@ Title: Gemeinsam zum Fest der Kulturen?
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-06-01
 
 ----
 
-Project-start-time: 
+Project-start-time: 10:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
-Project-status-to: 
+Project-status-to: aktiv
 
 ----
 
@@ -22,7 +22,7 @@ Headline:
 
 ----
 
-Description: 
+Description: Ansgespornt von den Erfolgen des gemeinsamen Tet-Festes, lädt die vietnamesische Community zur gemeinsamen Vorbereitung des traditionellen Löwentanzen beim "Fest der Kulturen" in Goslar ein. Die Probetermine findet ihr im Kalender, Anmeldung gern direkt hier
 
 ----
 
