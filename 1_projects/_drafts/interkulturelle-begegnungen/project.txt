@@ -14,11 +14,11 @@ Subheadline: Wie interkulturelle Begnung in Goslar gelingen kann
 
 ----
 
-Project-status: in Planung
+Project-status: aktiv
 
 ----
 
-Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Bürgerbeteiligung heißt auch sich kennenzulernen. Denn eigentlich sind wir in Goslar eine große Nachbarschaft. Und vieles wird einfacher wenn man seine Nachbarn kennt. Es baut Vorurteile ab und schafft Möglichkeiten die sonst im Verborgenen bleiben.</p><p>Das MachMit!Haus soll ein Ort sein wo sich die vielen unterschiedlichen Kulturen und Nachbarschaften in Goslar kennenlernen und gemeinsam arbeiten können.</p>"},"id":"756624f9-143e-4133-9199-b4dcc853be97","isHidden":false,"type":"text"}],"id":"3f9bb947-fd2e-42d0-b159-b7e48337498f","width":"1/1"}],"id":"eb989dfd-2235-4a9b-a846-ab2260dfbfcc"},{"attrs":[],"columns":[{"blocks":[],"id":"daac7de9-517f-45a5-9602-9b83d833d757","width":"1/2"},{"blocks":[],"id":"33377cf4-b583-4539-80aa-f4c5b454ade7","width":"1/2"}],"id":"a66728a7-79fc-4a24-9428-64066cbe4016"}]
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Bürgerbeteiligung heißt auch sich kennenzulernen. Denn eigentlich sind wir in Goslar eine große Nachbarschaft. Und vieles wird einfacher wenn man seine Nachbarn kennt. Es baut Vorurteile ab und schafft Möglichkeiten die sonst im Verborgenen bleiben.</p><p>Das MachMit!Haus soll ein Ort sein wo sich die vielen unterschiedlichen Kulturen und Nachbarschaften in Goslar kennenlernen und gemeinsam arbeiten können.</p>"},"id":"756624f9-143e-4133-9199-b4dcc853be97","isHidden":false,"type":"text"}],"id":"3f9bb947-fd2e-42d0-b159-b7e48337498f","width":"1/1"}],"id":"eb989dfd-2235-4a9b-a846-ab2260dfbfcc"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Das klingt nach dir?"},"id":"143e2552-0a8e-488a-98dd-82fcf9396e0e","isHidden":false,"type":"heading"}],"id":"01d93923-1ad6-45ac-87e1-ceccb1786635","width":"1/1"}],"id":"1b3fcc5f-d98d-4ca9-ba62-c71ccc372fb8"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Viele unserer Aktionen starten auf die selbe Weise: Mit einem Gespräch in unserem Haus. Oft hilft das gemeinsame Gespräch Projektideen einzugrenzen, auszuarbeiten und in die Praxis zu bekommen. </p><p>Natürlich freuen wir uns auch (ganz digital) wenn du Kontakt mit uns über unser Formular aufnimmst.</p>"},"id":"2f8121b0-eca4-4b74-89ed-23fb6dfd26e9","isHidden":false,"type":"text"}],"id":"2c98d214-e154-4680-8184-7f26202f4a7c","width":"1/1"}],"id":"d21c752a-3487-4a07-9dd5-a3a6a60ee1a9"}]
 
 ----
 
@@ -26,7 +26,11 @@ Form:
 
 ----
 
-Team: 
+Team:
+
+- page://Cw3N87jTU3LFBVvj
+- page://nptsef9geyexw0gz
+- page://sspshn0jwkldmzyq
 
 ----
 
