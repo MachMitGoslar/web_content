@@ -10,7 +10,7 @@ Headline: Mitmachen im MachMit!Haus
 
 ----
 
-Subheadline: Ein Blick in laufende und abgeschlossene Projekte + Veranstaltungen
+Subheadline: Ein Blick in laufende und abgeschlossene Projekte + Aktionen
 
 ----
 
