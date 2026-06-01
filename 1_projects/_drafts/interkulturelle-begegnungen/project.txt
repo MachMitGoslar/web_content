@@ -18,7 +18,7 @@ Project-status: aktiv
 
 ----
 
-Text: 
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Bürgerbeteiligung heißt auch sich kennenzulernen. Denn eigentlich sind wir in Goslar eine große Nachbarschaft. Und vieles wird einfacher wenn man seine Nachbarn kennt. Es baut Vorurteile ab und schafft Möglichkeiten die sonst im Verborgenen bleiben.</p><p>Das MachMit!Haus soll ein Ort sein wo sich die vielen unterschiedlichen Kulturen und Nachbarschaften in Goslar kennenlernen und gemeinsam arbeiten können.</p>"},"id":"756624f9-143e-4133-9199-b4dcc853be97","isHidden":false,"type":"text"}],"id":"3f9bb947-fd2e-42d0-b159-b7e48337498f","width":"1/1"}],"id":"eb989dfd-2235-4a9b-a846-ab2260dfbfcc"},{"attrs":[],"columns":[{"blocks":[],"id":"daac7de9-517f-45a5-9602-9b83d833d757","width":"1/2"},{"blocks":[],"id":"33377cf4-b583-4539-80aa-f4c5b454ade7","width":"1/2"}],"id":"a66728a7-79fc-4a24-9428-64066cbe4016"}]
 
 ----
 
