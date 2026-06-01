@@ -1,0 +1,33 @@
+Title: Sprachcafé für alle?
+
+----
+
+Project-start-date: 
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: 
+
+----
+
+Headline: 
+
+----
+
+Description: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: f2yj2w7qcgkroyhf
