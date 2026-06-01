@@ -2,7 +2,7 @@ Title: Interkulturelle Begegnungen
 
 ----
 
-Cover: 
+Cover: - file://xjdxyskm2fupcchh
 
 ----
 
@@ -10,11 +10,11 @@ Headline:
 
 ----
 
-Subheadline: 
+Subheadline: Wie interkulturelle Begnung in Goslar gelingen kann
 
 ----
 
-Project-status: 
+Project-status: aktiv
 
 ----
 
