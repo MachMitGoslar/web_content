@@ -2,11 +2,11 @@ Title: Die Idee des Sprachcafé entsteht
 
 ----
 
-Project-start-date: 
+Project-start-date: 2024-01-01
 
 ----
 
-Project-start-time: 
+Project-start-time: 10:00:00
 
 ----
 
@@ -14,11 +14,11 @@ Project-status-from:
 
 ----
 
-Project-status-to: 
+Project-status-to: in Planung
 
 ----
 
-Headline: 
+Headline: <p>Im MachMit!Haus entsteht zum ersten Mal die Idee ein Sprachcafé für Frauen zu organiseren</p>
 
 ----
 
@@ -26,7 +26,7 @@ Description:
 
 ----
 
-Tags: 
+Tags: kulturell, sprachcafé
 
 ----
 
