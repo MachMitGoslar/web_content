@@ -2,19 +2,19 @@ Title: Sprachcafé für alle?
 
 ----
 
-Project-start-date: 
+Project-start-date: 2025-03-25
 
 ----
 
-Project-start-time: 
+Project-start-time: 10:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
-Project-status-to: 
+Project-status-to: in Planung
 
 ----
 
@@ -22,11 +22,15 @@ Headline:
 
 ----
 
-Description: 
+Description:
+
+Oft erreichen uns Anfragen warum es bisher nur ein Sprachcafé für Frauen gibt. Das ist manchmal schwierig zu beantworten. Fakt ist: Wir haben derzeit eine starke ehrenamtliche Gruppe die sich um die Betreuung des Sprachcafés kümmert und wir haben eine starke Gruppe an Frauen die auf diese Einladung eingeht.
+Immer mal wieder schauen vereinzelte Männer im MachMit!Haus vorbei und möchten gern auch ein Sprachcafé organiseren, aber bisher hat sich noch keine kritische Masse finden können. 
+Du würdest gern teilnehmen oder mitorgansieren? Dann melde dich bei uns.
 
 ----
 
-Tags: 
+Tags: sprachcafé, interkulturell, deutsch lernen
 
 ----
 
