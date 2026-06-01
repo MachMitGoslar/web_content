@@ -2,19 +2,19 @@ Title: Prototyp: Tetfest 2026
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-02-14
 
 ----
 
-Project-start-time: 
+Project-start-time: 10:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
-Project-status-to: 
+Project-status-to: aktiv
 
 ----
 
@@ -22,7 +22,7 @@ Headline:
 
 ----
 
-Description: 
+Description: Warum nicht einfach mal gemeinsam einen Brauch feiern der jährlich von der vietnamesischen Community in Goslar begangen wird? Gesagt getan und so organisierten Phuong und Martin die erste Feier des Tet-Festes in Goslar
 
 ----
 
