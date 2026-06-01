@@ -10,15 +10,23 @@ Name: Martin Sänger
 
 ----
 
-Description: Er überlebt hauptsächlich durch List und Verhandlungsgeschick und flieht oft aus gefährlichen Situationen. Sein Ziel ist es, sein Schiff, die Black Pearl, zurückzugewinnen, während er gleichzeitig gegen die East India Trading Company kämpft. Später sucht er nach dem Jungbrunnen und wird von Blackbeards Queen Anne’s Revenge entführt, um ihn zum Jungbrunnen zu führen, während die Black Pearl in einer Flasche gefangen ist
+Description:
+
+Glück auf!
+
+Ich bin Martin und ich kümmere mich im MachMit!Haus um ganz viele unterschiedliche Baustellen. Hauptsächlich erlebt man mich immer mittwochs bis freitags und manchmal am Wochenende im offenen Bereich des Hauses. Hier stehe ich euch für alle Anliegen, Frust oder auch ein gutes Gespräch gern zur Verfügung. 
+
+Nebenbei kümmere ich mich um die zahlreichen Digitalisierungsbaustellen wie: Goslar App, Datenaggregation, Website, Social und Produktion. 
+
+Gemeinsam mit unseren zahlreichen Ehrenamtlichen im Haus haben wir zahlreiche Möglichkeiten dich aktiv in die Gestaltung unserer Stadt einzubinden. Also: #SeiDeineStadt
 
 ----
 
-Role: Ahnungslos
+Role: Projektmanagement und Digitalisierung
 
 ----
 
-Email: stuff@stuffdev.de
+Email: martin.saenger@goslar.de
 
 ----
 
@@ -34,15 +42,15 @@ Teams: staff
 
 ----
 
-Facebook: jugendarbeit.goslar
+Facebook: 
 
 ----
 
-Instagram: jugendarbeit.goslar
+Instagram: machmitgoslar
 
 ----
 
-X: test
+X: 
 
 ----
 
@@ -54,11 +62,11 @@ Github: rangarius
 
 ----
 
-Youtube: jugendarbeit.goslar
+Youtube: 
 
 ----
 
-Tags: 
+Tags: machmit!haus, black kaffee, coding, digitales, projekte, making, musik
 
 ----
 
