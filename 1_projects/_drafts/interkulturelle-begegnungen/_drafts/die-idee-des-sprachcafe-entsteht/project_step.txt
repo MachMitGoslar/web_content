@@ -1,0 +1,33 @@
+Title: Die Idee des Sprachcafé entsteht
+
+----
+
+Project-start-date: 
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: 
+
+----
+
+Headline: 
+
+----
+
+Description: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: mfw9kv1sei2il5gx
