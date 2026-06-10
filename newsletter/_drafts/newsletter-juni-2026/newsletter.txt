@@ -30,7 +30,88 @@ Timeline:
 
 ----
 
-Review-entries: 
+Review-entries:
+
+- 
+  layout: imageLeft
+  headline: Earth Hour
+  subheadline: "Wir machen's aus"
+  content_text: >
+    Am 20. März lud da MachMit!Haus wieder
+    zur traditionellen Earth Hour ins
+    MachMit!Haus ein. Ganz im Stile der
+    Black Kaffees trafen sich ca. 50
+    Bürger:innen zum gemeinsamen singen und
+    beisammensein. Die Earth Hour ist eine
+    Aktion des WWF bei der weltweit
+    engagierte Menschen und Innitiativen
+    durch das eindtündige Abschalten der
+    Beleuchtung gemeinsam eine weltweites
+    Zeichen setzen. Organsiert wurde der
+    Abend von
+  image:
+    - file://bbboshaafrhrl9rv
+  link: ""
+  mailto: machmit@goslar.de
+- 
+  layout: imageLeft
+  headline: So ist Tet
+  subheadline: >
+    Vietnamesisches Neujahrsfest im
+    MachMit!Haus
+  content_text: |
+    Am 17.02.2026 begann das Jahr des Pferdes in China und in Vietnam. Tết ist das wichtigste Fest in Vietnam – vergleichbar mit Weihnachten und Neujahr zusammen. Es markiert den Beginn des neuen Jahres nach dem Mondkalender.
+    Auch im MachMit!Haus wurde fleißig gefeiert! Phuong Dang-Böttcher lud mit der vietnamesichen Community alle interessieren Bürgerinnen und Bürger zur gemeinsamen Feier ein.
+    Vom traditionellen Löwentanz, über biegende Tische voller vietnamesischer Speisen bishin zum Infovortrag war alles dabei. So geht interkulturell... nicht alleine sondern offen und gemeinsam.
+  image:
+    - file://nbiqb5mkmn5hupvp
+  link: >
+    https://machmit.goslar.de/projekte/so-ist-tet
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: Mein buntes Goslar
+  subheadline: >
+    Gestaltungsaktion an der
+    Bahnhofsunterführung abgeschlossen
+  content_text: '2025 rief die Stadt Goslar unter Federführung des MachMit!Hauses zur Bürger-Gestaltungsaktion "Mein buntes Goslar" auf. Aufgrund der schlechten Witterung konnten die Kunstwerke jedoch erst im Mai 2026 umgesetzt werden. **Doch** das Warten hat sich gelohnt! Nun sind die Arbeiten der Künstler:innen abgeschlossen. Die Kunstwerke "Bergleuchten - von Shauny", "Mein buntes Goslar - von Franziskus" und "Tor zum Harz - Jannis" sind nun fertiggestellt.'
+  image:
+    - file://z9km8ygku785kz4f
+  link: >
+    https://machmit.goslar.de/mein-buntes-goslar
+  mailto: ""
+- 
+  layout: imageRight
+  headline: Ehrentag
+  subheadline: Das Grundgesetz feiert Geburtstag
+  content_text: |
+    Zum Geburtstag unseres Grundgesetzes am 23. Mai waren alle in Deutschland eingeladen, das gesellschaftliche Miteinander zu feiern – mit einem bundesweiten Mitmachtag!
+    Natürlich kann das MachMit!Haus da nicht fehlen. Gemeinsam mit der Goslarer Music Szene gab es an diesem Tag Etliches zu erleben. Von einer Mit!Mach-Bühne auf dem Marktplatz, über Community-Geschichten bishin zum abendlichen Sofa-Jam mit der Band "Dr. Sichenhofer".
+  image:
+    - file://kul9qsc0yhkjrimy
+  link: https://goslarermusicscene.de
+  mailto: ""
+- 
+  layout: imageRight
+  headline: Altstadtlauf
+  subheadline: und das MachMit!Haus mittendrin
+  content_text: |
+    Ein neuer Besucher- und Läuferrekord beim 37. Altstadtlauf des MTV Goslar e.V. war in diesem Jahr zu vermelden. Auch hier darf das MachMit!Haus natürlich nicht fehlen... und im Vorfeld des Muttertages bekamen wir erneut die schönste Mithilfe die man sich vorstellen kann. Der Verein "Wunschliste e.V." bastelte kreativ mit allen Interessieren die schönsten Muttertagsgeschenke. Und für besonders Mutige wartete ein Nagelbrett-Parcours.
+    Hauptorganisator Patrick Saupe zeigte sich sichtlich erfreut über die erneute, gute Zusammenarbeit. Denn auch das Sportliche kam nicht zu kurz. Als Lagezentrum, Laufzeit-Service und Umkleiden leistete das Haus an diesem Tag wie wichtigen Service für die Läuferinnen und Läufer.
+  image:
+    - file://p09pxwvpoyn7nlhj
+  link: ""
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: Black Kaffee
+  subheadline: Der "erste" Freitag im MachMit!Haus
+  content_text: 'Die ersten Freitage bedeuten "Black (&White) Kaffee"! Es geht darum Zeit für einander zu finden, zu reden und zu teilen. Handys müssen dabei draußen bleiben. Dabei organsiert das ehrenamtliche Team immer etwas Besonders. Ob Schachspielen, Sportsbar und atmosphärische Dekoration. Die letzten Termine waren 08. Mai, 06. März und 06. Februar 2026'
+  image:
+    - file://65w1ahsjjtjjdknl
+  link: >
+    https://chat.whatsapp.com/CVco7nWXrklBIIO87VpPyt?mode=gi_t
+  mailto: ""
 
 ----
 
