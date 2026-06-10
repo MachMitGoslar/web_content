@@ -124,7 +124,11 @@ Review-entries:
 
 ----
 
-Actual-entries:
+Actual-entries: 
+
+----
+
+Upcoming-entries:
 
 - 
   layout: imageLeft
@@ -144,10 +148,6 @@ Actual-entries:
     - file://wzblqh2qhzgfvg1d
   link: ""
   mailto: martin.saenger@goslar.de
-
-----
-
-Upcoming-entries: 
 
 ----
 
