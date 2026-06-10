@@ -112,10 +112,38 @@ Review-entries:
   link: >
     https://chat.whatsapp.com/CVco7nWXrklBIIO87VpPyt?mode=gi_t
   mailto: ""
+- 
+  layout: imageRight
+  headline: Workation Wochenende
+  subheadline: Ehrenamtliche App Entwicklung
+  content_text: 'Vom 5. - 7. Juni trafen die Entwickler der Goslar App (Firma Smart Village Solutions) auf das #DevTalk Team des MachMit!Hauses. Das Team trifft sich jeden Donnerstag ab 18:00 Uhr im MachMit!Haus und hilft bei der Fort- und Weiterentwicklung der Goslar App. Gemeinsam wurde ein Programmmix aus Arbeiten (work) und Urlaub (vacation) in Angriff genommen. Dabei gab es den langersehnten Blick hinter die Kullissen des Goslarer App Codes.'
+  image:
+    - file://1b3uand3na11vyk8
+  link: https://oveda.de/event/7209
+  mailto: ""
 
 ----
 
-Actual-entries: 
+Actual-entries:
+
+- 
+  layout: imageLeft
+  headline: Kleider-Tausch-Börse
+  subheadline: Wir brauchen dich!
+  content_text: >
+    Im Rahmen eines entspannten
+    Freitagabends wollen wir unsere erster
+    Kleider-Tausch-Börse mit Black Kaffee
+    Atmosphäre im MachMit!Haus entwickeln.
+    Die konkrete Umsetzung soll dabei im
+    September 2026 stattfinden. Du hast Lust
+    darauf uns mit deinem Wissen und deiner
+    Tatkraft zu unterstützen? Martin freut
+    sich auf deine Rückmeldung!
+  image:
+    - file://wzblqh2qhzgfvg1d
+  link: ""
+  mailto: martin.saenger@goslar.de
 
 ----
 
