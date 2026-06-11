@@ -210,7 +210,7 @@ Review-entries:
   layout: imageRight
   headline: Workation Wochenende
   subheadline: Ehrenamtliche App Entwicklung
-  content_text: 'Vom 5. - 7. Juni trafen die Entwickler der Goslar App (Firma Smart Village Solutions) auf das #DevTalk Team des MachMit!Hauses. Das Team trifft sich jeden Donnerstag ab 18:00 Uhr im MachMit!Haus und hilft bei der Fort- und Weiterentwicklung der Goslar App. Gemeinsam wurde ein Programmmix aus Arbeiten (work) und Urlaub (vacation) in Angriff genommen. Dabei gab es den langersehnten Blick hinter die Kullissen des Goslarer App Codes.'
+  content_text: 'Vom 5. bis 7. Juni trafen die Entwickler der Goslar App von Smart Village Solutions auf das #DevTalk-Team des MachMit!Hauses. Die Gruppe trifft sich jeden Donnerstag ab 18:00 Uhr im MachMit!Haus und engagiert sich für die Fort- und Weiterentwicklung der Goslar App. Gemeinsam wurde ein abwechslungsreiches Programm aus Arbeit („Work“) und Freizeit („Vacation“) gestaltet. Neben intensiven Arbeitsphasen bot das Treffen auch Raum für Austausch und gemeinschaftliche Aktivitäten. Ein besonderes Highlight war dabei der lang ersehnte Blick hinter die Kulissen des Codes der Goslar App.'
   image:
     - file://1b3uand3na11vyk8
   link: https://oveda.de/event/7209
