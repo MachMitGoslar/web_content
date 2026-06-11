@@ -88,9 +88,9 @@ Upcomming-dates:
   show_event_date: 'true'
 - 
   event_name: >
-    "Wie plane ich meine PV-Anlage"
-    Informationsabend der Bürgerenergie
-    Harz eG
+    „Wie plane ich meine
+    Photovoltaikanlage?“ Informationsabend
+    der Bürgerenergie Harz eG
   event_date: 2026-06-12
   event_date_end: ""
   show_event_date: 'true'
