@@ -30,7 +30,28 @@ Euer Team des MachMit!Hauses
 
 ----
 
-Weekly-dates: 
+Weekly-dates:
+
+- 
+  day: monday
+  start_time: 15:00:00
+  end_time: 16:30:00
+  activity: Kreativcafé
+  recurring: 'Jede Woche '
+- 
+  day: wednesday
+  start_time: 17:00:00
+  end_time: ""
+  activity: Coding 4 Youth
+  recurring: >
+    Jede Woche (nicht während der
+    Schulferien)
+- 
+  day: monday
+  start_time: ""
+  end_time: ""
+  activity: ""
+  recurring: ""
 
 ----
 
