@@ -127,7 +127,15 @@ Review-entries:
   layout: imageLeft
   headline: mission future
   subheadline: Glücksforschung trifft Stadtentwicklung
-  content_text: 'Am 19. März 2026 besuchten Dr. Hubertus & Yvonne Hoffmann das MachMit!Haus mit ihrer "mission future". Sie kamen dabei mit Bürgerinnen und Bürgern über die Bedeutung der Glücksforschung für moderne, gelingende Zukunftsstädte ins Gespräch.'
+  content_text: >
+    Am 19. März 2026 besuchten Dr. Hubertus
+    und Yvonne Hoffmann mit ihrer Initiative
+    „mission future“ das MachMit!Haus.
+    Dabei kamen sie mit Bürgerinnen und
+    Bürgern über die Bedeutung der
+    Glücksforschung für moderne und
+    lebenswerte Zukunftsstädte ins
+    Gespräch.
   image:
     - file://0mlcxsq1sj6illim
   link: https://machmit.goslar.de/mission-future
@@ -136,19 +144,7 @@ Review-entries:
   layout: imageLeft
   headline: Earth Hour
   subheadline: "Wir machen's aus"
-  content_text: >
-    Am 28. März lud das MachMit!Haus wieder
-    zur traditionellen Earth Hour ins
-    MachMit!Haus ein. Ganz im Stile der
-    Black Kaffees trafen sich ca. 50
-    Bürger:innen zum gemeinsamen singen und
-    beisammensein. Die Earth Hour ist eine
-    Aktion des WWF bei der weltweit
-    engagierte Menschen und Innitiativen
-    durch das eindtündige Abschalten der
-    Beleuchtung gemeinsam eine weltweites
-    Zeichen setzen. Organsiert wurde der
-    Abend von
+  content_text: 'Am 28. März lud das MachMit!Haus wieder zur traditionellen Earth Hour ein. Ganz im Stil der „Black Coffees“ trafen sich rund 50 Bürger:innen zum gemeinsamen Singen und Beisammensein. Die Earth Hour ist eine Aktion des WWF, bei der weltweit engagierte Menschen und Initiativen durch das einstündige Abschalten der Beleuchtung gemeinsam ein Zeichen für Klima- und Umweltschutz setzen.'
   image:
     - file://bbboshaafrhrl9rv
   link: ""
