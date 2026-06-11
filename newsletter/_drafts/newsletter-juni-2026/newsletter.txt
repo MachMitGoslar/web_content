@@ -100,7 +100,7 @@ Upcomming-dates:
   event_date_end: ""
   show_event_date: 'true'
 - 
-  event_name: 'SpielMit! - Der offene Spieleabend von Bürgern für Bürger'
+  event_name: 'SpielMit! - Der offene Spieleabend von Bürgerinnen und Bürger für Bürgerinnen und Bürger'
   event_date: 2027-07-07
   event_date_end: ""
   show_event_date: 'true'
