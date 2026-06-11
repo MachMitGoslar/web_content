@@ -10,7 +10,10 @@ Published:
 
 ----
 
-Author: 
+Author:
+
+- page://Cw3N87jTU3LFBVvj
+- page://nptsef9geyexw0gz
 
 ----
 
@@ -208,13 +211,13 @@ Actual-entries:
     Eine Kooperation mit der
     Freiwilligenagentur Goslar
   content_text: |
-    Am Montag, den 15. Juni, lädt das MachMit!Haus der Stadt Goslar gemeinsam mit der Freiwilligenagentur Goslar alle interessierten Seniorinnen und Senioren zu einer besonderen Veranstaltung zum Thema digitale Teilhabe in das MachMit!Haus am Marktplatz ein. Die Veranstaltung beginnt um 10:00 Uhr mit einem informativen Vortrag der Abschlussklasse der BBS Baßgeige zum Thema „Grundlagen der Handynutzung“. Ziel ist es, älteren Menschen den Einstieg in die Nutzung von Smartphones und Tablets zu erleichtern und ihre digitalen Kompetenzen zu stärken.
+    Zusammen mit der Freiwilligenagentur planen wir eine Vernatsaltungsreihe zum Thema "Digitale Teilhabe für Senioriinen und Senioren".
+    Die Vernastaltung sind wie folgt konzipiert: Zunächst gibt es einen Vortrag und im Anschluss können die Besuchrinnen und Becher in einer 1-1 Betruung mit ehrenamtlichen nach ihren persönlichen OProblem fragen und wie man sie lösen kann.
     
+    Die Auftaktveranstaltung ist am Montag, 15.06.26 mit dem Votrag "Grundlagen der Handynutzung"
     Im Anschluss an den Vortrag haben die Teilnehmenden die Möglichkeit, in entspannter Atmosphäre individuelle Fragen zu stellen und ihre Probleme bei der Nutzung von Handys und Tablets in persönlichen 1-zu-1-Gesprächen mit den Schülerinnen und Schülern und weiteren ehrenamtlichen Helferinnen und Helfern zu klären. Das Angebot soll Unsicherheiten abbauen und die digitale Teilhabe älterer Menschen fördern.
     
-    Diese Veranstaltung ist eine Kooperation der Freiwilligenagentur Goslar mit dem MachMit!Haus und bildet den Auftakt einer gemeinsamen Veranstaltungsreihe zum Thema „Digitale Teilhabe für Seniorinnen und Senioren“. Weitere Termine sind bereits geplant, beispielsweise zu den Grundlagen der Nutzung von Nachrichtendiensten wie WhatsApp oder Signal. Eine Anmeldung ist nicht zwingend erforderlich, würde aber Wartezeiten bei den 1-zu-1-Gesprächen verkürzen.
-    
-    Wir laden alle Seniorinnen und Senioren herzlich ein, an diesem informativen und unterstützenden Angebot teilzunehmen.
+    Eine Anmeldung ist nicht zwingend erforderlich, würde aber Wartezeiten bei den 1-zu-1-Gesprächen verkürzen.
   image:
     - file://bnhsjetbiu573se2
   link: ""
