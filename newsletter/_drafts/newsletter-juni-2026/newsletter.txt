@@ -17,7 +17,11 @@ Author:
 
 ----
 
-Greeting-text: 
+Greeting-text:
+
+Liebe Freundinnen und Freunde des MachMit!Hauses, 
+
+in den letzten Wochen und Monaten ist viel bei uns passiert, das MachMit!Haus sieht anders aus, wir haben eine neue Leitung
 
 ----
 
@@ -213,11 +217,11 @@ Actual-entries:
   content_text: |
     Gemeinsam mit der Freiwilligenagentur startet eine neue Veranstaltungsreihe zum Thema „Digitale Teilhabe für Seniorinnen und Senioren“. Ziel ist es, älteren Menschen den Umgang mit digitalen Geräten zu erleichtern und ihnen mehr Sicherheit im digitalen Alltag zu vermitteln.
     
-    Den Auftakt bildet am Montag, den 15. Juni 2026, der Vortrag „Grundlagen der Handynutzung“. Dabei werden die wichtigsten Funktionen und Einstellungen von Smartphones verständlich erklärt. Die Veranstaltung richtet sich insbesondere an Einsteigerinnen und Einsteiger sowie an alle, die ihr Wissen auffrischen möchten. Die weiteren Termine der Reihe folgen demselben Konzept: Zu Beginn steht jeweils ein Vortrag zu einem digitalen Alltagsthema. Anschließend besteht die Möglichkeit, individuelle Fragen im Rahmen der Handyhilfe zu klären und praktische Unterstützung zu erhalten.
+    Den Auftakt bildet am Montag, den 15. Juni 2026, der Vortrag „Grundlagen der Handynutzung“ in Kooperation mit einer Abschlussklasse der Berufsbildenden Schulen Baßgeige-Seesen (BBS Baßgeige). Dabei werden die wichtigsten Funktionen und Einstellungen von Smartphones verständlich erklärt. Im Anschluss an den Vortrag haben die Teilnehmenden die Möglichkeit, den Schülerinnen und Schülern in entspannter Atmosphäre persönliche Fragen zu stellen und Herausforderungen bei der Nutzung von Smartphones und Tablets zu besprechen. In Einzelgesprächen unterstützen die Schülerinnen und Schüler sowie weitere ehrenamtliche Helferinnen und Helfer dabei, konkrete Probleme zu lösen, Unsicherheiten abzubauen und den sicheren Umgang mit digitalen Medien zu fördern.Die Veranstaltung wird von der Bürgerstiftung für Goslar und Umgebung gefördert.
     
-    Nach dem Vortrag können die Teilnehmenden in entspannter Atmosphäre persönliche Fragen stellen und Herausforderungen bei der Nutzung von Smartphones und Tablets besprechen. In Einzelgesprächen unterstützen Schülerinnen und Schüler sowie weitere ehrenamtliche Helferinnen und Helfer dabei, konkrete Probleme zu lösen, Unsicherheiten abzubauen und den sicheren Umgang mit digitalen Medien zu fördern.
+    Die weiteren Termine der Reihe folgen demselben Konzept: Zu Beginn steht jeweils ein Vortrag zu einem digitalen Alltagsthema. Anschließend besteht die Möglichkeit, individuelle Fragen im Rahmen der Handyhilfe zu klären und praktische Unterstützung zu erhalten.
     
-    Eine Anmeldung ist nicht zwingend erforderlich. Um Wartezeiten bei den persönlichen Beratungsgesprächen möglichst gering zu halten, wird eine vorherige Anmeldung jedoch empfohlen.
+    Eine Anmeldung ist nicht zwingend erforderlich. Um Wartezeiten bei den persönlichen Beratungsgesprächen möglichst gering zu halten, wird eine vorherige Anmeldung jedoch empfohlen. Die Veranstaltungsreihe richtet sich an alle Seniorinnen und Senioren, die ihre digitalen Kenntnisse erweitern oder Unterstützung im Umgang mit Smartphone und Tablet erhalten möchten.
   image:
     - file://bnhsjetbiu573se2
   link: ""
