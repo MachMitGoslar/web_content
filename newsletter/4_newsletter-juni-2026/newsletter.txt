@@ -120,7 +120,7 @@ Review-entries:
 
 - 
   layout: imageLeft
-  headline: mission future
+  headline: Mission Future
   subheadline: Glücksforschung trifft Stadtentwicklung
   content_text: >
     Am 19. März 2026 besuchten Dr. Hubertus
