@@ -109,11 +109,6 @@ Upcomming-dates:
   event_date: 2027-07-07
   event_date_end: ""
   show_event_date: 'true'
-- 
-  event_name: ""
-  event_date: ""
-  event_date_end: ""
-  show_event_date: 'false'
 
 ----
 
