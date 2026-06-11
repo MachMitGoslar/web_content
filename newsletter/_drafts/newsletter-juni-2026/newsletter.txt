@@ -71,6 +71,14 @@ Weekly-dates:
   end_time: ""
   activity: 'Developer Talk - Ehrenamtliche unterstützen die Goslar App'
   recurring: 'Jede Woche '
+- 
+  day: tuesday
+  start_time: 18:00:00
+  end_time: ""
+  activity: >
+    Gesellschaftsspieleabend (jeden 1.
+    Dienstag im Monat)
+  recurring: ""
 
 ----
 
@@ -104,6 +112,11 @@ Upcomming-dates:
   event_date: 2027-07-07
   event_date_end: ""
   show_event_date: 'true'
+- 
+  event_name: ""
+  event_date: ""
+  event_date_end: ""
+  show_event_date: 'false'
 
 ----
 
