@@ -10,10 +10,7 @@ Published:
 
 ----
 
-Author:
-
-- page://Cw3N87jTU3LFBVvj
-- page://nptsef9geyexw0gz
+Author: - page://nptsef9geyexw0gz
 
 ----
 
@@ -324,17 +321,6 @@ News:
 
 - 
   layout: imageLeft
-  headline: Alles neu, macht der Mai
-  subheadline: Fußboden und Platz für dich
-  content_text: |
-    Dank der Unterstützung von Kahraman und vielen fleißigen Helfern konnten wir den (fast) letzten Bauabschnitt im MachMit!Haus fertigstellen. Der neue Fußboden wurde im Rahmen eines Ehrenamtprojektes in Eigenarbeit verlegt. Und wir finden: Das sieht richtig, richtig gut aus.
-    Außerdem findet ihr nun ein klares und aufgeräumtes Bild in unseren öffentlichen Bereich vor. Falls ihr es also noch nicht gesehen habt, seid ihr herzlich auf einen "Antrittsbesuch" eingeladen.
-  image:
-    - file://ddrru1hhtvc40xxd
-  link: ""
-  mailto: ""
-- 
-  layout: imageLeft
   headline: Eine neue Leitung im MachMit!Haus
   subheadline: Rebecca Spaunhorst
   content_text: |
@@ -346,6 +332,17 @@ News:
     - file://wietrabjn1aksi2e
   link: ""
   mailto: rebecca.spaunhorst@goslar.de
+- 
+  layout: imageLeft
+  headline: Alles neu, macht der Mai
+  subheadline: Fußboden und Platz für dich
+  content_text: |
+    Dank der Unterstützung von Kahraman und vielen fleißigen Helfern konnten wir den (fast) letzten Bauabschnitt im MachMit!Haus fertigstellen. Der neue Fußboden wurde im Rahmen eines Ehrenamtprojektes in Eigenarbeit verlegt. Und wir finden: Das sieht richtig, richtig gut aus.
+    Außerdem findet ihr nun ein klares und aufgeräumtes Bild in unseren öffentlichen Bereich vor. Falls ihr es also noch nicht gesehen habt, seid ihr herzlich auf einen "Antrittsbesuch" eingeladen.
+  image:
+    - file://ddrru1hhtvc40xxd
+  link: ""
+  mailto: ""
 - 
   layout: imageLeft
   headline: >
