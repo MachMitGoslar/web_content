@@ -218,8 +218,8 @@ Review-entries:
 - 
   layout: imageLeft
   headline: >
-    Aktionstage "Unsichtbare Behinderungen
-    Sichtbar Machen"
+    Aktionstage „Unsichtbare Behinderungen
+    Sichtbar Machen“
   subheadline: >
     Kinderaktion, MachMit!Haus-Messe und
     Kinosondervorstellung
