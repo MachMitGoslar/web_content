@@ -342,7 +342,8 @@ News:
     Dieses Vorhaben fördert sowohl die Sozialisierung, die Demokratieförderung und die technischen Kenntnisse.
     
     Unterstützt wird das Vorhaben unter anderem von der Bürgerstiftung Goslar.
-  image: [ ]
+  image:
+    - file://bnhsjetbiu573se2
   link: ""
   mailto: ""
 - 
@@ -355,7 +356,8 @@ News:
     Play Store: https://play.google.com/store/apps/details?id=de.ni.goslar.smartvillage.app&hl=de&pli=1
     
     App Store: https://apps.apple.com/at/app/goslar-app/id6476983151
-  image: [ ]
+  image:
+    - file://zzrl26txtjecpc7y
   link: ""
   mailto: ""
 - 
