@@ -89,6 +89,16 @@ Upcomming-dates:
   event_date: 2026-06-18
   event_date_end: ""
   show_event_date: 'true'
+- 
+  event_name: 'Black Kaffee - Das Handy bleibt aus'
+  event_date: 2026-07-03
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: 'SpielMit! - Der offene Spieleabend von Bürgern für Bürger'
+  event_date: 2027-07-07
+  event_date_end: ""
+  show_event_date: 'true'
 
 ----
 
