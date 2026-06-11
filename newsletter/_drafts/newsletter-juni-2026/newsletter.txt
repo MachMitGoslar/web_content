@@ -47,11 +47,11 @@ Weekly-dates:
     Jede Woche (nicht während der
     Schulferien)
 - 
-  day: monday
-  start_time: ""
+  day: wednesday
+  start_time: 19:00:00
   end_time: ""
-  activity: ""
-  recurring: ""
+  activity: Coding 4 Goslar
+  recurring: 'Jede Woche '
 
 ----
 
