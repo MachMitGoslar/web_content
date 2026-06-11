@@ -41,7 +41,7 @@ Weekly-dates:
 - 
   day: wednesday
   start_time: 17:00:00
-  end_time: ""
+  end_time: 19:00:00
   activity: Coding 4 Youth
   recurring: >
     Jede Woche (nicht während der
