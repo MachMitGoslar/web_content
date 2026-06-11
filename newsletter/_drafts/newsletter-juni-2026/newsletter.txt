@@ -38,6 +38,12 @@ Weekly-dates:
   recurring: 'Jede Woche '
 - 
   day: wednesday
+  start_time: 13:00:00
+  end_time: 18:00:00
+  activity: Jugendmittwoch
+  recurring: 'Jede Woche '
+- 
+  day: wednesday
   start_time: 17:00:00
   end_time: 19:00:00
   activity: Coding 4 Youth
@@ -63,12 +69,6 @@ Weekly-dates:
   start_time: 18:00:00
   end_time: ""
   activity: 'Developer Talk - Ehrenamtliche unterstützen die Goslar App'
-  recurring: 'Jede Woche '
-- 
-  day: wednesday
-  start_time: 13:00:00
-  end_time: 18:00:00
-  activity: Jugendmittwoch
   recurring: 'Jede Woche '
 
 ----
