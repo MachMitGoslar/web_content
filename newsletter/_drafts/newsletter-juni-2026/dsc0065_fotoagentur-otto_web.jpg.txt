@@ -19,3 +19,7 @@ Link:
 ----
 
 Uuid: wietrabjn1aksi2e
+
+----
+
+Focus: 55.0% 28.2%
