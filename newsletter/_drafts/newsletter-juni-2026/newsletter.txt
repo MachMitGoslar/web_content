@@ -369,8 +369,9 @@ News:
     
     Mehr Informationen findet ihr (link: https://www.facebook.com/machmitgoslar/videos/goslar-bist-du-du-hast-eine-idee-die-unsere-stadt-lebendiger-gerechter-oder-nach/970643689214260/ text: in diesem Video)
     
-    Anmelden könnt ihr euch (link: https://machmit.goslar.de/stipendien text: hier.)
-  image: [ ]
+    Anmelden könnt ihr euch unter: (link: https://machmit.goslar.de/stipendien text: machmit.goslar.de/stipendien)
+  image:
+    - file://pk5hmymdaivzormq
   link: ""
   mailto: ""
 
