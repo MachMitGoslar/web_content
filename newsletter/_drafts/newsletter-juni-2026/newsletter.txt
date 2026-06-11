@@ -211,13 +211,13 @@ Actual-entries:
     Eine Kooperation mit der
     Freiwilligenagentur Goslar
   content_text: |
-    Zusammen mit der Freiwilligenagentur planen wir eine Vernatsaltungsreihe zum Thema "Digitale Teilhabe für Senioriinen und Senioren".
-    Die Vernastaltung sind wie folgt konzipiert: Zunächst gibt es einen Vortrag und im Anschluss können die Besuchrinnen und Becher in einer 1-1 Betruung mit ehrenamtlichen nach ihren persönlichen OProblem fragen und wie man sie lösen kann.
+    Gemeinsam mit der Freiwilligenagentur startet eine neue Veranstaltungsreihe zum Thema „Digitale Teilhabe für Seniorinnen und Senioren“. Ziel ist es, älteren Menschen den Umgang mit digitalen Geräten zu erleichtern und ihnen mehr Sicherheit im digitalen Alltag zu vermitteln.
     
-    Die Auftaktveranstaltung ist am Montag, 15.06.26 mit dem Votrag "Grundlagen der Handynutzung"
-    Im Anschluss an den Vortrag haben die Teilnehmenden die Möglichkeit, in entspannter Atmosphäre individuelle Fragen zu stellen und ihre Probleme bei der Nutzung von Handys und Tablets in persönlichen 1-zu-1-Gesprächen mit den Schülerinnen und Schülern und weiteren ehrenamtlichen Helferinnen und Helfern zu klären. Das Angebot soll Unsicherheiten abbauen und die digitale Teilhabe älterer Menschen fördern.
+    Den Auftakt bildet am Montag, den 15. Juni 2026, der Vortrag „Grundlagen der Handynutzung“. Dabei werden die wichtigsten Funktionen und Einstellungen von Smartphones verständlich erklärt. Die Veranstaltung richtet sich insbesondere an Einsteigerinnen und Einsteiger sowie an alle, die ihr Wissen auffrischen möchten. Die weiteren Termine der Reihe folgen demselben Konzept: Zu Beginn steht jeweils ein Vortrag zu einem digitalen Alltagsthema. Anschließend besteht die Möglichkeit, individuelle Fragen im Rahmen der Handyhilfe zu klären und praktische Unterstützung zu erhalten.
     
-    Eine Anmeldung ist nicht zwingend erforderlich, würde aber Wartezeiten bei den 1-zu-1-Gesprächen verkürzen.
+    Nach dem Vortrag können die Teilnehmenden in entspannter Atmosphäre persönliche Fragen stellen und Herausforderungen bei der Nutzung von Smartphones und Tablets besprechen. In Einzelgesprächen unterstützen Schülerinnen und Schüler sowie weitere ehrenamtliche Helferinnen und Helfer dabei, konkrete Probleme zu lösen, Unsicherheiten abzubauen und den sicheren Umgang mit digitalen Medien zu fördern.
+    
+    Eine Anmeldung ist nicht zwingend erforderlich. Um Wartezeiten bei den persönlichen Beratungsgesprächen möglichst gering zu halten, wird eine vorherige Anmeldung jedoch empfohlen.
   image:
     - file://bnhsjetbiu573se2
   link: ""
