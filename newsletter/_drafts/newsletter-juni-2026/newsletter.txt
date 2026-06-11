@@ -189,9 +189,7 @@ Review-entries:
   layout: imageRight
   headline: Altstadtlauf
   subheadline: und das MachMit!Haus mittendrin
-  content_text: |
-    Ein neuer Besucher- und Läuferrekord beim 37. Altstadtlauf des MTV Goslar e.V. war in diesem Jahr zu vermelden. Auch hier darf das MachMit!Haus natürlich nicht fehlen... und im Vorfeld des Muttertages bekamen wir erneut die schönste Mithilfe die man sich vorstellen kann. Der Verein "Wunschliste e.V." bastelte kreativ mit allen Interessieren die schönsten Muttertagsgeschenke. Und für besonders Mutige wartete ein Nagelbrett-Parcours.
-    Hauptorganisator Patrick Saupe zeigte sich sichtlich erfreut über die erneute, gute Zusammenarbeit. Denn auch das Sportliche kam nicht zu kurz. Als Lagezentrum, Laufzeit-Service und Umkleiden leistete das Haus an diesem Tag wie wichtigen Service für die Läuferinnen und Läufer.
+  content_text: 'Beim 37. Altstadtlauf des MTV Goslar e.V. konnte in diesem Jahr ein neuer Besucher- und Läuferrekord verzeichnet werden. Auch hier durfte das MachMit!Haus natürlich nicht fehlen. Im Vorfeld des Muttertages bekamen wir zudem erneut die schönste Mithilfe, die man sich vorstellen kann: Der Verein „Wunschliste e.V.“ bastelte gemeinsam mit allen Interessierten kreative und liebevolle Muttertagsgeschenke. Für besonders Mutige wartete außerdem ein Nagelbrett-Parcours. Hauptorganisator Patrick Saupe zeigte sich sichtlich erfreut über die erneut gute Zusammenarbeit. Denn auch das Sportliche kam nicht zu kurz: Als Lagezentrum, Laufzeit-Service und Umkleidebereich leistete das MachMit!Haus an diesem Tag einen wichtigen Beitrag zum Gelingen der Veranstaltung und bot den Läuferinnen und Läufern einen wertvollen Service.'
   image:
     - file://p09pxwvpoyn7nlhj
   link: ""
