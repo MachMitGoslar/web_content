@@ -52,6 +52,14 @@ Weekly-dates:
   end_time: ""
   activity: Coding 4 Goslar
   recurring: 'Jede Woche '
+- 
+  day: thursday
+  start_time: 14:00:00
+  end_time: 17:00:00
+  activity: >
+    Sprechstunde zum Sanierungsgebiet
+    östliche Altstadt
+  recurring: Jeden 2. Donnerstag
 
 ----
 
