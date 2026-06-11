@@ -62,7 +62,8 @@ Weekly-dates:
   end_time: 17:00:00
   activity: >
     Sprechstunde zum Sanierungsgebiet
-    östliche Altstadt
+    östliche Altstadt (jeden 2. Donnerstag
+    im Monat)
   recurring: Jeden 2. Donnerstag
 - 
   day: thursday
