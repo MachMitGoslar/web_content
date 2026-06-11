@@ -321,13 +321,30 @@ News:
   subheadline: Rebecca Spaunhorst
   content_text: |
     Seit dem 1.1.2026 hat das MachMit!Haus eine neue Leiterin und die Stadt Goslar eine neue Digitalisierungsbeauftragte. Vor ihrer Zeit in Goslar arbeitete sie als Projektleitern im Bereich Smart Cities, in der Forschung, als Industriekauffrau und absolvierte einen Master in Ingenieurswesen.
-    Über sich sagt sie: "es  [ist] ihr besonders wichtig, Teilhabe und Wissenserwerb zu ermöglichen, Hilfe zur Selbsthilfe in den Fokus zu stellen und Goslar lebenswert und zukunftssicher aufzustellen".
+    Über sich sagt sie: "es [ist] ihr besonders wichtig, Teilhabe und Wissenserwerb zu ermöglichen, Hilfe zur Selbsthilfe in den Fokus zu stellen und Goslar lebenswert und zukunftssicher aufzustellen".
     
     Liebe Rebecca, herzlich Willkommen im Team!
   image:
     - file://wietrabjn1aksi2e
   link: ""
   mailto: rebecca.spaunhorst@goslar.de
+- 
+  layout: imageLeft
+  headline: >
+    Digitale Teilhabe für Seniorinnen und
+    Senioren
+  subheadline: Ein neuer Impuls
+  content_text: |
+    Eines der Themen, die Rebecca Spaunhorst zu ihrer neuen Arbeitsstelle mitbrachte, war der Wunsch nach einer Verbesserten Teilhabe für Seniorinnen und Senioren. Teil davon ist die Verbesserung der technischen Fähigkeiten und die Etablierung eines Altersübergreifenden Lehr- und Lerngedankens zur Umsetzung von digitaler Teilhabe in jedem Alter.
+    
+    Christian Warzecha baute daraufhin mit der Freiwilligenagentur eine Sprechstunde auf, die gemeinsam mit Schüler:innen der BBS durchgeführt wird. Zu Beginn gibt es einen inhaltlichen Impuls, z. B. wie gehe ich mit WhatsApp um?  Anschließend erfolgte eine 1:1 Beratung der Seniorinnen und Senioren, bei Kaffee und Kuchen.
+    
+    Dieses Vorhaben fördert sowohl die Sozialisierung, die Demokratieförderung und die technischen Kenntnisse.
+    
+    Unterstützt wird das Vorhaben unter anderem von der Bürgerstiftung Goslar.
+  image: [ ]
+  link: ""
+  mailto: ""
 
 ----
 
