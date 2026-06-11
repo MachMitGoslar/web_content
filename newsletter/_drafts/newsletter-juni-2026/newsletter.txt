@@ -347,8 +347,8 @@ News:
   mailto: ""
 - 
   layout: imageLeft
-  headline: ""
-  subheadline: 'Goslar App  Auch in den letzten Monaten konnte die Goslar App wieder mit zahlreichen Neuerungen und Tüfteleien glänzen.  Unsere ehrenamtlichen Entwickler aus Goslar, haben in einem Hackathon das Feature „Goslarskope“ entwickelt. Hier kann sich jede und jeder eine goslar-tastische Vorhersage zum Tagesverlauf herausgeben lassen. KI sei Dank.  Unsere talentierte Studentin entwickelte innerhalb kürzester Zeit ein Feature, dass eine Einspielung aller bei der Agentur für Arbeit gelisteten Stellenanzeigen ermöglicht. Auf der Suche nach einem Praktikum? Einem Studium? Einer Vollzeitstelle? Kein Problem!  Besonders stolz sind wir auch auf unser Defibrillatoren-Kataster. Gemeinsam mit dem Katastrophenschutz konnten hier bisher zahlreiche öffentlich zugängliche Defis in Goslar gelistet werden. Den nächsten in deiner Nähe findest du in der App unter „Wo ist?“.  Du hast die App noch nicht heruntergeladen? Dann aber schnell: '
+  headline: Die Goslar App
+  subheadline: 'Die neuesten Updates '
   content_text: |
     Goslar App  Auch in den letzten Monaten konnte die Goslar App wieder mit zahlreichen Neuerungen und Tüfteleien glänzen.  Unsere ehrenamtlichen Entwickler aus Goslar, haben in einem Hackathon das Feature „Goslarskope“ entwickelt. Hier kann sich jede und jeder eine goslar-tastische Vorhersage zum Tagesverlauf herausgeben lassen. KI sei Dank.  Unsere talentierte Studentin entwickelte innerhalb kürzester Zeit ein Feature, dass eine Einspielung aller bei der Agentur für Arbeit gelisteten Stellenanzeigen ermöglicht. Auf der Suche nach einem Praktikum? Einem Studium? Einer Vollzeitstelle? Kein Problem!  Besonders stolz sind wir auch auf unser Defibrillatoren-Kataster. Gemeinsam mit dem Katastrophenschutz konnten hier bisher zahlreiche öffentlich zugängliche Defis in Goslar gelistet werden. Den nächsten in deiner Nähe findest du in der App unter „Wo ist?“.  Du hast die App noch nicht heruntergeladen? Dann aber schnell:
     
