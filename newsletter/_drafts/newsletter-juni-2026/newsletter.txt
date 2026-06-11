@@ -180,9 +180,7 @@ Review-entries:
   layout: imageRight
   headline: Ehrentag
   subheadline: Das Grundgesetz feiert Geburtstag
-  content_text: |
-    Zum Geburtstag unseres Grundgesetzes am 23. Mai waren alle in Deutschland eingeladen, das gesellschaftliche Miteinander zu feiern – mit einem bundesweiten Mitmachtag!
-    Natürlich kann das MachMit!Haus da nicht fehlen. Gemeinsam mit der Goslarer Music Szene gab es an diesem Tag Etliches zu erleben. Von einer Mit!Mach-Bühne auf dem Marktplatz, über Community-Geschichten bishin zum abendlichen Sofa-Jam mit der Band "Dr. Sichenhofer".
+  content_text: 'Zum Geburtstag unseres Grundgesetzes am 23. Mai waren alle Menschen in Deutschland eingeladen, das gesellschaftliche Miteinander zu feiern – mit einem bundesweiten Mitmachtag. Natürlich durfte das MachMit!Haus dabei nicht fehlen. Gemeinsam mit der Goslarer Musikszene gab es an diesem Tag einiges zu erleben: von einer Mit!Mach-Bühne auf dem Marktplatz über Community-Geschichten bis hin zum abendlichen Sofa-Jam mit der Band „Dr. Sichenhofer“. Ein Tag voller Begegnungen, Musik und gelebter Gemeinschaft – ganz im Sinne des Grundgesetzes.'
   image:
     - file://kul9qsc0yhkjrimy
   link: https://goslarermusicscene.de
