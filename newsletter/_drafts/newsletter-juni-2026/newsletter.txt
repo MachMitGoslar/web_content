@@ -64,6 +64,12 @@ Weekly-dates:
   end_time: ""
   activity: 'Developer Talk - Ehrenamtliche unterstützen die Goslar App'
   recurring: 'Jede Woche '
+- 
+  day: wednesday
+  start_time: 13:00:00
+  end_time: 18:00:00
+  activity: Jugendmittwoch
+  recurring: 'Jede Woche '
 
 ----
 
