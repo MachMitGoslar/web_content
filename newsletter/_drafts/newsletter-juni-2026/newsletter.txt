@@ -22,7 +22,26 @@ Weekly-dates:
 
 ----
 
-Upcomming-dates: 
+Upcomming-dates:
+
+- 
+  event_name: Handyhilfe für Seniorinnen und Senioren
+  event_date: 2026-06-15
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: >
+    "Wie plane ich meine PV-Anlage"
+    Informationsabend der Bürgerenergie
+    Harz eG
+  event_date: 2026-06-12
+  event_date_end: ""
+  show_event_date: 'true'
+- 
+  event_name: ADFC Bürgersprechstunde
+  event_date: 2026-06-18
+  event_date_end: ""
+  show_event_date: 'true'
 
 ----
 
@@ -34,10 +53,19 @@ Review-entries:
 
 - 
   layout: imageLeft
+  headline: mission future
+  subheadline: Glücksforschung trifft Stadtentwicklung
+  content_text: 'Am 19. März 2026 besuchten Dr. Hubertus & Yvonne Hoffmann das MachMit!Haus mit ihrer "mission future". Sie kamen dabei mit Bürgerinnen und Bürgern über die Bedeutung der Glücksforschung für moderne, gelingende Zukunftsstädte ins Gespräch.'
+  image:
+    - file://0mlcxsq1sj6illim
+  link: https://machmit.goslar.de/mission-future
+  mailto: ""
+- 
+  layout: imageLeft
   headline: Earth Hour
   subheadline: "Wir machen's aus"
   content_text: >
-    Am 20. März lud da MachMit!Haus wieder
+    Am 28. März lud das MachMit!Haus wieder
     zur traditionellen Earth Hour ins
     MachMit!Haus ein. Ganz im Stile der
     Black Kaffees trafen sich ca. 50
@@ -121,10 +149,76 @@ Review-entries:
     - file://1b3uand3na11vyk8
   link: https://oveda.de/event/7209
   mailto: ""
+- 
+  layout: imageLeft
+  headline: >
+    Aktionstage "Unsichtbare Behinderungen
+    Sichtbar Machen"
+  subheadline: >
+    Kinderaktion, MachMit!Haus-Messe und
+    Kinosondervorstellung
+  content_text: |
+    Die Aktionstage „Unsichtbare Behinderungen Sichtbar Machen“, die von der Stadtbehindertenbeauftragten Andrea Simon und dem MachMit!Team organisiert wurden, waren ein voller Erfolg.
+    
+    Am Montag wurden zunächst Schulklassen in das MachMit!Haus der Stadt Goslar eingeladen, die sich mit Frau Dettmer, einer gehörlosen Goslarerin, mit Hilfe eines Übersetzers austauschen konnten. Sätze der Schüler wie „wie cool ist denn Gebärdensprache!“ vielen dabei nicht selten. Am Dienstag und Mittwoch stellten 15 Organisationen und Selbsthilfegruppen ihre Angebote in einer kleinen Messe im MachMit!Haus vor. Das Angebot wurde so gut angenommen, dass am Dienstag Mittag der große Empfangsraum kurz an seine Kapazitätsgrenze gelangte. Donnerstag bildete die Sondervorstellung „Sorda - Der Klang der Stille“ im Cineplex den Abschluss der Aktionstage „Unsichtbare Behinderungen Sichtbar Machen“, zu der auch ein Teil der Goslarer Gehörlosencommunity erschienen war.
+    
+    Wir bedanken uns ganz herzlich bei allen, die an dem Projekt teilgenommen und mitgeholfen haben!
+  image:
+    - file://gqwsdywdhurwqrwq
+  link: ""
+  mailto: ""
 
 ----
 
-Actual-entries: 
+Actual-entries:
+
+- 
+  layout: imageLeft
+  headline: Eine Community Geschichte entsteht
+  subheadline: Kreative Schreiber:innen gesucht
+  content_text: |
+    Derzeit könnt ihr im MachMit!Haus eine Community Geschichte schreiben. Wie das funktioniert? Kommt vorbei und lest die bisherigen Teile der Geschichte, schnappt euch unseren Schreib-Laptop und schreibt bis zu 200 Wörter an der Geschichte mit.
+    Besonderer Clou: Ihr druckt die Geschichte auf "Kassenband" aus und könnt sie mit an die Pinnwand heften. So schreiben alle gemeinsam eine Geschicht. Werde ein Teil davon!
+  image:
+    - file://vk05teyk5vqjx8y1
+  link: ""
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: MachMit! Goslar Barrierefrei
+  subheadline: >
+    Der Stadtplan für Menschen mit
+    Behinderungen nimmt Gestalt an!
+  content_text: |
+    Das Projekt zur Erstellung eines Stadtplans für Menschen mit Mobilitätseinschränkungen, das gemeinsam mit dem MachMit!Team, der Stadtbehindertenbeauftragten Andrea Simon sowie zahlreichen engagierten Bürgerinnen und Bürgern mit und ohne Mobilitätseinschränkungen durchgeführt wird, kommt der Veröffentlichung einen Schritt näher.
+    
+    Die Begehung beziehungsweise Befahrung der Altstadt ist inzwischen abgeschlossen, und die Daten für den Stadtplan wurden vollständig erfasst.
+    
+    Als nächsten Schritt möchten wir vor der finalen Veröffentlichung Bürgerinnen und Bürger, die sich für das Thema interessieren, um Feedback bitten. Den vorläufigen Plan kann man sich ab Juli im MachMit!Haus abholen.
+  image:
+    - file://ksse5ib3lonmuujt
+  link: ""
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: >
+    Digitale Teilhabe für Seniorinnen und
+    Senioren
+  subheadline: >
+    Eine Kooperation mit der
+    Freiwilligenagentur Goslar
+  content_text: |
+    Am Montag, den 15. Juni, lädt das MachMit!Haus der Stadt Goslar gemeinsam mit der Freiwilligenagentur Goslar alle interessierten Seniorinnen und Senioren zu einer besonderen Veranstaltung zum Thema digitale Teilhabe in das MachMit!Haus am Marktplatz ein. Die Veranstaltung beginnt um 10:00 Uhr mit einem informativen Vortrag der Abschlussklasse der BBS Baßgeige zum Thema „Grundlagen der Handynutzung“. Ziel ist es, älteren Menschen den Einstieg in die Nutzung von Smartphones und Tablets zu erleichtern und ihre digitalen Kompetenzen zu stärken.
+    
+    Im Anschluss an den Vortrag haben die Teilnehmenden die Möglichkeit, in entspannter Atmosphäre individuelle Fragen zu stellen und ihre Probleme bei der Nutzung von Handys und Tablets in persönlichen 1-zu-1-Gesprächen mit den Schülerinnen und Schülern und weiteren ehrenamtlichen Helferinnen und Helfern zu klären. Das Angebot soll Unsicherheiten abbauen und die digitale Teilhabe älterer Menschen fördern.
+    
+    Diese Veranstaltung ist eine Kooperation der Freiwilligenagentur Goslar mit dem MachMit!Haus und bildet den Auftakt einer gemeinsamen Veranstaltungsreihe zum Thema „Digitale Teilhabe für Seniorinnen und Senioren“. Weitere Termine sind bereits geplant, beispielsweise zu den Grundlagen der Nutzung von Nachrichtendiensten wie WhatsApp oder Signal. Eine Anmeldung ist nicht zwingend erforderlich, würde aber Wartezeiten bei den 1-zu-1-Gesprächen verkürzen.
+    
+    Wir laden alle Seniorinnen und Senioren herzlich ein, an diesem informativen und unterstützenden Angebot teilzunehmen.
+  image:
+    - file://bnhsjetbiu573se2
+  link: ""
+  mailto: ""
 
 ----
 
@@ -151,7 +245,32 @@ Upcoming-entries:
 
 ----
 
-News: 
+News:
+
+- 
+  layout: imageLeft
+  headline: Alles neu, macht der Mai
+  subheadline: Fußboden und Platz für dich
+  content_text: |
+    Dank der Unterstützung von Kahraman und vielen fleißigen Helfern konnten wir den (fast) letzten Bauabschnitt im MachMit!Haus fertigstellen. Der neue Fußboden wurde im Rahmen eines Ehrenamtprojektes in Eigenarbeit verlegt. Und wir finden: Das sieht richtig, richtig gut aus.
+    Außerdem findet ihr nun ein klares und aufgeräumtes Bild in unseren öffentlichen Bereich vor. Falls ihr es also noch nicht gesehen habt, seid ihr herzlich auf einen "Antrittsbesuch" eingeladen.
+  image:
+    - file://ddrru1hhtvc40xxd
+  link: ""
+  mailto: ""
+- 
+  layout: imageLeft
+  headline: Eine neue Leitung im MachMit!Haus
+  subheadline: Rebecca Spaunhorst
+  content_text: |
+    Seit dem 1.1.2026 hat das MachMit!Haus eine neue Leiterin und die Stadt Goslar eine neue Digitalisierungsbeauftragte. Vor ihrer Zeit in Goslar arbeitete sie als Projektleitern im Bereich Smart Cities, in der Forschung, als Industriekauffrau und absolvierte einen Master in Ingenieurswesen.
+    Über sich sagt sie: "es  [ist] ihr besonders wichtig, Teilhabe und Wissenserwerb zu ermöglichen, Hilfe zur Selbsthilfe in den Fokus zu stellen und Goslar lebenswert und zukunftssicher aufzustellen".
+    
+    Liebe Rebecca, herzlich Willkommen im Team!
+  image:
+    - file://wietrabjn1aksi2e
+  link: ""
+  mailto: rebecca.spaunhorst@goslar.de
 
 ----
 
