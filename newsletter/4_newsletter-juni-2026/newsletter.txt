@@ -82,11 +82,6 @@ Weekly-dates:
 Upcomming-dates:
 
 - 
-  event_name: Handyhilfe für Seniorinnen und Senioren
-  event_date: 2026-06-15
-  event_date_end: ""
-  show_event_date: 'true'
-- 
   event_name: >
     „Wie plane ich meine
     Photovoltaikanlage?“ Informationsabend
@@ -236,10 +231,14 @@ Actual-entries:
 - 
   layout: imageLeft
   headline: Eine Community Geschichte entsteht
-  subheadline: Kreative Schreiber:innen gesucht
+  subheadline: >
+    Kreative Schreiberinnen und Schreiber
+    gesucht
   content_text: |
-    Derzeit könnt ihr im MachMit!Haus eine Community Geschichte schreiben. Wie das funktioniert? Kommt vorbei und lest die bisherigen Teile der Geschichte, schnappt euch unseren Schreib-Laptop und schreibt bis zu 200 Wörter an der Geschichte mit.
-    Besonderer Clou: Ihr druckt die Geschichte auf "Kassenband" aus und könnt sie mit an die Pinnwand heften. So schreiben alle gemeinsam eine Geschicht. Werde ein Teil davon!
+    Derzeit könnt ihr im MachMit!Haus gemeinsam eine Community-Geschichte schreiben.
+    Wie funktioniert das? Kommt vorbei, lest die bisherigen Teile der Geschichte und schnappt euch unseren Schreib-Laptop. Dort könnt ihr bis zu 200 Wörter zur Geschichte beitragen.
+    Der besondere Clou: Ihr druckt euren Beitrag auf Kassenband aus und heftet ihn an die Pinnwand. So entsteht Schritt für Schritt eine Geschichte, die von allen gemeinsam geschrieben wird.
+    Werdet Teil davon!
   image:
     - file://vk05teyk5vqjx8y1
   link: ""
@@ -271,7 +270,7 @@ Actual-entries:
   content_text: |
     Gemeinsam mit der Freiwilligenagentur startet eine neue Veranstaltungsreihe zum Thema „Digitale Teilhabe für Seniorinnen und Senioren“. Ziel ist es, älteren Menschen den Umgang mit digitalen Geräten zu erleichtern und ihnen mehr Sicherheit im digitalen Alltag zu vermitteln.
     
-    Den Auftakt bildet am Montag, den 15. Juni 2026, der Vortrag „Grundlagen der Handynutzung“ in Kooperation mit einer Abschlussklasse der Berufsbildenden Schulen Baßgeige-Seesen (BBS Baßgeige). Dabei werden die wichtigsten Funktionen und Einstellungen von Smartphones verständlich erklärt. Im Anschluss an den Vortrag haben die Teilnehmenden die Möglichkeit, den Schülerinnen und Schülern in entspannter Atmosphäre persönliche Fragen zu stellen und Herausforderungen bei der Nutzung von Smartphones und Tablets zu besprechen. In Einzelgesprächen unterstützen die Schülerinnen und Schüler sowie weitere ehrenamtliche Helferinnen und Helfer dabei, konkrete Probleme zu lösen, Unsicherheiten abzubauen und den sicheren Umgang mit digitalen Medien zu fördern.Die Veranstaltung wird von der Bürgerstiftung für Goslar und Umgebung gefördert.
+    Den Auftakt bildet am Montag, den 15. Juni 2026, der Vortrag „Grundlagen der Handynutzung“ in Kooperation mit einer Abschlussklasse der Berufsbildenden Schulen Baßgeige-Seesen (BBS Baßgeige). Dabei werden die wichtigsten Funktionen und Einstellungen von Smartphones verständlich erklärt. Im Anschluss an den Vortrag haben die Teilnehmenden die Möglichkeit, den Schülerinnen und Schülern in entspannter Atmosphäre persönliche Fragen zu stellen und Herausforderungen bei der Nutzung von Smartphones und Tablets zu besprechen. In Einzelgesprächen unterstützen die Schülerinnen und Schüler sowie weitere ehrenamtliche Helferinnen und Helfer dabei, konkrete Probleme zu lösen, Unsicherheiten abzubauen und den sicheren Umgang mit digitalen Medien zu fördern. Die Veranstaltung wird von der Bürgerstiftung für Goslar und Umgebung gefördert.
     
     Die weiteren Termine der Reihe folgen demselben Konzept: Zu Beginn steht jeweils ein Vortrag zu einem digitalen Alltagsthema. Anschließend besteht die Möglichkeit, individuelle Fragen im Rahmen der Handyhilfe zu klären und praktische Unterstützung zu erhalten.
     
@@ -292,13 +291,14 @@ Upcoming-entries:
   content_text: >
     Im Rahmen eines entspannten
     Freitagabends wollen wir unsere erster
-    Kleider-Tausch-Börse mit Black Kaffee
-    Atmosphäre im MachMit!Haus entwickeln.
-    Die konkrete Umsetzung soll dabei im
-    September 2026 stattfinden. Du hast Lust
-    darauf uns mit deinem Wissen und deiner
-    Tatkraft zu unterstützen? Martin freut
-    sich auf deine Rückmeldung!
+    Kleider-Tausch-Börse mit „Black
+    Kaffee“ Atmosphäre im MachMit!Haus
+    entwickeln. Die konkrete Umsetzung soll
+    dabei im September 2026 stattfinden. Du
+    hast Lust darauf uns mit deinem Wissen
+    und deiner Tatkraft zu unterstützen?
+    Martin freut sich auf deine
+    Rückmeldung!
   image:
     - file://wzblqh2qhzgfvg1d
   link: ""
@@ -313,10 +313,13 @@ News:
   headline: Eine neue Leitung im MachMit!Haus
   subheadline: Rebecca Spaunhorst
   content_text: |
-    Seit dem 1.1.2026 hat das MachMit!Haus eine neue Leiterin und die Stadt Goslar eine neue Digitalisierungsbeauftragte. Vor ihrer Zeit in Goslar arbeitete sie als Projektleitern im Bereich Smart Cities, in der Forschung, als Industriekauffrau und absolvierte einen Master in Ingenieurswesen.
-    Über sich sagt sie: "es [ist] ihr besonders wichtig, Teilhabe und Wissenserwerb zu ermöglichen, Hilfe zur Selbsthilfe in den Fokus zu stellen und Goslar lebenswert und zukunftssicher aufzustellen".
+    Seit dem 1. Januar 2026 hat das MachMit!Haus eine neue Leiterin und die Stadt Goslar eine neue Digitalisierungsbeauftragte: Rebecca.
     
-    Liebe Rebecca, herzlich Willkommen im Team!
+    Vor ihrer Zeit in Goslar arbeitete sie als Projektleiterin im Bereich Smart Cities, in der Forschung sowie als Industriekauffrau. Darüber hinaus absolvierte sie einen Masterstudiengang im Ingenieurwesen.
+    
+    Über sich selbst sagt sie, dass es ihr besonders wichtig ist, Teilhabe und Wissenserwerb zu ermöglichen, Hilfe zur Selbsthilfe in den Fokus zu stellen und Goslar lebenswert sowie zukunftssicher aufzustellen.
+    
+    Liebe Rebecca, herzlich willkommen im Team!
   image:
     - file://wietrabjn1aksi2e
   link: ""
@@ -326,8 +329,9 @@ News:
   headline: Alles neu, macht der Mai
   subheadline: Fußboden und Platz für dich
   content_text: |
-    Dank der Unterstützung von Kahraman und vielen fleißigen Helfern konnten wir den (fast) letzten Bauabschnitt im MachMit!Haus fertigstellen. Der neue Fußboden wurde im Rahmen eines Ehrenamtprojektes in Eigenarbeit verlegt. Und wir finden: Das sieht richtig, richtig gut aus.
-    Außerdem findet ihr nun ein klares und aufgeräumtes Bild in unseren öffentlichen Bereich vor. Falls ihr es also noch nicht gesehen habt, seid ihr herzlich auf einen "Antrittsbesuch" eingeladen.
+    Dank der Unterstützung von Kahraman und vielen fleißigen Helferinnen und Helfern konnten wir den (fast) letzten Bauabschnitt im MachMit!Haus erfolgreich abschließen. Der neue Fußboden wurde im Rahmen eines Ehrenamtsprojekts in Eigenleistung verlegt. Und wir finden: Das Ergebnis kann sich wirklich sehen lassen!
+    
+    Außerdem präsentiert sich unser öffentlicher Bereich nun klar, aufgeräumt und einladend. Falls ihr ihn noch nicht gesehen habt, seid ihr herzlich zu einem „Antrittsbesuch“ eingeladen. Kommt vorbei und macht euch selbst ein Bild!
   image:
     - file://ddrru1hhtvc40xxd
   link: ""
