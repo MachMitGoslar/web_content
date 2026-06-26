@@ -1,0 +1,45 @@
+Title: Test
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Text: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Featured: false
+
+----
+
+Internal-notes: 
+
+----
+
+Uuid: wbln8ekaazh4tu3s
