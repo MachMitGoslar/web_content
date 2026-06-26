@@ -10,7 +10,7 @@ Headline:
 
 ----
 
-Text: 
+Text: [{"content":{"text":"<p>test</p>","publish_date":"","end_date":""},"id":"4ea230e9-a8b0-4eac-96b3-fb342f8a89f7","isHidden":false,"type":"text"}]
 
 ----
 
