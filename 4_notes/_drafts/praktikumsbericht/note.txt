@@ -1,0 +1,45 @@
+Title: Praktikumsbericht
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Text: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Featured: false
+
+----
+
+Internal-notes: 
+
+----
+
+Uuid: 7etdni7eqtkyybje
