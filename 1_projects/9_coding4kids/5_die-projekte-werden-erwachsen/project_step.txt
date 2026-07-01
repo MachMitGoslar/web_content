@@ -1,0 +1,33 @@
+Title: Die Projekte werden erwachsen
+
+----
+
+Project-start-date: 2023-01-01
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: 
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Die Entwicklung geht weiter und immer mehr Entwickler, Bastler und Coder finden sich zu den, nun mittwochs stattfindenden, Coding4Goslar Terminen ein. Das Projekt wird erwachsen! Entstanden sind mittlerweile Oveda - die offene Veranstaltungsdatenbank, Infosysteme, Webseiten, Webanwendungen. In diesem Jahr entsteht die Idee für ein Projekt auch für die Gruppe "Coding4Youth". Benjamin stößt das Projekt an 3D Drucker selbst zu bauen.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: ezj3cbofxli6kqla

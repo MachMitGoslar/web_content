@@ -1,0 +1,33 @@
+Title: Die harte Corona Zeit
+
+----
+
+Project-start-date: 2020-01-01
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: <p>Die Corona Zeit trifft die Jugendarbeit aber auch die Coding Spaces hart. Von einer auf die andere Woche kommen alle Angebote zum erliegen. Doch es zeigt sich Eines: So viel Know-How hilft auch in schweren Zeit. Für die Jugendarbeit können Besuchererfassungen, Infosystem und mit Sebastian gemeinsam eine CO2-Überwachung für Grundschulen entwickelt werden.</p>
+
+----
+
+Description: <p>Die Corona Zeit trifft die Jugendarbeit aber auch die Coding Spaces hart. Von einer auf die andere Woche kommen alle Angebote zum erliegen. Doch es zeigt sich Eines: So viel Know-How hilft auch in schweren Zeit. Für die Jugendarbeit können Besuchererfassungen, Infosystem und mit Sebastian gemeinsam eine CO2-Überwachung für Grundschulen entwickelt werden.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: jhzqgf9psblvqrgt

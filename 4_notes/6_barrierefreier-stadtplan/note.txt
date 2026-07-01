@@ -1,0 +1,25 @@
+Title: Eine Begegnung kurz vor Schließzeit
+
+----
+
+Text: [{"content":{"text":"<p>Liebes MachMit!Tagebuch...</p><p>heute, kurz vor Schließzeit, klopfte es noch einmal an der Tür. Eine ältere Dame im Rollstuhl kam herein - eigentlich waren wir schon im Aufräummodus, aber für so einen Besuch macht man das Licht gern noch einmal an.</p><p>Ich habe ihr unseren barrierefreien Stadtplan vorgestellt und ihr gezeigt, wie man damit Wege durch Goslar findet, die auch mit dem Rollstuhl gut zu meistern sind. Sie war neugierig, hat viel gefragt und ausprobiert - und plötzlich war aus einem kurzen Blick auf den Stadtplan ein langes Gespräch geworden.</p><p>Am meisten beeindruckt hat mich aber, wie viel ich dabei über ihre eigene Geschichte in Goslar gelernt habe. Sie hat mir von Ecken der Stadt erzählt, die es so heute gar nicht mehr gibt, von Wegen, die früher selbstverständlich waren, und davon, wie sich ihr Blick auf die Stadt über die Jahre verändert hat. Für einen Moment war der Stadtplan gar nicht mehr das Thema - sondern all die Geschichten, die in diesen Straßen stecken.</p><p>Manchmal sind es genau diese Begegnungen kurz vor Feierabend, die einem zeigen, warum wir dieses Haus haben. #SeiDeineStadt</p>"},"id":"a1c7f4e2-3b90-4d51-8f6c-2e1d90ab77c3","isHidden":false,"type":"text"}]
+
+----
+
+Cover:
+
+----
+
+Date: 2026-06-25 17:45:00
+
+----
+
+Author: - page://Cw3N87jTU3LFBVvj
+
+----
+
+Tags: barrierefreiheit, stadtplan, begegnungen
+
+----
+
+Uuid: XtJugccmqfAGZ1bR

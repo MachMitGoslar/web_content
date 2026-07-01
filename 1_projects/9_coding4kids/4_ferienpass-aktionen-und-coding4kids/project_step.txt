@@ -1,0 +1,33 @@
+Title: Ferienpass-Aktionen und Coding4Kids
+
+----
+
+Project-start-date: 2021-06-01
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: 
+
+----
+
+Headline: <p>Langsam kehrt mehr Normalität in die Jugendarbeit ein. Die sporadischen Onlinetreffen verwandeln sich wieder in den wöchentlichen Space. Die Angebot halten Einzug in den Ferienpass der Stadt Goslar und schnell wir deutlich... es gibt einen Bedarf für Junior-Coder ab 10 Jahren. Die wöchentliche Gruppe "Coding4Kids" entsteht. </p>
+
+----
+
+Description: <p>Langsam kehrt mehr Normalität in die Jugendarbeit ein. Die sporadischen Onlinetreffen verwandeln sich wieder in den wöchentlichen Space. Die Angebot halten Einzug in den Ferienpass der Stadt Goslar und schnell wir deutlich... es gibt einen Bedarf für Junior-Coder ab 10 Jahren. Die wöchentliche Gruppe "Coding4Kids" entsteht. </p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: fjqwvaqdw150isoi

@@ -1,0 +1,33 @@
+Title: Eigentlich bräuchte es mehr...
+
+----
+
+Project-start-date: 2018-01-01
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: <p>Eine einmalige Aktion ist schön... aber gerade jugendliche Programmierer:innen brauchen Kontinuität und den sozialen Austausch. Gemeinsam mit Karina und Martin entstehen die ersten wöchentlichen Treffen im Jugendzentrum B6.</p>
+
+----
+
+Description: <p>Eine einmalige Aktion ist schön... aber gerade jugendliche Programmierer:innen brauchen Kontinuität und den sozialen Austausch. Gemeinsam mit Karina und Martin entstehen die ersten wöchentlichen Treffen im Jugendzentrum B6.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: tf6isvfccfqzeq8y

@@ -1,0 +1,33 @@
+Title: Aller Anfang
+
+----
+
+Project-start-date: 2017-03-25
+
+----
+
+Project-start-time: 13:00:00
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: in Planung
+
+----
+
+Headline: <ol><li><p>Goslarer Coding Camp entsteht</p></li></ol>
+
+----
+
+Description: <p>Ein ganzes Wochenende zum Thema "Coding" wird von der Jugendpflege Goslar organisiert</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: kcboazuqc4c5bso3
