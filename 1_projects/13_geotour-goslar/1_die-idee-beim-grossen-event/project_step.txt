@@ -1,0 +1,33 @@
+Title: Die Idee beim großen Event
+
+----
+
+Project-start-date: 2024-09-14
+
+----
+
+Project-start-time:
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to: in Planung
+
+----
+
+Headline:
+
+----
+
+Description: Nico organisiert seit Jahren Geocaching-Events – und lernte dabei Martin und das MachMit!Haus kennen. Beim großen Event 2024 in Goslar entstand die Idee, eine ganz eigene GeoTour für Goslar zu entwerfen. Der Funke war gezündet.
+
+----
+
+Tags:
+
+----
+
+Uuid: 4rE9lnQ6CWDzmCY8

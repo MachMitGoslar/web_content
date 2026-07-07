@@ -1,0 +1,33 @@
+Title: Erstes großes Community-Treffen
+
+----
+
+Project-start-date: 2025-08-16
+
+----
+
+Project-start-time:
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline:
+
+----
+
+Description: Im August 2025 kam die Community zum ersten großen Treffen im MachMit!Haus zusammen. Hier bekam die Tour ihre ersten Schwingen: Patenschaften für die Caches wurden verteilt, Verstecke geplant und die Themeninseln mit Leben gefüllt.
+
+----
+
+Tags:
+
+----
+
+Uuid: gd5LBiGxoyfde3lC

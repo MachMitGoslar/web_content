@@ -22,3 +22,7 @@
 # Ignore submission folders and everything inside them
 /forms/*/*/
 /forms/*/*/**
+
+
+### Exclude local ai 
+.claude/

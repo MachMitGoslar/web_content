@@ -1,0 +1,65 @@
+Title: Goslarer Marketing GmbH
+
+----
+
+Cover: - file://mr6qelqtm27y8b5e
+
+----
+
+Name: GOSLAR Marketing GmbH
+
+----
+
+Description: Die GOSLAR Marketing GmbH ist unser fester Partner für alle touristischen Herzensangelegenheit der Stadt Goslar. Als langjähriger Profi zeichnet die GMG verantwortlich für Großprojekte wie: Goslarer Weihnachtsmarkt, Altstadtfest sowie die ersten Freitage.
+
+----
+
+Role: Marketing
+
+----
+
+Email: marketing@goslar.de
+
+----
+
+Phone: 05321–780660
+
+----
+
+Address: Historisches Rathaus, Markt 1, 38640 Goslar
+
+----
+
+Teams: partner
+
+----
+
+Facebook: UNESCO.Weltkulturerbe.Goslar
+
+----
+
+Instagram: meingoslar
+
+----
+
+X: 
+
+----
+
+Linkedin: 
+
+----
+
+Github: 
+
+----
+
+Youtube: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: gpz3r9yz4fbh4udn

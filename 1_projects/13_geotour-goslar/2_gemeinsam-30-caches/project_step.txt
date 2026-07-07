@@ -1,0 +1,33 @@
+Title: Gemeinsam 30 einzigartige Caches
+
+----
+
+Project-start-date: 2025-01-20
+
+----
+
+Project-start-time:
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline:
+
+----
+
+Description: Weil die Goslarer Community bei jedem Event verlässlich mit anpackte, war schnell klar: Wir entwickeln gemeinsam 30 einzigartige Caches rund um die Themen Wasser, Kaiser, (H)erz und Adler. Sogar der Titel der Tour wuchs aus diesem kreativen Schwarm heraus.
+
+----
+
+Tags:
+
+----
+
+Uuid: rRMMuk4HXtPxsDG7

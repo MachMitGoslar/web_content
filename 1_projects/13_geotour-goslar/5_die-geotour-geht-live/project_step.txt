@@ -1,0 +1,33 @@
+Title: Die GeoTour geht live!
+
+----
+
+Project-start-date: 2026-04-18
+
+----
+
+Project-start-time: 13:00
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline:
+
+----
+
+Description: Zum 3-jährigen Jubiläum des MachMit!Hauses war es so weit: Am 18. April 2026 ging die GeoTour Goslar mit über 30 Caches offiziell live. Bei Geocaching, Musik der Goslarer Music Scene und dem Rätsel um den goldenen Hydranten konnten die ersten Abenteurerinnen und Abenteurer die Caches loggen. Zu finden unter „GeoTour Goslar“ bzw. dem Geocode GT502.
+
+----
+
+Tags:
+
+----
+
+Uuid: 9nRqDuJer1FYOE49

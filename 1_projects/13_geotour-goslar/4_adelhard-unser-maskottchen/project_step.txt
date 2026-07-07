@@ -1,0 +1,33 @@
+Title: Adelhard – unser Maskottchen
+
+----
+
+Project-start-date: 2025-11-01
+
+----
+
+Project-start-time:
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline:
+
+----
+
+Description: Sven entwarf Adelhard – den Adler, der als Wappentier Goslars künftig als Maskottchen stolz durch alle Orte der Tour führt. Mit Krone, Bergmannshelm, Lupe und Herz auf der Brust wurde er zum Gesicht der GeoTour Goslar.
+
+----
+
+Tags:
+
+----
+
+Uuid: y0OccUXZB9SmgCKU
