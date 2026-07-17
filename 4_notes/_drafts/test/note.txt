@@ -10,7 +10,7 @@ Headline:
 
 ----
 
-Text: [{"content":{"text":"<p>test</p>","publish_date":"","end_date":""},"id":"4ea230e9-a8b0-4eac-96b3-fb342f8a89f7","isHidden":false,"type":"text"}]
+Text: [{"content":{"text":"<p>test</p>","publish_date":"","end_date":""},"id":"4ea230e9-a8b0-4eac-96b3-fb342f8a89f7","isHidden":false,"type":"text"},{"content":{"images":["file://4fqejurc5ie7wlnz"],"caption":"","ratio":"","crop":"false","publish_date":"","end_date":""},"id":"423b5a7a-2cdb-41e1-a8d4-ae4096afe942","isHidden":false,"type":"gallery"}]
 
 ----
 
