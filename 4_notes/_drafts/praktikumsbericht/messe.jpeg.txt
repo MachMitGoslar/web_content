@@ -18,8 +18,8 @@ Link:
 
 ----
 
-Uuid: dv8idzpguonddups
+Uuid: o44dqf4d89lkg5rj
 
 ----
 
-Template: image
+Template: blocks/image
