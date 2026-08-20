@@ -1,0 +1,33 @@
+Title: Ein neuer Veranstaltungsort
+
+----
+
+Project-start-date: 2025-03-20
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: 
+
+----
+
+Description: Es muss nicht immer mitten in Goslar sein. Warum nicht ein Speed Dating in einem Ortsteil veranstalten. Die Idee "Marktplatz Vienenburg im Sommer" ist geboren und wird von uns verfolgt.
+
+----
+
+Tags: 
+
+----
+
+Uuid: ucYqfUgQqLsx2J2x
