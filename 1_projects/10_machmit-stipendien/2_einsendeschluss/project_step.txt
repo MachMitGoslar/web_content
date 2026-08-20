@@ -1,0 +1,33 @@
+Title: Einsendeschluss – die Bewertung beginnt
+
+----
+
+Project-start-date: 2026-06-19
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: in Auswertung
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Der Einsendezeitraum ist beendet. Alle eingereichten Ideen werden nun anonymisiert anhand der Bewertungskriterien geprüft, um die Stipendiatinnen und Stipendiaten zu bestimmen.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: lr4fnx3sn9hchm0d

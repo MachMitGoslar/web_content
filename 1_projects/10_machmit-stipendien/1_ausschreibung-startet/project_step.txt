@@ -1,0 +1,33 @@
+Title: Die Ausschreibung startet
+
+----
+
+Project-start-date: 2026-06-01
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Ab sofort können Goslarerinnen und Goslarer ihre Ideen für ein MachMit!Stipendium einreichen. Gefördert werden konkret umsetzbare Projekte mit 500 bis 5.000&nbsp;€.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: ifjuvlfys33xib4b

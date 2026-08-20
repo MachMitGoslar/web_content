@@ -1,0 +1,29 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: fg72yzylbtotuahn
+
+----
+
+Template: image
+
+----
+
+Focus: 50.0% 50.0%

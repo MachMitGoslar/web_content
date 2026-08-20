@@ -1,0 +1,25 @@
+Title: Gosland-Yard
+
+----
+
+Cover: - file://ceectrguqbwjmucv
+
+----
+
+Headline: Gosland-Yard
+
+----
+
+Subheadline: Auf der Jagd nach dem schwarzen Mönch
+
+----
+
+Project-status: abgeschlossen
+
+----
+
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"cardtype": "manual", "page": [], "image": [], "headline": "Wann", "subheadline": "", "description_content": "[{\"content\": {\"text\": \"<p>15. April 2026 | 14:00 – 20:00 Uhr</p>\"}, \"id\": \"4fe3dbfd-2c5c-4303-a826-b36b693dfb3e\", \"isHidden\": false, \"type\": \"text\"}]", "color": "primary"}, "id": "9339fe98-cb41-44e8-a338-87f0b2114f28", "isHidden": false, "type": "card"}], "id": "cd3f56c1-a93d-4d75-abd5-8d606570d51d", "width": "1/2"}, {"blocks": [{"content": {"cardtype": "manual", "page": [], "image": [], "headline": "Wo", "subheadline": "", "description_content": "[{\"content\": {\"text\": \"<p>MachMit!Haus | Markt 7 | 38640 Goslar</p>\"}, \"id\": \"36ac23c1-e791-4de1-ae4a-9259c4f5e142\", \"isHidden\": false, \"type\": \"text\"}]", "color": "primary"}, "id": "5143a12d-8cff-40ea-a560-c817f6b56475", "isHidden": false, "type": "card"}], "id": "07ec06d9-7002-4520-ac51-7cae29effc51", "width": "1/2"}], "id": "d1db1fc9-c9c6-437c-afbe-17456432504e"}, {"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p>Er ist zurück – und diesmal entwischt er euch nicht. Am 15. April verwandelte sich die Goslarer Innenstadt in ein riesiges Spielfeld. Bei Gosland-Yard schlüpfst du in die Rolle eines Verfolgers und jagst eine geheimnisvolle Gestalt durch die Altstadt: den Schwarzen Mönch.</p>"}, "id": "2a3933e6-289f-489c-abda-7201fa328df8", "isHidden": false, "type": "text"}], "id": "b6440bc9-b2fa-40fc-a727-65ce3bedd851", "width": "1/1"}], "id": "d6c190d0-65fb-487a-a30e-d48019bcf2d6"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "So funktioniert’s"}, "id": "9abed41d-325c-4bff-af28-b8ebacf38d69", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Der Schwarze Mönch hat einen Vorsprung. Dein Team hat Technik, Köpfchen – und jede Menge Stadtgebiet zum Durchkämmen. Arbeitet zusammen, löst Rätsel an geheimen Stationen in der Stadt, sammelt Powerups und stellt den Mönch, bevor die Zeit abläuft.</p><ul><li>🕵️ 1–5 Suchteams jagen gemeinsam den Schwarzen Mönch durch die Goslarer Innenstadt</li><li>📍 GPS-Tracking &amp; Bluetooth-Erkennung – die Jagd wird digital</li><li>🧩 Rätselstationen in der Stadt mit Extras zum Freispielen</li><li>⏱️ Spielzeit: ein Zeitslot von einer Stunde – so viele Runden spielen, wie ihr möchtet</li></ul>"}, "id": "7fefb3f9-06d6-46f9-a4f3-da1e66a4e2f6", "isHidden": false, "type": "text"}], "id": "5f3866ad-f5aa-4908-a979-39df12d54faa", "width": "1/1"}], "id": "1ee863fb-1e4d-4339-a047-70650ae92a3c"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Die App „Gos-Land-Yard“"}, "id": "0558fa67-50d2-489a-aeaf-a7bcd91d49ad", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Die App ist eine Eigenentwicklung und wurde mit euch zum ersten Mal auf Herz und Nieren getestet. Zahlreiche neue und einmalige Features warteten darauf, entdeckt zu werden:</p><ul><li>Power-Ups zum Freispielen (z.&nbsp;B. Eingrenzen, Handyalarm)</li><li>Erkennung von „Mr. X“ durch ein nahes Bluetooth-Signal</li><li>Spielerpositionierung auf der Live-Karte</li></ul>"}, "id": "b1991f76-400d-4a2d-a609-61a52f5bad54", "isHidden": false, "type": "text"}], "id": "1e4bc84d-6085-40e8-ae28-d8574d405fe5", "width": "1/1"}], "id": "85832037-c135-4b85-a09a-8eecb09dabe0"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "So funktioniert das Spiel…"}, "id": "3b0d1a6a-7967-4bdd-a1a0-18847057ac57", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>… einst gab es ein bekanntes Brettspiel: „Scotland Yard“. Ein Spiel, bei dem Mr. X von verschiedenen Jägern durch die Innenstadt von London gejagt wurde. Wir haben dieses erfolgreiche Brettspiel für euch „in echt“ konzipiert. Manche Regeln kommen euch bekannt vor, manche wurden für den Einsatz als Event geändert.</p><p>Im Rahmen der Anmeldung bekamen alle Teams von uns ein Onboarding-Paket mit allen Infos rund um Spielregeln, Verhaltensweisen und Datenschutz.</p>"}, "id": "6a166efa-25e9-4856-a1e7-9a182b0bf8a8", "isHidden": false, "type": "text"}], "id": "a00ba75d-3351-47a5-a2a1-c56a4ff2a27b", "width": "1/1"}], "id": "d8d42996-4474-4969-a03d-7d69ef7aa752"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h3", "text": "Dokumente"}, "id": "597ac9c9-12d4-4b76-aecf-dc73a03da7f8", "isHidden": false, "type": "heading"}, {"content": {"text": "<p><a href=\"/@/file/ks1tpp82fhws28yf\">Datenschutz</a><br><a href=\"/@/file/p55hqi9de8e6wit5\">Verhaltenskodex</a><br><a href=\"/@/file/lf40rq23su3f0w00\">Teilnahmebedingungen</a></p>"}, "id": "47a621e4-8c58-43e9-a223-c4ee7a55d2fe", "isHidden": false, "type": "text"}], "id": "5075fd25-2554-48a9-a4c7-fa2430762695", "width": "1/1"}], "id": "54b810d7-c3ac-485e-aee8-5b4878543142"}]
+
+----
+
+Uuid: np85ifubprf9r3y8

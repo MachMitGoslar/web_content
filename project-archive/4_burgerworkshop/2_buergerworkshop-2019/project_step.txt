@@ -1,0 +1,33 @@
+Title: Bürgerworkshop 2019
+
+----
+
+Project-start-date: 2019-02-09
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: abgeschlossen
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Zweite Auflage des Bürgerworkshops. Die Gruppen stellen ihre Vorschläge Oberbürgermeister Dr. Oliver Junk vor – von der Aufenthaltsqualität in der Innenstadt über ein Parkleitsystem bis zu Orten für Jugendliche.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: ybydsudbr0j8etn0

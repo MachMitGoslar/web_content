@@ -1,0 +1,33 @@
+Title: Das Defi-Kataster geht live
+
+----
+
+Project-start-date: 2026-08-14
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Die Goslar-App zeigt ab sofort die Standorte aller öffentlich zugänglichen Defibrillatoren in Goslar. Der begleitende Reanimations-Workshop „Wiederbeleben?“ mit dem DRK Ortsverein Goslar e.V. musste wegen zu geringer Anmeldezahl entfallen – am Thema Interessierte können sich weiterhin bei uns melden.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: v51360gchth5ss86

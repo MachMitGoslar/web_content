@@ -1,0 +1,33 @@
+Title: Drei Jahre MachMit!Haus
+
+----
+
+Project-start-date: 2026-04-21
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: abgeschlossen
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Auf den Tag genau drei Jahre nach der Eröffnung am Marktplatz feiert das MachMit!Haus Geburtstag – mit einer Woche voller Programm: sieben Tage, sieben Themen, ein Haus.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: 68dmffvrdmfnu6c4

@@ -1,0 +1,33 @@
+Title: Tauschtag im MachMit!Haus
+
+----
+
+Project-start-date: 2026-09-06
+
+----
+
+Project-start-time: 11:00:00
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Das MachMit!Haus wird für einen Tag zur Tauschbörse für Oberbekleidung: ab 11 Uhr anliefern, ab 13 Uhr Closed Shop mit Feel-Good-Buffet, ab 15 Uhr offen für alle.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: nt63y0xm7r4gz2uf

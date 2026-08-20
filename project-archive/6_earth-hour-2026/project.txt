@@ -1,0 +1,25 @@
+Title: Earth Hour 2026
+
+----
+
+Cover: - file://9e66i6p8wzgvn4ux
+
+----
+
+Headline: Earth Hour 2026
+
+----
+
+Subheadline: 28. März 2026 | 20:15 – 22:00 Uhr
+
+----
+
+Project-status: abgeschlossen
+
+----
+
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"cardtype": "manual", "page": [], "image": [], "headline": "Wann?", "subheadline": "", "description_content": "[{\"content\": {\"text\": \"<p>28. März 2026 | 20:15 – 22:00 Uhr</p>\"}, \"id\": \"94e7f4e7-f47f-47aa-a8ee-3bb4de8a6c34\", \"isHidden\": false, \"type\": \"text\"}]", "color": "primary"}, "id": "5b5a6849-7cc4-47fe-af5a-790a75d43fa5", "isHidden": false, "type": "card"}], "id": "fe4fdb9e-66ca-4984-af65-5d8c2f7bda56", "width": "1/2"}, {"blocks": [{"content": {"cardtype": "manual", "page": [], "image": [], "headline": "Wo?", "subheadline": "", "description_content": "[{\"content\": {\"text\": \"<p>MachMit!Haus | Markt 7 | 38640 Goslar</p>\"}, \"id\": \"cb7f9308-f553-44a0-a273-9e22ae44b320\", \"isHidden\": false, \"type\": \"text\"}]", "color": "primary"}, "id": "97fdf87d-f2a5-488f-ae27-1a9174cd7dcd", "isHidden": false, "type": "card"}], "id": "1659b2b4-9d42-41f3-afa7-3ef2fe0a1677", "width": "1/2"}], "id": "32ca4027-9c70-4765-a9bb-a47147d89ad5"}, {"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p>Die Earth Hour ist eine regelmäßig stattfindende, große Klima- und Umweltschutzaktion, die der WWF ins Leben gerufen hat. Die Idee dahinter ist ganz einfach: Einmal im Jahr schalten Menschen auf der ganzen Welt für eine Stunde das Licht aus.</p><p>Auch in Goslar gingen um 20:30 Uhr an zahlreichen Stellen und Gebäuden die Lichter aus. Und in Gemeinschaft ist auch die dunkle Stunde ein besonderes Erlebnis!</p><p>Ein Team ehrenamtlich engagierter Bürgerinnen und Bürger hatte die Organisation übernommen und ein gemeinsames Singen und Musizieren vorbereitet. Ausgesucht wurden erneut akustische Klassiker von Dylan bis zu den Ärzten.</p>"}, "id": "10ddb692-335f-4024-a030-6aa1b1675824", "isHidden": false, "type": "text"}], "id": "1e934d73-b32a-4e86-a6f7-a57029a9902d", "width": "1/1"}], "id": "f67ddcde-6cbd-4aff-ae83-73eb32c19854"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Die Songliste"}, "id": "98de4070-f3ee-49d7-acd6-e45c523645ab", "isHidden": false, "type": "heading"}, {"content": {"text": "<ul><li>Earth Song (Frederic Buckle – Goslar – 2025)</li><li>Let it be (The Beatles)</li><li>Bridge over troubled water (Simon &amp; Garfunkel)</li><li>Times they are a-changin’ (Bob Dylan)</li><li>We are the world</li><li>We shall overcome (Joan Baez)</li><li>Somewhere over the rainbow</li><li>Über sieben Brücken musst du gehn (Karat)</li><li>Deine Schuld (Die Ärzte)</li></ul>"}, "id": "2a1ae301-be30-46c3-a2de-a0f41918fe15", "isHidden": false, "type": "text"}], "id": "4e9280f5-e750-4546-a5e6-796c5825f94f", "width": "1/1"}], "id": "4266d004-c6b1-41ef-a9c3-2f5c67c1e9b7"}, {"attrs": [], "columns": [{"blocks": [{"content": {"boxType": "bolt", "text": "<p>Im Anschluss waren alle Teilnehmenden zum Mitbring!Café ins MachMit!Haus eingeladen. Getreu dem Motto „Wenn jede:r etwas mitbringt… ist es am Ende eh zu viel“ konnten Getränke, Kuchen und Snacks zum Teilen einfach mitgebracht werden.</p>"}, "id": "fa97a305-fab5-4288-a42d-80ce280d1e43", "isHidden": false, "type": "box"}], "id": "dc559ed8-6871-4179-af4f-c48a0fd56001", "width": "1/1"}], "id": "9ad0ea5e-a07b-4147-adc9-a56feb2808ec"}]
+
+----
+
+Uuid: kysbn68jl6gwwedm

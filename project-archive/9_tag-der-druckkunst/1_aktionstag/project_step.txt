@@ -1,0 +1,33 @@
+Title: Aktionstag im MachMit!Haus
+
+----
+
+Project-start-date: 2026-03-14
+
+----
+
+Project-start-time: 11:00:00
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Gemeinsam mit dem BBK – Bezirksgruppe Harz laden wir von 11:00 bis 16:00 Uhr zum Mitmachen ein: Holzschnitt unter fachkundiger Anleitung, eine kleine Ausstellung und die selbstgebauten 3D-Drucker des Hauses im Einsatz.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: mpn4qjyx779dm3u8

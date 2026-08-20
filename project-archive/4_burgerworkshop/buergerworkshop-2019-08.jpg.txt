@@ -1,0 +1,29 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: g9v19xn4v9irxt7p
+
+----
+
+Template: image
+
+----
+
+Focus: 50.0% 50.0%

@@ -1,0 +1,33 @@
+Title: Der erste Bürgerworkshop
+
+----
+
+Project-start-date: 2018-01-01
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Die Stadt Goslar startet den Bürgerbeteiligungsprozess in Form des Bürgerworkshops. Rund 50 Teilnehmende erarbeiten in Gruppen Ideen für das Stadtleben.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: mpq8inmuf33davay

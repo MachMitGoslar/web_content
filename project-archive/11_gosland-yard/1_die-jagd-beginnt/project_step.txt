@@ -1,0 +1,33 @@
+Title: Die Jagd beginnt
+
+----
+
+Project-start-date: 2026-04-15
+
+----
+
+Project-start-time: 14:00:00
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: abgeschlossen
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Premiere für Gosland-Yard: Bis zu fünf Suchteams jagen den Schwarzen Mönch durch die Goslarer Altstadt – und testen dabei die eigenentwickelte App mit GPS-Tracking, Bluetooth-Erkennung und Power-Ups.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: t27dqdc88eabofl1

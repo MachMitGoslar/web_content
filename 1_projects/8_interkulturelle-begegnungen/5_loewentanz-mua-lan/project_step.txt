@@ -1,0 +1,33 @@
+Title: Löwentanz Múa Lân: offene Übungstreffen
+
+----
+
+Project-start-date: 2026-06-07
+
+----
+
+Project-start-time: 15:00:00
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Die vietnamesische Community lädt an vier Sonntagen im Juni (7., 14., 21. und 28.6., jeweils 15:00–17:00 Uhr) zu offenen Übungstreffen für den traditionellen Löwentanz Múa Lân ins MachMit!Haus ein. Ziel ist ein gemeinsamer Auftritt beim Fest der Kulturen – Vorerfahrung braucht es nicht, Kinder üben den Kinderlöwentanz.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: 3x3zkib8uetd8bl4

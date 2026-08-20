@@ -1,0 +1,29 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: tm2ty245wdoukfos
+
+----
+
+Template: image
+
+----
+
+Focus: 50.0% 50.0%

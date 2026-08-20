@@ -1,0 +1,33 @@
+Title: Die Ausstellung bleibt
+
+----
+
+Project-start-date: 2026-03-16
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: abgeschlossen
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Vom 16. bis 21. März sind die gezeigten Arbeiten zu den Öffnungszeiten des MachMit!Hauses weiterhin zu sehen.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: j8wmz2wtjzmpzpbs

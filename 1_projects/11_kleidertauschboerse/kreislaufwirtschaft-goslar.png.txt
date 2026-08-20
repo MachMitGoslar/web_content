@@ -1,0 +1,29 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: 9i1mzahltv3egcy4
+
+----
+
+Template: image
+
+----
+
+Focus: 50.0% 50.0%

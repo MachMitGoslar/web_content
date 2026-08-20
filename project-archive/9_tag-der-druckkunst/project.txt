@@ -1,0 +1,25 @@
+Title: Tag der Druckkunst
+
+----
+
+Cover: - file://j1fvpm6h4cbljnfz
+
+----
+
+Headline: Tag der Druckkunst
+
+----
+
+Subheadline: 14. März 2026 | 11:00 – 16:00 Uhr
+
+----
+
+Project-status: abgeschlossen
+
+----
+
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"cardtype": "manual", "page": [], "image": [], "headline": "Wo?", "subheadline": "", "description_content": "[{\"content\": {\"text\": \"<p>MachMit!Haus, Markt 7, 38640 Goslar</p>\"}, \"id\": \"01b30347-bfd1-46f9-a3ee-58770694d438\", \"isHidden\": false, \"type\": \"text\"}]", "color": "primary"}, "id": "bdbb32fa-2e2f-44e4-a62e-4152d99447c6", "isHidden": false, "type": "card"}], "id": "66c31405-8b8d-4504-a24d-eec71c8d1e0f", "width": "1/2"}, {"blocks": [{"content": {"cardtype": "manual", "page": [], "image": [], "headline": "Wann?", "subheadline": "", "description_content": "[{\"content\": {\"text\": \"<p>14. März 2026 | 11:00 – 16:00 Uhr</p>\"}, \"id\": \"10fd9a7f-c749-4fec-a3ec-f3bc12b333c1\", \"isHidden\": false, \"type\": \"text\"}]", "color": "primary"}, "id": "c5931b42-2e46-457a-aa12-c27fb2d0bf2d", "isHidden": false, "type": "card"}], "id": "80a20b7a-18f5-4519-ab15-76ed3cf3f0f1", "width": "1/2"}], "id": "9e076c87-6ace-47b8-afe0-b39dfff42ee8"}, {"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p>Im März 2018 wurden die traditionellen Drucktechniken in das Bundesweite Verzeichnis des Immateriellen Kulturerbes der Deutschen UNESCO-Kommission aufgenommen. Aus diesem Anlass findet jährlich Mitte März der „Tag der Druckkunst“ statt, an dem sich überall in Deutschland Werkstätten, Kunstvereine, Museen, Galerien und Künstler:innen mit entsprechenden Angeboten vorstellen.</p><p>In Goslar luden am 14. März der BBK – Bezirksgruppe Harz und das MachMit!Haus von 11:00 bis 16:00 Uhr ein, diese faszinierende Kunstform unmittelbar zu erleben. Ob selbst gestalten, zuschauen oder staunen – hier war für alle etwas dabei! Wer seinen eigenen Druck gestalten wollte, konnte unter fachkundiger Anleitung mit einfachen Mitteln einen Holzschnitt herstellen und sein gedrucktes Werk gleich mit nach Hause nehmen.</p><p>Künstlerinnen und Künstler aus Goslar und Umgebung zeigten in einer kleinen Ausstellung Werke zu verschiedenen Drucktechniken und standen für Fragen und Gespräche persönlich zur Verfügung. Der Künstler Thomas Velte schuf vor Ort eine Druckplatte für Linoldrucke und ermöglichte Einblicke in den kreativen Prozess.</p>"}, "id": "42048830-a97d-4f02-a79e-0c21017b2ee4", "isHidden": false, "type": "text"}], "id": "917bc8cf-9f2a-421e-ad64-d43bd652a45b", "width": "1/1"}], "id": "73f2b9fe-852a-4b26-a371-71b4f4e2c051"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Drucken im 21. Jahrhundert"}, "id": "649c3523-a600-494d-a2da-373384a03139", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Darüber hinaus konnte das Drucken im 21. Jahrhundert entdeckt werden. Die modernen 3D-Drucker des MachMit!Hauses waren an diesem Tag im Einsatz. Besonders bemerkenswert: Diese 3D-Drucker wurden durch Jugendliche im MachMit!Haus selbst gebaut – ein MachMit!Projekt von der ersten Leiste bis hin zur abschließenden Verkabelung. Vor Ort berichtete Projektleiter Martin Sänger über den Werdegang, die Funktionsweise und das Verfahren „3D-Druck“.</p>"}, "id": "d7c2608f-3a39-4d8d-a41b-7bc42b002c5e", "isHidden": false, "type": "text"}], "id": "2c98c2fe-cdf9-4c2d-a1b4-f79374347552", "width": "1/1"}], "id": "6c9b883f-bdc1-4e38-ae65-307ba0d81114"}, {"attrs": [], "columns": [{"blocks": [{"content": {"boxType": "bolt", "text": "<p>Das Programm war für alle Besucherinnen und Besucher kostenfrei. Die Ausstellung war anschließend vom 16. bis zum 21. März im MachMit!Haus zu den Öffnungszeiten erlebbar.</p>"}, "id": "b9cc8ba0-0ce9-43ad-a015-db6c494bba0f", "isHidden": false, "type": "box"}], "id": "c9a8d2eb-821f-4337-a0e0-79005d78e900", "width": "1/1"}], "id": "d569ef6d-d455-45c6-acad-e42ee16d3c7f"}]
+
+----
+
+Uuid: fbny4l7x1rrtncws
