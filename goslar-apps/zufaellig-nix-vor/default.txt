@@ -6,15 +6,15 @@ Cover:
 
 ----
 
-Headline: 
+Headline: Zufällig nix vor
 
 ----
 
-Subheadline: 
+Subheadline: MachMit!
 
 ----
 
-Text: 
+Text: <p>Die Goslar-App schon heruntergeladen und auch einen Vorschlag für den "Zufällig nix vor" - Widget in der App? Dann füll das nachfolgende Formular aus und schreibe uns Deinen Tipp, was Goslarer:innen oder Besucher:innen unbedingt mal in Goslar und Umgebung gemacht haben sollten! Wir behalten uns kleine Änderungen an Deinem Text vor.</p>
 
 ----
 
