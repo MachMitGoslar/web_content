@@ -2,7 +2,7 @@ Title: zufaellig-nix-vor
 
 ----
 
-Cover: 
+Cover: - file://j68tzfbcer4y9auw
 
 ----
 
