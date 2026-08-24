@@ -2,15 +2,15 @@ Title: Geburtstags-Hackathon
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-04-17
 
 ----
 
-Project-start-time: 
+Project-start-time: 18:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
@@ -22,11 +22,11 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Zum 3. MM!H Geburtstag gab es etwas Besonderes: Eine ganze Nacht die Goslar App weiterentwickeln. An zahlreichen Projekten und Ideen zur Gamification der App wurde gebastelt. Ein Ergebnis: Die Goslarscope (tägliche Horoskope im Mittelalterlichen Schreibstil für dein App-Dashboard)</p>
 
 ----
 
-Tags: 
+Tags: goslarApp, appgefahren
 
 ----
 
