@@ -1,0 +1,33 @@
+Title: Workation: DevWochenende
+
+----
+
+Project-start-date: 
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: 
+
+----
+
+Headline: 
+
+----
+
+Description: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: ncj8vhxgaprbguet
