@@ -2,19 +2,19 @@ Title: Workation: DevWochenende
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-06-05
 
 ----
 
-Project-start-time: 
+Project-start-time: 17:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: in Vorbereitung
 
 ----
 
-Project-status-to: 
+Project-status-to: aktiv
 
 ----
 
@@ -22,11 +22,11 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Wie wäre es wenn engagierte GoslarerInnen dabei mithelfen ihre App zu pflegen, reparieren und weiterzuentwickeln? Wir wollen dieser Möglichkeit auf den Grund gehen und bringen ein ganzes Wochenende die <a href="https://smart-village.solutions">Entwickler</a> der Goslar App mit lokalen Entwickeln zusammen. Hands-on experience garantiert!</p>
 
 ----
 
-Tags: 
+Tags: goslarapp, coding, ehrenamt
 
 ----
 
