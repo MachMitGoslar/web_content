@@ -2,7 +2,7 @@ Title: version-4.3.0
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-08-17
 
 ----
 
@@ -10,23 +10,23 @@ Project-start-time:
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
-Project-status-to: 
+Project-status-to: aktiv
 
 ----
 
-Headline: 
+Headline: <p>Version 4.3.0.</p>
 
 ----
 
-Description: 
+Description: <p>Es gibt Neuigkeiten aus der GoslarApp. Version 4.3.0 ist da! In dieser Version konnte die Performance des Kachelstores spürbar verbessert werden. Außerdem mehrere Stabilitäts- und Performance-Patches. Besonders happy macht uns: Die ersten Arbeiten der Goslarer App Community sind enthalten</p>
 
 ----
 
-Tags: 
+Tags: goslarapp, ehrenamt, changelog
 
 ----
 
