@@ -80,7 +80,14 @@ Pending-requests:
 
 ----
 
-Whitelist: 
+Whitelist:
+
+- 
+  uuid: ac4b2a9a-1d03-4c1d-85ad-497326c2a291
+  ip: 172.18.0.5
+  label: Device ac4b2a9a
+  approved_at: 2026-08-24 12:59:48
+  approved_by: stuff@stuffdev.de
 
 ----
 
