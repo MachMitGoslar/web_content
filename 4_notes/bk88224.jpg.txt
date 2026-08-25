@@ -23,3 +23,7 @@ Uuid: skapvoleihtfd5gn
 ----
 
 Template: image
+
+----
+
+Focus: 50.0% 61.9%
