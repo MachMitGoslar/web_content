@@ -2,7 +2,7 @@ Title: Sportsbar Edition
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-05-08
 
 ----
 
@@ -22,7 +22,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Das MachMit!Haus verwandelt sich in die entspannteste Sportsbar der Stadt - kein Eintritt, kein Dresscode, keine Reservierung.</p><p>Mit Kicker, Schach urt Dart.</p>
 
 ----
 
