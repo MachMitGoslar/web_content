@@ -2,7 +2,7 @@ Title: Projekt Archiv
 
 ----
 
-Cover: - file://QhHkUyrrZqFflVDP
+Cover: - file://3nr4iwiqtrftgrsb
 
 ----
 
@@ -23,6 +23,22 @@ Show-archive: true
 ----
 
 Show-search: true
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
 
 ----
 
