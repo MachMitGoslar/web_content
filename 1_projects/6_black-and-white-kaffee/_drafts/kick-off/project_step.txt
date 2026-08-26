@@ -2,7 +2,7 @@ Title: Kick-Off
 
 ----
 
-Project-start-date: 
+Project-start-date: 2025-09-05
 
 ----
 
@@ -22,7 +22,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Das erste <strong>Black Kaffee</strong> fand statt:  Für den Abend verwandelten Karaman und Martin den Eingangsbereich mit Lichterketten in ein gemütliches Café. Zahlreiche Gäste folgten der Einladung und verbrachten bei Kaffee, Kuchen und Getränken einen entspannten Abend ganz ohne Smartphone. Die gute Stimmung und die vielen Gespräche zeigten: Die Idee kam an und sollte wiederholt werden.</p>
 
 ----
 
