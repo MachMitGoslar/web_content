@@ -2,7 +2,7 @@ Title: Newsletter
 
 ----
 
-Cover: - file://khtlavyidbibgsol
+Cover: - file://97d04dilbmjzsumc
 
 ----
 
@@ -11,6 +11,22 @@ Headline:
 ----
 
 Description: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
 
 ----
 
