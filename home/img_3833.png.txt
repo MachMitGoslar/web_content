@@ -26,4 +26,4 @@ Template: image
 
 ----
 
-Focus: 49.4% 60.6%
+Focus: 50.0% 72.5%
