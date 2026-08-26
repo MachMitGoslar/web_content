@@ -14,15 +14,11 @@ Subheadline: Wie interkulturelle Begnung in Goslar gelingen kann
 
 ----
 
-Project-status: in Planung
+Project-status: aktiv
 
 ----
 
 Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Bürgerbeteiligung heißt auch sich kennenzulernen. Denn eigentlich sind wir in Goslar eine große Nachbarschaft. Und vieles wird einfacher wenn man seine Nachbarn kennt. Es baut Vorurteile ab und schafft Möglichkeiten die sonst im Verborgenen bleiben.</p><p>Das MachMit!Haus soll ein Ort sein wo sich die vielen unterschiedlichen Kulturen und Nachbarschaften in Goslar kennenlernen und gemeinsam arbeiten können.</p>"},"id":"756624f9-143e-4133-9199-b4dcc853be97","isHidden":false,"type":"text"}],"id":"3f9bb947-fd2e-42d0-b159-b7e48337498f","width":"1/1"}],"id":"eb989dfd-2235-4a9b-a846-ab2260dfbfcc"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Das klingt nach dir?"},"id":"143e2552-0a8e-488a-98dd-82fcf9396e0e","isHidden":false,"type":"heading"}],"id":"01d93923-1ad6-45ac-87e1-ceccb1786635","width":"1/1"}],"id":"1b3fcc5f-d98d-4ca9-ba62-c71ccc372fb8"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Viele unserer Aktionen starten auf die selbe Weise: Mit einem Gespräch in unserem Haus. Oft hilft das gemeinsame Gespräch Projektideen einzugrenzen, auszuarbeiten und in die Praxis zu bekommen. </p><p>Natürlich freuen wir uns auch (ganz digital) wenn du Kontakt mit uns über unser Formular aufnimmst.</p>"},"id":"2f8121b0-eca4-4b74-89ed-23fb6dfd26e9","isHidden":false,"type":"text"}],"id":"2c98d214-e154-4680-8184-7f26202f4a7c","width":"1/1"}],"id":"d21c752a-3487-4a07-9dd5-a3a6a60ee1a9"},{"attrs":[],"columns":[{"blocks":[{"content":{"form":["page://c2uyxj79gsugt2mz"]},"id":"4e462ad9-033c-4cbd-bfca-2989514d8690","isHidden":false,"type":"form"}],"id":"17438024-98d7-4f00-963a-c569b1fd0ff8","width":"1/1"}],"id":"a7f6ff04-31b5-41ac-8883-f9b2df98ec7a"}]
-
-----
-
-Form: - page://c2uyxj79gsugt2mz
 
 ----
 
@@ -31,6 +27,26 @@ Team:
 - page://Cw3N87jTU3LFBVvj
 - page://nptsef9geyexw0gz
 - page://sspshn0jwkldmzyq
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Form: - page://c2uyxj79gsugt2mz
 
 ----
 
