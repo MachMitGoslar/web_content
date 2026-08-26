@@ -2,7 +2,7 @@ Title: Sportsbar Edition
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-07-03
 
 ----
 
@@ -22,7 +22,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Boxenstopp gefällig? Am 3. Juli verwandelt sich das MachMit!Haus wieder in eine Sportsbar - mit Kickern, Schach, LED-Rennen und jeder Menge guter Gesellschaft.</p><p></p>
 
 ----
 
