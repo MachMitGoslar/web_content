@@ -23,3 +23,7 @@ Uuid: vtt4ud7drui79tag
 ----
 
 Template: image
+
+----
+
+Focus: 49.4% 60.6%
