@@ -23,3 +23,7 @@ Uuid: lv4h9zzzrygsjn4v
 ----
 
 Template: image
+
+----
+
+Focus: 50.6% 33.0%
