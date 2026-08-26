@@ -23,3 +23,7 @@ Uuid: csz2o6ediuvfkojn
 ----
 
 Template: image
+
+----
+
+Focus: 62.1% 48.7%
