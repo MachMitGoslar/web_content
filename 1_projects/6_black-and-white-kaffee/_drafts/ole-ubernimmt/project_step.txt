@@ -2,7 +2,7 @@ Title: Ole übernimmt
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-08-07
 
 ----
 
@@ -22,7 +22,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Auch für diesen ersten Freitag steht wieder Black Kaffee auf der Agenda des MachMit!Hauses. Unser ehrenamtlicher Ole übernimmt das Ruder und gestaltet für euch diesen Freitag.</p>
 
 ----
 
