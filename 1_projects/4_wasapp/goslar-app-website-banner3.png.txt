@@ -23,7 +23,3 @@ Uuid: g9xiszbiapxy8yh1
 ----
 
 Template: image
-
-----
-
-Focus: 53.2% 47.2%
