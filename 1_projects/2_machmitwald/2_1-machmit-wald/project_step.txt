@@ -22,7 +22,7 @@ Headline:
 
 ----
 
-Description: <p>Alle Tafeln, die bis zum 31.10.2025 gekauft werden, findet ihr bei der Fläche am Steinberg.&nbsp;</p>
+Description: <p>Alle Tafeln, die bis zum 31.10.2025 gekauft wurden, findet ihr bei der Fläche am Steinberg.&nbsp;</p>
 
 ----
 
