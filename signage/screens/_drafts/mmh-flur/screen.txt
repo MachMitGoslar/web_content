@@ -2,7 +2,7 @@ Title: MMH Flur
 
 ----
 
-Screen-id: 
+Screen-id: 4
 
 ----
 
@@ -14,7 +14,7 @@ Status: true
 
 ----
 
-Assigned-channel: 
+Assigned-channel: signage/channels/aktuelle-veranstaltungen-und-projekte
 
 ----
 
@@ -22,7 +22,12 @@ Channel-schedule:
 
 ----
 
-Active-times: 
+Active-times:
+
+- 
+  start: 08:00:00
+  end: 18:00:00
+  days: mon, tue, wed, thu, fri
 
 ----
 
