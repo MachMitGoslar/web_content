@@ -1,20 +1,20 @@
-Caption:
+Caption: 
 
 ----
 
-Alt:
+Alt: 
 
 ----
 
-Photographer:
+Photographer: 
 
 ----
 
-License:
+License: 
 
 ----
 
-Link:
+Link: 
 
 ----
 
@@ -26,4 +26,4 @@ Template: image
 
 ----
 
-Focus: 50.0% 50.0%
+Focus: 50.0% 24.9%
