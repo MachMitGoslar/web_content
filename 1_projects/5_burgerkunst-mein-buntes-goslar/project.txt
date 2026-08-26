@@ -14,7 +14,7 @@ Subheadline:
 
 ----
 
-Project-status: aktiv
+Project-status: abgeschlossen
 
 ----
 
@@ -22,11 +22,27 @@ Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"Der Bürgerkunstwet
 
 ----
 
-Form: 
+Team: - page://Cw3N87jTU3LFBVvj
 
 ----
 
-Team: - page://Cw3N87jTU3LFBVvj
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Form: 
 
 ----
 
