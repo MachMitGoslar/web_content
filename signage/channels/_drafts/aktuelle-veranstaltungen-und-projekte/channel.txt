@@ -1,0 +1,29 @@
+Title: Aktuelle Veranstaltungen und Projekte
+
+----
+
+Channel-id: 
+
+----
+
+Description: 
+
+----
+
+Default-bg-image: 
+
+----
+
+Default-bg-video: 
+
+----
+
+Default-overlay-color: #000000
+
+----
+
+Default-overlay-opacity: 40
+
+----
+
+Uuid: wr5j5s7zjy1zwz51
