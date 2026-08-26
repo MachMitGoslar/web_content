@@ -22,7 +22,7 @@ Headline:
 
 ----
 
-Description: <p>Das Projekt startet am Samstag, den 4. Mai, mit einer Auftaktveranstaltung im MachMit!Haus. Alle Bürgerinnen und Bürger sind herzlich dazu eingeladen, sich von 11 Uhr bis 16 Uhr zum Projekt zu informieren, die ersten Patenschaften zu erwerben und eigene Schieferplättchen zu gestalten.</p>
+Description: <p> Alle Bürgerinnen und Bürger sind herzlich dazu eingeladen, sich von 11 Uhr bis 16 Uhr zum Projekt zu informieren, die ersten Patenschaften zu erwerben und eigene Schieferplättchen zu gestalten.</p>
 
 ----
 
