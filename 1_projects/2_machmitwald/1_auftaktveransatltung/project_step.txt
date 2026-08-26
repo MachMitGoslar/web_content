@@ -18,7 +18,7 @@ Project-status-to: aktiv
 
 ----
 
-Headline: 
+Headline: <p>Auftaktveranstaltung</p>
 
 ----
 
