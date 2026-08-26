@@ -2,11 +2,11 @@ Title: Aktuelle Veranstaltungen und Projekte
 
 ----
 
-Channel-id: 
+Channel-id: 5
 
 ----
 
-Description: 
+Description: Informieren über die aktuellen Veranstaltungen und Projekte.
 
 ----
 
