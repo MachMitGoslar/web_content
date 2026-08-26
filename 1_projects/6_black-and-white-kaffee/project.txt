@@ -6,7 +6,7 @@ Cover: - file://80_da5e71ad07
 
 ----
 
-Headline: Black (&White) Kaffee
+Headline: Black (and White) Kaffee
 
 ----
 
