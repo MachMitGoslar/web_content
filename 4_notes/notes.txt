@@ -2,7 +2,7 @@ Title: Tagebuch
 
 ----
 
-Cover: 
+Cover: - file://skapvoleihtfd5gn
 
 ----
 
@@ -11,6 +11,22 @@ Subheadline: Berichte aus unserem täglichen Alltag
 ----
 
 Description: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
 
 ----
 
