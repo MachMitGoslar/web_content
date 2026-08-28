@@ -2,23 +2,23 @@ Title: Zukunftsfest
 
 ----
 
-Cover: 
+Cover: - file://kblqfllg2o47ds8o
 
 ----
 
-Headline: 
+Headline: Zukunftsfest auf dem Jakobikirchhof
 
 ----
 
-Subheadline: 
+Subheadline: Ein Fest ganz im Namen von Nachhaltigkeit
 
 ----
 
-Project-status: 
+Project-status: in Vorbereitung
 
 ----
 
-Text: 
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<h2 class=\"font-titleXXL\">Zukunftsfest</h2><p>Beim Zukunftsfest am Samstag, den 26.09.2026 kommen lokale Akteurinnen und Akteure zusammen, die sich für Nachhaltigkeit, Regionalität und eine zukunftsfähige Entwicklung engagieren.</p><p>Auf dem Jakobikirchhof präsentieren sich verschiedene Unternehmen, Initiativen, Vereine und Organisationen mit ihren Ideen und Angeboten. Zahlreiche Stände, Aktionen und Mitmachangebote laden dazu ein, sich zu informieren, Neues kennenzulernen und selbst aktiv zu werden.</p><p>Das Zukunftsfest bietet dabei nicht nur eine Plattform für die öffentliche Präsentation nachhaltiger Projekte und Angebote, sondern schafft auch Raum für Austausch und Vernetzung. Im Mittelpunkt stehen Themen wie regionale und faire Produkte, Umwelt- und Naturschutz, erneuerbare Energien, nachhaltiges Wirtschaften und gesellschaftliches Engagement.</p><p>Das Fest wird gemeinsam vom MachMit!Haus, der Klimaschutzbeauftragten des Landkreises Goslar und der Kreisvolkshochschule Goslar organisiert.</p><p>Das Zukunftsfest richtet sich an alle, die sich für eine nachhaltige Zukunft interessieren, sich informieren, mitmachen oder mit lokalen Akteurinnen und Akteuren ins Gespräch kommen möchten.<br><br>Die Veranstaltung findet von 10:00 Uhr bis 15:00 Uhr statt.</p>"},"id":"04adfedf-e26f-4db0-8030-d8350cbb3e5a","isHidden":false,"type":"text"}],"id":"301fbe9c-5548-4b47-ac1e-c5ee9beded7e","width":"1/1"}],"id":"5e1870a8-86c5-48b9-80c4-e086156360e1"}]
 
 ----
 
