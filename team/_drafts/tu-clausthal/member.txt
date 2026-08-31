@@ -10,7 +10,7 @@ Name: TU Clausthal
 
 ----
 
-Description: 
+Description: Die TU Clausthal (Technische Universität Clausthal) ist eine forschungsstarke, kleine Technische Universität im Harz mit rund 3.000 bis 4.000 Studierenden.
 
 ----
 
@@ -58,7 +58,7 @@ Youtube:
 
 ----
 
-Tags: 
+Tags: Nachhaltigkeit, Circular Economy
 
 ----
 
