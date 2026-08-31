@@ -50,7 +50,7 @@ Calendar-layout: list
 
 ----
 
-Calendar-range: today
+Calendar-range: week
 
 ----
 
