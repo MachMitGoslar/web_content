@@ -2,7 +2,7 @@ Title: Messengerdienste
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-08-24
 
 ----
 
@@ -18,15 +18,15 @@ Project-status-to:
 
 ----
 
-Headline: 
+Headline: <p>Handyhilfe mit Schwerpunkt Messengerdienste</p>
 
 ----
 
-Description: 
+Description: <p>Die Handyhilfe geht in die 2. Runde. Nachdem das erste mal schon ein voller Erfolg war, findet nach einigen Monaten nun die 2. Veranstaltung statt. Am Anfang wird ein Vortrag zu den Messengerdiensten WhatsApp und Signal gehalten. Im Anschluss gibt es eine 1:1 Beratung.</p>
 
 ----
 
-Tags: 
+Tags: handyhilfe, senioren
 
 ----
 
