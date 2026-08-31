@@ -42,6 +42,13 @@ Address: Markt 7, 38640 Goslar
 
 ----
 
+Geo:
+
+latitude: "51.908220"
+longitude: "10.430553"
+
+----
+
 Teams: staff
 
 ----
@@ -71,6 +78,22 @@ Youtube:
 ----
 
 Tags: machmit!haus, black kaffee, coding, digitales, projekte, making, musik
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
 
 ----
 
