@@ -18,7 +18,7 @@ Project-status-to:
 
 ----
 
-Headline: <p>Handyhilfe mit Schwerpunkt Messengerdienste</p>
+Headline: <p>Messengerdienste</p>
 
 ----
 
