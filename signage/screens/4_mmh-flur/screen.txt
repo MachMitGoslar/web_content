@@ -82,7 +82,7 @@ Whitelist:
 - 
   uuid: 177192ca-8566-4ead-b83f-ea5b5afa9640
   ip: 185.238.219.125
-  label: Device 177192ca
+  label: Bildschirm Flur Unten
   approved_at: 2026-08-31 13:00:42
   approved_by: nantke.janssen@goslar.de
 
