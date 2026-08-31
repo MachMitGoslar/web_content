@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"7303b6ed-9643-4eb3-a582-ef6439e92022","width":"1/1"}],"id":"79e75e13-820d-474e-9471-0f5c2d7ce72f"},{"attrs":{"vertical_align":"center","padding":"none"},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://b2ztkmujagkuhhmd"],"src":"","alt":"","caption":"","link":"","ratio":"16/9","crop":"false"},"id":"86ffdb3d-af78-4e02-ade9-7e47469bc12f","isHidden":false,"type":"image"}],"id":"cfde601b-2b88-4471-86eb-37bf45ddba50","width":"1/1"}],"id":"7655297b-6978-4786-8ccf-fc5b52af8567"}]
+Content-layout: [{"attrs":{"vertical_align":"start","padding":"none"},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://b2ztkmujagkuhhmd"],"src":"","alt":"","caption":"","link":"","ratio":"16/9","crop":"false"},"id":"86ffdb3d-af78-4e02-ade9-7e47469bc12f","isHidden":false,"type":"image"}],"id":"cfde601b-2b88-4471-86eb-37bf45ddba50","width":"1/1"}],"id":"7655297b-6978-4786-8ccf-fc5b52af8567"}]
 
 ----
 
