@@ -10,7 +10,7 @@ Name: Bücherei Café
 
 ----
 
-Description: 
+Description: Die Bücherei Vienenburg ist rein ehrenamtlich geführt und verfügt derzeit über einen Bestand von über 5000 Romanen, Klassikern, Kinderbüchern, Comics, CDs, Tonies und Spielen
 
 ----
 
@@ -26,7 +26,7 @@ Phone:
 
 ----
 
-Address: 
+Address: Bahnhofstraße 8; 38690 Vienenburg
 
 ----
 
