@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"text":"<p>MachMit!Kleidertausch</p><p>6.September 2026</p>"},"id":"57e2f155-146c-43da-915c-4a74c8d02043","isHidden":false,"type":"signage-text"}],"id":"b89e385a-6bae-4cc4-9791-a54ef2964868","width":"1/1"}],"id":"b7ee4e8e-067d-4af0-b74f-f741279446f2"}]
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"text":"<p>MachMit!Kleidertausch</p>"},"id":"0fc28c38-da58-42a1-b0ad-2a6dcb667250","isHidden":false,"type":"signage-text"}],"id":"b89e385a-6bae-4cc4-9791-a54ef2964868","width":"1/1"}],"id":"b7ee4e8e-067d-4af0-b74f-f741279446f2"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"text":"MachMit!Kleidertausch","citation":"06. September 2026 | 11:00 - 17:00"},"id":"01ff9956-6dbf-4cc2-b20c-a6d36d8af30e","isHidden":false,"type":"quote"}],"id":"fa2d5708-5564-4097-b727-d3f0347cda1c","width":"1/1"}],"id":"f8e42ced-0c21-4ada-aec5-76fe1488eb60"}]
 
 ----
 
