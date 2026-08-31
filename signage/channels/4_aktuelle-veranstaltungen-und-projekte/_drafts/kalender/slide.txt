@@ -38,7 +38,7 @@ Calendar-source-type: external
 
 ----
 
-Calendar-source: 
+Calendar-source: https://oveda.de/organizations/19/ical
 
 ----
 
@@ -46,7 +46,7 @@ Calendar-pages:
 
 ----
 
-Calendar-layout: list
+Calendar-layout: grid
 
 ----
 
@@ -54,7 +54,7 @@ Calendar-range: week
 
 ----
 
-Calendar-max-events: 5
+Calendar-max-events: 6
 
 ----
 
