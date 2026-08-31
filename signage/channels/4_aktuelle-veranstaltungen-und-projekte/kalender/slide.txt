@@ -38,7 +38,7 @@ Calendar-source-type: external
 
 ----
 
-Calendar-source: https://oveda.de/organizations/19/ical
+Calendar-source: https://oveda.de/organizers/539/ical
 
 ----
 
