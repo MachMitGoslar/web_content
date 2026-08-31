@@ -2,11 +2,11 @@ Title: Und es geht weiter ...
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-10-05
 
 ----
 
-Project-start-time: 
+Project-start-time: 10:00:00
 
 ----
 
@@ -22,11 +22,11 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Am 05.10.2026 um 10 Uhr findet die nächste Handyhilfe für Seniorinnen und Senioren statt.</p>
 
 ----
 
-Tags: 
+Tags: handyhilfe, senioren
 
 ----
 
