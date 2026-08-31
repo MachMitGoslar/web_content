@@ -2,7 +2,7 @@ Title: kalender
 
 ----
 
-Slide-type: blocks
+Slide-type: calendar
 
 ----
 
