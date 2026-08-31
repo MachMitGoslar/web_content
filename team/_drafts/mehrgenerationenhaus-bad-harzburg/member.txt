@@ -10,23 +10,26 @@ Name: Mehrgenerationenhaus Bad Harzburg
 
 ----
 
-Description: 
+Description:
+
+Das Mehrgenerationenhaus Bad Harzburg (MGH) ist ein lebendiger Ort der Begegnung für Menschen aller Generationen und Nationalitäten.
+Hier werden ehrenamtliches Engagement gestärkt und Gemeinschaft gefördert. Ob bei einer Tasse Kaffee, im Gespräch oder beim Knüpfen neuer Kontakte – bei uns ist jeder willkommen. Das Angebot reicht vom gemeinsamen Frühstück über Sport- und Kreativkurse bis hin zu Spiele-Nachmittagen. Ständig entstehen neue Projekte.
 
 ----
 
-Role: 
+Role: Goslar App Promoter
 
 ----
 
-Email: 
+Email: k.eilers-kamarys@diakonie-braunschweig.de
 
 ----
 
-Phone: 
+Phone: 0171 8683216
 
 ----
 
-Address: 
+Address: Lutherstraße 7 38667 Bad Harzburg
 
 ----
 
