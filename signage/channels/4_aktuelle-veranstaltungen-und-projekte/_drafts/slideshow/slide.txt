@@ -98,15 +98,15 @@ Overlay-enabled: true
 
 ----
 
-Overlay-color: #000000
+Overlay-color: #e02121
 
 ----
 
-Overlay-opacity: 40
+Overlay-opacity: 30
 
 ----
 
-Overlay-gradient: none
+Overlay-gradient: to-top
 
 ----
 
