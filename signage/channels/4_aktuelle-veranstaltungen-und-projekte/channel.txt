@@ -10,7 +10,7 @@ Description: Informieren über die aktuellen Veranstaltungen und Projekte.
 
 ----
 
-Default-bg-image: 
+Default-bg-image: - file://6vvcxw6a4uu0utij
 
 ----
 
