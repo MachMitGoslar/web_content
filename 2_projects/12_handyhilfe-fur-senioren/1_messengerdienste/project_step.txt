@@ -22,7 +22,7 @@ Headline: <p>Handyhilfe mit Schwerpunkt Messengerdienste</p>
 
 ----
 
-Description: <p>Die Handyhilfe geht in die 2. Runde. Nachdem das erste mal schon ein voller Erfolg war, findet nach einigen Monaten nun die 2. Veranstaltung statt. Am Anfang wird ein Vortrag zu den Messengerdiensten WhatsApp und Signal gehalten. Im Anschluss gibt es eine 1:1 Beratung.</p>
+Description: <p>Die Handyhilfe geht in die 2. Runde. Nachdem das erste mal schon ein voller Erfolg war, findet nach einigen Wochen nun die 2. Veranstaltung statt. Am Anfang wird ein Vortrag zu den Messengerdiensten WhatsApp und Signal gehalten. Im Anschluss gibt es eine 1:1 Beratung.</p>
 
 ----
 
