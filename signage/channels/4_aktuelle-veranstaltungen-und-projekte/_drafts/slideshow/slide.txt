@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"text":"<p>MachMit!Kleidertausch</p><ol><li><p>September 2026</p></li></ol>"},"id":"57e2f155-146c-43da-915c-4a74c8d02043","isHidden":false,"type":"signage-text"}],"id":"b89e385a-6bae-4cc4-9791-a54ef2964868","width":"1/1"}],"id":"b7ee4e8e-067d-4af0-b74f-f741279446f2"}]
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"text":"<p>MachMit!Kleidertausch</p><p>6.September 2026</p>"},"id":"57e2f155-146c-43da-915c-4a74c8d02043","isHidden":false,"type":"signage-text"}],"id":"b89e385a-6bae-4cc4-9791-a54ef2964868","width":"1/1"}],"id":"b7ee4e8e-067d-4af0-b74f-f741279446f2"}]
 
 ----
 
