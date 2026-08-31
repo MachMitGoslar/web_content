@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: [{"attrs":{"vertical_align":"end","padding":"none"},"columns":[{"blocks":[{"content":{"text":"<h2 class=\"font-titleXXL\"><strong>MachMit!Kleidertausch</strong></h2><h6 class=\"font-subheadline\">06. September 2026 | 11:00 - 17:00</h6>"},"id":"0fc28c38-da58-42a1-b0ad-2a6dcb667250","isHidden":false,"type":"signage-text"}],"id":"b89e385a-6bae-4cc4-9791-a54ef2964868","width":"1/1"}],"id":"b7ee4e8e-067d-4af0-b74f-f741279446f2"}]
+Content-layout: [{"attrs":{"vertical_align":"start","padding":"none"},"columns":[{"blocks":[{"content":{"text":"<h2 class=\"font-titleXXL\"><strong>MachMit!Kleidertausch</strong></h2><h6 class=\"font-subheadline\">06. September 2026 | 11:00 - 17:00</h6>"},"id":"0fc28c38-da58-42a1-b0ad-2a6dcb667250","isHidden":false,"type":"signage-text"}],"id":"b89e385a-6bae-4cc4-9791-a54ef2964868","width":"1/1"}],"id":"b7ee4e8e-067d-4af0-b74f-f741279446f2"}]
 
 ----
 
