@@ -22,7 +22,23 @@ Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Jeden Mittwoch v
 
 ----
 
-Team: 
+Team: - page://Cw3N87jTU3LFBVvj
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
 
 ----
 
