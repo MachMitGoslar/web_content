@@ -2,7 +2,7 @@ Title: Bürgerstiftung Goslar
 
 ----
 
-Cover: 
+Cover: - file://btslvv6znj19imqr
 
 ----
 
@@ -10,7 +10,10 @@ Name: Bürgerstiftung Goslar
 
 ----
 
-Description: 
+Description:
+
+"Wir bringen Menschen zusammen und stärken den Zusammenhalt
+in unserer Stadt."
 
 ----
 
@@ -18,15 +21,15 @@ Role:
 
 ----
 
-Email: 
+Email: info@buergerstiftung-goslar.de
 
 ----
 
-Phone: 
+Phone: 05321 70 99 23
 
 ----
 
-Address: 
+Address: Fischemäkerstr. 13, 38640 Goslar
 
 ----
 
