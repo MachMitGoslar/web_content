@@ -1,0 +1,37 @@
+Title: Infoabend zur Neorx-Community
+
+----
+
+Project-start-date: 2025-03-01
+
+----
+
+Project-start-time:
+
+----
+
+Image:
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline: <p>Nachhaltiges Wohnprojekt stellt sich vor</p>
+
+----
+
+Description: <p>Am Freitag, den 14. März 2025, um 18:00 Uhr im MachMit!Haus stellt sich die Neorx-Community vor. Neorx ist ein gemeinschaftliches Projekt mit dem Ziel, ein naturnahes, nachhaltiges Wohnprojekt zu schaffen. Die Teilnehmerinnen und Teilnehmer werden sich an der Bewirtschaftung von Landwirtschafts- und Waldflächen beteiligen und so zu einer partiellen Selbstversorgung beitragen.</p><p>Die Gruppe sucht engagierte Mitstreiterinnen und Mitstreiter, die das Projekt weiter voranbringen möchten. Bei dem Treffen stellen die Initiatorinnen und Initiatoren das zukunftsorientierte Projekt vor und geben Einblicke in die Vision einer nachhaltigen, gemeinschaftlichen Lebensweise.</p><p>Die Themen des Abends umfassen: Nachhaltigkeit und regeneratives Wirtschaften, ökologisches Leben in einer Gemeinschaft, Austausch zu landwirtschaftlichen und handwerklichen Ideen von der Imkerei bis zur Schmiedekunst sowie die Vision des Neorx-Projekts.</p><p><a href="http://www.neorx.community/" target="_blank" rel="noopener">Mehr erfahren →</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: vd4sa2cbtp57l24v

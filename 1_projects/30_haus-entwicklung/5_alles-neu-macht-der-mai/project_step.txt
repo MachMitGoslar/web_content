@@ -1,0 +1,37 @@
+Title: Alles neu, macht der Mai
+
+----
+
+Project-start-date: 2026-05-01
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://svo71e7ylmizxmj1
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline: <p>Fußboden und Platz für dich</p>
+
+----
+
+Description: <p>Dank der Unterstützung von Kahraman und vielen fleißigen Helferinnen und Helfern konnten wir den (fast) letzten Bauabschnitt im MachMit!Haus erfolgreich abschließen. Der neue Fußboden wurde im Rahmen eines Ehrenamtsprojekts in Eigenleistung verlegt. Und wir finden: Das Ergebnis kann sich wirklich sehen lassen!</p><p>Außerdem präsentiert sich unser öffentlicher Bereich nun klar, aufgeräumt und einladend. Falls ihr ihn noch nicht gesehen habt, seid ihr herzlich zu einem „Antrittsbesuch“ eingeladen. Kommt vorbei und macht euch selbst ein Bild!</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: chwe9e6vh67n59lz

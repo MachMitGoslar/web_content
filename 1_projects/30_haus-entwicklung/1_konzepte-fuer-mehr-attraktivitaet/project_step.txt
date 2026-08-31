@@ -1,0 +1,37 @@
+Title: Konzepte für mehr Attraktivität
+
+----
+
+Project-start-date: 2025-02-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://h0or1ukmx3cu507n
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Gemeinsam entwickeln wir das MachMit!Haus weiter. Konzepte entstehen für mehr Attraktivität</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 0x4ubbm96mamkd70

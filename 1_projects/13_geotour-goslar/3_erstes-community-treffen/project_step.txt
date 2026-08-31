@@ -10,6 +10,10 @@ Project-start-time:
 
 ----
 
+Image: - file://mb3k0xxqud44m8fk
+
+----
+
 Project-status-from: in Vorbereitung
 
 ----

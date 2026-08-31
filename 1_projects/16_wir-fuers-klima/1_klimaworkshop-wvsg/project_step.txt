@@ -1,0 +1,37 @@
+Title: Klimaworkshop der WvSG Klima-AG
+
+----
+
+Project-start-date: 2025-04-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://meiqtm0d3bll2jiz
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Im MMH findet der Klimaworkshop der WvSG Klima-AG statt. Für zwei Wochen bleibt die Klimawage im Haus</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: hz0i5guhqm0rzwjl

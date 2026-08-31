@@ -1,0 +1,37 @@
+Title: Das erste Offline Café
+
+----
+
+Project-start-date: 2025-09-05
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://r7pqtyfjsu1w4rxo
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: <p>Was für eine Stimmung!</p>
+
+----
+
+Description: <p>Lichterketten, gute Stimmung und Handys bleiben am Eingang. Karaman und Martin zeigten sich hoch erfreut über den großen Zuspruch des “Black Kaffee” zum ersten Freitag  im Septemeber. Zahlreiche Gäste folgten der Einladung und genossen einen Abend mit viel Zeit,  Kuchen und Kaffee und guten Gesprächen.<br>Eigens für den Termin hatten die beiden den Eingangsraum in ein romantisches Café verwandelt und luden alle interessierten Bürgerinnen und Bürger zum entspannten Abend ein. Das Rezept ist ganz einfach: Wer etwas mitbringen möcht, der bringt etwas mit; es wird viel geredet und Getränke gibts im Haus. Das Ergebniss: Das sollten wir öffter machen.</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 4bxdjkd2ctypp859

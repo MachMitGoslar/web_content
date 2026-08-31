@@ -1,0 +1,37 @@
+Title: Ein neues Ehrenamtsformat entsteht
+
+----
+
+Project-start-date: 2025-03-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://8sntze5cb7soaf8w
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline:
+
+----
+
+Description: <p>Ein neues Ehrenamtformat “Die MachMit!Hosts” entsteht im MachMit!Haus</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: eq52e8lhlbmihhdg

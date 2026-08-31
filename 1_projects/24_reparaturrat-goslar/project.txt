@@ -1,0 +1,25 @@
+Title: Reparaturrat Goslar
+
+----
+
+Cover: - file://e027sqyfe230j915
+
+----
+
+Headline: Reparaturrat Goslar
+
+----
+
+Subheadline: Reparieren statt wegwerfen
+
+----
+
+Project-status: in Planung
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Reparieren statt wegwerfen"},"id":"c3kwc48m8da0h80f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Gemeinsam mit der WiReGo organisiert das MachMit!Haus die Gründung eines Reparaturrates für Goslar – als Anlaufstelle für alle, die Dinge lieber reparieren als ersetzen.</p>"},"id":"dn8vq367lj4kyr7p","isHidden":false,"type":"text"}],"id":"o9rsnptg1xkxnk7a","width":"1/1"}],"id":"0jl5uhkkm5x3tixv"}]
+
+----
+
+Uuid: vm87ek9iulz4q9xn

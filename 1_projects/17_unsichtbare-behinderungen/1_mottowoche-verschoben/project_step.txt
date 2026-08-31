@@ -1,0 +1,37 @@
+Title: Die Mottowoche wird verschoben
+
+----
+
+Project-start-date: 2025-11-01
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://6odc3bd918fmwtjn
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: <p>„Nicht sichtbar, aber immer da“  über unsichtbare Behinderungen</p>
+
+----
+
+Description: <p>Die geplante Mottowoche konnte leider nicht im November stattfinden, aber sie ist nur verschoben. Im nächsten Jahr nähern wir uns dem Thema:<br>Viele Behinderungen sind auf den ersten Blick nicht erkennbar – und genau darauf möchten wir mit verschiedenen Aktionen hinweisen. Geplant sind unter anderem Gesprächsrunden sowie Frage-und-Antwort-Formate im MachMit!Haus. Wir halten euch auf dem Laufenden!</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: zzakfn1zjmw9lxpd

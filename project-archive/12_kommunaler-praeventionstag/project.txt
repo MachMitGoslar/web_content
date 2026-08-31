@@ -1,0 +1,25 @@
+Title: 1. Kommunaler Präventionstag Goslar
+
+----
+
+Cover: - file://lnqc6zdc986idd5i
+
+----
+
+Headline: 1. Kommunaler Präventionstag
+
+----
+
+Subheadline: Sicherheit und Gemeinschaft auf dem Marktplatz
+
+----
+
+Project-status: abgeschlossen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Sicherheit gemeinsam denken"},"id":"d3ebso2v2j1383ab","isHidden":false,"type":"heading"},{"content":{"text":"<p>Beim ersten Kommunalen Präventionstag auf dem Goslarer Marktplatz standen Sicherheit und Gemeinschaft im Mittelpunkt. Über 30 Institutionen, Vereine und Organisationen zeigten praxisnah, wie sich Unfälle im Alltag vermeiden lassen und wie man im Ernstfall richtig reagiert.</p>"},"id":"47f2b04jmkww2sw2","isHidden":false,"type":"text"}],"id":"irxxtrirlud3c5de","width":"1/1"}],"id":"eww6j76xy0ts669j"}]
+
+----
+
+Uuid: 3vvxni9ee4q8pt3t

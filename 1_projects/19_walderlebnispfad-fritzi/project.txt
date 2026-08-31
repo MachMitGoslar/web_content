@@ -1,0 +1,25 @@
+Title: Walderlebnispfad Goslar & Fritzi
+
+----
+
+Cover: - file://zzc8awxoei29d0a1
+
+----
+
+Headline: Walderlebnispfad Goslar
+
+----
+
+Subheadline: Fritzi begleitet euch durch den Wald
+
+----
+
+Project-status: aktiv
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Der Wald wird digital"},"id":"hvj4xtgi4p06l9zo","isHidden":false,"type":"heading"},{"content":{"text":"<p>Zum überarbeiteten Walderlebnispfad ist im MachMit!Haus kurzfristig eine Web-App entstanden: „Fritzi“ begleitet als digitaler Companion durch den Pfad und stellt unterwegs Fragen in einem interaktiven Quiz.</p>"},"id":"u9u9lqvqvhldz6i4","isHidden":false,"type":"text"}],"id":"gqfvfczl8oe5ojd2","width":"1/1"}],"id":"o2f9cadpcoihmiyo"}]
+
+----
+
+Uuid: zdrzo1gi5wsrticf

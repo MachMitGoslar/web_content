@@ -1,0 +1,37 @@
+Title: Warm-Data-Lab zur Goslar App
+
+----
+
+Project-start-date: 2025-05-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://5vnhba9xrwkv2ztv
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Ein weiteres Warm-Data-Lab nimmt Bürger:innen mit in die Gestaltung der Goslar App</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: skm3qbddwa7ss8fr

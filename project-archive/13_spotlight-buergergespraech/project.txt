@@ -1,0 +1,25 @@
+Title: Spotlight – Im Bürgergespräch
+
+----
+
+Cover:
+
+----
+
+Headline: Spotlight – Im Bürgergespräch
+
+----
+
+Subheadline: Veranstaltungsübersicht am Bahnhof
+
+----
+
+Project-status: abgeschlossen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Sichtbar am Bahnhof"},"id":"9wyhkjiokxw2nfv5","isHidden":false,"type":"heading"},{"content":{"text":"<p>Mit „Spotlight – Im Bürgergespräch“ wurde die Veranstaltungsübersicht des MachMit!Hauses dorthin gebracht, wo viele Menschen täglich vorbeikommen: an den Goslarer Bahnhof.</p>"},"id":"rulyh8tx7adhvsnb","isHidden":false,"type":"text"}],"id":"yplx40tb88wmbl5g","width":"1/1"}],"id":"3n19xlbzyjo7vfiw"}]
+
+----
+
+Uuid: 96re59ucs6aw9u87

@@ -1,0 +1,37 @@
+Title: Gaming Day für Jugendliche
+
+----
+
+Project-start-date: 2025-08-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://8vw9ypq293z8i5pt
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Der Gaming Day für Jugendliche findet im MachMit!Haus statt. Minecraft und MarioCart stehen auf dem Plan.</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: zrq24dc6c96jy6bk

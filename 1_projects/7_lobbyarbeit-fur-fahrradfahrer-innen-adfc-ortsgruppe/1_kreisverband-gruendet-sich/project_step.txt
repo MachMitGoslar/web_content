@@ -1,0 +1,37 @@
+Title: Der Kreisverband gründet sich
+
+----
+
+Project-start-date: 2025-04-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://yn5l095obu5ftuqz
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline:
+
+----
+
+Description: <p>Der neue Kreisverband des ADFC gründet sich. Ein Projekt was im MM!H sein Ursprung fand.</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: f3j6sou99z0l5glh

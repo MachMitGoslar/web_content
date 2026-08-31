@@ -1,0 +1,25 @@
+Title: Ehrentag – Das Grundgesetz feiert Geburtstag
+
+----
+
+Cover: - file://vo5ct2aqq1aqytu3
+
+----
+
+Headline: Ehrentag
+
+----
+
+Subheadline: Das Grundgesetz feiert Geburtstag
+
+----
+
+Project-status: abgeschlossen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Ein Fest für das Grundgesetz"},"id":"97wn0nwwn8u83btd","isHidden":false,"type":"heading"},{"content":{"text":"<p>Zum Geburtstag des Grundgesetzes wurde in Goslar gefeiert – mit Musik, Gesprächen und einem klaren Bekenntnis zu Demokratie und Grundrechten.</p>"},"id":"zsf2tp3cbv3wiwur","isHidden":false,"type":"text"}],"id":"49gmk0bozy7lq9zp","width":"1/1"}],"id":"0fnfd5sjd95yxdgi"}]
+
+----
+
+Uuid: bye3ztuazzs77s3h

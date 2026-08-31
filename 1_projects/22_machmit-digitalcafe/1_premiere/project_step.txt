@@ -1,0 +1,37 @@
+Title: Das Digitalcafé feiert Premiere
+
+----
+
+Project-start-date: 2025-02-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://exi3b00f0ybvnghi
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline:
+
+----
+
+Description: <p>Das Format “Digitalcafé” findet zum ersten Mal im MachMit!Haus statt</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: z7lif78gy9mpdhin

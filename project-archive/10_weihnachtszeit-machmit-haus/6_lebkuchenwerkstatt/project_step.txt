@@ -1,0 +1,37 @@
+Title: MachMit! im Lebkuchenhaus
+
+----
+
+Project-start-date: 2025-12-09
+
+----
+
+Project-start-time: 17:00:00
+
+----
+
+Image: - file://504z1ar1iit4n8j6
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Familien bauen und verzieren gemeinsam Lebkuchenhäuser – die Kinder kreativ, die Eltern im Austausch über Projektideen für das kommende Jahr.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: hn0vybm63z4il2tv

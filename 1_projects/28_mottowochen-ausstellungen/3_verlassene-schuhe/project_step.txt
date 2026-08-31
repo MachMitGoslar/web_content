@@ -1,0 +1,37 @@
+Title: Ausstellung „Verlassene Schuhe“
+
+----
+
+Project-start-date: 2025-07-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://kdesaxlq38ci1y42
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Die Ausstellung “Verlassene Schuhe” von Quasim Alsharqy zieht für zwei Wochen im MM!H ein.</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: rytox713dbr5ta5m

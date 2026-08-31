@@ -1,0 +1,37 @@
+Title: Die Christmas Challenge startet
+
+----
+
+Project-start-date: 2024-11-30
+
+----
+
+Project-start-time:
+
+----
+
+Image:
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: <p>Mit der Summitree App</p>
+
+----
+
+Description: <p>In Kooperation mit Summitree, der innovativen Bewegungs-App, laden wir euch ganz herzlich dazu ein, aktiv an der Wiederaufforstung unseres Stadtwaldes mitzuwirken. In der Adventszeit habt ihr nämlich die Chance, durch eure Bewegung Punkte zu sammeln, die in Baumsetzlinge für unseren lokalen Stadtforst „umgewandelt" werden.</p><p>Ob beim Joggen, Radfahren oder im Training – über 40 verschiedene Sportarten können in der Sumitree-App getrackt werden. Jede Aktivität bringt uns dem Ziel näher, unseren Stadtwald zu beleben und zu bereichern.</p><p>Ladet euch einfach die Summitree-App herunter, registriert euch und wählt unsere Challenge aus. Wir freuen uns auf eure Teilnahme!</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 772qv21sci6s70j1

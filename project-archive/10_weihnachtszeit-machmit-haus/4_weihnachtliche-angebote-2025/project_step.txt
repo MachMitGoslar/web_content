@@ -1,0 +1,37 @@
+Title: Weihnachtliche Angebote 2025
+
+----
+
+Project-start-date: 2025-12-01
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://vu2vdulafyv17jst
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline: <p>Es wird weihnachtlich!</p>
+
+----
+
+Description: <p>Wir freuen uns jetzt schon auf die Weihnachtszeit mit euch! Diese Termine erwarten euch:</p><p>01.12.2025 - Weihnachtsplätzchen und -schmuck zum Welt-AIDS-Tag<br>Von 16:30 - 18:00 Uhr gibt es Plätzchen, Schmuck und Infos zum Thema (präsentiert von der AIDS Hilfe Goslar sowie dem Pflegeschulzentrum Goslar)</p><p>09.12.2025 - Lebkuchen-Basteln für Eltern und Kids<br>von 17:00 - 19:00 Uhr basteln wir gemeinsam Lebkuchen Häuschen<br>(präsentiert vom MachMit!Team, dem Verein Wunschliste e.V. und dem Gastro Urban)</p><p>19.12.2025 - WEIHNACHTEN IM MACHMIT!HAUS<br>von 13:00 - 18:00 Uhr laden wir euch zur MachMit!Weihnachtsfeier ein. Fotobox, Weihnachtsmusik, Plätzchen backen und Jahresausstellung erwarten euch.</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: hgm9qg93alfwo8jk

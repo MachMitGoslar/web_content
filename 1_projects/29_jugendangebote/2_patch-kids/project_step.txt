@@ -1,0 +1,37 @@
+Title: Patch-Kids-Hauptquartier zu den Patchworktagen
+
+----
+
+Project-start-date: 2025-06-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://pxy4uw8qfy8gst3s
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Im Rahmen der Patchworktage wird das MM!H zum “Patch-Kids” Hauptquartier</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: in99wg0pf020rryu

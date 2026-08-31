@@ -1,0 +1,37 @@
+Title: Goslars Junge Stimmen laden zum Pokémon-Turnier
+
+----
+
+Project-start-date: 2025-11-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://i72n80dkbsurbt58
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline:
+
+----
+
+Description: <p>MachMit!Hosts: Goslarer Junge Stimmen laden zum Pokemon-Turnier ins MachMit!Haus ein</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: jk9l4hv7gf0oddhl

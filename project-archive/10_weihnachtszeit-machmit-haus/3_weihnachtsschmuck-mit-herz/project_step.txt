@@ -1,0 +1,37 @@
+Title: Weihnachtsschmuck mit Herz
+
+----
+
+Project-start-date: 2025-11-22
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://s13w63251jxgg866
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline: <p>Die Spenden gehen zu 100% an das Tierheim Goslar,  kommt vorbei vom 01.12. bis 23.12. und macht mit.</p>
+
+----
+
+Description: <p>am 22. November, fand im MachMit!Haus unser Workshop „Weihnachtsbaumschmuck mit Herz“ 💚 statt. Viele engagierte Kinder haben mit viel Freude und Kreativität individuellen Weihnachtsschmuck 🎄✨ gestaltet - für den guten Zweck 🐱 Ein großes Dankeschön an alle kleinen Helferinnen und Helfer.<br>Ab dem 1. Dezember kann der gebastelte Weihnachtsschmuck 🎁 im MachMit!Haus gegen eine Spende erworben werden.<br>Der gesamte Erlös geht am 24. Dezember als tierisches Weihnachtsgeschenk an das Tierheim Goslar 🐶🐱.<br>Wir freuen uns sehr solche Aktionen unterstützen zu können</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: ur0pp0lvqorrfai8

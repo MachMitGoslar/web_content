@@ -1,0 +1,37 @@
+Title: Digitale Engel im MachMit!Haus
+
+----
+
+Project-start-date: 2025-03-01
+
+----
+
+Project-start-time:
+
+----
+
+Image:
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: <p>Fake News und Desinformation erkennen</p>
+
+----
+
+Description: <p>Am Dienstag, den 29. April 2025, von 15:00 bis 17:00 Uhr im MachMit!Haus kommen die „Digitalen Engel" zu Besuch.</p><p>Was sind sogenannte Fake News, wie werden sie verbreitet und wie können wir sie entlarven? Wann werden falsche Nachrichten problematisch und wie erkennen wir, ob Informationen wahr oder falsch sind? All das erklären die „Digitalen Engel" in ihrem Vortrag.</p><p>Die Veranstaltung richtet sich an Einsteigerinnen und Einsteiger jeden Alters. Vorkenntnisse werden nicht vorausgesetzt und alle Fragen sind willkommen!</p><p>Die Teilnahme ist kostenlos, eine Anmeldung ist allerdings erforderlich.</p><p><a href="mailto:machmit@goslar.de">machmit@goslar.de</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: r90zwweikd7bie0h

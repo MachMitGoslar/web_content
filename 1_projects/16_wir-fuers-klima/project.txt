@@ -1,0 +1,25 @@
+Title: MachMit!Goslar – Wir fürs Klima
+
+----
+
+Cover: - file://g88fejy33qyoc547
+
+----
+
+Headline: MachMit!Goslar – Wir fürs Klima
+
+----
+
+Subheadline: Das Klimabündnis im MachMit!Haus
+
+----
+
+Project-status: aktiv
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Ein Bündnis für das Klima"},"id":"vhdjh5gzn54w7jhf","isHidden":false,"type":"heading"},{"content":{"text":"<p>Unter dem Dach „MachMit!Goslar – Wir fürs Klima“ bündeln Vereine, Schulen und Initiativen ihr Engagement für den Klimaschutz in Goslar. Aus dem Bündnis heraus entstehen Workshops, Mitmachaktionen und die Idee einer Nachhaltigkeits-Challenge.</p>"},"id":"dar124rbrnxm2rh6","isHidden":false,"type":"text"}],"id":"2mx96ykuc3rejjzb","width":"1/1"}],"id":"p9jatd98hm80qdsy"}]
+
+----
+
+Uuid: u98wug4sqdcnqv86

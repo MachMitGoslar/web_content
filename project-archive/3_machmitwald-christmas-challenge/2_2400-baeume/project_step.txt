@@ -1,0 +1,37 @@
+Title: 2.400 ersportelte Bäume
+
+----
+
+Project-start-date: 2025-01-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://w6syy5r1x3ppow88
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: abgeschlossen
+
+----
+
+Headline:
+
+----
+
+Description: <p>Die #ChristmasChallenge geht mit 2.400 “ersportelten” Bäumen erfolgreich zu Ende</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 6jfespmybjhh8998

@@ -1,0 +1,37 @@
+Title: Das Grundgesetz feiert Geburtstag
+
+----
+
+Project-start-date: 2026-05-23
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://36xuudkwl0ktk4m8
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: abgeschlossen
+
+----
+
+Headline: <p>Das Grundgesetz feiert Geburtstag</p>
+
+----
+
+Description: <p>Zum Geburtstag unseres Grundgesetzes am 23. Mai waren alle Menschen in Deutschland eingeladen, das gesellschaftliche Miteinander zu feiern – mit einem bundesweiten Mitmachtag. Natürlich durfte das MachMit!Haus dabei nicht fehlen. Gemeinsam mit der Goslarer Musikszene gab es an diesem Tag einiges zu erleben: von einer Mit!Mach-Bühne auf dem Marktplatz über Community-Geschichten bis hin zum abendlichen Sofa-Jam mit der Band „Dr. Sichenhofer“. Ein Tag voller Begegnungen, Musik und gelebter Gemeinschaft – ganz im Sinne des Grundgesetzes.</p><p><a href="https://goslarermusicscene.de" target="_blank" rel="noopener">Mehr erfahren →</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 3j6cwdck461ifix3

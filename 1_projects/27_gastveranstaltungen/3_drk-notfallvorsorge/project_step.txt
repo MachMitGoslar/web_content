@@ -1,0 +1,37 @@
+Title: DRK-Infoabend zur Notfallvorsorge
+
+----
+
+Project-start-date: 2025-09-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://71klaqxzgakq2ca3
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Der OV Goslar des DRK organisiert einen Infoabend zum Thema Notfallvorsorge</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: vell62s68o1dj3g9
