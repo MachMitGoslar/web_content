@@ -2,7 +2,7 @@ Title: TU Clausthal
 
 ----
 
-Cover: 
+Cover: - file://cnydwjrkz6hcxbhy
 
 ----
 
@@ -22,11 +22,11 @@ Email:
 
 ----
 
-Phone: 
+Phone: +49 5323 720
 
 ----
 
-Address: 
+Address: Adolph-Roemer-Straße 2A, 38678 Clausthal-Zellerfeld
 
 ----
 
