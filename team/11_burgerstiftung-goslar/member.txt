@@ -10,10 +10,7 @@ Name: Bürgerstiftung Goslar
 
 ----
 
-Description:
-
-"Wir bringen Menschen zusammen und stärken den Zusammenhalt
-in unserer Stadt."
+Description: "Wir bringen Menschen zusammen und stärken den Zusammenhalt in unserer Stadt."
 
 ----
 
@@ -25,7 +22,7 @@ Email: info@buergerstiftung-goslar.de
 
 ----
 
-Phone: 05321 70 99 23
+Phone: 05321 709923
 
 ----
 
