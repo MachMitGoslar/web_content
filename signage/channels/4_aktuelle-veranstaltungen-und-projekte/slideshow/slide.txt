@@ -102,7 +102,7 @@ Overlay-color: #e02121
 
 ----
 
-Overlay-opacity: 65
+Overlay-opacity: 80
 
 ----
 
