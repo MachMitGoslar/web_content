@@ -65,3 +65,18 @@ Pending-requests:
 ----
 
 Uuid: e36m89tno9zfkgps
+
+----
+
+Whitelist:
+
+- 
+  uuid: 6e868aff-2b79-4eba-8d48-96ada3cafe83
+  ip: 172.18.0.5
+  label: MAC Nantke
+  approved_at: 2026-04-14 10:22:18
+  approved_by: nantke.janssen@goslar.de
+
+----
+
+Denied-requests: 
