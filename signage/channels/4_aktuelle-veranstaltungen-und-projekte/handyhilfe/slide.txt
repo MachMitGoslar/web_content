@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: [{"attrs":{"vertical_align":"center","padding":"none"},"columns":[{"blocks":[{"content":{"text":"<h2 class=\"font-titleXXL\">Digital- und Handyhilfe</h2>"},"id":"36182bb1-af0c-4425-8849-4fee868a22c2","isHidden":false,"type":"signage-text"}],"id":"630f459f-fef0-4fef-9cf6-0dbd87301ee9","width":"1/1"}],"id":"861dff71-211e-47d0-8525-7c78aeebc2ab"},{"attrs":{"vertical_align":"start","padding":"none"},"columns":[{"blocks":[{"content":{"text":"für Seniorinnen und Senioren","citation":"Montag 05.10. | 10 Uhr"},"id":"65cd1b09-4e2b-477b-bbb9-e677f59e9e8e","isHidden":false,"type":"quote"}],"id":"77cda027-48fa-4b71-a92f-5586b49bbebc","width":"1/1"}],"id":"7f45ec52-a199-4f3d-84ee-b9c3cc769768"}]
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"none"},"columns":[{"blocks":[{"content":{"text":"<h2 class=\"font-titleXXL\">Digital- und Handyhilfe</h2>"},"id":"36182bb1-af0c-4425-8849-4fee868a22c2","isHidden":false,"type":"signage-text"},{"content":{"text":"<p>für Seniorinnen und Senioren</p><p>Montag 05.10.2026 | 10 Uhr</p>"},"id":"d2335802-5449-4b07-97fc-4daf077b5fcf","isHidden":false,"type":"signage-text"}],"id":"630f459f-fef0-4fef-9cf6-0dbd87301ee9","width":"1/1"}],"id":"861dff71-211e-47d0-8525-7c78aeebc2ab"}]
 
 ----
 
