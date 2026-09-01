@@ -90,7 +90,3 @@ Web: https://www.wunschliste-ev.de
 ----
 
 Uuid: zoQCTAllgsO9fgUr
-
-----
-
-Lock: UsuC2NeQ

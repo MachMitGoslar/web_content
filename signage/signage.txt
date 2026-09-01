@@ -56,6 +56,22 @@ Onboarding-requests:
   approved_at: 2026-04-15 11:36:46
   approved_by: nantke.janssen@goslar.de
   denied_at: ""
+- 
+  uuid: 177192ca-8566-4ead-b83f-ea5b5afa9640
+  ip: 185.238.218.65
+  backend: https://mmh.goslar.de
+  url: https://mmh.goslar.de/signage
+  user_agent: >
+    Mozilla/5.0 (Windows NT 10.0; Win64;
+    x64) AppleWebKit/537.36 (KHTML, like
+    Gecko) Chrome/145.0.0.0 Safari/537.36
+  status: approved
+  assigned_screen: mmh-flur
+  requested_at: 2026-09-01 07:48:02
+  last_seen_at: 2026-09-01 08:18:27
+  approved_at: 2026-09-01 08:18:27
+  approved_by: nantke.janssen@goslar.de
+  denied_at: ""
 
 ----
 
