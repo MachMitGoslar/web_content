@@ -74,11 +74,11 @@ Transition-duration: 1
 
 ----
 
-Bg-type: color
+Bg-type: image
 
 ----
 
-Bg-image: 
+Bg-image: - file://v8wn05t9piyj8ykr
 
 ----
 
@@ -94,7 +94,7 @@ Bg-size: cover
 
 ----
 
-Overlay-enabled: true
+Overlay-enabled: false
 
 ----
 
