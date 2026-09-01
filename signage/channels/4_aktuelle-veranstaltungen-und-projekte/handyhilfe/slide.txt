@@ -78,7 +78,7 @@ Bg-type: image
 
 ----
 
-Bg-image: - file://bxjkbo47l99gtsk1
+Bg-image: - file://cxuvwyj1jvpi0zfd
 
 ----
 
@@ -94,7 +94,7 @@ Bg-size: cover
 
 ----
 
-Overlay-enabled: true
+Overlay-enabled: false
 
 ----
 
