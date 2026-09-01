@@ -1,0 +1,33 @@
+Title: Digitale Ideen & Prototypen
+
+----
+
+Cover: - file://zzc8awxoei29d0a1
+
+----
+
+Headline: Digitale Ideen & Prototypen
+
+----
+
+Subheadline: Was im MachMit!Haus entsteht, wenn eine Idee auf Code trifft
+
+----
+
+Project-status: aktiv
+
+----
+
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Aus der Idee wird ein Prototyp"}, "id": "mu8xaotzqwk32sfb", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Nicht jede digitale Idee muss gleich ein fertiges Produkt sein. Im MachMit!Haus entstehen immer wieder kleine Anwendungen, Prototypen und Beteiligungsformate, die ein konkretes Problem in Goslar angehen.</p><p>Manche bleiben ein Experiment, andere wachsen weiter. Hier sind sie gesammelt – vom Ideenwettbewerb „Goslar Digital“ über den Nachhaltigkeits-Prototyp BetterGS bis zum Walderlebnispfad-Begleiter „Fritzi“.</p>"}, "id": "k6tsn0f7rr4i8bjh", "isHidden": false, "type": "text"}], "id": "pljja6kyvwi459oy", "width": "1/1"}], "id": "cmd3ujpug5w5rcnb"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "BetterGS – Nachhaltigkeit digital"}, "id": "kapitel-bettergs", "isHidden": false, "type": "heading"}, {"content": {"text": "<p><strong>Nachhaltiges Engagement digital würdigen</strong></p>"}, "id": "mli6uj6whw7cts64", "isHidden": false, "type": "text"}], "id": "1brpu0m4p8xj15gg", "width": "1/1"}], "id": "mrjirwhxmeril1eu"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Engagement sichtbar machen"}, "id": "fozwgindgpukg62x", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>BetterGS ist ein Prototyp aus dem MachMit!Haus: Nachhaltiges Engagement soll digital getrackt und gewürdigt werden können. Die Idee stammt aus dem Klimanetzwerk „MachMit!Goslar – Wir fürs Klima“ und der geplanten Nachhaltigkeits-Challenge.</p>"}, "id": "w8m7v011vo14hbxg", "isHidden": false, "type": "text"}], "id": "unegi2dfb6f6lwyl", "width": "1/1"}], "id": "c7cre24jk6v9mnaj"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Walderlebnispfad Goslar &amp; Fritzi"}, "id": "kapitel-walderlebnispfad-fritzi", "isHidden": false, "type": "heading"}, {"content": {"text": "<p><strong>Fritzi begleitet euch durch den Wald</strong></p>"}, "id": "bloguwdvats7si9r", "isHidden": false, "type": "text"}], "id": "iswhd8p4z6oyg66h", "width": "1/1"}], "id": "urrciia5vo2d3d8r"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Der Wald wird digital"}, "id": "hiub6utx2j2ujiwo", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Zum überarbeiteten Walderlebnispfad ist im MachMit!Haus kurzfristig eine Web-App entstanden: „Fritzi“ begleitet als digitaler Companion durch den Pfad und stellt unterwegs Fragen in einem interaktiven Quiz.</p>"}, "id": "bvrooj571xi56cqu", "isHidden": false, "type": "text"}], "id": "ek7l1nhp5yy20yup", "width": "1/1"}], "id": "rp0f9pl719xsrk0z"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Goslar Digital – suche Probleme, biete Lösung"}, "id": "kapitel-digitale-ideen-fur-goslar", "isHidden": false, "type": "heading"}, {"content": {"text": "<p><strong>Ein Ideenwettbewerb für die digitale Zukunft der Stadt</strong></p>"}, "id": "gxvz5jlfgzubix3f", "isHidden": false, "type": "text"}], "id": "7c85do0ddph2ewe2", "width": "1/1"}], "id": "ozmbg5xmgzqq8yq7"}, {"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p><strong>Gestalte die digitale Zukunft deiner Stadt – Deine Ideen sind gefragt!</strong></p>"}, "id": "lzmsop9u1bk388nn", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Liebe GoslarerInnen,</p>"}, "id": "wah1bvqc61e5el17", "isHidden": false, "type": "text"}, {"content": {"text": "<p>habt ihr ein Problem oder eine Herausforderung in unserer Stadt, für die ihr euch eine digitale Lösung wünscht bzw. vorstellen könnt? Jetzt habt ihr die Chance, aktiv mitzuwirken! Gemeinsam mit dem Kooperationsstudiengang „Digitec“ der TU Clausthal, Ostfalia Hochschule für angewandte Wissenschaften und dem Center for Digital Technologies (DIGIT) starten wir ein innovatives Projekt, bei dem eure Anliegen im Mittelpunkt stehen.</p>"}, "id": "yg5uaxbks16vjhgx", "isHidden": false, "type": "text"}, {"content": {"text": "<ul><strong>Wie funktioniert es?</strong></ul>Ihr könnt eure Ideen oder Herausforderungen, die das Leben in unserer Stadt verbessern könnten, einreichen. Ob es um smarte Mobilität, nachhaltige Energienutzung, digitale Bürgerdienste oder andere Themen geht – wir suchen nach euren Vorschlägen! Die Studierenden wählen aus den eingereichten Ideen ein Problem aus, das sie im Rahmen ihrer Studienarbeit bis hin zu einem Prototypen weiterentwickeln."}, "id": "nlk181f1as5c9lk3", "isHidden": false, "type": "text"}, {"content": {"text": "<ul><strong>Was bringt euch das? </strong></ul> <li><strong>Direkte Mitwirkung: </strong> Ihr gestaltet aktiv die digitale Zukunft unserer Stadt mit.</li><li><strong>Innovative Lösungen:</strong> Euer Problem könnte schon bald eine maßgeschneiderte digitale Lösung erhalten.</li><li><strong>Einblick in die Forschung:</strong> Seht, wie eure Idee in Zusammenarbeit mit der Universität zur Realität wird.</li>"}, "id": "nusmcdw0dz80mjkn", "isHidden": false, "type": "text"}, {"content": {"text": "<ul><strong>So macht ihr mit: </strong></ul><ul>Reicht eure Ideen einfach jederzeit über unser Onlineformular ein. Beschreibt kurz euer Anliegen und warum eine digitale Lösung helfen könnte. Wir geben eure Ideen zu den nächstmöglichen Pitchterminen an die Uni weiter und informieren im Erfolgsfall. </ul>"}, "id": "a753vdqc6y6peiti", "isHidden": false, "type": "text"}, {"content": {"text": "<p><strong>Lasst uns gemeinsam unsere Stadt weiter digitalisieren!</strong> Wir freuen uns auf eure Vorschläge!</p>"}, "id": "kfw36xybqhz795mv", "isHidden": false, "type": "text"}], "id": "503cuov692gtzq52", "width": "1/1"}], "id": "n1knarwtdh8y34rp"}]
+
+----
+
+Topic: digitale-stadt
+
+----
+
+Topics-secondary: klima, demokratie
+
+----
+
+Uuid: d1ag1ybxv1oypcg0

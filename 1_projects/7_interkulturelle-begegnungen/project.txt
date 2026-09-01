@@ -1,0 +1,45 @@
+Title: Interkulturelle Begegnungen
+
+----
+
+Cover: - file://xjdxyskm2fupcchh
+
+----
+
+Headline: 
+
+----
+
+Subheadline: Wie interkulturelle Begnung in Goslar gelingen kann
+
+----
+
+Project-status: in Planung
+
+----
+
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p>Bürgerbeteiligung heißt auch sich kennenzulernen. Denn eigentlich sind wir in Goslar eine große Nachbarschaft. Und vieles wird einfacher wenn man seine Nachbarn kennt. Es baut Vorurteile ab und schafft Möglichkeiten die sonst im Verborgenen bleiben.</p><p>Das MachMit!Haus soll ein Ort sein wo sich die vielen unterschiedlichen Kulturen und Nachbarschaften in Goslar kennenlernen und gemeinsam arbeiten können.</p>"}, "id": "756624f9-143e-4133-9199-b4dcc853be97", "isHidden": false, "type": "text"}], "id": "3f9bb947-fd2e-42d0-b159-b7e48337498f", "width": "1/1"}], "id": "eb989dfd-2235-4a9b-a846-ab2260dfbfcc"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Das klingt nach dir?"}, "id": "143e2552-0a8e-488a-98dd-82fcf9396e0e", "isHidden": false, "type": "heading"}], "id": "01d93923-1ad6-45ac-87e1-ceccb1786635", "width": "1/1"}], "id": "1b3fcc5f-d98d-4ca9-ba62-c71ccc372fb8"}, {"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p>Viele unserer Aktionen starten auf die selbe Weise: Mit einem Gespräch in unserem Haus. Oft hilft das gemeinsame Gespräch Projektideen einzugrenzen, auszuarbeiten und in die Praxis zu bekommen. </p><p>Natürlich freuen wir uns auch (ganz digital) wenn du Kontakt mit uns über unser Formular aufnimmst.</p>"}, "id": "2f8121b0-eca4-4b74-89ed-23fb6dfd26e9", "isHidden": false, "type": "text"}], "id": "2c98d214-e154-4680-8184-7f26202f4a7c", "width": "1/1"}], "id": "d21c752a-3487-4a07-9dd5-a3a6a60ee1a9"}, {"attrs": [], "columns": [{"blocks": [{"content": {"form": ["page://c2uyxj79gsugt2mz"]}, "id": "4e462ad9-033c-4cbd-bfca-2989514d8690", "isHidden": false, "type": "form"}], "id": "17438024-98d7-4f00-963a-c569b1fd0ff8", "width": "1/1"}], "id": "a7f6ff04-31b5-41ac-8883-f9b2df98ec7a"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "So ist Tết – das vietnamesische Neujahrsfest"}, "id": "kapitel-so-ist-tet", "isHidden": false, "type": "heading"}, {"content": {"text": "<p><strong>Das wichtigste Fest Vietnams im MachMit!Haus</strong></p>"}, "id": "7jj12uh5dl313fxo", "isHidden": false, "type": "text"}], "id": "exdzzxqcv91ea0fo", "width": "1/1"}], "id": "r40kl9tbitlo3ar5"}, {"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p>Am 17.02.2026 beginnt das Jahr des Pferdes in China und in Vietnam. Tết ist das wichtigste Fest in Vietnam – vergleichbar mit Weihnachten und Neujahr zusammen. Es markiert den Beginn des neuen Jahres nach dem Mondkalender.  </p><p>Tết ist auch eine Zeit des Zusammenkommens. Menschen kehren in ihre Heimat zurück, besuchen Verwandte, Bekannte und  Freunde. Sie schmücken ihre Häuser mit Pfirsich-, Aprikosen und Kumquatbäumen und bereiten traditionelle Speisen zu.  </p><p>Bei unserer Veranstaltung „So ist Tết“ möchte die Community der Vietnamesen in Goslar Ihnen authentisch zeigen, wie sie dieses besondere Fest feiert.</p>"}, "id": "s89ildmgscquedlt", "isHidden": false, "type": "text"}, {"content": {"level": "h2", "text": "Und das steht auf dem Programm:"}, "id": "tklsqs9pqgsdm1sf", "isHidden": false, "type": "heading"}], "id": "du5v275tv1d9z1k0", "width": "1/1"}], "id": "fe5xmhbuwu4dsqxz"}, {"attrs": [], "columns": [{"blocks": [{"content": {"location": "kirby", "image": ["file://d8d90dfc85"], "src": "", "alt": "", "caption": "<strong>Traditionelle Musik und Tänze</strong><p>z.B. Kinderlöwentanz</p>", "link": "", "ratio": "", "crop": "false"}, "id": "2ny37yg27bs25os6", "isHidden": false, "type": "image"}], "id": "xztdzvxzm5at1kce", "width": "1/4"}, {"blocks": [{"content": {"location": "kirby", "image": ["file://f81375c58c"], "src": "", "alt": "", "caption": "<strong>Vietnamesische Spezialitäten</strong><p>zum probieren</p>", "link": "", "ratio": "", "crop": "false"}, "id": "eeachg24t333dw1z", "isHidden": false, "type": "image"}], "id": "s2x2svh445smocbr", "width": "1/4"}, {"blocks": [{"content": {"location": "kirby", "image": ["file://d60a02d28d"], "src": "", "alt": "", "caption": "<strong>Geschichte und Bräuche</strong>", "link": "", "ratio": "", "crop": "false"}, "id": "iqoscd9z7qmr7fjd", "isHidden": false, "type": "image"}], "id": "jjiy61dhvc1jr3yk", "width": "1/4"}, {"blocks": [{"content": {"location": "kirby", "image": ["file://6c40740387"], "src": "", "alt": "", "caption": "<strong>Vietnamesische Spezialitäten</strong><p>zum probieren</p>", "link": "", "ratio": "", "crop": "false"}, "id": "ejy1jlz5iobbrgwj", "isHidden": false, "type": "image"}], "id": "w33lq3r3bdefw8zc", "width": "1/4"}], "id": "aljojc1ic3rfcd8q"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Worauf sollte ich mich einstellen?"}, "id": "8uhp00n1v9648pp0", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Die vietnamesische Community feiert im MachMit!Haus das traditionelle Tet-Fest. Angemeldete Besucherinnen und Besucher sind dabei herzlich willkommen und können einmal ganz nah und ganz persönlich die Traditionen und Bräuche des Festes erleben. Dabei geht es um ein gemeinsames Miteinander… ein Lernen und interessiert sein.</p><p>Wer dabei selbst etwas zum Fest beitragen möchte, der findet mit unserem Orga eine nette Organisation für weitere Absprachen.</p><p>Am Tag selbst ist das MachMit!Haus dekoriert und vorbereitet für alle Gäste. Wer angemeldet ist kommt einfach hinein und feiert mit.</p><p>&nbsp;</p><p><strong>Da nur eine begrenzte Anzahl an Plätzen besteht, ist eine Anmeldung mit entsprechender Bestätigung im Vorfeld zwingend notwendig!</strong></p>"}, "id": "81vlsz9ormas7rnp", "isHidden": false, "type": "text"}, {"content": {"level": "h2", "text": "Die Anmeldung ist geschlossen"}, "id": "knxal1joic1owu22", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Wir sind überwältigt von der hohen Nachfrage nach unserer Veranstaltung. Derzeit können wir keine Anmeldungen mehr annehmen. Sollten weitere Plätze frei werden, schalten wir die Anmeldung erneut frei.</p><p>Vielen Dank für euer Interesse!</p><p>Euer Orga-Team</p>"}, "id": "b7z4aodecwjmbfky", "isHidden": false, "type": "text"}], "id": "hwmxw415zci1tkzt", "width": "1/1"}], "id": "wwvm3l74un41gvln"}]
+
+----
+
+Form: - page://c2uyxj79gsugt2mz
+
+----
+
+Team:
+
+- page://Cw3N87jTU3LFBVvj
+- page://nptsef9geyexw0gz
+- page://sspshn0jwkldmzyq
+
+----
+
+Topic: teilhabe
+
+----
+
+Topics-secondary: kultur
+
+----
+
+Uuid: hnrd27dgilwgs5io

@@ -1,0 +1,25 @@
+Title: Kunst, Kultur & Begegnung
+
+----
+
+Cover:
+
+----
+
+Topic: kultur
+
+----
+
+Headline: Kunst, Kultur & Begegnung
+
+----
+
+Subheadline: Was das Haus lebendig macht
+
+----
+
+Text: [{"attrs": [], "id": "mklkux3k007054hn", "columns": [{"id": "incvty9elwa1eru3", "width": "1/1", "blocks": [{"content": {"level": "h2", "text": "Ein Ort zum Wiederkommen"}, "id": "0t1195qd4cyywo7n", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Kunst, Kultur und Begegnung sind der Alltag im MachMit!Haus: Mottowochen und Ausstellungen, der Brunch und das Offline-Café, Bürgerkunst an der Bahnunterführung, Angebote für Kinder und Jugendliche und eine Weihnachtszeit, die das ganze Haus einnimmt.</p><p>Gemeinsam ist ihnen: Sie entstehen aus der Stadtgesellschaft heraus.</p>"}, "id": "04liw560gt72i58k", "isHidden": false, "type": "text"}]}]}]
+
+----
+
+Uuid: oypaoencyytvv993

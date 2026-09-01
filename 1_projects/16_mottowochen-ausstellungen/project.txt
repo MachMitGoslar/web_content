@@ -1,0 +1,33 @@
+Title: Mottowochen & Ausstellungen
+
+----
+
+Cover: - file://gt7sn89jwoppfjqb
+
+----
+
+Headline: Mottowochen & Ausstellungen
+
+----
+
+Subheadline: Ein Thema, eine Woche, das ganze Haus
+
+----
+
+Project-status: aktiv
+
+----
+
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Ein Thema, eine Woche"}, "id": "tkjfaj8lpioghwm3", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>In den Mottowochen widmet sich das ganze MachMit!Haus einem einzigen Thema – mit Ausstellungen, Gesprächsrunden und Mitmachaktionen. Dazwischen ziehen immer wieder Ausstellungen ins Haus, die zum Verweilen und Nachdenken einladen.</p>"}, "id": "4mn0gsqxgi4rd0lu", "isHidden": false, "type": "text"}], "id": "xg1ns2fwbzrlirfj", "width": "1/1"}], "id": "h9p35cot0fgxont7"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Eine Community-Geschichte entsteht"}, "id": "kapitel-community-geschichte", "isHidden": false, "type": "heading"}, {"content": {"text": "<p><strong>Kreative Schreiberinnen und Schreiber gesucht</strong></p>"}, "id": "xkqamb968n5atpk7", "isHidden": false, "type": "text"}], "id": "a9d1u1bkm84wdl4t", "width": "1/1"}], "id": "ipc2wn29vlwclism"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Gemeinsam eine Geschichte schreiben"}, "id": "hs1gvg5dgfh5xz2w", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Viele Menschen, eine Geschichte: Im MachMit!Haus entsteht ein gemeinsames Schreibprojekt, an dem sich alle beteiligen können, die Lust am Schreiben haben.</p>"}, "id": "yzru7430xzay1pxq", "isHidden": false, "type": "text"}], "id": "xm92zpv61eg67oj5", "width": "1/1"}], "id": "h7rh2001lgpffiat"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Tag der Druckkunst"}, "id": "kapitel-tag-der-druckkunst", "isHidden": false, "type": "heading"}, {"content": {"text": "<p><strong>Immaterielles Kulturerbe zum Mitmachen</strong></p>"}, "id": "9m1wbo7y289rgpua", "isHidden": false, "type": "text"}], "id": "fze5793pmpwiv8lz", "width": "1/1"}], "id": "dnrr411vzjygx9en"}, {"attrs": [], "columns": [{"blocks": [{"content": {"cardtype": "manual", "page": [], "image": [], "headline": "Wo?", "subheadline": "", "description_content": "[{\"content\": {\"text\": \"<p>MachMit!Haus, Markt 7, 38640 Goslar</p>\"}, \"id\": \"01b30347-bfd1-46f9-a3ee-58770694d438\", \"isHidden\": false, \"type\": \"text\"}]", "color": "primary"}, "id": "r771sg8q4fk9kqlx", "isHidden": false, "type": "card"}], "id": "wwpdtyuy055z4mns", "width": "1/2"}, {"blocks": [{"content": {"cardtype": "manual", "page": [], "image": [], "headline": "Wann?", "subheadline": "", "description_content": "[{\"content\": {\"text\": \"<p>14. März 2026 | 11:00 – 16:00 Uhr</p>\"}, \"id\": \"10fd9a7f-c749-4fec-a3ec-f3bc12b333c1\", \"isHidden\": false, \"type\": \"text\"}]", "color": "primary"}, "id": "gglfci473bpziq42", "isHidden": false, "type": "card"}], "id": "h5uroh9hkyn1jk24", "width": "1/2"}], "id": "uv82yrgapr9hadt9"}, {"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p>Im März 2018 wurden die traditionellen Drucktechniken in das Bundesweite Verzeichnis des Immateriellen Kulturerbes der Deutschen UNESCO-Kommission aufgenommen. Aus diesem Anlass findet jährlich Mitte März der „Tag der Druckkunst“ statt, an dem sich überall in Deutschland Werkstätten, Kunstvereine, Museen, Galerien und Künstler:innen mit entsprechenden Angeboten vorstellen.</p><p>In Goslar luden am 14. März der BBK – Bezirksgruppe Harz und das MachMit!Haus von 11:00 bis 16:00 Uhr ein, diese faszinierende Kunstform unmittelbar zu erleben. Ob selbst gestalten, zuschauen oder staunen – hier war für alle etwas dabei! Wer seinen eigenen Druck gestalten wollte, konnte unter fachkundiger Anleitung mit einfachen Mitteln einen Holzschnitt herstellen und sein gedrucktes Werk gleich mit nach Hause nehmen.</p><p>Künstlerinnen und Künstler aus Goslar und Umgebung zeigten in einer kleinen Ausstellung Werke zu verschiedenen Drucktechniken und standen für Fragen und Gespräche persönlich zur Verfügung. Der Künstler Thomas Velte schuf vor Ort eine Druckplatte für Linoldrucke und ermöglichte Einblicke in den kreativen Prozess.</p>"}, "id": "73plrlx3vxrn1fd7", "isHidden": false, "type": "text"}], "id": "oryitg07zuiqdrbs", "width": "1/1"}], "id": "1sgmjo5i0v3qt5bn"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Drucken im 21. Jahrhundert"}, "id": "5kbpu0wornvwxfk6", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Darüber hinaus konnte das Drucken im 21. Jahrhundert entdeckt werden. Die modernen 3D-Drucker des MachMit!Hauses waren an diesem Tag im Einsatz. Besonders bemerkenswert: Diese 3D-Drucker wurden durch Jugendliche im MachMit!Haus selbst gebaut – ein MachMit!Projekt von der ersten Leiste bis hin zur abschließenden Verkabelung. Vor Ort berichtete Projektleiter Martin Sänger über den Werdegang, die Funktionsweise und das Verfahren „3D-Druck“.</p>"}, "id": "l1li1kcyti0tnef9", "isHidden": false, "type": "text"}], "id": "89ojvbxwf8fthfd7", "width": "1/1"}], "id": "zngsp0yszcegpmk1"}, {"attrs": [], "columns": [{"blocks": [{"content": {"boxType": "bolt", "text": "<p>Das Programm war für alle Besucherinnen und Besucher kostenfrei. Die Ausstellung war anschließend vom 16. bis zum 21. März im MachMit!Haus zu den Öffnungszeiten erlebbar.</p>"}, "id": "6s3408g741f994l9", "isHidden": false, "type": "box"}], "id": "do4jfqkrv1nd3bsu", "width": "1/1"}], "id": "rw7dr6452a4bh7az"}]
+
+----
+
+Topic: kultur
+
+----
+
+Topics-secondary: demokratie
+
+----
+
+Uuid: 5e17ihasmuuf5vtn

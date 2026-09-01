@@ -1,0 +1,33 @@
+Title: MachMit!Hosts
+
+----
+
+Cover: - file://x6ldbuiycrn71q0w
+
+----
+
+Headline: MachMit!Hosts
+
+----
+
+Subheadline: Ehrenamtliche gestalten ihr eigenes Programm
+
+----
+
+Project-status: aktiv
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Das Haus in die eigene Hand nehmen"},"id":"8nm7keowehfdy6d0","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die MachMit!Hosts sind ein Ehrenamtsformat aus dem MachMit!Haus: Engagierte übernehmen selbst Verantwortung und richten eigene Veranstaltungen im Haus aus – vom Spieleabend bis zum Pokémon-Turnier.</p>"},"id":"aodtd2akoo9w7ev1","isHidden":false,"type":"text"}],"id":"gsyrvlvu5hkupbpk","width":"1/1"}],"id":"apd221vwptrl21cz"}]
+
+----
+
+Topic: ehrenamt
+
+----
+
+Topics-secondary: haus
+
+----
+
+Uuid: rxdk7i17ka8kf67m

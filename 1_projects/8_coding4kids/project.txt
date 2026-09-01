@@ -1,0 +1,92 @@
+Title: Coding4Kids & Coding4Youth
+
+----
+
+Cover: - file://9a6wpr6tjufyjdwr
+
+----
+
+Headline: Coding4Youth & Coding4Goslar
+
+----
+
+Subheadline: Offener Coding Space – jeden Mittwoch im MachMit!Haus
+
+----
+
+Project-status: aktiv
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Jeden Mittwoch verwandelt sich das MachMit!Haus in einen offenen Coding Space. Hier programmieren, tüfteln und lernen wir gemeinsam - ganz ohne Frontalunterricht. Alle suchen sich ihre Projekte selbst aus und tauschen sich untereinander aus, von einfachen Bastel- und Making-Ideen bis zu anspruchsvollen Spielen und Anwendungen.</p><p>Das Angebot gibt es in zwei Zeitfenstern:</p><p><strong>Coding4Youth</strong> (10-14 Jahre): mittwochs 17:00-19:00 Uhr</p><p><strong>Coding4Goslar</strong> (ab 14 Jahren): mittwochs 19:00-22:00 Uhr</p><p>Der Eintritt ist frei und eine Anmeldung ist nicht erforderlich - einfach vorbeikommen und mitmachen. </p>"},"id":"c4k-intro","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Was wir machen"},"id":"c4k-heading-tech","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ob Spieledesign, Making oder eigene kleine Projekte - bei uns kommen ganz unterschiedliche Technologien zum Einsatz: Unity, Scratch, Java/TypeScript, C++/Arduino, Lego Mindstorms, 3D-Druck und Blender 3D. Im Mittelpunkt steht der Austausch untereinander: Wer schon etwas kann, gibt es weiter, und gemeinsam entstehen immer wieder neue Ideen.</p>"},"id":"c4k-tech","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Seit 2016 dabei"},"id":"c4k-heading-history","isHidden":false,"type":"heading"},{"content":{"text":"<p>Das Coding-Angebot entstand 2016 aus dem Coding Camp der Jugendpflege Goslar und wird seitdem kontinuierlich weitergeführt. 2023 ist das Projekt ins MachMit!Haus am Marktplatz umgezogen. Aktuell ist während der Sommerferien Pause bei Coding4Kids und Coding4Youth - danach geht es wie gewohnt mittwochs weiter.</p><p></p><p><strong>#SeiDeineStadt</strong></p>"},"id":"c4k-history","isHidden":false,"type":"text"}],"id":"c4k-col-01","width":"1/1"}],"id":"c4k-row-01"}]
+
+----
+
+Team: 
+
+----
+
+Form: 
+
+----
+
+Project-steps:
+
+-
+  project_start_date: 2016-01-01
+  project_start_time: ""
+  project_status_from: ""
+  project_status_to: gestartet
+  description: '<p>Projektstart: Aus dem Coding Camp der Jugendpflege Goslar entsteht das regelmäßige Coding-Angebot am Mittwoch.</p>'
+  tags: ""
+-
+  project_start_date: ""
+  project_start_time: ""
+  project_status_from: ""
+  project_status_to: ""
+  description: '<p>Zwei Hackathons veranstaltet.</p>'
+  tags: ""
+-
+  project_start_date: ""
+  project_start_time: ""
+  project_status_from: ""
+  project_status_to: ""
+  description: '<p>Gemeinsam mit dem Verein &bdquo;smartharz&ldquo; digitale Thermometer gebaut.</p>'
+  tags: ""
+-
+  project_start_date: 2023-01-01
+  project_start_time: ""
+  project_status_from: ""
+  project_status_to: ""
+  description: '<p>Umzug ins MachMit!Haus am Goslarer Marktplatz.</p>'
+  tags: ""
+-
+  project_start_date: 2023-01-01
+  project_start_time: ""
+  project_status_from: ""
+  project_status_to: ""
+  description: '<p>Mit Jugendlichen die 3D-Drucker des MachMit!Hauses gebaut.</p>'
+  tags: ""
+-
+  project_start_date: 2026-07-01
+  project_start_time: ""
+  project_status_from: aktiv
+  project_status_to: Sommerpause
+  description: '<p>Sommerpause bei Coding4Kids und Coding4Youth. Nach den Sommerferien geht es wieder weiter.</p>'
+  tags: ""
+
+----
+
+Tags: coding, digitalisierung, jugend, making, 3d-druck
+
+----
+
+Topic: digitale-stadt
+
+----
+
+Topics-secondary: kultur
+
+----
+
+Uuid: uXyv5QQJYWNIEe2C

@@ -1,0 +1,25 @@
+Title: Demokratie & Beteiligung
+
+----
+
+Cover:
+
+----
+
+Topic: demokratie
+
+----
+
+Headline: Demokratie & Beteiligung
+
+----
+
+Subheadline: Mitreden, mitentscheiden, mitgestalten
+
+----
+
+Text: [{"attrs": [], "id": "ibyes41fh89zwjb7", "columns": [{"id": "zpjtithuo8vprga8", "width": "1/1", "blocks": [{"content": {"level": "h2", "text": "Beteiligung ernst gemeint"}, "id": "6w4xb64z3157q9iz", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Eine Stadt sollte für die Menschen sein, die in ihr leben — und die sollten mitgestalten können. Aus dieser Überzeugung sind die Bürgerworkshops entstanden, und aus ihnen wiederum vieles, was heute im MachMit!Haus stattfindet.</p><p>Beteiligung steckt auch in vielen anderen Projekten: in Ideenwettbewerben, in den Warm-Data-Labs und in der Frage, wie sich das Haus selbst weiterentwickelt.</p>"}, "id": "nxhmozetcmvq1n4u", "isHidden": false, "type": "text"}]}]}]
+
+----
+
+Uuid: ucxxrinajycxojon

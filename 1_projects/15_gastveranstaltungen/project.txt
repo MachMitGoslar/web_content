@@ -1,0 +1,33 @@
+Title: Gastveranstaltungen im MachMit!Haus
+
+----
+
+Cover: - file://6eb2wcut296ja22t
+
+----
+
+Headline: Gastveranstaltungen im MachMit!Haus
+
+----
+
+Subheadline: Das Haus als offene Bühne für die Stadtgesellschaft
+
+----
+
+Project-status: aktiv
+
+----
+
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Ein Haus für alle"}, "id": "smjbn24n7hbhvlhl", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Das MachMit!Haus stellt seine Räume regelmäßig Vereinen, Initiativen und Institutionen zur Verfügung. Hier sind die Gastveranstaltungen gesammelt, die das Haus als offenen Ort der Stadtgesellschaft zeigen – vom Infoabend bis zum Fachworkshop.</p>"}, "id": "hki57lg2io6k7pty", "isHidden": false, "type": "text"}], "id": "g4pcpuw8gjx2ao5n", "width": "1/1"}], "id": "01q3q3wtl0g463yv"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Altstadtlauf"}, "id": "kapitel-altstadtlauf", "isHidden": false, "type": "heading"}, {"content": {"text": "<p><strong>Und das MachMit!Haus mittendrin</strong></p>"}, "id": "3g3ou7fuxb6g4h65", "isHidden": false, "type": "text"}], "id": "pb9megyl234ltl4q", "width": "1/1"}], "id": "tfq0m0k0zvc0o2se"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Mittendrin statt nur dabei"}, "id": "qpep4wisldkx5owx", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Beim Goslarer Altstadtlauf wird das MachMit!Haus zum Sportstudio, zur Rennleitung und zur Umkleidekabine. Ein Beispiel dafür, wie das Haus mitten im Stadtleben gebraucht wird.</p>"}, "id": "q03kopdysue6qmda", "isHidden": false, "type": "text"}], "id": "w7mc9foui96o046a", "width": "1/1"}], "id": "p1o25kde7vqbz7tx"}]
+
+----
+
+Topic: haus
+
+----
+
+Topics-secondary:
+
+----
+
+Uuid: nmg42ezaue2l1h3j
