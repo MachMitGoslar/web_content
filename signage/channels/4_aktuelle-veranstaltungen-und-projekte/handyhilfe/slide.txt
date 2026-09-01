@@ -98,7 +98,7 @@ Overlay-enabled: true
 
 ----
 
-Overlay-color: #ffffff
+Overlay-color: #000000
 
 ----
 
