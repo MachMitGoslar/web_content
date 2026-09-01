@@ -94,15 +94,15 @@ Bg-size: cover
 
 ----
 
-Overlay-enabled: false
+Overlay-enabled: true
 
 ----
 
-Overlay-color: #aa00ff
+Overlay-color: #000000
 
 ----
 
-Overlay-opacity: 0
+Overlay-opacity: 40
 
 ----
 
