@@ -78,7 +78,7 @@ Bg-type: image
 
 ----
 
-Bg-image: - file://hwfxe0cbuxscafew
+Bg-image: - file://bxjkbo47l99gtsk1
 
 ----
 
