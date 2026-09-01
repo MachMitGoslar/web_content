@@ -78,7 +78,7 @@ Bg-type: image
 
 ----
 
-Bg-image: 
+Bg-image: - file://snalaipfax86kuhm
 
 ----
 
@@ -94,7 +94,7 @@ Bg-size: cover
 
 ----
 
-Overlay-enabled: true
+Overlay-enabled: false
 
 ----
 
