@@ -106,7 +106,7 @@ Overlay-opacity: 40
 
 ----
 
-Overlay-gradient: none
+Overlay-gradient: to-top
 
 ----
 
