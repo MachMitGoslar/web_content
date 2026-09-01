@@ -1,0 +1,49 @@
+Title: Auftaktveranstaltung
+
+----
+
+Project-start-date: 2024-05-04
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: <p>Auftaktveranstaltung</p>
+
+----
+
+Description: <p> Alle Bürgerinnen und Bürger sind herzlich dazu eingeladen, sich von 11 Uhr bis 16 Uhr zum Projekt zu informieren, die ersten Patenschaften zu erwerben und eigene Schieferplättchen zu gestalten.</p>
+
+----
+
+Tags: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: 0ixfcdij8sapipzj

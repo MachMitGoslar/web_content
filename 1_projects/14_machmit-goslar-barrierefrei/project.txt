@@ -10,6 +10,10 @@ Project-status: aktiv
 ----
 Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Goslar barrierefrei erleben"}, "id": "xlpq0p5jbjlkszcn", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Gemeinsam mit der Behindertenbeauftragten Andrea Simon hat sich im MachMit!Haus die Arbeitsgruppe „MachMit! Goslar Barrierefrei“ gegründet. Alle zwei Wochen entwickelt die Gruppe einen Stadtplan, der zeigt, welche Wege durch Goslar auch mit Rollstuhl, Rollator oder Kinderwagen gut zu meistern sind.</p><p>Von der ersten gemeinsamen Stadtbegehung bis zum digitalen Kartenwerk entsteht der Plan komplett aus der Bürgerschaft heraus. Interessierte Teilnehmerinnen und Teilnehmer sind jederzeit herzlich zur Mitarbeit eingeladen.</p>"}, "id": "e90ev1g9mg0xulyy", "isHidden": false, "type": "text"}], "id": "8q4xvdw6mlacfwqq", "width": "1/1"}], "id": "hqroy5d8eqjzlh47"}]
 ----
+Team: - page://nptsef9geyexw0gz
+
+----
+
 Topic: teilhabe
 ----
 Topics-secondary: 

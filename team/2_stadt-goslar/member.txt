@@ -42,6 +42,13 @@ Address: Charley-Jacob-Str. 3, 38640 Goslar
 
 ----
 
+Geo:
+
+latitude: "51.906409"
+longitude: "10.430402"
+
+----
+
 Teams: issuer
 
 ----
@@ -71,6 +78,22 @@ Youtube:
 ----
 
 Tags: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
 
 ----
 

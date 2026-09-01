@@ -1,0 +1,113 @@
+Title: Zukunftsfest 2026
+
+----
+
+Slide-type: blocks
+
+----
+
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"none"},"columns":[{"blocks":[],"id":"cfde601b-2b88-4471-86eb-37bf45ddba50","width":"1/1"}],"id":"7655297b-6978-4786-8ccf-fc5b52af8567"}]
+
+----
+
+Video-source: upload
+
+----
+
+Video-file: 
+
+----
+
+Video-embed: 
+
+----
+
+Video-autoplay: true
+
+----
+
+Video-muted: true
+
+----
+
+Video-loop: false
+
+----
+
+Calendar-source-type: external
+
+----
+
+Calendar-source: 
+
+----
+
+Calendar-pages: 
+
+----
+
+Calendar-layout: list
+
+----
+
+Calendar-range: week
+
+----
+
+Calendar-max-events: 5
+
+----
+
+Duration-mode: auto
+
+----
+
+Duration-override: 15
+
+----
+
+Transition: fade
+
+----
+
+Transition-duration: 1
+
+----
+
+Bg-type: image
+
+----
+
+Bg-image: - file://b2ztkmujagkuhhmd
+
+----
+
+Bg-video: 
+
+----
+
+Bg-position: center
+
+----
+
+Bg-size: cover
+
+----
+
+Overlay-enabled: false
+
+----
+
+Overlay-color: #000000
+
+----
+
+Overlay-opacity: 40
+
+----
+
+Overlay-gradient: none
+
+----
+
+Uuid: 89rkncsjas7wur0e

@@ -1,0 +1,88 @@
+Title: Bürgerstiftung Goslar
+
+----
+
+Cover: - file://btslvv6znj19imqr
+
+----
+
+Name: Bürgerstiftung Goslar
+
+----
+
+Description: "Wir bringen Menschen zusammen und stärken den Zusammenhalt in unserer Stadt."
+
+----
+
+Role: 
+
+----
+
+Email: info@buergerstiftung-goslar.de
+
+----
+
+Phone: 05321 709923
+
+----
+
+Address: Fischemäkerstr. 13, 38640 Goslar
+
+----
+
+Geo:
+
+latitude: "51.906992"
+longitude: "10.428488"
+
+----
+
+Teams: partner
+
+----
+
+Facebook: 
+
+----
+
+Instagram: 
+
+----
+
+X: 
+
+----
+
+Linkedin: 
+
+----
+
+Github: 
+
+----
+
+Youtube: 
+
+----
+
+Tags: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: ggx6q2fbcdqd5hjd

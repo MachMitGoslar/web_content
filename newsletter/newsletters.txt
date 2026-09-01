@@ -2,4 +2,32 @@ Title: Newsletter
 
 ----
 
+Cover: - file://97d04dilbmjzsumc
+
+----
+
+Headline: 
+
+----
+
+Description: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
 Uuid: LbjZDDGT59VEUWp5

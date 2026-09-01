@@ -1,0 +1,49 @@
+Title: Auftaktveranstaltung
+
+----
+
+Project-start-date: 2026-06-15
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Die Veranstaltung beginnt mit einem Vortrag der Abschlussklasse der BBS Baßgeige zum Thema "Grundlagen der Handynutzung". Im Anschluss können Teilnehmerinnen und Teilnehmer in 1:1 Gesprächen Fragen zu ihren individuellen Problemen bei der Handy- und Tabletnutzung stellen.</p>
+
+----
+
+Tags: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: wl6adfn0mw8jo214

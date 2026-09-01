@@ -1,0 +1,88 @@
+Title: Freiwilligen Agentur Goslar
+
+----
+
+Cover: - file://jrulz2l9i3fxezkm
+
+----
+
+Name: Freiwilligen Agentur Goslar
+
+----
+
+Description: Die FreiwilligenAgentur Goslar ist eine Vermittlungsbörse für ehrenamtliches Engagement. Projekte werden initiiert und begleitet. Sie verfügen über ein gutes Netzwerk zu sozialen Einrichtungen und Initiativen im Goslarer Raum.
+
+----
+
+Role: 
+
+----
+
+Email: info@freiwilligenagentur-goslar.de
+
+----
+
+Phone: 05321 394256
+
+----
+
+Address: Gemeindehof 8, 38640 Goslar
+
+----
+
+Geo:
+
+latitude: "51.905082"
+longitude: "10.428898"
+
+----
+
+Teams: partner
+
+----
+
+Facebook: 
+
+----
+
+Instagram: 
+
+----
+
+X: 
+
+----
+
+Linkedin: 
+
+----
+
+Github: 
+
+----
+
+Youtube: 
+
+----
+
+Tags: ehrenamt
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: fecgg4topfbwjg3c
