@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"1bbe3ac1-a77c-4010-930d-cf2c3261b1ee","width":"1/1"}],"id":"2fd82bf9-5cc5-406c-b845-6913654be20d"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"10bdfba5-6543-4f65-85e6-81db4cef5222","width":"1/1"}],"id":"f544572d-cfed-47d7-8f7a-0dc6f8b0a3f8"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"9ce9fa2e-c266-43b6-bdb2-9372324f13a8","width":"1/1"}],"id":"a5e6a213-44ac-4714-b011-8937e1bc30f0"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"416a0a15-6f7c-4ffa-a9db-927e252b5d67","width":"1/1"}],"id":"626fd7d3-ab81-4e8e-8b3d-dd2f35880f7b"},{"attrs":{"vertical_align":"start","padding":"none"},"columns":[{"blocks":[{"content":{"text":"<h2 class=\"font-titleXXL\"><strong>MachMit!Kleidertausch</strong></h2><h6 class=\"font-subheadline\">06. September 2026 | 11:00 - 17:00</h6>"},"id":"0fc28c38-da58-42a1-b0ad-2a6dcb667250","isHidden":false,"type":"signage-text"}],"id":"b89e385a-6bae-4cc4-9791-a54ef2964868","width":"1/1"}],"id":"b7ee4e8e-067d-4af0-b74f-f741279446f2"}]
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"1bbe3ac1-a77c-4010-930d-cf2c3261b1ee","width":"1/1"}],"id":"2fd82bf9-5cc5-406c-b845-6913654be20d"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"10bdfba5-6543-4f65-85e6-81db4cef5222","width":"1/1"}],"id":"f544572d-cfed-47d7-8f7a-0dc6f8b0a3f8"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"9ce9fa2e-c266-43b6-bdb2-9372324f13a8","width":"1/1"}],"id":"a5e6a213-44ac-4714-b011-8937e1bc30f0"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"416a0a15-6f7c-4ffa-a9db-927e252b5d67","width":"1/1"}],"id":"626fd7d3-ab81-4e8e-8b3d-dd2f35880f7b"}]
 
 ----
 
@@ -78,7 +78,7 @@ Bg-type: image
 
 ----
 
-Bg-image: - file://rkmfhpkycvzkeysk
+Bg-image: - file://u2mocpwxydczimhp
 
 ----
 
@@ -94,7 +94,7 @@ Bg-size: cover
 
 ----
 
-Overlay-enabled: true
+Overlay-enabled: false
 
 ----
 
