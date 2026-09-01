@@ -6,7 +6,7 @@ Alt:
 
 ----
 
-Photographer: 
+Photographer: Stefan Schiefer
 
 ----
 
@@ -23,3 +23,7 @@ Uuid: cq7ugyi80pqqiqxy
 ----
 
 Template: image
+
+----
+
+Focus: 48.7% 54.0%
