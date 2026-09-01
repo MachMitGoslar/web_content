@@ -74,7 +74,7 @@ Transition-duration: 1
 
 ----
 
-Bg-type: none
+Bg-type: color
 
 ----
 
@@ -94,11 +94,11 @@ Bg-size: cover
 
 ----
 
-Overlay-enabled: false
+Overlay-enabled: true
 
 ----
 
-Overlay-color: #000000
+Overlay-color: #aa00ff
 
 ----
 
