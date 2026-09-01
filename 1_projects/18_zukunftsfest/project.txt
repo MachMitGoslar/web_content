@@ -1,0 +1,17 @@
+Title: Zukunftsfest – nachhaltig.miteinander.handeln
+----
+Cover: - file://7qiag0kevogfg9p9
+----
+Headline: Zukunftsfest
+----
+Subheadline: nachhaltig.miteinander.handeln
+----
+Project-status: in Vorbereitung
+----
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Ein Fest für die Zukunft"},"id":"6i2bvgsv6dpp9d2b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Das Zukunftsfest ist ein Kooperationsprojekt des MachMit!Hauses mit dem Landkreis Goslar. Über 30 regionale Akteure zeigen nachhaltige Ideen rund um Energie, Mobilität, Kreislaufwirtschaft und soziales Engagement.</p><p>Nach der gelungenen Premiere auf dem Jakobikirchhof geht das Zukunftsfest in eine zweite Runde – der Termin wird noch bekannt gegeben.</p>"},"id":"yxf3m2tcx8qmr5i5","isHidden":false,"type":"text"}],"id":"8bcyjkcc82p0umof","width":"1/1"}],"id":"6ftk4ip6atlr4btd"}]
+----
+Topic: klima
+----
+Topics-secondary: demokratie
+----
+Uuid: qi8ceeli0g21wyil

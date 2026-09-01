@@ -1,0 +1,17 @@
+Title: Unsichtbare Behinderungen sichtbar machen
+----
+Cover: - file://vtdnbsj0111mmyt6
+----
+Headline: Unsichtbare Behinderungen sichtbar machen
+----
+Subheadline: „Nicht sichtbar, aber immer da“
+----
+Project-status: aktiv
+----
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Nicht sichtbar, aber immer da"},"id":"nytl6nenqc8ftq89","isHidden":false,"type":"heading"},{"content":{"text":"<p>Viele Behinderungen sind auf den ersten Blick nicht erkennbar. Genau darauf macht das MachMit!Haus mit Aktionstagen, Gesprächsrunden und Frage-und-Antwort-Formaten aufmerksam.</p><p>Ursprünglich als Mottowoche geplant, ist daraus ein eigenes Aktionsformat geworden – mit Kinderaktion, Hausmesse und Kinosondervorstellung.</p>"},"id":"z2f00m0grt1wg4a4","isHidden":false,"type":"text"}],"id":"2kpvyegkfrzy5yqf","width":"1/1"}],"id":"axf60l6xhjkgf6dj"}]
+----
+Topic: teilhabe
+----
+Topics-secondary: 
+----
+Uuid: q8a75cn1rtf94xli

@@ -1,0 +1,17 @@
+Title: Goslar Fairtrade Town
+----
+Cover: 
+----
+Headline: Goslar Fairtrade Town
+----
+Subheadline: Fairer Handel in Goslar
+----
+Project-status: in Planung
+----
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Goslar wird fair"},"id":"wsq8t19z5sxomhne","isHidden":false,"type":"heading"},{"content":{"text":"<p>Goslar auf dem Weg zur Fairtrade Town: Im MachMit!Haus informiert die Initiative darüber, was hinter dem Titel steckt und wie sich Geschäfte, Vereine und Bürgerinnen und Bürger beteiligen können.</p>"},"id":"c5vc1berec1y6ldq","isHidden":false,"type":"text"}],"id":"outul6fb40xggcn8","width":"1/1"}],"id":"yr3qwqr3661a7nw0"}]
+----
+Topic: klima
+----
+Topics-secondary: 
+----
+Uuid: 2zt2h3ps9jpebgxe

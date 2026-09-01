@@ -1,41 +1,21 @@
-Title: Begegnungsformate im MachMit!Haus
-
+Title: MachMit!Brunch
 ----
-
 Cover: - file://4WyjTpUQzZSquddJ
-
 ----
-
-Headline: Begegnungsformate im MachMit!Haus
-
+Headline:
 ----
-
-Subheadline: Brunch, Offline-Café und der erste Freitag
-
+Subheadline: Brunchen mit Spongebob und Luke Wild
 ----
-
 Project-status: abgeschlossen
-
 ----
-
-Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p><strong>Wir laden zum MachMit!Brunch ein und begrüßen Stargäste aus dem Bereich des Hörspiels.</strong></p><p>Luke Wild (Brockenbande) - gesprochen von Erik Elias Bolik und Pjotr (Brockenbande) gesprochen von Santiago Ziesmer &nbsp;- der deutschen Syncronstimme von Spongebob - stehen für Gespräche, Frage und Autogramme im Rahmen eines gemütlichen Brunches zur Verfügung. MachMit!Brunch? - das heißt: Wir kümmern uns um Kaffee, Tee, Getränke, den Raum und die Gäste - ihr kümmert euch um die Leckereien zum Brunchen?</p><p><strong>Wie funktioniert das?</strong></p><p>Die Teilnahme am Brunch ist für euch kostenlos. Die Plätze werden vergeben nach dem Windhundprinzip. Wer sich früher anmeldet, hat bessere Chancen auf einen Platz. Wichtig ist dabei: Wenn ihr teilnehmen möchtet, bitten wir euch darum etwas zum Brunchen für euch und für andere mitzubringen. So entsteht gemeinsam ein MachMit!Brunch.&nbsp;</p><p><strong>Autogramme und Celebrities</strong>?</p><p>Keine Sorge, besondere Scheu vor unseren Gästen müsst ihr nicht haben. Santiago und Erik freuen sich darauf zwei schöne Stunden mit euch zu verbringen. Im Rahmen des Brunchen sprechen wir ganz ungezwungen über die Arbeit als Syncronspreche und die die aktuellen Projekte der Beiden</p><p><strong>Elternnetzwer</strong></p><p>Ein besonderes Augenmerk beim Brunch gilt dem Elternnetzwerk. Das Netzwerk ist eine Idee die beim letzten Lebkuchenhausbasteln entstanden ist. Es geht darum sich als Eltern mit Kindern gemeinsam zu organisieren, sich zu helfen und/oder gemeinsam aktiv zu werden. Hier sind eure Ideen gefragt.</p>"}, "id": "6d5200ec-4958-4521-8c24-b81fe22f0c63", "isHidden": false, "type": "text"}], "id": "f69e1814-4139-4cb2-aac2-fae1d467c849", "width": "1/1"}], "id": "83a80807-af29-43a9-bf64-91f85d965021"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Black (&amp;White) Kaffee – das Offline Café"}, "id": "kapitel-black-and-white-kaffee", "isHidden": false, "type": "heading"}, {"content": {"text": "<p><strong>Ohne Handy, dafür mit viel Zeit</strong></p>"}, "id": "y925ruvsg6slmtho", "isHidden": false, "type": "text"}], "id": "rl23wxwskwfnxg26", "width": "1/1"}], "id": "43ntcajgm79un7y4"}, {"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p><strong>Ohne Handy aber dafür mit viel Zeit? Lieber Teilen als Kaufen? Lieber Schach statt Doom-Scrolling? </strong></p>"}, "id": "3cln1mzdz433p4rn", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Das gibt es bei uns! Kahraman, Ole und Anja laden euch erneut zum Black &amp; White Kaffee in das MachMit!Haus ein. </p>"}, "id": "k7hz031uc7vtv8ab", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Am 6. Februar wird das MachMit!Haus zum offenen Café. Das heißt ihr könnt mitbringen was ihr wollt und teilen. Kaffee und Tee gibts frisch von uns gegen Spende.</p>"}, "id": "1hcvxr29e4tur8ct", "isHidden": false, "type": "text"}], "id": "93j0dky3j67b9op1", "width": "1/1"}], "id": "vyu50fiadk89bn2q"}]
-
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p><strong>Wir laden zum MachMit!Brunch ein und begrüßen Stargäste aus dem Bereich des Hörspiels.</strong></p><p>Luke Wild (Brockenbande) - gesprochen von Erik Elias Bolik und Pjotr (Brockenbande) gesprochen von Santiago Ziesmer &nbsp;- der deutschen Syncronstimme von Spongebob - stehen für Gespräche, Frage und Autogramme im Rahmen eines gemütlichen Brunches zur Verfügung. MachMit!Brunch? - das heißt: Wir kümmern uns um Kaffee, Tee, Getränke, den Raum und die Gäste - ihr kümmert euch um die Leckereien zum Brunchen?</p><p><strong>Wie funktioniert das?</strong></p><p>Die Teilnahme am Brunch ist für euch kostenlos. Die Plätze werden vergeben nach dem Windhundprinzip. Wer sich früher anmeldet, hat bessere Chancen auf einen Platz. Wichtig ist dabei: Wenn ihr teilnehmen möchtet, bitten wir euch darum etwas zum Brunchen für euch und für andere mitzubringen. So entsteht gemeinsam ein MachMit!Brunch.&nbsp;</p><p><strong>Autogramme und Celebrities</strong>?</p><p>Keine Sorge, besondere Scheu vor unseren Gästen müsst ihr nicht haben. Santiago und Erik freuen sich darauf zwei schöne Stunden mit euch zu verbringen. Im Rahmen des Brunchen sprechen wir ganz ungezwungen über die Arbeit als Syncronspreche und die die aktuellen Projekte der Beiden</p><p><strong>Elternnetzwer</strong></p><p>Ein besonderes Augenmerk beim Brunch gilt dem Elternnetzwerk. Das Netzwerk ist eine Idee die beim letzten Lebkuchenhausbasteln entstanden ist. Es geht darum sich als Eltern mit Kindern gemeinsam zu organisieren, sich zu helfen und/oder gemeinsam aktiv zu werden. Hier sind eure Ideen gefragt.</p>"}, "id": "6d5200ec-4958-4521-8c24-b81fe22f0c63", "isHidden": false, "type": "text"}], "id": "f69e1814-4139-4cb2-aac2-fae1d467c849", "width": "1/1"}], "id": "83a80807-af29-43a9-bf64-91f85d965021"}]
 ----
-
 Form: 
-
 ----
-
 Team: - page://Cw3N87jTU3LFBVvj
-
 ----
-
 Topic: kultur
-
 ----
-
 Topics-secondary: haus
-
 ----
-
 Uuid: hJgDYOsPrOQ3xzG6
