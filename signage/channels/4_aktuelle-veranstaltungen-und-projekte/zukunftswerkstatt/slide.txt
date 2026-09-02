@@ -2,7 +2,7 @@ Title: zukunftswerkstatt
 
 ----
 
-Slide-type: video
+Slide-type: blocks
 
 ----
 
