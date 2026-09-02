@@ -2,23 +2,27 @@ Title: Eine neue Website
 
 ----
 
-Cover: 
+Cover: - file://w8jtprgeznxes8dy
 
 ----
 
-Headline: 
+Headline: Wir freuen uns auf das was kommt!
 
 ----
 
-Text: 
+Text: [{"content":{"text":"<p>Seit heute ist sie so richtig online... unsere neue Website. Dabei hat es lang gedauert. Die letzten 1 1/2 Jahre haben wir immer mal wieder damit verbracht die Website vom MachMit!Haus und den vielen Beteiligungsthemen neu zu gestalten und zu programmieren.</p><h6 class=\"font-subheadline\">2024</h6><p>Das MachMit!Haus hatte gerade so richtig Fahrt aufgenommen. Die bisherige Website ließ so einige Wünsche offen. Das System war super, aber zu sperrig für schnelle, aktuelle Informationen. Da entdeckte Holger ein einfach zu entwickelndes und zu pflegendes CMS (Kirby CMS).</p><p>Natürlich sollte die neue Seite schön werden, und so machte sich einer der \"Gründerväter\" und Wegbegleiter des MachMit!Hauses - Micha - daran, die ersten Designs für diese Website zu entwickeln. Ihr seht seine Arbeit noch immer auf der Startseite und in den Grundlagen des Designsystems.</p><h6 class=\"font-subheadline\">2025</h6><p>Während wir in diesem Jahr so richtig aktiv waren, wuchs das System langsam aber stetig an. Wichtige Funktionen wie Projekte, Projektupdates und das Design der restlichen Komponenten entstanden. </p><h6 class=\"font-subheadline\">2026</h6><p>Die größten Anteile gehen auf ihr Konto: Nantke stieg in die Entwicklung der Seite ein und entwickelte was das Zeug hält! Terminbuchungen, Signage Software und ein intuitives Verwaltungspanel sind nur ein paar Beispiele für ihre Arbeit. Ohne sie, gäbe es diese Seite noch lange nicht.</p><p>Dabei verblasst die redaktionelle Arbeit der letzten Wochen fast... denn dann hieß es: Inhalte, Bilder und Rechtschreibung.</p><p></p><h6 class=\"font-subheadline\">Es bleibt MachMit!</h6><p>Eines wissen wir schon jetzt: Auch wenn die Seite einen super Stand erreicht hat, den wir euch gern zeigen, bleibt diese Seite ein Prototyp, ein Sandkasten zum Spielen und erhebt nicht den Anspruch \"fertig\" zu sein. Wir sind für die Verwaltung das Team der Digitalisierung. Das heißt aber auch, wir probieren viel aus was noch ganz neu ist. Dies wird auch unsere Seite hoffentlich immer Wiederspiegeln. </p><p>Und das hat noch eine Stärke: Wir müssen nichts alleine machen. Wir nehmen euch gern mit auf die Reise! - Ihr könnt es besser? Oder ihr wollt uns helfen es besser zu machen? Dann willkommen an Board.<a href=\"https://github.com/MachMitGoslar\" class=\"gs-c-btn\" title=\"Hier\" data-button=\"true\" data-type=\"primary\" data-size=\"large\" data-style=\"square\" target=\"_blank\"> Hier</a> findet ihr unsere GitHub Community mit allen Teilen der Website. Wir freuen uns auf jeden Beitrag und jede Kritik - ob Online in der Community, einem der anderen digitalen Weg... oder bei einem Heiß-/Kaltgetränk direkt im MachMit!Haus.</p>","publish_date":"","end_date":""},"id":"18fbe7b3-ac8d-4c93-9a55-4e83dfc94f96","isHidden":false,"type":"text"}]
 
 ----
 
-Author: 
+Author:
+
+- page://Cw3N87jTU3LFBVvj
+- page://elvezdtmvhsvcaqu
+- page://sspshn0jwkldmzyq
 
 ----
 
-Tags: 
+Tags: website
 
 ----
 
