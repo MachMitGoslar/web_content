@@ -74,11 +74,11 @@ Transition-duration: 1
 
 ----
 
-Bg-type: none
+Bg-type: image
 
 ----
 
-Bg-image: 
+Bg-image: - file://em6zwrhrtvmjuua4
 
 ----
 
