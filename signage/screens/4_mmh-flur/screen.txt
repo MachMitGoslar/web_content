@@ -67,6 +67,12 @@ Whitelist:
   label: Bildschirm Flur Unten
   approved_at: 2026-09-01 08:18:26
   approved_by: nantke.janssen@goslar.de
+- 
+  uuid: 5eabac62-ee53-47f8-bd34-1b62a9568413
+  ip: 185.238.219.16
+  label: Device 5eabac62
+  approved_at: 2026-09-02 14:15:40
+  approved_by: nantke.janssen@goslar.de
 
 ----
 
