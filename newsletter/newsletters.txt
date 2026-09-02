@@ -14,6 +14,14 @@ Description:
 
 ----
 
+Cta-text: Immer auf dem Laufenden sein? Abonniere unseren Newsletter und bleibe informiert über Neuigkeiten, Projekte und Anliegen aus dem MachMit!Haus
+
+----
+
+Cta-button-text: Jetzt abonieren
+
+----
+
 Seo-title: 
 
 ----
