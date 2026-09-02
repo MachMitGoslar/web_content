@@ -18,7 +18,7 @@ Show-active: true
 
 ----
 
-Show-archive: true
+Show-archive: false
 
 ----
 
