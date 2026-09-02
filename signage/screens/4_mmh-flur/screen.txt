@@ -73,6 +73,12 @@ Whitelist:
   label: Bildschirm Flur Unten MachMit
   approved_at: 2026-09-02 14:15:40
   approved_by: nantke.janssen@goslar.de
+- 
+  uuid: bbf6c0e3-7515-4331-872b-1b57a29f4ac8
+  ip: 185.238.219.32
+  label: Device bbf6c0e3
+  approved_at: 2026-09-02 14:16:10
+  approved_by: nantke.janssen@goslar.de
 
 ----
 
