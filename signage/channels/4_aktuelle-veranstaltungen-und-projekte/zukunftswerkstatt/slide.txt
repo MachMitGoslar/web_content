@@ -102,7 +102,7 @@ Overlay-color: #000000
 
 ----
 
-Overlay-opacity: 40
+Overlay-opacity: 0
 
 ----
 
