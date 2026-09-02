@@ -26,7 +26,7 @@ Topics-secondary: digitale-stadt
 
 ----
 
-Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Platz für junge Ideen"},"id":"h8wmulmzmt3w9tis","isHidden":false,"type":"heading"},{"content":{"text":"<p>Das MachMit!Haus ist auch ein Ort für Kinder und Jugendliche: Gaming Days, Ferienpass-Aktionen, Kunstwettbewerbe und Kreativformate machen das Haus zum Treffpunkt für die nächste Generation.</p>"},"id":"tydk4p5bj84zr6ho","isHidden":false,"type":"text"}],"id":"mjh9e1qh5tba87s7","width":"1/1"}],"id":"ze3xrk43423yhvn0"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://0m19aeoxom0x2uhr"],"caption":"","ratio":"","crop":"false"},"id":"a01587b4-618c-4e88-acc5-2ad96e16d3b9","isHidden":false,"type":"gallery"}],"id":"e2d735b4-35da-478a-88d7-589091e14c5f","width":"1/1"}],"id":"153d5d63-78c7-4a4a-ae0a-6f0a6b4202d2"}]
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Platz für junge Ideen"},"id":"h8wmulmzmt3w9tis","isHidden":false,"type":"heading"},{"content":{"text":"<p>Das MachMit!Haus ist auch ein Ort für Kinder und Jugendliche: Gaming Days, Ferienpass-Aktionen, Kunstwettbewerbe und Kreativformate machen das Haus zum Treffpunkt für die nächste Generation.</p>"},"id":"tydk4p5bj84zr6ho","isHidden":false,"type":"text"}],"id":"mjh9e1qh5tba87s7","width":"1/1"}],"id":"ze3xrk43423yhvn0"}]
 
 ----
 
