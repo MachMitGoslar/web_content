@@ -42,7 +42,7 @@ Seo-description: Seit heute ist die neue Website des MachMit!Hauses online. Mart
 
 ----
 
-Social-image: 
+Social-image: - file://w8jtprgeznxes8dy
 
 ----
 
