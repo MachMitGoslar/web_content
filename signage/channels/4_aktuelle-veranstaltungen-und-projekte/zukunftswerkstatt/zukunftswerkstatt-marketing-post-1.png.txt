@@ -19,3 +19,7 @@ Link:
 ----
 
 Uuid: em6zwrhrtvmjuua4
+
+----
+
+Focus: 35.4% 30.2%
