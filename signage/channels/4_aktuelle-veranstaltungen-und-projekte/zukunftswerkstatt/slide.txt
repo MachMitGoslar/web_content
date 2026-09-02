@@ -66,7 +66,7 @@ Duration-override: 15
 
 ----
 
-Transition: fade
+Transition: slide
 
 ----
 
