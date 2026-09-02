@@ -68,12 +68,6 @@ Whitelist:
   approved_at: 2026-04-14 10:22:18
   approved_by: nantke.janssen@goslar.de
 - 
-  uuid: e7276699-852a-48a4-9487-657e48040652
-  ip: 185.238.219.8
-  label: MAC Nantke prod
-  approved_at: 2026-04-15 11:36:46
-  approved_by: nantke.janssen@goslar.de
-- 
   uuid: 177192ca-8566-4ead-b83f-ea5b5afa9640
   ip: 185.238.218.65
   label: Bildschirm Flur Unten
