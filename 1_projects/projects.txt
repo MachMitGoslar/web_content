@@ -18,11 +18,27 @@ Show-active: true
 
 ----
 
-Show-archive: false
+Show-archive: true
 
 ----
 
 Show-search: false
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
 
 ----
 
