@@ -68,12 +68,6 @@ Whitelist:
   approved_at: 2026-09-02 14:15:40
   approved_by: nantke.janssen@goslar.de
 - 
-  uuid: bbf6c0e3-7515-4331-872b-1b57a29f4ac8
-  ip: 185.238.219.32
-  label: Bildschirm Foyer MachMit
-  approved_at: 2026-09-02 14:16:10
-  approved_by: nantke.janssen@goslar.de
-- 
   uuid: 67cd09cc-b404-4df7-9786-abb7c7181b3f
   ip: 185.238.219.106
   label: Nantke
