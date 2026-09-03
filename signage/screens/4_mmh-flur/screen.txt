@@ -51,16 +51,7 @@ Whitelist-enabled: true
 
 ----
 
-Pending-requests:
-
-- 
-  uuid: 67cd09cc-b404-4df7-9786-abb7c7181b3f
-  ip: 185.238.219.106
-  user_agent: >
-    Mozilla/5.0 (Macintosh; Intel Mac OS X
-    10_15_7) AppleWebKit/605.1.15 (KHTML,
-    like Gecko) Version/26.5 Safari/605.1.15
-  requested_at: 2026-09-03 05:35:12
+Pending-requests: 
 
 ----
 
@@ -81,6 +72,12 @@ Whitelist:
   ip: 185.238.219.32
   label: Bildschirm Foyer MachMit
   approved_at: 2026-09-02 14:16:10
+  approved_by: nantke.janssen@goslar.de
+- 
+  uuid: 67cd09cc-b404-4df7-9786-abb7c7181b3f
+  ip: 185.238.219.106
+  label: Device 67cd09cc
+  approved_at: 2026-09-03 05:35:26
   approved_by: nantke.janssen@goslar.de
 
 ----
