@@ -76,7 +76,7 @@ Whitelist:
 - 
   uuid: 67cd09cc-b404-4df7-9786-abb7c7181b3f
   ip: 185.238.219.106
-  label: Device 67cd09cc
+  label: Nantke
   approved_at: 2026-09-03 05:35:26
   approved_by: nantke.janssen@goslar.de
 
