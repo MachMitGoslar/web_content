@@ -1,12 +1,12 @@
-Title: Kalender
+Title: zukunftswerkstatt
 
 ----
 
-Slide-type: calendar
+Slide-type: blocks
 
 ----
 
-Content-layout: 
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"5c052475-40de-4c0b-832f-15c1dc6453e2","width":"1/1"}],"id":"7d12f671-d93f-4613-b569-1435a2f45fa8"}]
 
 ----
 
@@ -38,7 +38,7 @@ Calendar-source-type: external
 
 ----
 
-Calendar-source: https://oveda.de/organizers/539/ical
+Calendar-source: 
 
 ----
 
@@ -54,7 +54,7 @@ Calendar-range: week
 
 ----
 
-Calendar-max-events: 6
+Calendar-max-events: 5
 
 ----
 
@@ -66,7 +66,7 @@ Duration-override: 15
 
 ----
 
-Transition: fade
+Transition: slide
 
 ----
 
@@ -78,7 +78,7 @@ Bg-type: image
 
 ----
 
-Bg-image: - file://v8wn05t9piyj8ykr
+Bg-image: - file://7noqio9bdawhzdn2
 
 ----
 
@@ -98,16 +98,16 @@ Overlay-enabled: true
 
 ----
 
-Overlay-color: #f2d593
+Overlay-color: #ff00ee
 
 ----
 
-Overlay-opacity: 75
+Overlay-opacity: 0
 
 ----
 
-Overlay-gradient: to-top
+Overlay-gradient: none
 
 ----
 
-Uuid: ngmu7ukc1r206ayw
+Uuid: rqwviu6zfidynznp

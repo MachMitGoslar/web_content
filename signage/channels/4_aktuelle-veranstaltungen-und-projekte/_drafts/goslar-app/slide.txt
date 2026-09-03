@@ -1,12 +1,12 @@
-Title: Kalender
+Title: Goslar App
 
 ----
 
-Slide-type: calendar
+Slide-type: blocks
 
 ----
 
-Content-layout: 
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"00cbf2fb-ba7e-4e12-97d0-c011e8191e36","width":"1/1"}],"id":"d145f9e0-b700-4841-b142-1f303d3cd3c4"}]
 
 ----
 
@@ -38,7 +38,7 @@ Calendar-source-type: external
 
 ----
 
-Calendar-source: https://oveda.de/organizers/539/ical
+Calendar-source: 
 
 ----
 
@@ -54,7 +54,7 @@ Calendar-range: week
 
 ----
 
-Calendar-max-events: 6
+Calendar-max-events: 5
 
 ----
 
@@ -66,7 +66,7 @@ Duration-override: 15
 
 ----
 
-Transition: fade
+Transition: slide
 
 ----
 
@@ -78,7 +78,7 @@ Bg-type: image
 
 ----
 
-Bg-image: - file://v8wn05t9piyj8ykr
+Bg-image: - file://nuxcdduat7rspjil
 
 ----
 
@@ -94,20 +94,20 @@ Bg-size: cover
 
 ----
 
-Overlay-enabled: true
+Overlay-enabled: false
 
 ----
 
-Overlay-color: #f2d593
+Overlay-color: #000000
 
 ----
 
-Overlay-opacity: 75
+Overlay-opacity: 40
 
 ----
 
-Overlay-gradient: to-top
+Overlay-gradient: none
 
 ----
 
-Uuid: ngmu7ukc1r206ayw
+Uuid: vpgft1ee8dyrhpwb
