@@ -1,39 +1,23 @@
 Title: Freiwillige Hochwasserhilfe Goslar
-
 ----
-
 Cover: - file://HIPff7AIySF1tKqt
-
 ----
-
 Headline: Die „Freiwillige Hochwasserhilfe“ Goslar
-
 ----
-
 Subheadline: Informationen zum Projekt
-
 ----
-
 Project-status: aktiv
-
 ----
-
-Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die dramatischen Bilder der letzten Wochen aus Bayern und dem Saarland haben noch einmal gezeigt, wie akut das Thema Hochwasser ist. Goslarer Bürger:innen haben dabei die Idee geboren, im Falle eines Hochwassers, aktiv mithelfen zu wollen.</p><p>In einem ersten Infoabend (mehr hier), ist dabei das Projekt gestartet. Das genaue Konzept, das weitere Vorgehen sowie weitere Aufgabenbereiche wurden auf der Infoveranstaltung noch einmal vorgestellt.</p><p><br>Das Projekt richtet sich an volljährige Bürgerinnen und Bürger, die die Einsatzkräfte im Falle eines Hochwassers mit ungefährlichen, aber wichtigen Aufgaben entlasten möchten. Es haben sich bereits über ein Dutzend Freiwillige gefunden, Tendenz steigend. Beispiele für Aufgaben sind die Mithilfe beim Aufbau von Sandsäcken, Kontrollgänge an Hochwasserschutzmaßnamen oder die sehr wichtige Mithilfe bei der Einsatzverpflegung. Erfahrung in dem Gebiet oder körperliche Fitness sind nicht entscheidend, da die Einsatzkräfte mit verschiedensten Aufgaben entlastet werden können.<br><br>Wer daran interessiert ist, bei der freiwilligen Hochwasserhilfe mitzumachen ist herzlich willkommen. Eine Anmeldung für Interessierte gibt es hier:</p>"},"id":"5bcfe81f-340a-4715-bf6a-e6df8c9b5a08","isHidden":false,"type":"text"}],"id":"88844549-37b7-4564-875a-3b7b09e49a58","width":"1/1"}],"id":"3b6abf62-b53f-4c22-8e2f-34f2099af4b4"}]
-
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die dramatischen Bilder der letzten Wochen aus Bayern und dem Saarland haben noch einmal gezeigt, wie akut das Thema Hochwasser ist. Goslarer Bürgerinnen und Bürger haben dabei die Idee geboren, im Falle eines Hochwassers, aktiv mithelfen zu wollen.</p><p>In einem ersten Infoabend, ist dabei das Projekt gestartet. Das genaue Konzept, das weitere Vorgehen sowie weitere Aufgabenbereiche werden Interessenten fortlaufend in Informationsveranstaltungen mitgeteilt.</p><p><br>Das Projekt richtet sich an volljährige Bürgerinnen und Bürger, die die Einsatzkräfte im Falle eines Hochwassers mit ungefährlichen, aber wichtigen Aufgaben entlasten möchten. Es haben sich bereits über 60 Freiwillige gefunden, Tendenz steigend. Beispiele für Aufgaben sind die Mithilfe beim Aufbau von Sandsäcken, Kontrollgänge an Hochwasserschutzmaßnamen oder die sehr wichtige Mithilfe bei der Einsatzverpflegung. Erfahrung in dem Gebiet oder körperliche Fitness sind nicht entscheidend, da die Einsatzkräfte mit verschiedensten Aufgaben entlastet werden können.<br><br>Wer daran interessiert ist, bei der freiwilligen Hochwasserhilfe mitzumachen ist herzlich willkommen. Interessenten können sich gerne unter machmit@goslar.de melden!<br><br>Das Projekt ist niedersachsenweit einzigartig und hat bereits darüber berichtet: </p><p>https://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/Freiwillige-Hochwasserhilfe-in-Goslar-gegruendet,hochwasserhilfe262.html</p><p></p>"},"id":"5bcfe81f-340a-4715-bf6a-e6df8c9b5a08","isHidden":false,"type":"text"}],"id":"88844549-37b7-4564-875a-3b7b09e49a58","width":"1/1"}],"id":"3b6abf62-b53f-4c22-8e2f-34f2099af4b4"}]
 ----
-
 Form: 
-
 ----
-
-Team:
+Team: 
 
 - page://nefErdeTwpZpKraB
 - page://nptsef9geyexw0gz
-
 ----
-
-Project-steps:
+Project-steps: 
 
 - 
   project_start_date: 2025-02-14
@@ -42,11 +26,11 @@ Project-steps:
   project_status_to: in Vorbereitung
   description: '<p>Test</p>'
   tags: ""
-
 ----
-
 Tags: mountains, peak nature
-
 ----
-
+Topic: ehrenamt
+----
+Topics-secondary: 
+----
 Uuid: XqbutgSsL5ibgjxP

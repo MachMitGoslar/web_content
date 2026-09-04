@@ -1,0 +1,37 @@
+Title: Veranstaltungsübersicht am Bahnhof
+
+----
+
+Project-start-date: 2024-12-01
+
+----
+
+Project-start-time:
+
+----
+
+Image:
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: abgeschlossen
+
+----
+
+Headline: <p>Veranstaltungsübersicht am Bahnhof</p>
+
+----
+
+Description: <p>Eine engagierte Bürgerin ist mit der Idee an uns herangetreten, dass die Stadt eine Übersicht an Veranstaltungen und das kulturelle Programm in Goslar direkt am Bahnhof aushängen sollte. Diese informative Anlaufstelle würde es Reisenden ermöglichen, sofort spannende Events und Aktivitäten zu entdecken, die Goslar zu bieten hat.</p><p>Die Bürgerin hofft, dass solch ein Aushang dazu beitragen kann, die kulturelle Vielfalt unserer Stadt noch mehr in den Fokus zu rücken und gleichzeitig Touristinnen und Touristen zu helfen, die richtigen Events für ihren Aufenthalt in Goslar zu finden.</p><p>Wir haben die Idee weitergeleitet und sind weiter dran!</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: wcimz5f62xc24i0h

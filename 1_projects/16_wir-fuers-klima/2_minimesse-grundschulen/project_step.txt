@@ -1,0 +1,37 @@
+Title: Minimesse für Grundschulen
+
+----
+
+Project-start-date: 2025-09-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://lr41afuxku1gti7h
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline:
+
+----
+
+Description: <p>Die Minimesse des MachMit!Goslar - Wir fürs Klima Bündnisses lädt Grunschüler ins MM!H ein</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: gdh2yu1leso2dx3f

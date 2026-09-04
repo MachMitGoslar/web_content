@@ -1,0 +1,37 @@
+Title: Deine digitale Idee für Goslar
+
+----
+
+Project-start-date: 2024-12-01
+
+----
+
+Project-start-time:
+
+----
+
+Image:
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: <p>Innovative Projekte gesucht</p>
+
+----
+
+Description: <p>Habt ihr ein Problem oder eine Herausforderung in unserer Stadt, für die ihr euch eine digitale Lösung wünscht bzw. vorstellen könnt? Jetzt habt ihr die Chance, aktiv mitzuwirken! Gemeinsam mit dem Kooperationsstudiengang „Digitec" der TU Clausthal, Ostfalia Hochschule für angewandte Wissenschaften und dem Center for Digital Technologies (DIGIT) starten wir ein innovatives Projekt, bei dem eure Anliegen im Mittelpunkt stehen.</p><p><a href="https://machmit.goslar.de/digital" target="_blank" rel="noopener">Mehr erfahren →</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 9fkor3q0odh264gw

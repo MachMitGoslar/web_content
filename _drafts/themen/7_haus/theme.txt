@@ -1,0 +1,25 @@
+Title: Das MachMit!Haus
+
+----
+
+Cover:
+
+----
+
+Topic: haus
+
+----
+
+Headline: Das MachMit!Haus
+
+----
+
+Subheadline: Das Haus selbst als Projekt
+
+----
+
+Text: [{"attrs": [], "id": "xl3booant6fmqacv", "columns": [{"id": "a3bv2ytgg7lfei6n", "width": "1/1", "blocks": [{"content": {"level": "h2", "text": "Ein Haus in Bewegung"}, "id": "iw615ay3f879hms8", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Das MachMit!Haus ist nicht nur Kulisse, sondern selbst Gegenstand der Arbeit — baulich wie inhaltlich. Hier ist dokumentiert, wie sich das Haus am Marktplatz entwickelt, wem es seine Räume öffnet und wie es seine Geburtstage feiert.</p>"}, "id": "cs999uy3h1uwxzda", "isHidden": false, "type": "text"}]}]}]
+
+----
+
+Uuid: r8z7eort3o2mvoms

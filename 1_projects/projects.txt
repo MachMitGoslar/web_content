@@ -26,4 +26,20 @@ Show-search: false
 
 ----
 
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
 Uuid: EgfXk155nyUvqqA1

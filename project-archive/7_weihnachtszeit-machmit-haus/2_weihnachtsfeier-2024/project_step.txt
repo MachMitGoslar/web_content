@@ -1,0 +1,37 @@
+Title: Öffentliche MachMit!-Weihnachtsfeier 2024
+
+----
+
+Project-start-date: 2024-12-13
+
+----
+
+Project-start-time:
+
+----
+
+Image:
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline: <p>Freitag, 13. Dezember, 13:00 – 18:00 Uhr</p>
+
+----
+
+Description: <p>Das laufende Jahr war ein sehr erfreuliches Jahr für unser MachMit!Haus. Zahlreiche Projekte sind erfolgreich umgesetzt worden und immer mehr Bürgerinnen und Bürger nutzen die Formate und Räumlichkeiten des MachMit!Hauses.</p><p>Freut euch auf Glühwein oder Punsch, frisches Popcorn und eine kleine Ausstellung zu den Projekten des Jahres 2024. Von 16:00 – 18:00 Uhr werden Steffen Vogtland (Piano), Ansgar Ruppert (Drums) und Florian Hädrich (Bass) von der „Steinberg Groove Foundation" mit Funk, Jazz und Latin für die musikalische Unterhaltung sorgen.</p><p>Die Teilnahme ist kostenlos und eine Anmeldung ist nicht erforderlich - kommt einfach vorbei!</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: gou95bbj7lz4wtet

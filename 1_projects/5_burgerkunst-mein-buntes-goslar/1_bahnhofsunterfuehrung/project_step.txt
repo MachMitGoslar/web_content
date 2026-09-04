@@ -1,0 +1,37 @@
+Title: Gestaltungsaktion an der Bahnhofsunterführung
+
+----
+
+Project-start-date: 2026-06-11
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://0kbl959k60928z9q
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: <p>Gestaltungsaktion an der Bahnhofsunterführung abgeschlossen</p>
+
+----
+
+Description: <p>2025 rief die Stadt Goslar unter Federführung des MachMit!Hauses zur Bürgergestaltungsaktion „Mein buntes Goslar“ auf. Aufgrund der schlechten Witterung konnten die Kunstwerke jedoch erst im Mai 2026 umgesetzt werden. Das Warten hat sich gelohnt: Die Arbeiten der Künstler sind inzwischen abgeschlossen. Die Kunstwerke „Bergleuchten“ von Shauny, „Mein buntes Goslar“ von Franziskus und „Tor zum Harz“ von Jannis wurden erfolgreich fertiggestellt und bereichern nun das Stadtbild.</p><p><a href="https://machmit.goslar.de/mein-buntes-goslar" target="_blank" rel="noopener">Mehr erfahren →</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: s2ija2vpvnbewfs9

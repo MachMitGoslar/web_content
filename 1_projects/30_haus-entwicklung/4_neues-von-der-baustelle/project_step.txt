@@ -1,0 +1,37 @@
+Title: Neues von der Baustelle
+
+----
+
+Project-start-date: 2025-10-01
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://upbzjit44b0b6is8
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline: <p>Trotz Baustelle für euch da!</p>
+
+----
+
+Description: <p>Viele von euch haben es bestimmt schon gesehen. Seit Anfang Oktober ist das MachMit!Haus im Umbau. Unsere Fassade und Fensterfront wird erneuert bzw. nach historischem Vorbild saniert.<br>Doch auch Bauarbeiten entmutigen uns nicht. Bisher sind alle Bauarbeiten im Zeitplan und schreiten gut voran.  Wir sind für euch gewohnt in unseren Öffnungszeiten<br>Mo. - Fr. 13:00 - 18:00 Uhr zu erreichen und auch alle Wochenangebote finden derzeit unverändert statt.<br>In den kommenden Tagen können wir dabei auch endlich wieder unseren Haupteingang herrichten auch wenn uns die Trennwand wohl noch bis ins nächste Jahr erhalten bleiben wird.</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: v56qd4pj4oilzkun

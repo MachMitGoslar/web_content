@@ -1,0 +1,25 @@
+Title: Digitale Stadt
+
+----
+
+Cover:
+
+----
+
+Topic: digitale-stadt
+
+----
+
+Headline: Digitale Stadt
+
+----
+
+Subheadline: Apps, Code und digitale Teilhabe aus dem MachMit!Haus
+
+----
+
+Text: [{"attrs": [], "id": "ly0g2d04p6xjj2xi", "columns": [{"id": "12h2zfv5c6c6l57u", "width": "1/1", "blocks": [{"content": {"level": "h2", "text": "Goslar digital mitgestalten"}, "id": "duvpfibysajkkl4x", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Digitalisierung ist im MachMit!Haus keine Abteilung, sondern eine Arbeitsweise. Hier entstehen Anwendungen, die ein konkretes Problem in Goslar lösen — von der Goslar App über den offenen Coding Space bis zur GeoTour.</p><p>Gebaut wird gemeinsam: von Ehrenamtlichen, Jugendlichen und Fachleuten, oft an einem Tisch.</p>"}, "id": "ps1yopkuhrud9dv8", "isHidden": false, "type": "text"}]}]}]
+
+----
+
+Uuid: ysx703ysh6heu585

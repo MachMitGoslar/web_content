@@ -1,0 +1,37 @@
+Title: Warm-Data-Lab im KHK
+
+----
+
+Project-start-date: 2025-04-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://lqxm6ey0helz3yk3
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Das Format “Warm-Data-Lab” im KHK bezieht Bürger:innen direkt in den Dialog ein</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 2b7s9i0mjwxhgv5r

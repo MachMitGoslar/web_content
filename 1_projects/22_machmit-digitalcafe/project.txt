@@ -1,0 +1,17 @@
+Title: MachMit!Digitalcafé
+----
+Cover: - file://h73rvxh8lz4ebwp6
+----
+Headline: MachMit!Digitalcafé
+----
+Subheadline: Digitale Themen bei Kaffee und Kuchen
+----
+Project-status: aktiv
+----
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Digitales zum Anfassen"},"id":"zf04nh94e6vvzgs7","isHidden":false,"type":"heading"},{"content":{"text":"<p>Im Digitalcafé kommen alle zusammen, die sich für digitale Themen in Goslar interessieren – ohne Vorkenntnisse und ohne Fachjargon. Vorgestellt werden Projekte aus dem Haus, allen voran die Goslar App.</p>"},"id":"qf89lmkl1q86kn7c","isHidden":false,"type":"text"}],"id":"dsf31k0koeqrcbax","width":"1/1"}],"id":"bbiefm01uarc1g7r"}]
+----
+Topic: digitale-stadt
+----
+Topics-secondary: haus
+----
+Uuid: 5d076uxfu5brrmrs

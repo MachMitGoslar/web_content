@@ -1,0 +1,25 @@
+Title: Ehrenamt & Engagement
+
+----
+
+Cover:
+
+----
+
+Topic: ehrenamt
+
+----
+
+Headline: Ehrenamt & Engagement
+
+----
+
+Subheadline: Wer sich einbringt, kommt hier zusammen
+
+----
+
+Text: [{"attrs": [], "id": "ynlibmlgs5gcuryg", "columns": [{"id": "zj073vl1ggw12he5", "width": "1/1", "blocks": [{"content": {"level": "h2", "text": "Engagement braucht einen Ort"}, "id": "6fjhcg8v5hqn482i", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Ehrenamt lebt davon, dass Menschen und Aufgaben zueinander finden. Das MachMit!Haus schafft dafür Formate: das Speed-Dating für Ehrenamtssuchende, die MachMit!Hosts, die selbst Veranstaltungen ausrichten, und die MachMit!Stipendien für eigene Projektideen.</p><p>Dazu gehört auch Vorsorge — von der freiwilligen Hochwasserhilfe bis zum Präventionstag.</p>"}, "id": "eg4rfvpoyvx78fv9", "isHidden": false, "type": "text"}]}]}]
+
+----
+
+Uuid: 87nmzdw8symgq4mr

@@ -1,0 +1,37 @@
+Title: Erster Einsatz: Waldbrand nahe Goslar
+
+----
+
+Project-start-date: 2025-06-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://2vvje6wkl02uraef
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline:
+
+----
+
+Description: <p>Die Spontan- und Hochwasserhelfer packen verlässlich beim ersten Einsatz zum Waldbrand nahe Goslar mit an.</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 0oktqlehf518ofeq

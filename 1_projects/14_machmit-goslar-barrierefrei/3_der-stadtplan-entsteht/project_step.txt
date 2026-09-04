@@ -1,0 +1,37 @@
+Title: Der Stadtplan nimmt Gestalt an
+
+----
+
+Project-start-date: 2026-06-11
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://gcuqekosyajiyqty
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline: <p>Der Stadtplan für Menschen mit Behinderungen nimmt Gestalt an!</p>
+
+----
+
+Description: <p>Das Projekt zur Erstellung eines Stadtplans für Menschen mit Mobilitätseinschränkungen, das gemeinsam mit dem MachMit!Team, der Stadtbehindertenbeauftragten Andrea Simon sowie zahlreichen engagierten Bürgerinnen und Bürgern mit und ohne Mobilitätseinschränkungen durchgeführt wird, kommt der Veröffentlichung einen Schritt näher.</p><p>Die Begehung beziehungsweise Befahrung der Altstadt ist inzwischen abgeschlossen, und die Daten für den Stadtplan wurden vollständig erfasst.</p><p>Als nächsten Schritt möchten wir vor der finalen Veröffentlichung Bürgerinnen und Bürger, die sich für das Thema interessieren, um Feedback bitten. Den vorläufigen Plan kann man sich ab Juli im MachMit!Haus abholen.</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: gsbocbwhcbqsvn2p

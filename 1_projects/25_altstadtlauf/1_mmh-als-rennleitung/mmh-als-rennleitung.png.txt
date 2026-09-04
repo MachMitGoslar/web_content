@@ -1,0 +1,25 @@
+Caption:
+
+----
+
+Alt:
+
+----
+
+Photographer:
+
+----
+
+License:
+
+----
+
+Link:
+
+----
+
+Uuid: 9hua9qji0zxg3tyo
+
+----
+
+Template: image

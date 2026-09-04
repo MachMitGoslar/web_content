@@ -1,17 +1,8 @@
-Head-title: Veranstaltungen
+Cover: - file://cq7ugyi80pqqiqxy
 
 ----
 
-61b2091ef80489f6e7fd0667f0af9a7442a20a30-cover: - file://uhb7op99dqk2ung4
-
-----
-
-Head-headline:
-
-Unsere Veranstaltungen
-=======
-Headline: 
->>>>>>> 61b2091ef80489f6e7fd0667f0af9a7442a20a30
+Headline: Veranstaltungen
 
 ----
 
@@ -19,12 +10,20 @@ Description:
 
 ----
 
-Head-uuid:
-
-v21wdmfeltonozez
-=======
-Uuid: v21wdmfeltonozez
+Seo-title: Veranstaltungen
 
 ----
 
-Uuid: wvbjqm0djxyntjhd
+Seo-description: Hier findest du Veranstaltungen im Haus und in Goslar
+
+----
+
+Social-image: - file://uhb7op99dqk2ung4
+
+----
+
+Robots: index
+
+----
+
+Uuid: v21wdmfeltonozez

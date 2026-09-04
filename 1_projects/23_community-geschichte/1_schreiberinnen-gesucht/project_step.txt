@@ -1,0 +1,37 @@
+Title: Kreative Schreiberinnen und Schreiber gesucht
+
+----
+
+Project-start-date: 2026-06-11
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://tk1ozvq092f7nywa
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: <p>Kreative Schreiberinnen und Schreiber gesucht</p>
+
+----
+
+Description: <p>Derzeit könnt ihr im MachMit!Haus gemeinsam eine Community-Geschichte schreiben.<br>Wie funktioniert das? Kommt vorbei, lest die bisherigen Teile der Geschichte und schnappt euch unseren Schreib-Laptop. Dort könnt ihr bis zu 200 Wörter zur Geschichte beitragen.<br>Der besondere Clou: Ihr druckt euren Beitrag auf Kassenband aus und heftet ihn an die Pinnwand. So entsteht Schritt für Schritt eine Geschichte, die von allen gemeinsam geschrieben wird.<br>Werdet Teil davon!</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: u0tb2vtao7j4typ6

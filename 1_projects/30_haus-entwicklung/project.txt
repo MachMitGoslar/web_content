@@ -1,0 +1,17 @@
+Title: Das MachMit!Haus entwickelt sich
+----
+Cover: - file://2hgszyjm0tfdzmow
+----
+Headline: Das MachMit!Haus entwickelt sich
+----
+Subheadline: Umbau, Konzepte und Beteiligung in eigener Sache
+----
+Project-status: aktiv
+----
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Ein Haus in Bewegung"},"id":"ptjl58uspes3yqzq","isHidden":false,"type":"heading"},{"content":{"text":"<p>Das MachMit!Haus entwickelt sich ständig weiter – baulich wie inhaltlich. Von der Fassadensanierung über neue Raumkonzepte bis zu Beteiligungsformaten wie dem Warm-Data-Lab: Hier ist dokumentiert, wie aus dem Haus wird, was es heute ist.</p>"},"id":"3c653thbuwpk30l5","isHidden":false,"type":"text"}],"id":"e88z23ucg18609i2","width":"1/1"}],"id":"nwjp6eqwjv1qkf9c"}]
+----
+Topic: haus
+----
+Topics-secondary: demokratie
+----
+Uuid: ib2qy6j92jofjfhj

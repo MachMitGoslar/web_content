@@ -1,0 +1,37 @@
+Title: Ein karibischer Traum zum ersten Freitag
+
+----
+
+Project-start-date: 2025-07-04
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://g71m6lc21aov5txg
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Zum “ersten Freitag” im Juli verwandelt sich das MM!H mit der Tombola in einen Karibischen Traum</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: axz8euge2qyo7psv

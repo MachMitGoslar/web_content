@@ -1,0 +1,37 @@
+Title: Digitalcafé #2: Einblick & Ausblick
+
+----
+
+Project-start-date: 2025-03-01
+
+----
+
+Project-start-time:
+
+----
+
+Image:
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline: <p>Die Goslar App: Einblick &amp; Ausblick</p>
+
+----
+
+Description: <p>Am Mittwoch, den 26. März 2025, um 18:30 Uhr im Restaurant Schneeweiß und Rosenrot stellt die Stadt Goslar die neue Goslar App vor!</p><p>Der Digitalisierungsbeauftragte der Stadt Goslar, Holger Dettmer, wird zusammen mit dem MachMit!Team den aktuellen Stand der Goslar App vorstellen. Im Anschluss haben Interessierte die Möglichkeit, einen Zugang zur Testversion der App zu erhalten und die weitere Entwicklung mitzugestalten.</p><p>Die App umfasst bereits Funktionen wie: regional-relevante Inhalte posten, Tankstellenpreise anzeigen, Störmelder für die Stadtumgebung, mehr Sichtbarkeit für Vereine und Angebote sowie den Veranstaltungskalender für die Region.</p><p>Die Veranstaltung ist kostenlos, jedoch ist eine Anmeldung erforderlich.</p><p><a href="mailto:machmit@goslar.de">machmit@goslar.de</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: tkpbn6dpzuw1c7nh

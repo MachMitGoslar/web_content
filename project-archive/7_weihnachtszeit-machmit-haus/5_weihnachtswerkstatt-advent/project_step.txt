@@ -1,0 +1,37 @@
+Title: Weihnachtswerkstatt an den Adventswochenenden
+
+----
+
+Project-start-date: 2025-12-06
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://6gfbf4cuga3s95dy
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Am zweiten, dritten und vierten Adventswochenende findet die Weihnachtswerkstatt im MMH statt.</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 666z6jsky8esjnst

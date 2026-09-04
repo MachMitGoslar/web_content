@@ -1,0 +1,113 @@
+Title: Kleidertausch
+
+----
+
+Slide-type: blocks
+
+----
+
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"1bbe3ac1-a77c-4010-930d-cf2c3261b1ee","width":"1/1"}],"id":"2fd82bf9-5cc5-406c-b845-6913654be20d"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"10bdfba5-6543-4f65-85e6-81db4cef5222","width":"1/1"}],"id":"f544572d-cfed-47d7-8f7a-0dc6f8b0a3f8"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"9ce9fa2e-c266-43b6-bdb2-9372324f13a8","width":"1/1"}],"id":"a5e6a213-44ac-4714-b011-8937e1bc30f0"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"416a0a15-6f7c-4ffa-a9db-927e252b5d67","width":"1/1"}],"id":"626fd7d3-ab81-4e8e-8b3d-dd2f35880f7b"}]
+
+----
+
+Video-source: upload
+
+----
+
+Video-file: 
+
+----
+
+Video-embed: 
+
+----
+
+Video-autoplay: true
+
+----
+
+Video-muted: true
+
+----
+
+Video-loop: false
+
+----
+
+Calendar-source-type: external
+
+----
+
+Calendar-source: 
+
+----
+
+Calendar-pages: 
+
+----
+
+Calendar-layout: list
+
+----
+
+Calendar-range: week
+
+----
+
+Calendar-max-events: 5
+
+----
+
+Duration-mode: auto
+
+----
+
+Duration-override: 15
+
+----
+
+Transition: fade
+
+----
+
+Transition-duration: 1
+
+----
+
+Bg-type: image
+
+----
+
+Bg-image: - file://ckghwu9h2ivptokh
+
+----
+
+Bg-video: 
+
+----
+
+Bg-position: center
+
+----
+
+Bg-size: cover
+
+----
+
+Overlay-enabled: false
+
+----
+
+Overlay-color: #e02121
+
+----
+
+Overlay-opacity: 80
+
+----
+
+Overlay-gradient: to-bottom
+
+----
+
+Uuid: b1wcsogm4mnlxgv6

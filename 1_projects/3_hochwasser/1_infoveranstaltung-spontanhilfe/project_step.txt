@@ -1,0 +1,37 @@
+Title: Infoveranstaltung für Interessierte
+
+----
+
+Project-start-date: 2024-12-01
+
+----
+
+Project-start-time:
+
+----
+
+Image:
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: <p>Infoveranstaltung für Interessenten</p>
+
+----
+
+Description: <p>Am Dienstag, 10.12.24 von 17:30 – 19:00 Uhr findet die nächste Infoveranstaltung statt. Wir freuen uns, dass wir bereits über 30 Mitglieder für die freiwillige Hochwasser- und Spontanhilfe gewinnen konnten.</p><p>Das Thema des Abends lautet „konkrete Aufgaben in unterschiedlichen Schadenslagen", um den Teilnehmerinnen und Teilnehmern einen Überblick über die verschiedenen Aufgaben in einer Krisensituation zu verschaffen.</p><p>Die freiwillige Hochwasser- und Spontanhilfe ist ein Kooperationsprojekt zwischen dem MachMit!Haus, dem Fachdienst Sicherheit und Ordnung, der Goslarer Feuerwehr und zahlreichen Bürgerinnen und Bürgern.</p><p><a href="https://machmit.goslar.de/hochwasser" target="_blank" rel="noopener">Mehr erfahren →</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: lasjgf9ocfjdi7mw

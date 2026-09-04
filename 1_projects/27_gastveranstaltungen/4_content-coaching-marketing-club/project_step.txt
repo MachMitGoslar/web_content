@@ -1,0 +1,37 @@
+Title: Content Coaching mit dem Marketing Club Harz
+
+----
+
+Project-start-date: 2025-11-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://5va3nvh5liorih96
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Der Marketing Club Harz lädt im MachMit!Haus zum Workshop “Content Coaching für Social Media” ein</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 8155p14yfn5n9ro4

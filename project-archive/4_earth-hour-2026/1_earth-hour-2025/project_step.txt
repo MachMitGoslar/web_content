@@ -1,0 +1,37 @@
+Title: Earth Hour 2025 im MachMit!Haus
+
+----
+
+Project-start-date: 2025-03-29
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://zt9vml51h5zw2mj4
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>#EarthHour im MachMit!Haus mit mehr als 50 Teilnehmer:innen. Ein eigener Song und Kerzenlicht im MMH</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: zxpd6qcx2vgpmilh

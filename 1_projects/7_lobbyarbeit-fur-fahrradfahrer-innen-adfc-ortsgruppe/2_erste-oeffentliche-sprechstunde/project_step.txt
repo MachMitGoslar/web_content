@@ -1,0 +1,37 @@
+Title: Erste öffentliche Sprechstunde
+
+----
+
+Project-start-date: 2025-06-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://0222ecn6kj3mnqr2
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Die erste öffentliche Sprechestunde des ADFC Goslar findet im MachMit!Haus statt</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: rk56h31x0j3qgo0o

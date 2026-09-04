@@ -1,0 +1,37 @@
+Title: Welterbetag am Rammelsberg
+
+----
+
+Project-start-date: 2025-06-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://byexykho8chmp7s1
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Welterbetag im Rammelsberg, natürlich mit dem MachMit!Haus und dem MachMit!Wald vor Ort.</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: kcxxdtdxqzlngdk2

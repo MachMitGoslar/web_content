@@ -1,0 +1,53 @@
+Title: BetterGS – Nachhaltigkeit digital
+
+----
+
+Cover: - file://uxuems8l64d9g03j
+
+----
+
+Headline: BetterGS
+
+----
+
+Subheadline: Nachhaltiges Engagement digital würdigen
+
+----
+
+Project-status: in Vorbereitung
+
+----
+
+Topic: digitale-stadt
+
+----
+
+Topics-secondary: 
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Engagement sichtbar machen"},"id":"ledalvuoc7k4qsx6","isHidden":false,"type":"heading"},{"content":{"text":"<p>BetterGS ist ein Prototyp aus dem MachMit!Haus: Nachhaltiges Engagement soll digital getrackt und gewürdigt werden können. Die Idee stammt aus dem Klimanetzwerk „MachMit!Goslar – Wir fürs Klima“ und der geplanten Nachhaltigkeits-Challenge.</p>"},"id":"7nqylvb8mxi6y227","isHidden":false,"type":"text"}],"id":"xuh8kzhvvvrswo25","width":"1/1"}],"id":"x8x1m1t4u51caadm"}]
+
+----
+
+Team: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: jihx6p0d22rsmgst

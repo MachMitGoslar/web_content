@@ -1,0 +1,25 @@
+Title: Teilhabe & Barrierefreiheit
+
+----
+
+Cover:
+
+----
+
+Topic: teilhabe
+
+----
+
+Headline: Teilhabe & Barrierefreiheit
+
+----
+
+Subheadline: Damit alle mitmachen können
+
+----
+
+Text: [{"attrs": [], "id": "ulxo3hjdv8onuzji", "columns": [{"id": "pdgu51xd3ez1ypcp", "width": "1/1", "blocks": [{"content": {"level": "h2", "text": "Eine Stadt für alle"}, "id": "58k480rmeb6wcp2m", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Teilhabe heißt: Wege sind begehbar, Angebote verständlich, Menschen willkommen. In diesem Themenfeld arbeiten Projekte daran, Hürden abzubauen — bauliche, digitale und kulturelle.</p><p>Vom barrierefreien Stadtplan über die Handyhilfe für Senior:innen bis zu interkulturellen Begegnungen: Alle Angebote entstehen mit den Menschen, um die es geht.</p>"}, "id": "nqd18nas3as33n3p", "isHidden": false, "type": "text"}]}]}]
+
+----
+
+Uuid: 2e9jsw6rbgpxq3i1

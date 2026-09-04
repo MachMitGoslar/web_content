@@ -1,0 +1,17 @@
+Title: Das MM!H feiert Geburtstag
+----
+Cover: - file://45o7nix38ksy3zjr
+----
+Headline: Das MM!H feiert Geburtstag
+----
+Subheadline: 7 Tage, 7 Themen, 1 Haus
+----
+Project-status: abgeschlossen
+----
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p>Am 21.04.2023 war es endlich soweit! Das MachMit!Haus öffnete zum ersten Mal alle Türen direkt am Marktplatz in Goslar. Seit drei Jahren dürfen wir euch fast täglich direkt am Marktplatz begrüßen.</p><p>Wie feiert man nun einen würdigen dritten Geburtstag? Ganz einfach… indem wir euch alle unsere Themenfelder einmal vorstellen. <strong>7 Tage, 7 Themen, 1 Haus!</strong></p>"}, "id": "69a605e2-1ca3-40f7-aa14-969a3839d2a5", "isHidden": false, "type": "text"}], "id": "0997c7a8-6ea0-413c-a8be-e5c7b92a8f9a", "width": "1/1"}], "id": "9b72d98e-7b25-480e-a3bd-2aa85d4a0aa6"}, {"attrs": [], "columns": [{"blocks": [{"content": {"level": "h2", "text": "Der Auftakt: Gosland-Yard"}, "id": "600ca5c3-b817-4040-a61a-725650df5434", "isHidden": false, "type": "heading"}, {"content": {"location": "kirby", "image": ["file://v86yhh7e067tmdqd"], "src": "", "alt": "", "caption": "", "link": "", "ratio": "", "crop": "false"}, "id": "5ecdef67-6485-46a5-aacb-0e0734a614d6", "isHidden": false, "type": "image"}, {"content": {"text": "<p>Er ist zurück – und diesmal entwischst er euch nicht. Am 15. April verwandelte sich die Goslarer Innenstadt in ein riesiges Spielfeld. Bei Gosland-Yard schlüpfst du in die Rolle eines Verfolgers und jagst eine geheimnisvolle Gestalt durch die Altstadt: den Schwarzen Mönch.</p>"}, "id": "3555f35f-beff-416c-a5b2-a2e986ab580f", "isHidden": false, "type": "text"}], "id": "1bab91ae-19b4-49b7-a13a-2a5733547410", "width": "1/1"}], "id": "b043d1d5-ed2f-4621-a626-bf251bbfd7bc"}]
+----
+Topic: haus
+----
+Topics-secondary: kultur
+----
+Uuid: biupet4zbgi5rnsk

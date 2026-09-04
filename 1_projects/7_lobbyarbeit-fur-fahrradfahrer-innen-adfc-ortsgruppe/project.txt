@@ -1,24 +1,14 @@
 Title: Lobbyarbeit für Fahrradfahrer:innen - ADFC Ortsgruppe
-
 ----
-
 Cover: - file://87850f6fe6
-
 ----
-
 Headline: 
-
 ----
-
 Subheadline: 
-
 ----
-
 Project-status: aktiv
-
 ----
-
-Text:
+Text: 
 
 [
         {
@@ -49,11 +39,11 @@ Text:
 
 
       ]
-
 ----
-
 Team: 
-
 ----
-
+Topic: klima
+----
+Topics-secondary: ehrenamt
+----
 Uuid: zohbori8gpmenhjr

@@ -1,0 +1,37 @@
+Title: Kunstwettbewerb mit der Jugendarbeit
+
+----
+
+Project-start-date: 2025-04-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://obsp5mn4t654hq1l
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Gemeinsam mit der Jugendarbeit laden wir Bürger:innen zum Kunstwettbewerb ein</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 02ogthqj75x5d9ak

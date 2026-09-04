@@ -1,0 +1,113 @@
+Title: Handyhilfe
+
+----
+
+Slide-type: blocks
+
+----
+
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"c9f21db8-22b9-484d-a81c-88aa679892e9","width":"1/1"}],"id":"bf6ee1fc-ca87-4ef4-b732-306f6aa85f02"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"64d40df4-58c4-4f30-b4c7-792010502072","width":"1/1"}],"id":"2281c9bb-937b-41f3-9dda-8d823053e7f2"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"951cb645-e6ca-42fc-8d09-c4c063a69188","width":"1/1"}],"id":"85c50ee0-b0fa-42cd-bb01-a8f276022460"},{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"c40ac2fd-4c73-47bc-8de1-6ecea2c2b7e2","width":"1/1"}],"id":"12c5a100-46d6-4546-bf62-592818e48467"}]
+
+----
+
+Video-source: upload
+
+----
+
+Video-file: 
+
+----
+
+Video-embed: 
+
+----
+
+Video-autoplay: true
+
+----
+
+Video-muted: true
+
+----
+
+Video-loop: false
+
+----
+
+Calendar-source-type: external
+
+----
+
+Calendar-source: 
+
+----
+
+Calendar-pages: 
+
+----
+
+Calendar-layout: list
+
+----
+
+Calendar-range: week
+
+----
+
+Calendar-max-events: 5
+
+----
+
+Duration-mode: auto
+
+----
+
+Duration-override: 15
+
+----
+
+Transition: fade
+
+----
+
+Transition-duration: 1
+
+----
+
+Bg-type: image
+
+----
+
+Bg-image: - file://cxuvwyj1jvpi0zfd
+
+----
+
+Bg-video: 
+
+----
+
+Bg-position: center
+
+----
+
+Bg-size: cover
+
+----
+
+Overlay-enabled: false
+
+----
+
+Overlay-color: #000000
+
+----
+
+Overlay-opacity: 40
+
+----
+
+Overlay-gradient: none
+
+----
+
+Uuid: 7upamagqjvlnoyjn

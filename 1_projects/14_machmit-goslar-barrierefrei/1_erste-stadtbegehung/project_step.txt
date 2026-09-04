@@ -1,0 +1,37 @@
+Title: Erste gemeinsame Stadtbegehung
+
+----
+
+Project-start-date: 2025-03-01
+
+----
+
+Project-start-time:
+
+----
+
+Image:
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: <p>Erste gemeinsame Stadtbegehung</p>
+
+----
+
+Description: <p>Am Montag, den 14. April 2025, von 15:30 bis 17:00 Uhr findet die erste Stadtbegehung statt. Treffpunkt ist vor dem MachMit!Haus.</p><p>Der Arbeitskreis MachMit!Goslar Barrierefrei, gegründet von der Behindertenbeauftragten Andrea Simon und dem MachMit!Team, hat das Ziel, die Bedürfnisse von Menschen mit Behinderungen in Goslar besser zu verstehen und umzusetzen.</p><p>Die Gruppe arbeitet an einem Stadtplan für Goslar, der speziell auf die Bedürfnisse von Menschen mit körperlichen Behinderungen abgestimmt ist. Dabei erkundet die Gruppe systematisch die Straßen der Goslarer Innenstadt, um die Gehwegbeschaffenheit zu überprüfen und zu dokumentieren.</p><p>Besonders Menschen mit Geh-, Hör- oder Sehbehinderungen sind zur Teilnahme aufgerufen, um ihre Erfahrungen und Wahrnehmungen einzubringen.</p><p><a href="mailto:andrea.simon@goslar.de">andrea.simon@goslar.de</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: qv4y4s100j2ollwm

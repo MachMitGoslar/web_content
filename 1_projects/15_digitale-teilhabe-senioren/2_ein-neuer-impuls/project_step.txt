@@ -1,0 +1,37 @@
+Title: Ein neuer Impuls
+
+----
+
+Project-start-date: 2026-06-11
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://xdceg771b2tmwp0m
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline: <p>Ein neuer Impuls</p>
+
+----
+
+Description: <p>Eines der Themen, die Rebecca Spaunhorst zu ihrer neuen Arbeitsstelle mitbrachte, war der Wunsch nach einer Verbesserten Teilhabe für Seniorinnen und Senioren. Teil davon ist die Verbesserung der technischen Fähigkeiten und die Etablierung eines Altersübergreifenden Lehr- und Lerngedankens zur Umsetzung von digitaler Teilhabe in jedem Alter.</p><p>Christian Warzecha baute daraufhin mit der Freiwilligenagentur eine Sprechstunde auf, die gemeinsam mit Schüler:innen der BBS durchgeführt wird. Zu Beginn gibt es einen inhaltlichen Impuls, z. B. wie gehe ich mit WhatsApp um?  Anschließend erfolgte eine 1:1 Beratung der Seniorinnen und Senioren, bei Kaffee und Kuchen.</p><p>Dieses Vorhaben fördert sowohl die Sozialisierung, die Demokratieförderung und die technischen Kenntnisse.</p><p>Unterstützt wird das Vorhaben unter anderem von der Bürgerstiftung Goslar.</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: yfgmjq79k8ohf4fw

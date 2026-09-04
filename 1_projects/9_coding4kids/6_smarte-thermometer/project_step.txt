@@ -1,0 +1,37 @@
+Title: Ferienpass: Smarte Thermometer bauen
+
+----
+
+Project-start-date: 2025-07-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://dcnkyf2ukizrhw2c
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Im Rahmen des Ferienpasses werden Smarte Thermometer von Jugendlichen gebaut</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: b4cjbpu7cagbyii9

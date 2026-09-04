@@ -1,0 +1,37 @@
+Title: Wir brauchen dich!
+
+----
+
+Project-start-date: 2026-06-11
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://bkpszukx5wps2s1n
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: <p>Wir brauchen dich!</p>
+
+----
+
+Description: <p>Im Rahmen eines entspannten Freitagabends wollen wir unsere erster Kleider-Tausch-Börse mit „Black Kaffee“ Atmosphäre im MachMit!Haus entwickeln. Die konkrete Umsetzung soll dabei im September 2026 stattfinden. Du hast Lust darauf uns mit deinem Wissen und deiner Tatkraft zu unterstützen? Martin freut sich auf deine Rückmeldung!</p><p><a href="mailto:martin.saenger@goslar.de">martin.saenger@goslar.de</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: xeqac617bnbarss3

@@ -1,0 +1,79 @@
+Title: MMH Flur
+
+----
+
+Screen-id: 4
+
+----
+
+Orientation: horizontal
+
+----
+
+Status: true
+
+----
+
+Assigned-channel: signage/channels/aktuelle-veranstaltungen-und-projekte
+
+----
+
+Channel-schedule: 
+
+----
+
+Active-times:
+
+- 
+  start: 08:00:00
+  end: 18:00:00
+  days: mon, tue, wed, thu, fri
+
+----
+
+Standby-mode: custom
+
+----
+
+Standby-transition: 5
+
+----
+
+Standby-image: 
+
+----
+
+Standby-message: 
+
+----
+
+Whitelist-enabled: true
+
+----
+
+Pending-requests: 
+
+----
+
+Uuid: e36m89tno9zfkgps
+
+----
+
+Whitelist:
+
+- 
+  uuid: 5eabac62-ee53-47f8-bd34-1b62a9568413
+  ip: 185.238.219.16
+  label: Bildschirm Flur Unten MachMit
+  approved_at: 2026-09-02 14:15:40
+  approved_by: nantke.janssen@goslar.de
+- 
+  uuid: 67cd09cc-b404-4df7-9786-abb7c7181b3f
+  ip: 185.238.219.106
+  label: Nantke
+  approved_at: 2026-09-03 05:35:26
+  approved_by: nantke.janssen@goslar.de
+
+----
+
+Denied-requests: 

@@ -1,0 +1,37 @@
+Title: Erster Workshop zur Gründung
+
+----
+
+Project-start-date: 2025-11-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://6pg6l3h43aa02j88
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to: in Planung
+
+----
+
+Headline:
+
+----
+
+Description: <p>Die WiReGo organsiert mit dem MachMit!Haus den ersten Workshop zur Gründung eines Reparaturrates</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: v9u4ua4xqenqnzg0

@@ -1,0 +1,37 @@
+Title: Die neue Liniennetzplanung der Stadtbusse
+
+----
+
+Project-start-date: 2025-05-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://z70eg2hgby7bguek
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Die neue Liniennetzplanung der Stadtbusse wird im MachMit!Haus vorgestellt.</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 83hlnjstjpsl47vp

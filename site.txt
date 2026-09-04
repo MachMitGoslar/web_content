@@ -43,6 +43,18 @@ General:
 
 ----
 
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Twitter-handle: 
+
+----
+
 Sections: - page://LbjZDDGT59VEUWp5
 
 ----

@@ -1,0 +1,49 @@
+Title: 2. MachMit!Wald
+
+----
+
+Project-start-date: 2025-11-01
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Es gibt eine zweite Fläche!</p><p>Alle Tafeln, die ab dem 01.11.2025 gekauft werden, findet ihr bei der Fläche am Bocksberg.&nbsp;</p>
+
+----
+
+Tags: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: jzo1gyqr5s3ylsen

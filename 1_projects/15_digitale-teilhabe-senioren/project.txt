@@ -1,0 +1,21 @@
+Title: Digitale Teilhabe für Senior:innen
+----
+Cover: - file://yqnqovcwev8nm3ui
+----
+Headline: Digitale Teilhabe für Senior:innen
+----
+Subheadline: Handyhilfe, Digitale Engel und Medienkompetenz
+----
+Project-status: aktiv
+----
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Mit der Veranstaltungsreihe „Digitale Teilhabe für Seniorinnen und Senioren“ möchten das MachMit!Haus der Stadt Goslar und die Freiwilligenagentur Goslar ältere Menschen dabei unterstützen, digitale Geräte sicher und selbstständig zu nutzen.</p><p>In den Veranstaltungen geht es um praktische Fragen rund um Handy, Tablet und digitale Angebote. Je nach Termin werden unterschiedliche Themen verständlich erklärt – beispielsweise die Nutzung von Nachrichten-Apps, Einstellungen am Smartphone, digitale Kommunikation oder der sichere Umgang mit dem Internet.</p><p>Im Anschluss an die thematischen Einführungen bleibt ausreichend Zeit für persönliche Fragen und individuelle Anliegen. Ehrenamtliche Helferinnen und Helfer unterstützen die Teilnehmerinnen und Teilnehmer dabei, konkrete Probleme an ihren eigenen Geräten zu lösen und neue Anwendungen Schritt für Schritt kennenzulernen. Unterstützt wird die Reihe dabei häufig auch von Schülerinnen und Schülern, die sich ehrenamtlich engagieren.</p><p>Dabei steht nicht das technische Vorwissen im Vordergrund: Die Veranstaltungen bieten Raum, Fragen in Ruhe zu stellen, Neues auszuprobieren und Unsicherheiten im Umgang mit digitalen Geräten abzubauen.</p><p>Die Veranstaltungsreihe richtet sich an alle Seniorinnen und Senioren, die Unterstützung bei der digitalen Teilhabe wünschen. Die Teilnahme ist kostenlos. Eine Anmeldung ist in der Regel nicht erforderlich.</p>"},"id":"409f300a-b391-48cb-914b-c54dc61c6f7f","isHidden":false,"type":"text"}],"id":"37d46a06-20fa-4941-b048-9a266926ae58","width":"1/1"}],"id":"22758116-f320-4b6c-8260-d67889bae37b"}]
+----
+Team: - page://nptsef9geyexw0gz
+
+----
+
+Topic: teilhabe
+----
+Topics-secondary: digitale-stadt
+----
+Uuid: 5kfuegf4jwvdy6bx

@@ -1,0 +1,37 @@
+Title: Toleranz und Demokratie
+
+----
+
+Project-start-date: 2025-05-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://j6trox5fn49n1vwf
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Toleranz und Demokratie ziehen als Ausstellung und Mottwoche im MachMit!Haus ein</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 8j76jsb3lcwhbi4k

@@ -1,0 +1,37 @@
+Title: Infoabend am 18. März
+
+----
+
+Project-start-date: 2025-03-18
+
+----
+
+Project-start-time:
+
+----
+
+Image:
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to: in Planung
+
+----
+
+Headline: <p>Infoabend am 18. März</p>
+
+----
+
+Description: <p>Am Dienstag, den 18. März 2025, um 18:00 Uhr im MachMit!Haus findet ein Infoabend zum Thema "Goslar Fairtrade Town" statt.</p><p>Bereits seit 2016 gibt es mit der BBS 1 eine Fairtrade-Schule in Goslar. Zahlreiche weitere Kommunen in Südniedersachsen sind bereits Fairtrade-Towns. Nun wird angestrebt, dass sich auch die Stadt Goslar auf den Weg macht, diesen Titel zu erhalten.</p><p>Eine Gruppe interessierter Bürgerinnen und Bürger bildet sich momentan, um die ersten Schritte zur Erfüllung der Kriterien zu gehen und Aktionen rund um Nachhaltigkeit und fairen Handel zu planen.</p><p>Alle Interessierten an fairem Handel und Klimaschutz sind herzlich eingeladen!</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: 8il32e78zuyen8q6

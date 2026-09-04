@@ -1,0 +1,37 @@
+Title: Das MachMit!Haus wird zur Rennleitung
+
+----
+
+Project-start-date: 2025-04-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://9hua9qji0zxg3tyo
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline:
+
+----
+
+Description: <p>Zum Altstadtlauf wird das MM!H zum Sportstudio, Rennleitung und Umkleidekabine</p>
+
+----
+
+Tags:
+
+----
+
+Uuid: gbmuojpud5kfw2pw

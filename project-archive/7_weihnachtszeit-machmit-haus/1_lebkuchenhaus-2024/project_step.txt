@@ -1,0 +1,37 @@
+Title: MachMit! im Lebkuchenhaus 2024
+
+----
+
+Project-start-date: 2024-12-04
+
+----
+
+Project-start-time:
+
+----
+
+Image:
+
+----
+
+Project-status-from:
+
+----
+
+Project-status-to:
+
+----
+
+Headline: <p>Weihnachtszauber für die ganze Familie</p>
+
+----
+
+Description: <p>Am Mittwoch, 04.12.24 von 16:00 – 18:00 Uhr möchten wir Familien die Möglichkeit bieten, Kontakte zu knüpfen und ins Gespräch zu kommen. Mit dem Format „MachMit! im Lebkuchenhaus" können Kinder kreative Lebkuchenhäuser gestalten, während Eltern sich austauschen.</p><p>Zudem lädt das Team dazu ein, Ideen für ein zukünftiges Elterncafé einzubringen. Die Teilnahme ist kostenfrei, und für Lebkuchenhäuser sowie Verpflegung ist gesorgt.</p><p>Aufgrund begrenzter Kapazitäten wird um Anmeldung bis zum 1. Dezember 2024 gebeten.</p><p><a href="mailto:machmit@goslar.de">machmit@goslar.de</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: djznw7lj7af04ppk

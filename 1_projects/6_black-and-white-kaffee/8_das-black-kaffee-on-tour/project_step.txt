@@ -1,0 +1,49 @@
+Title: Das Black Kaffee on Tour
+
+----
+
+Project-start-date: 2026-09-04
+
+----
+
+Project-start-time: 18:00:00
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: 
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Heute gibt es ein besonderes Black Kaffee - Auf dem Sperlingsplatz eröffnet heute das Altstadtforum die neuen Sitzgelegenheiten. Eine super Chance mit dem Black Kaffee auf Tour zu gehen. Besucht uns ab 18:00 Uhr auf dem Platz vor dem Kö</p>
+
+----
+
+Tags: erster Freitag, on Tour
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: prtbhwxwjlovqrnn

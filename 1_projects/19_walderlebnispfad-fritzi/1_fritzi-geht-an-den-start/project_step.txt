@@ -1,0 +1,37 @@
+Title: Fritzi geht an den Start
+
+----
+
+Project-start-date: 2025-11-18
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://v4zvzs75h9214jtf
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: <p>und Fritzi begleitet euch nun</p>
+
+----
+
+Description: <p>Am 18.11. wird der überarbeitete Walderlebnisspfad vorgestellt und wir haben etwas Besonderes für euch  vorbereitet. Künftig wird euch “Fritzi” als digitaler Companion auf dem Walderlebnisspfad begleiten. Ganz kurzfristig ist ein Prototyp für eine weitere Web-App entstanden. Das interaktive Quiz begleitet euch auf dem neuen Pfad.</p><p><a href="https://wald.goslar.app" target="_blank" rel="noopener">Mehr erfahren →</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: c6wb0jtrjax85q80

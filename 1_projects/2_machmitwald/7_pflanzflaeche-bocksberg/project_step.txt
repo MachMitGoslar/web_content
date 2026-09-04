@@ -1,0 +1,37 @@
+Title: Die nächste Pflanzfläche ist da
+
+----
+
+Project-start-date: 2025-10-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://9n83f6ga5cew3stg
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: <p>gute Nachrichten für zukünftige Baumpatenschaften</p>
+
+----
+
+Description: <p>Der MachMit!Wald ist ein Erfolgsprojekt wie kaum ein anderes in Goslar. In diesem Jahr ist es gelungen die Pflanzfläche am Steinberg vollkommen auszulasten. Zahlreiche kreative bunte Tafeln zeugen davon und warten darauf bei einem Spaziergang am Steinberg entdeckt zu werden. Durch tatkräftige Unterstützung ist nun eine weitere Pflanzfläche am Bocksberg eröffnet wurden. Noch mehr Platz für nachhaltige Pflanzungen und zukünftige Baumpatenschaften!</p><p><a href="https://www.stadtforstgoslar.de/machmitwald" target="_blank" rel="noopener">Mehr erfahren →</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: cwri4vshoprqiiiw

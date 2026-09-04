@@ -1,0 +1,25 @@
+Title: Klima & Nachhaltigkeit
+
+----
+
+Cover:
+
+----
+
+Topic: klima
+
+----
+
+Headline: Klima & Nachhaltigkeit
+
+----
+
+Subheadline: Aufforsten, tauschen, reparieren
+
+----
+
+Text: [{"attrs": [], "id": "ekt3l4byh5qaqxm5", "columns": [{"id": "fgeute6jqeni9abc", "width": "1/1", "blocks": [{"content": {"level": "h2", "text": "Nachhaltig handeln in Goslar"}, "id": "50t5o1miisweedeo", "isHidden": false, "type": "heading"}, {"content": {"text": "<p>Der Zustand der Harzer Wälder macht sichtbar, worum es geht. Rund um den MachMit!Wald, das Klimabündnis und den Radverkehr bündelt das MachMit!Haus Engagement für ein klimafreundliches Goslar.</p><p>Manches ist groß angelegt, manches klein und alltagsnah — die Kleidertauschbörse etwa, oder der Reparaturrat.</p>"}, "id": "1arw3sx0giy965iy", "isHidden": false, "type": "text"}]}]}]
+
+----
+
+Uuid: o8jhvgwz4c2axc4g

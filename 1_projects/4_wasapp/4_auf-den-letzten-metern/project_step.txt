@@ -1,0 +1,37 @@
+Title: Auf den letzten Metern: App Store und Play Store
+
+----
+
+Project-start-date: 2025-10-15
+
+----
+
+Project-start-time:
+
+----
+
+Image: - file://lkddcjizio6rs3om
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: <p>Wir sind auf den letzten Metern!</p>
+
+----
+
+Description: <p>Erneut hat die Goslar App eine große Hürde genommen. Die aktuelle Fassung der App ist nun offiziell im AppStore (iOS) und im PlayStore (Android) zu bekommen. Künftig brauchen Applenutzer keine Testflightumgebung zum Nutzen der App.<br>Aber! Noch ist die App nicht perfekt. Wir freuen uns noch immer über eure Testberichte und Anregungen zur weiteren Entwicklung der App.</p><p><a href="https://machmit.goslar.de/wasapp" target="_blank" rel="noopener">Mehr erfahren →</a></p>
+
+----
+
+Tags:
+
+----
+
+Uuid: wbgj12cjmzxu7yrj

@@ -1,0 +1,37 @@
+Title: Lichter aus in Goslar
+
+----
+
+Project-start-date: 2026-03-28
+
+----
+
+Project-start-time: 20:15:00
+
+----
+
+Image: - file://gu1dlx2dgop0zmv0
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: abgeschlossen
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Um 20:30 Uhr gehen in Goslar an zahlreichen Gebäuden die Lichter aus. Am MachMit!Haus wird gemeinsam gesungen und musiziert, danach lädt das Mitbring!Café ein.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: ms93go1gczqwgh3o
