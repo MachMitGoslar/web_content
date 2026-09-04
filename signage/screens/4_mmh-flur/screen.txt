@@ -51,16 +51,7 @@ Whitelist-enabled: true
 
 ----
 
-Pending-requests:
-
-- 
-  uuid: 5b4d9a53-16c9-4994-9dce-099ac6d835e6
-  ip: 185.238.218.32
-  user_agent: >
-    Mozilla/5.0 (Macintosh; Intel Mac OS X
-    10_15_7) AppleWebKit/605.1.15 (KHTML,
-    like Gecko) Version/18.6 Safari/605.1.15
-  requested_at: 2026-09-04 14:13:52
+Pending-requests: 
 
 ----
 
@@ -82,6 +73,12 @@ Whitelist:
   label: Bildschirm Flur Unten MachMit
   approved_at: 2026-09-02 14:15:40
   approved_by: nantke.janssen@goslar.de
+- 
+  uuid: 5b4d9a53-16c9-4994-9dce-099ac6d835e6
+  ip: 185.238.218.32
+  label: Device 5b4d9a53
+  approved_at: 2026-09-04 14:14:09
+  approved_by: stuff@stuffdev.de
 
 ----
 
