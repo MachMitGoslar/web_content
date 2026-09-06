@@ -1,0 +1,29 @@
+Title: Tauschprojekte
+
+----
+
+Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"dein-name","label":"Dein Name","placeholder":"Wie sollen wir dich ansprechen?","required":"true","errormessage":""},"id":"3ed8f824-3f89-4d3b-92a9-7f6ff8c23d48","isHidden":false,"type":"text-field"}],"id":"0efa71e4-3cad-4b52-abf7-e5bba6d4c1bc","width":"1/1"}],"id":"1eb5d34f-daaa-462e-b949-34893c0f23a9"},{"attrs":[],"columns":[{"blocks":[{"content":{"key":"deine-mailadresse","label":"Deine Mailadresse","placeholder":"deine@email-adresse.de","required":"true","errormessage":""},"id":"26957a09-633a-47ea-8940-64d210fd516c","isHidden":false,"type":"text-field"}],"id":"72fc221a-2fd1-4876-80cb-0746585ac74f","width":"1/1"}],"id":"67e7e033-96d0-4830-a31b-84496cfdcf6f"},{"attrs":[],"columns":[{"blocks":[{"content":{"key":"deine-nachricht","label":"Deine Nachricht","placeholder":"Hier findest du Platz für Fragen, Nachrichten und Anmerkungen","required":"false","errormessage":""},"id":"5559bb46-d4cc-4833-b7c2-ffedf2bb76f5","isHidden":false,"type":"textarea-field"}],"id":"12977939-5fb7-47fa-afc1-b90ee8120402","width":"1/1"}],"id":"d057c7fa-0108-41da-a690-337b3f022180"},{"attrs":[],"columns":[{"blocks":[{"content":{"key":"dsgvo","label":"DSGVO","options":[{"value":"dsgvo-zugestimmt","label":"Ich stimme der Erhebung, Speicherung und Übermittlung meiner Daten zum Zwecke \"Aufbau einer Nachhaltigkeitsgruppe in Goslar\" zu. Ich verstehe dass meine Daten erhoben und gespeichert werden, sowie unseren, hier genannten, Kooperationspartnern zur Verfügung gestellt werden. Die Datenschutzrichtlinien der Stadt Goslar finden Anwendung."}],"min":1,"max":"","errormessage":""},"id":"a4f4396c-a1c2-48a7-ba55-6e59b1cae339","isHidden":false,"type":"checkbox-field"}],"id":"4fa39352-5964-4cfe-a41f-df947af5f699","width":"1/1"}],"id":"bb39644f-4407-4e32-b6e6-071578bdc4c1"}]
+
+----
+
+Actions: 
+
+----
+
+Successmessage: <p>Vielen Dank für dein Interesse uns zu unterstützen! Wir melden uns in Kürze bei dir!</p>
+
+----
+
+Continueonerror: false
+
+----
+
+Runworkflowinqueue: true
+
+----
+
+Storesubmissions: true
+
+----
+
+Uuid: m5syapoobmnqfncw
