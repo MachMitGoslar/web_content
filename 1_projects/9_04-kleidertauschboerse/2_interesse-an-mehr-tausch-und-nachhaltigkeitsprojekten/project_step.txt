@@ -22,7 +22,7 @@ Headline:
 
 ----
 
-Description: <p>Mehr Kleidertauschbörse? Dafür brauchen wir dich! - Meld dich an und hilf uns bei den nächsten Projekten! <a href="#form-modal-forms-tauschprojekte" title="Direkt hier" data-form-modal-trigger="forms/tauschprojekte"></a></p>
+Description: <p>Mehr Kleidertauschbörse? Dafür brauchen wir dich! - Meld dich an und hilf uns bei den nächsten Projekten! <a href="#form-modal-forms-tauschprojekte" title="Direkt hier" data-form-modal-trigger="forms/tauschprojekte">Direkt hier</a></p>
 
 ----
 
