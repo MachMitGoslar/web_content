@@ -6,7 +6,7 @@ Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"dein-name","label"
 
 ----
 
-Actions: [{"content":{"conditions":[{"field":{"type":"dynamic","field":"26957a09-633a-47ea-8940-64d210fd516c"},"operator":"not-equals","value":""}],"thatactions":"","elseactions":"[{\"content\":{\"sendto\":{\"type\":\"static\",\"value\":\"machmit@goslar.de\"},\"replyto\":{\"type\":\"dynamic\",\"value\":null,\"field\":null},\"subject\":\"MachMit!Website: Eine Anmeldung zur Nachhaltigkeitsgruppe ist eingegangen\",\"fieldtemplate\":\"\",\"kirbytemplate\":\"dreamform\",\"attachments\":\"\"},\"id\":\"b2d136fe-dc98-4a07-a916-3dfe9f498603\",\"isHidden\":false,\"type\":\"email-action\"}]"},"id":"ce27c262-e92f-400c-93e6-57c7bc0d8fd2","isHidden":false,"type":"conditional-action"}]
+Actions: [{"content":{"conditions":[{"field":{"type":"dynamic","field":"26957a09-633a-47ea-8940-64d210fd516c"},"operator":"not-equals","value":""}],"thatactions":"","elseactions":"[{\"content\":{\"sendto\":{\"type\":\"static\",\"value\":\"machmit@goslar.de\"},\"replyto\":{\"type\":\"dynamic\",\"value\":null,\"field\":null},\"subject\":\"MachMit!Website: Eine Anmeldung zur Nachhaltigkeitsgruppe ist eingegangen\",\"fieldtemplate\":\"\",\"kirbytemplate\":\"dreamform\",\"attachments\":\"\"},\"id\":\"b2d136fe-dc98-4a07-a916-3dfe9f498603\",\"isHidden\":false,\"type\":\"email-action\"}]"},"id":"ce27c262-e92f-400c-93e6-57c7bc0d8fd2","isHidden":false,"type":"conditional-action"},{"content":{"tablename":""},"id":"a3db54a5-085f-43a7-aa2e-a551d99ad66d","isHidden":false,"type":"database-action"}]
 
 ----
 
