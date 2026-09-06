@@ -2,19 +2,19 @@ Title: Interesse an mehr Tausch- und Nachhaltigkeitsprojekten?
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-09-06
 
 ----
 
-Project-start-time: 
+Project-start-time: 17:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
-Project-status-to: 
+Project-status-to: in Auswertung
 
 ----
 
@@ -22,7 +22,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Mehr Kleidertauschbörse? Dafür brauchen wir dich! - Meld dich an und hilf uns bei den nächsten Projekten! <a href="#form-modal-forms-tauschprojekte" title="Direkt hier" data-form-modal-trigger="forms/tauschprojekte"></a></p>
 
 ----
 
