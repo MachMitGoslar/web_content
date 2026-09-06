@@ -79,6 +79,12 @@ Whitelist:
   label: Device 5b4d9a53
   approved_at: 2026-09-04 14:14:09
   approved_by: stuff@stuffdev.de
+- 
+  uuid: dfded08c-6581-45bd-8b80-21fd2570bea0
+  ip: 185.238.219.42
+  label: Device dfded08c
+  approved_at: 2026-09-06 10:23:11
+  approved_by: stuff@stuffdev.de
 
 ----
 
