@@ -6,7 +6,7 @@ Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"e-mail","label":"E
 
 ----
 
-Actions: [{"content":{"tablename":""},"id":"6de8001c-5b97-4c07-8337-85a87dbcb155","isHidden":false,"type":"database-action"},{"content":{"sendto":{"type":"static","value":"machmit@goslar.de"},"replyto":{"type":"dynamic","field":"d60b17e0-a248-4d5a-90f0-37af606cec26"},"subject":"EIne neue Tauschprojekt Anfrage","fieldtemplate":"","kirbytemplate":"dreamform","attachments":""},"id":"29719f2f-c79a-46e2-b93d-db7c03d0864b","isHidden":false,"type":"email-action"},{"content":{"sendto":{"type":"dynamic","field":"d60b17e0-a248-4d5a-90f0-37af606cec26"},"replyto":{"type":"static","value":"machmit@goslar.de"},"subject":"Wir haben deine Daten erhalten","fieldtemplate":"","kirbytemplate":"dreamform","attachments":""},"id":"78b2a369-d5a5-450b-b7fe-739afa5d9ad5","isHidden":false,"type":"email-action"}]
+Actions: [{"content":{"tablename":""},"id":"6de8001c-5b97-4c07-8337-85a87dbcb155","isHidden":false,"type":"database-action"},{"content":{"sendto":{"type":"static","value":"machmit@goslar.de"},"replyto":{"type":"dynamic","field":"d60b17e0-a248-4d5a-90f0-37af606cec26"},"subject":"EIne neue Tauschprojekt Anfrage","fieldtemplate":"<p><span data-dreamform-field=\"true\" data-field=\"{{ name }}\">{{ name }}</span> </p>","kirbytemplate":"dreamform","attachments":""},"id":"29719f2f-c79a-46e2-b93d-db7c03d0864b","isHidden":false,"type":"email-action"},{"content":{"sendto":{"type":"dynamic","field":"d60b17e0-a248-4d5a-90f0-37af606cec26"},"replyto":{"type":"static","value":"machmit@goslar.de"},"subject":"Wir haben deine Daten erhalten","fieldtemplate":"","kirbytemplate":"dreamform","attachments":""},"id":"78b2a369-d5a5-450b-b7fe-739afa5d9ad5","isHidden":false,"type":"email-action"}]
 
 ----
 
