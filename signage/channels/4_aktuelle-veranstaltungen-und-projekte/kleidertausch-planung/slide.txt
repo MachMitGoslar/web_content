@@ -94,7 +94,7 @@ Bg-size: cover
 
 ----
 
-Overlay-enabled: true
+Overlay-enabled: false
 
 ----
 
