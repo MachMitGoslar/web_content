@@ -1,0 +1,29 @@
+Title: Tauschprojekt
+
+----
+
+Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"e-mail","label":"E-Mail","placeholder":"Deine E-Mail Adresse","required":"true","errormessage":""},"id":"d60b17e0-a248-4d5a-90f0-37af606cec26","isHidden":false,"type":"email-field"},{"content":{"key":"name","label":"Name","placeholder":"Dein Name","required":"true","errormessage":""},"id":"4ef78e3e-8a01-460c-a055-4f2e1e976595","isHidden":false,"type":"text-field"},{"content":{"key":"dsgvo","label":"DSGVO","options":[{"value":"DSGVO","label":"ghlkjflj"}],"min":"","max":"","errormessage":""},"id":"7d8eb7f1-7f6e-451f-b7bc-507b3d5ef6f7","isHidden":false,"type":"checkbox-field"},{"content":{"label":""},"id":"d2644b4d-4d15-46c1-b5c0-41042dfbc5f6","isHidden":false,"type":"button-field"}],"id":"33b4a119-2b19-4a9f-864e-dd183383153b","width":"1/1"}],"id":"86e23724-2afa-4cca-810e-66382a7ff81c"}]
+
+----
+
+Actions: [{"content":{"tablename":""},"id":"6de8001c-5b97-4c07-8337-85a87dbcb155","isHidden":false,"type":"database-action"},{"content":{"sendto":{"type":"static","value":"machmit@goslar.de"},"replyto":{"type":"dynamic","field":"d60b17e0-a248-4d5a-90f0-37af606cec26"},"subject":"EIne neue Tauschprojekt Anfrage","fieldtemplate":"","kirbytemplate":"dreamform","attachments":""},"id":"29719f2f-c79a-46e2-b93d-db7c03d0864b","isHidden":false,"type":"email-action"},{"content":{"sendto":{"type":"dynamic","field":"d60b17e0-a248-4d5a-90f0-37af606cec26"},"replyto":{"type":"static","value":"machmit@goslar.de"},"subject":"Wir haben deine Daten erhalten","fieldtemplate":"","kirbytemplate":"dreamform","attachments":""},"id":"78b2a369-d5a5-450b-b7fe-739afa5d9ad5","isHidden":false,"type":"email-action"}]
+
+----
+
+Successmessage: 
+
+----
+
+Continueonerror: false
+
+----
+
+Runworkflowinqueue: true
+
+----
+
+Storesubmissions: true
+
+----
+
+Uuid: pbzpyrzubp2bldcx
