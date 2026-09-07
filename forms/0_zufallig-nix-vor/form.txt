@@ -1,0 +1,29 @@
+Title: Zufällig Nix Vor
+
+----
+
+Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"titel","label":"Titel","placeholder":"Gib deinem Vorschlag einen Titel","required":"true","errormessage":""},"id":"d1a536fe-1de9-48f1-8f82-9083c71a80d5","isHidden":false,"type":"text-field"},{"content":{"key":"name","label":"Name","placeholder":"Wie dürfen wir dich nennen?","required":"true","errormessage":""},"id":"0c7408a6-fbb3-4cee-9b22-5e53b94a2567","isHidden":false,"type":"text-field"},{"content":{"key":"e-mail","label":"E-Mail","placeholder":"Deine E-Mail-Adresse für mögliche Rückfragen","required":"true","errormessage":""},"id":"0a223bab-111c-4a4a-beb3-84e804e6b75f","isHidden":false,"type":"email-field"},{"content":{"key":"vorschlag","label":"Vorschlag","placeholder":"Beschreibe hier deinen Vorschlag für Zufällig Nix Vor.","required":"true","errormessage":""},"id":"b99a2636-eea7-453d-986e-7cf3720bccb1","isHidden":false,"type":"textarea-field"},{"content":{"key":"bild","label":"Bild - Lade hier ein passendes Bild zu deinem Vorschlag hoch.","allowmultiple":"false","required":"false","maxsize":"","allowedtypes":"images","errormessage":""},"id":"458c7b97-d1e8-4451-b369-ccd9929759c0","isHidden":false,"type":"file-upload-field"},{"content":{"label":""},"id":"c63f8646-23b3-48e3-83d3-dd4e0ede48dc","isHidden":false,"type":"button-field"}],"id":"efc74968-a857-466b-a268-9b3bf6d8a455","width":"1/1"}],"id":"34575afc-e125-4fe1-aa46-b9bc55bd3437"}]
+
+----
+
+Actions: [{"content":{"tablename":""},"id":"8d55ae57-5b35-4e0f-aef2-19d1a48511b5","isHidden":false,"type":"database-action"},{"content":{"sendto":{"type":"dynamic","field":"0a223bab-111c-4a4a-beb3-84e804e6b75f"},"replyto":{"type":"static","value":"machmit@goslar.de"},"subject":"Dein Vorschlag ist bei uns angekommen","fieldtemplate":"<p>Hallo </p>","kirbytemplate":"dreamform","attachments":""},"id":"115084e4-d6d9-440e-86ea-a233caf70a85","isHidden":false,"type":"email-action"}]
+
+----
+
+Successmessage: 
+
+----
+
+Continueonerror: false
+
+----
+
+Runworkflowinqueue: true
+
+----
+
+Storesubmissions: true
+
+----
+
+Uuid: otopyc8gr18ntapg
