@@ -6,7 +6,7 @@ Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"titel","label":"Ti
 
 ----
 
-Actions: [{"content":{"tablename":""},"id":"8d55ae57-5b35-4e0f-aef2-19d1a48511b5","isHidden":false,"type":"database-action"},{"content":{"sendto":{"type":"dynamic","field":"0a223bab-111c-4a4a-beb3-84e804e6b75f"},"replyto":{"type":"static","value":"machmit@goslar.de"},"subject":"Dein Vorschlag ist bei uns angekommen","fieldtemplate":"<p>Hallo </p>","kirbytemplate":"dreamform","attachments":""},"id":"115084e4-d6d9-440e-86ea-a233caf70a85","isHidden":false,"type":"email-action"}]
+Actions: [{"content":{"tablename":""},"id":"8d55ae57-5b35-4e0f-aef2-19d1a48511b5","isHidden":false,"type":"database-action"},{"content":{"sendto":{"type":"dynamic","field":"0a223bab-111c-4a4a-beb3-84e804e6b75f"},"replyto":{"type":"static","value":"machmit@goslar.de"},"subject":"Dein Vorschlag ist bei uns angekommen","fieldtemplate":"<p>Hallo <span data-dreamform-field=\"true\" data-field=\"{{ name }}\">{{ name }}</span>,</p><p>dein Vorschlag ist bei uns angekommen – danke, dass du deine Idee mit uns teilst! </p><p>Wir schauen uns deinen Vorschlag an und melden uns bei dir, falls wir noch Fragen haben.</p><p>Danke fürs Mitmachen!</p><p>Viele Grüße<br>dein MachMit!-Team</p>","kirbytemplate":"dreamform","attachments":""},"id":"115084e4-d6d9-440e-86ea-a233caf70a85","isHidden":false,"type":"email-action"}]
 
 ----
 
