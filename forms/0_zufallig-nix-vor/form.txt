@@ -10,7 +10,7 @@ Actions: [{"content":{"tablename":""},"id":"8d55ae57-5b35-4e0f-aef2-19d1a48511b5
 
 ----
 
-Successmessage: 
+Successmessage: <p>Vielen Dank für deinen Vorschlag <span data-dreamform-field="true" data-field="{{ titel }}">{{ titel }}</span>. </p><p>Wir haben deinen Vorschlag erhalten. </p>
 
 ----
 
