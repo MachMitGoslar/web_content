@@ -14,7 +14,35 @@ Subheadline: Alles was du wissen solltest
 
 ----
 
-Layout: 
+Text: 
+
+----
+
+Layout: [{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[],"id":"db0ceaf7-d584-4ac3-9a85-f698402f7774","width":"1/1"}],"id":"4fa30018-29e7-4a66-9c22-c2d0ea49dd05"}]
+
+----
+
+Publish-date: 
+
+----
+
+End-date: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
 
 ----
 
