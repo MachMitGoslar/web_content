@@ -1,0 +1,57 @@
+Title: MachMit!DevTalk
+
+----
+
+Cover:
+
+----
+
+Headline:
+
+----
+
+Subheadline: Wo Ehrenamt und Hauptamt gemeinsam Software bauen
+
+----
+
+Project-status: aktiv
+
+----
+
+Topic: digitale-stadt
+
+----
+
+Tags:
+
+----
+
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p>Jeden Donnerstag um 18 Uhr trifft sich im MachMit!Haus das DevTalk-Team: Freiwillige und hauptamtliche Entwickler:innen, die gemeinsam an digitalen Projekten für Goslar arbeiten – von der Idee bis zum fertigen Produkt.</p>"}, "id": "1d23924b-c576-40d4-b59e-884bd17a508d", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Aus dieser Community sind bereits mehrere digitale Projekte entstanden: Die <strong>Goslar App</strong> wird hier laufend weiterentwickelt. Der <strong>Walderlebnispfad Goslar</strong> bekam mit der App „Fritzi“ ein eigenes digitales Zuhause (wald.goslar.app). Mit <strong>BetterGS</strong> entsteht ein Prototyp, der nachhaltiges Verhalten im Alltag sichtbar und messbar machen soll. Und auch die neue Website des MachMit!Hauses ist ein Produkt dieser Zusammenarbeit aus Haupt- und Ehrenamt.</p>"}, "id": "90c20ace-3623-4aa6-a1da-247791a58bf3", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Der gemeinsame Gedanke: Digitale Lösungen für Goslar entstehen am besten dort, wo Menschen mit und ohne Programmiererfahrung zusammenkommen – niedrigschwellig, offen und gemeinsam.</p>"}, "id": "91eb948d-01ca-4160-9eb2-c372286c5774", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Lust mitzumachen? Der wöchentliche #DevTalk findet donnerstags um 18:00 Uhr im MachMit!Haus statt.</p>"}, "id": "ecdf7a37-4232-4fa9-b740-8671e20fd2e8", "isHidden": false, "type": "text"}], "id": "df3fe09b-44e3-4391-ba88-6454f4a76cbf", "width": "1/1"}], "id": "bff5e6bc-8434-41eb-8583-3db5f1776945"}]
+
+----
+
+Team:
+
+----
+
+Seo-title:
+
+----
+
+Seo-description:
+
+----
+
+Social-image:
+
+----
+
+Robots:
+
+----
+
+Form:
+
+----
+
+Uuid: g4gp71n1ox7atwcy
