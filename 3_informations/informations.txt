@@ -18,7 +18,7 @@ Text:
 
 ----
 
-Layout: [{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[{"content":{"text":"<ul><li><a href=\"/@/page/phszm75qnbzxvw2c\">Logos</a></li></ul>"},"id":"1579e272-359a-4132-99be-ab4c184ac819","isHidden":false,"type":"list"}],"id":"db0ceaf7-d584-4ac3-9a85-f698402f7774","width":"1/1"}],"id":"4fa30018-29e7-4a66-9c22-c2d0ea49dd05"}]
+Layout: [{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[{"content":{"text":"<ul><li><a href=\"/@/page/phszm75qnbzxvw2c\">Logos</a></li><li>Baustellentagebuch</li><li><a href=\"/@/page/ke5mutysclyiusjl\">Was bisher geschah</a></li><li><a href=\"/@/page/dyzxjrybntabh6kw\">Stadtleben in Goslar</a></li></ul>"},"id":"1579e272-359a-4132-99be-ab4c184ac819","isHidden":false,"type":"list"}],"id":"db0ceaf7-d584-4ac3-9a85-f698402f7774","width":"1/1"}],"id":"4fa30018-29e7-4a66-9c22-c2d0ea49dd05"}]
 
 ----
 
