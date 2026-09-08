@@ -1,0 +1,33 @@
+Title: Infoabend: Freiwillige Hochwasser- und Spontanhilfe
+
+----
+
+Project-start-date: 2024-12-10
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Infoabend mit über 30 gewonnenen Mitgliedern, Kooperation mit Feuerwehr und Ordnungsamt Goslar.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: 5nzzgyogd0hft5cw

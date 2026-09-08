@@ -1,0 +1,33 @@
+Title: 1. Stadtbegehung
+
+----
+
+Project-start-date: 2025-04-14
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Erste Stadtbegehung des Arbeitskreises mit Andrea Simon zur Dokumentation von Gehwegen für den barrierefreien Stadtplan.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: v04z7x8bb8xj1yui

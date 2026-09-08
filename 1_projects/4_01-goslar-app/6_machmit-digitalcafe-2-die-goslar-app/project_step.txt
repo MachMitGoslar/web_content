@@ -1,0 +1,33 @@
+Title: MachMit!Digitalcafé #2: Die Goslar App
+
+----
+
+Project-start-date: 2025-03-26
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Vorstellung der App durch Digitalisierungsbeauftragten Holger Dettmer im MachMit!Digitalcafé.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: 2fkuagwdcvh3vceg
