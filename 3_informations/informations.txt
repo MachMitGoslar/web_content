@@ -1,4 +1,4 @@
-Title: MachMit!Haus: Alles was du wissen solltest
+Title: Good2Know
 
 ----
 
@@ -14,8 +14,7 @@ Subheadline: Alles was du wissen solltest
 
 ----
 
-Layout:
-
+Layout: 
 
 ----
 
