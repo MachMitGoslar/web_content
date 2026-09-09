@@ -1,0 +1,33 @@
+Title: Erste Sprechstunde
+
+----
+
+Project-start-date: 2025-06-15
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Die erste ADFC-Sprechstunde findet statt.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: gmhtn334ewn4ybmf

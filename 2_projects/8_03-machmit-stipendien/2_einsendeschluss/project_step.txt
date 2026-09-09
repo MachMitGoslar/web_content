@@ -22,7 +22,7 @@ Headline:
 
 ----
 
-Description: <p>Der Einsendezeitraum ist beendet. Alle eingereichten Ideen werden nun anonymisiert anhand der Bewertungskriterien geprüft, um die Stipendiatinnen und Stipendiaten zu bestimmen.</p>
+Description: <p>Der Einsendezeitraum ist beendet. Alle eingereichten Ideen werden nun anonymisiert anhand der Bewertungskriterien geprüft, um die Stipendiatinnen und Stipendiaten zu bestimmen. Gefördert wird das MachMit!Stipendium im Rahmen des Programms „Zukunftsräume“ in Kooperation mit dem Altstadtforum.</p>
 
 ----
 

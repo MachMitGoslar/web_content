@@ -1,0 +1,33 @@
+Title: Speed-Dating Vienenburg
+
+----
+
+Project-start-date: 2025-08-30
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Ehrenamts-Speed-Dating in Vienenburg mit 17 teilnehmenden Vereinen und Institutionen.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: q0uijd2b3sjjmvjp

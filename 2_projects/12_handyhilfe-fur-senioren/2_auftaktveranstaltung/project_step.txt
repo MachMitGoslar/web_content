@@ -22,7 +22,7 @@ Headline:
 
 ----
 
-Description: <p>Die Veranstaltung beginnt mit einem Vortrag der Abschlussklasse der BBS Baßgeige zum Thema "Grundlagen der Handynutzung". Im Anschluss können Teilnehmerinnen und Teilnehmer in 1:1 Gesprächen Fragen zu ihren individuellen Problemen bei der Handy- und Tabletnutzung stellen.</p>
+Description: <p>Die Veranstaltung beginnt mit einem Vortrag der Abschlussklasse der BBS Baßgeige zum Thema "Grundlagen der Handynutzung". Im Anschluss können Teilnehmerinnen und Teilnehmer in 1:1 Gesprächen Fragen zu ihren individuellen Problemen bei der Handy- und Tabletnutzung stellen. Das Projekt wird von der Bürgerstiftung Goslar gefördert und in Kooperation mit der Freiwilligenagentur Goslar umgesetzt.</p>
 
 ----
 

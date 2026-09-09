@@ -1,0 +1,57 @@
+Title: MachMit!Hosts
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: Ein neues Ehrenamtsformat entsteht
+
+----
+
+Project-status: aktiv
+
+----
+
+Topic: ehrenamt
+
+----
+
+Tags: 
+
+----
+
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p>MachMit!Hosts ist ein neues Ehrenamtsformat im MachMit!Haus: Statt dass immer nur das Team Programm macht, übernehmen einzelne Engagierte selbst die Rolle der Gastgeberin oder des Gastgebers – für einen Nachmittag, einen Abend oder eine wiederkehrende Reihe.</p>"}, "id": "60175721-1697-4cc9-98bb-74e8c8ba391e", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Die Idee dahinter: Jede und jeder hat eine Leidenschaft, ein Spiel, ein Thema oder eine Fertigkeit, die andere interessieren könnte. Als Host bekommst du dafür einen Raum im MachMit!Haus, Unterstützung bei der Ankündigung und ein offenes Ohr bei der Vorbereitung – den Rest gestaltest du nach deinen eigenen Vorstellungen.</p>"}, "id": "033a7953-705e-43ce-b844-f40de68045c0", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Entstanden ist das Format im März 2025, seither wächst die Bandbreite an Aktionen stetig: von entspannten Spielerunden bis zum Pokémon-Turnier im November 2025 – bislang die größte MachMit!Hosts-Aktion.</p>"}, "id": "38c92f4b-9e51-4adb-9d7e-9e81b1fc1570", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Du hast selbst eine Idee, die du gerne mit anderen teilen möchtest? Werde MachMit!Host und mach dein eigenes Ding im MachMit!Haus!</p>"}, "id": "22a4ecab-5c97-486b-848f-9606f0356a3f", "isHidden": false, "type": "text"}], "id": "95e25fb1-d6f8-4181-8f52-56b684a8bd3b", "width": "1/1"}], "id": "946a4040-2cc3-4cb8-887f-d2d4d37f2222"}]
+
+----
+
+Team: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Form: 
+
+----
+
+Uuid: 1hbuxakqdg81h9um
