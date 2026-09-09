@@ -85,7 +85,7 @@ Whitelist:
 - 
   uuid: dfded08c-6581-45bd-8b80-21fd2570bea0
   ip: 185.238.219.42
-  label: Device dfded08c
+  label: '09-09 - Flur'
   approved_at: 2026-09-06 10:23:11
   approved_by: stuff@stuffdev.de
 
