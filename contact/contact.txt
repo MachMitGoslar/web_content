@@ -14,7 +14,7 @@ Phone: 05321704525
 
 ----
 
-Website: https://mmh.goslar.de
+Website: https://machmit.goslar.de
 
 ----
 
@@ -39,6 +39,22 @@ Lng: 10.429327
 ----
 
 Mapbox-token: pk.eyJ1IjoicmFuZ2FyaWFuIiwiYSI6ImNrZGVxNzNhODI5MTcyenM4dGR5bnZhb3UifQ.7WvcNEBQJn9iV42IiyG8rQ
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
 
 ----
 

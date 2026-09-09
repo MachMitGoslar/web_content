@@ -1,0 +1,49 @@
+Title: Der Wahlvorstand und seine Aufgaben
+
+----
+
+Cover: - file://hojuj1xdqawrzgml
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Text: 
+
+----
+
+Layout: [{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://bxvbv3a9k9x2rqiw"],"src":"","alt":"","caption":"","link":"https://youtu.be/MhlkQcNOY_4","ratio":"","crop":"false"},"id":"7f5db9e2-30ca-480c-90f7-f7d94a52a9d9","isHidden":false,"type":"image"},{"content":{"linestyle":"solid","thickness":"thin","color":"light","spacing":"regular"},"id":"a956ee26-c0db-47a5-b84f-2011a1ce7a38","isHidden":false,"type":"divider"}],"id":"080356a0-df42-4bff-992c-fce10c43f468","width":"1/1"}],"id":"6c96c250-3f91-41c9-a02f-7d54be5f9bc1"},{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[{"content":{"text":"<h4 class=\"font-title\">Was macht eine Wahlvorsteherin / ein Wahlvorsteher?</h4><p>Die Wahlvorstehenden sind für die ordnungsgemäße Durchführung der Wahl im Wahlraum verantwortlich.</p><p>Sie üben insbesondere das Hausrecht aus, können also eine Person bei erheblicher Störung der Wahlhandlung des Raumes verweisen (und anschließend das Wahlbüro telefonisch informieren).<br>In extremen Fällen rufen sie auch die Polizei zur Unterstützung.</p><p>Sie nehmen zu Beginn vom Objektbetreuer des Gebäudes die Wahlunterlagen in Empfang. Die Vollständigkeit der Unterlagen insbesondere Wahlurnen und Wahlsichtblenden wird geprüft.</p><p>Dann verpflichten die Wahlvorstehenden die Schriftführenden und Beisitzenden zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit und zur Wahrung/Schutz des Wahlgeheimnisses.</p><p>Die Aufgaben werden verteilt.</p><p>Die Wahlurnen werden nach einer Leerkontrolle mit Klebesiegeln versiegelt. Diese Siegel müssen dazu vorher vom Wahlvorstehenden unterschrieben werden.</p><p>Um 08:00 Uhr eröffnen die Wahlvorstehenden die Wahlhandlung.<br>Sie führen während ihrer Schicht die Aufsicht über die Wahlhandlung und entscheiden z.B., ob eine Hilfsperson den Wählenden in der Wahlkabine unterstützen kann.</p><p>Bei Problemen und Fragen können sich die Wahlvorstehenden jederzeit an das Wahlbüro wenden.</p><p>Um 18:00 Uhr verschließen die Wahlvorstehenden die Tür des Wahlraumes. Falls sich noch Wählende im Wahllokal aufhalten, können diese die Wahlhandlung noch vollenden.</p><p>Dann wird die Wahlhandlung geschlossen. Der Wahlraum wird wieder geöffnet, da die Auszählung öffentlich ist. Gäste dürfen mit gewissem Abstand der Wahlauszählung zusehen.<br>Die Wahlvorstehenden achten darauf, dass die Gäste nicht in die Nähe von Stimmzetteln kommen können.</p><p>Nach der Auszählung der jeweiligen Wahl melden die Schriftführenden oder Wahlvorstehenden die Schnellmeldung telefonisch an das Wahlbüro.</p><p>Im Anschluss zahlt der Wahlvorsteher/ die Wahlvorsteherin die Aufwandsentschädigung an alle Beteiligten des Wahlvorstandes aus. Dabei wird auch abgefragt, wer bei einer nächsten Wahl wieder für ein Wahlehrenamt zur Verfügung steht.</p><p>Danach räumen alle zusammen das Wahllokal auf, so dass in den Räumlichkeiten am Tag darauf wieder ein normaler Betrieb stattfinden kann.</p><p>Zum Schluss bringen die Wahlvorstehenden die wichtigen Wahlunterlagen zurück in das Wahlbüro.</p><h4 class=\"font-title\"></h4><h4 class=\"font-title\"></h4>"},"id":"23d63eac-612b-4b36-a68b-9ae35f8632a4","isHidden":false,"type":"text"},{"content":{"linestyle":"solid","thickness":"thin","color":"light","spacing":"regular"},"id":"5bd8778f-7e32-4d36-9cc7-9435035524b9","isHidden":false,"type":"divider"},{"content":{"text":"<h4 class=\"font-title\">Was macht eine Schriftführerin / ein Schriftführer?</h4><p>Die Schriftführenden führen das Wählerverzeichnis. Dort sind alle Wählenden vermerkt. Wählen darf nur, wer in dem Wählerverzeichnis eingetragen ist.</p><p>Die Schriftführenden erhalten den Wahlbenachrichtigungsbrief oder Identitätsausweis, suchen den Wählenden im Wählerverzeichnis und markieren ihn mit einem Haken. Diese Markierung wird zum Zählen ab 18:00 Uhr wichtig. Dann signalisieren sie den Beisitzenden, dass diese die Stimmzettel an die Wählenden aushändigen können.</p><p>Sollten Probleme während der Wahl auftreten, müssen diese ebenfalls vermerkt werden.</p><p>Am Ende des Wahltages füllen die Schriftführenden die Wahlniederschrift aus.</p><p>Schlussendlich halten Schriftführende das Wahlergebnis fest und übergeben die Wahlniederschrift der Wahlvorsteherin oder dem Wahlvorsteher.</p>"},"id":"ee87c735-8476-4808-bb19-04865155621f","isHidden":false,"type":"text"},{"content":{"linestyle":"solid","thickness":"thin","color":"light","spacing":"regular"},"id":"ab7fadfd-b4cc-4413-a62d-fa9fcb4d5570","isHidden":false,"type":"divider"},{"content":{"text":"<h4 class=\"font-title\">Was macht eine Beisitzerin / ein Beisitzer?</h4><p>Die Aufgaben werden von den Wahlvorstehenden eingeteilt und können variieren.</p><p>Zu Beginn werden die Hinweisschilder zum Wahlraum, die Wahlbekanntmachung und pro Wahl mindestens ein Musterstimmzettel sichtbar mit Tesafilm an Türen oder Wänden im Wahlraum und auf dem Weg dorthin ausgehängt.</p><p>Beisitzende geben die Stimmzettel aus. Insbesondere bei mehreren Wahlen, die gleichzeitig stattfinden, muss darauf geachtet werden, wer welchen Stimmzettel bekommt. Ganz wichtig ist, dass jede Wählerin oder jeder Wähler nur einen Stimmzettel pro Wahl ausgehändigt bekommt.</p><p>Außerdem muss darauf geachtet werden, dass die Stimmzettel richtig gefaltet sind bevor sie in die Wahlurne eingesteckt werden, nämlich so, dass nicht ersichtlich ist, was gewählt wurde. Zudem muss kontrolliert werden, dass die Stimmzettel bei mehreren Wahlen an einem Tag in die richtigen Wahlurnen eingeworfen werden.</p>"},"id":"623517a3-3e60-436c-a250-e7849858e427","isHidden":false,"type":"text"}],"id":"961795b7-df04-4531-96e2-8a558be9d84f","width":"1/1"}],"id":"2bae8e40-2fb6-4d9a-8260-68b8ba43de26"}]
+
+----
+
+Publish-date: 2026-09-09 11:45:00
+
+----
+
+End-date: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: l7bue4msez29itl3

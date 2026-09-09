@@ -1,0 +1,49 @@
+Title: Ablauf am Wahltag
+
+----
+
+Cover: - file://cwtrhfrkr1dftvr5
+
+----
+
+Headline: Wahl 2026
+
+----
+
+Subheadline: Ablauf am Wahltag
+
+----
+
+Text: 
+
+----
+
+Layout: [{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Wahlvorbereitung"},"id":"9c509ba0-7b86-4016-8031-133d511a57d8","isHidden":false,"type":"heading"},{"content":{"text":"<p>Vor Beginn der Wahl, um 7:30 Uhr, treffen sich alle für die erste Schicht eingeteilten Wahlhelfenden in ihrem Wahllokal. Welches Wahllokal dies sein wird, wird rechtzeitig vom Wahlbüro mitgeteilt.</p><p>Der Wahlvorsteher muss anwesend sein, ist er es nicht, muss unverzüglich das Wahlbüro angerufen werden, die dort eingesetzten Mitarbeitenden sorgen dann für Ersatz. Die Telefonnummer ist in den Unterlagen, die vom Wahlbüro bereitgestellt wurden, vermerkt.</p><p>Sofern eine Schriftführerin / ein Schriftführer oder eine Beisitzerin / ein Beisitzer nicht anwesend ist, muss spätestens um 7:45 Uhr das Wahlbüro informiert werden.</p><p>Anschließend wird das Wahllokal vorbereitet. Der Objektbetreuer des Gebäudes gibt die Wahlunterlagen an die Wahlvorsteherin / den Wahlvorsteher aus. Dazu zählen die Stimmzettel, die Wahlniederschrift, sowie Stifte. Die Wahlurnen und die Sichtblenden sind bereits vor Ort.</p><p>Nun wird der Raum vorbereitet. Zuerst werden die Wahlkabinen aufgestellt. Wichtig hierbei ist, dass keiner in diese hineingucken kann. Sie dürfen nicht mit der offenen Seite zu Türen oder Fenstern stehen. Ebenfalls dürfen die Helfenden keinen Blick hineinwerfen können. Es bietet sich an, die offene Seite in Richtung einer Wand zu positionieren.</p><p>Gleichzeitig werden die Musterstimmzettel ausgehängt und zwar so, dass diese gut sichtbar für alle sind, dasselbe gilt für die Wahlbekanntmachungen.</p><p>Im Außenbereich werden die Hinweisschilder zum Wahlraum angebracht, gleichzeitig wird Parteiwerbung, die sich im oder am Wahllokal oder unmittelbar vor dem Zugang des Gebäudes befindet, entfernt.</p><p>Ist dieses geschehen, werden die Unterlagen überprüft. Wenn alle Stimmzettel, das Wählerverzeichnis, die Stifte und die Siegel für die Wahlurnen vorhanden sind, kommen alle anwesenden Wahlhelfenden zusammen und kontrollieren die Wahlurnen. Wenn diese leer sind, werden sie von der Wahlvorsteherin / dem Wahlvorsteher versiegelt. Die Wahlurnen bleiben bis zum Ende der Wahlhandlung verschlossen und dürfen auf keinen Fall geöffnet werden.</p>"},"id":"05db3847-c4bc-4c42-ace8-ca422988dfcb","isHidden":false,"type":"text"}],"id":"97863e30-95f9-4db2-95b5-0e518c72d5d7","width":"1/1"}],"id":"c9e709bb-97b2-4f86-8f8a-7a811303a8ae"},{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Wahlhandlung"},"id":"e363a5d5-aed1-44f6-a814-12ca3166b021","isHidden":false,"type":"heading"},{"content":{"text":"<p>Um 8:00 Uhr eröffnet die Wahlvorsteherin / der Wahlvorsteher das Wahllokal und die Wahlhandlung.</p><p>Während der Wahlhandlung von 8:00 Uhr bis 18:00 Uhr ist einiges zu beachten:</p><p>Es darf kein Mitglied des Wahlvorstandes Parteiwerbung in jeglicher Art tragen. Wählende dürfen dies jedoch.</p><p>Die Befragung von Rundfunk und Fernsehteams ist nur erlaubt, wenn alle Mitglieder des Wahlvorstandes einverstanden sind. Dies ist auch bei Fotos und Videos der Fall. Auf keinen Fall dürfen jedoch Fotos und Videos in den Wahlkabinen gemacht werden. Weder von den Wählenden selbst, noch von anderen Personen.</p><p>Bei Unstimmigkeiten, die nicht geklärt werden können, ist immer das zuständige Wahlbüro zu informieren. Häufige Fälle hierbei sind Umzüge oder eine bereits beantragte Briefwahl. Das zuständige Wahlbüro entscheidet dann über diese Fälle und gibt Auskunft.</p><p>Sollte ein Wähler mit einem&nbsp;<strong>roten Briefumschlag</strong>&nbsp;in das Wahllokal kommen, hat dieser bereits Briefwahl beantragt. Diese dürfen&nbsp;<strong>nicht&nbsp;angenommen&nbsp;</strong>oder in die Wahlurne geworfen werden.</p><p>Die Stimmzettel dürfen auf keinen Fall außerhalb der Wahlkabine ausgefüllt werden. Dies verletzt das Wahlgeheimnis und dem Wählenden ist ein neuer Stimmzettel auszuhändigen, gleichen Falls muss der alte Stimmzettel vom Wählenden vor den Augen des Wahlvorstandes zerrissen und vernichtet werden.</p><p>Ein Stimmzettel muss richtig gefaltet sein. Sobald zu erkennen ist, was die Wählerin / der Wähler angekreuzt hat, ist diese Stimme zu vernichten und ebenfalls ein neuer Stimmzettel auszuhändigen.</p><p>Bei Störungen übt die Wahlvorsteherin / der Wahlvorsteher das Sitzungsrecht aus, bei gravierenden Störungen ist das zuständige Wahlbüro und ggf. die Polizei zu informieren.</p><p>Um 18:00 Uhr beendet die Wahlvorsteherin / der Wahlvorsteher offiziell die Wahlhandlung.</p>"},"id":"54d81338-2b43-4878-a9b8-f708640ac581","isHidden":false,"type":"text"}],"id":"508fee90-66be-45c6-8a97-cdf230c0f7eb","width":"1/1"}],"id":"70095cf2-fa90-43fa-94cc-a04e22b1278e"},{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Wahlende"},"id":"c5b2550a-5c8f-40e4-96a4-f2b7ff9a12b2","isHidden":false,"type":"heading"},{"content":{"text":"<p>Um 18:00 Uhr, wenn das Wahllokal geschlossen wird, kommen alle Wahlhelfenden aus der Früh- und Spätschicht zur Stimmenauszählung zusammen.</p><p>Zunächst ist alles, was nicht mehr benötigt wird von den Tischen zu räumen, damit genug Platz für die Auszählung ist.</p><p>Als nächstes wird die Wahlurne geöffnet und ausgeleert. Bei mehreren Wahlen am gleichen Tag, wird zunächst nur eine Wahlurne geöffnet und ausgezählt. Die Reihenfolge der Auszählung ist dabei gesetzlich vorgegeben und muss zwingend eingehalten werden.</p><p>Die Zählung der Stimmen beginnt.</p><p>Im ersten Schritt werden alle Stimmzettel gezählt und die Summe festgehalten. Danach wird die Summe mit der Anzahl der Wählenden aus dem Wählerverzeichnis verglichen. Wenn die Anzahl nicht übereinstimmt, wird beides erneut gezählt, stimmt die Anzahl dann immer noch nicht überein, muss das zuständige Wahlbüro informiert werden, dieses entscheidet dann über das weitere Vorgehen. Die Unstimmigkeit ist auf der Wahlniederschrift zu vermerken.</p><p>Im zweiten Schritt werden die Stimmzettel dann je nach Wahlart in Gruppen unterteilt und gezählt. Dabei ist zu beachten wie viele Stimmen eine Wählerin/ ein Wähler pro Wahl hat. Während es bei einer Bundestagswahl z.B. 2 Stimmen (Erst- und Zweitstimme) sind, ist es bei der Wahl der Hauptverwaltungsbeamtin/ des Hauptverwaltungsbeamten nur eine Stimme. Bei einer Kommunalwahl gilt darüber hinaus das Dreistimmenwahlrecht.</p><p>Die Ergebnisse werden nach zweimaligem Zählen in der Wahlniederschrift von der Schriftführerin/ dem Schriftführer festgehalten.</p><p>Ein besonderes Augenmerk liegt auch auf unbeschrifteten und zweifelhaften Stimmzetteln. Die unbeschrifteten werden ebenfalls zwei Mal ausgezählt und die Anzahl in der Wahlniederschrift festgehalten.</p><p>Zum Schluss folgen die Stimmzettel mit den zweifelhaften Stimmen. Diese werden gemeinsam von der Gruppe begutachtet und geprüft. Sollten Bemerkungen auf den Stimmzetteln, uneindeutige Kreuze, Zeichnungen oder Namen vermerkt sein, sind diese als ungültig zu bewerten. Das Ergebnis der Prüfung, sowie die Begründung sind auf der Rückseite des jeweiligen Stimmzettels festzuhalten.</p><p>Die Anzahl der beschlossenen Stimmzettel ist ebenfalls von der Schriftführerin / dem Schriftführer in der Wahlniederschrift festzuhalten.</p><p>Sofern mehrere Wahlen an einem Tag stattgefunden haben, ist dieses Verfahren ebenfalls bei den weiteren Stimmauszählungen anzuwenden.</p><p>Wenn alle Stimmen ausgezählt sind, muss die Wahlvorsteherin / der Wahlvorsteher telefonisch eine Schnellmeldung der Ergebnisse an das Wahlbüro geben.</p><p>Danach werden die Unterlagen verpackt und das Wahllokal aufgeräumt. Im Anschluss zahlt die Wahlvorsteherin / der Wahlvorsteher den Wahlhelfenden das Erfrischungsgeld aus. Die Beisitzerinnen / Beisitzer, sowie Schriftführerinnen / Schriftführer sind somit entlassen.</p><p>Die Wahlvorsteherin / der Wahlvorsteher muss die wichtigen Unterlagen am Abend noch an das zuständige Wahlbüro übergeben. Danach ist auch ihr/sein Dienst beendet.</p>"},"id":"36b8420b-445a-46fe-a04a-681b1c58a8ec","isHidden":false,"type":"text"}],"id":"ef50d895-6ac7-4706-b331-e72852cde2ec","width":"1/1"}],"id":"884e5d2c-5e2e-44bb-b369-cca1339a3873"}]
+
+----
+
+Publish-date: 2026-09-09 12:00:00
+
+----
+
+End-date: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: majpcghb8okcad9t

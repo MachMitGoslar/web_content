@@ -25,9 +25,9 @@ Channel-schedule:
 Active-times:
 
 - 
-  start: 10:00:00
+  start: 08:00:00
   end: 18:00:00
-  days: mon, tue, wed, thu, fri, sat, sun
+  days: mon, tue, wed, thu, fri
 
 ----
 
@@ -82,12 +82,6 @@ Whitelist:
   label: Bildschirm Foyer MachMit
   approved_at: 2026-09-02 14:16:10
   approved_by: nantke.janssen@goslar.de
-- 
-  uuid: dfded08c-6581-45bd-8b80-21fd2570bea0
-  ip: 185.238.219.42
-  label: Device dfded08c
-  approved_at: 2026-09-06 10:23:11
-  approved_by: stuff@stuffdev.de
 
 ----
 
