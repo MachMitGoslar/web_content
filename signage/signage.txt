@@ -41,24 +41,6 @@ Onboarding-requests:
   approved_by: nantke.janssen@goslar.de
   denied_at: ""
 - 
-  uuid: 5eabac62-ee53-47f8-bd34-1b62a9568413
-  ip: 185.238.219.16
-  backend: https://machmit.goslar.de
-  url: https://machmit.goslar.de/signage
-  user_agent: >
-    Mozilla/5.0 (Linux; Android 11; 2KTV-2TH
-    Build/RTT7.220211.001; wv)
-    AppleWebKit/537.36 (KHTML, like Gecko)
-    Version/4.0 Chrome/151.0.7922.199 Mobile
-    Safari/537.36
-  status: approved
-  assigned_screen: mmh-flur
-  requested_at: 2026-09-02 14:14:57
-  last_seen_at: 2026-09-02 14:15:41
-  approved_at: 2026-09-02 14:15:40
-  approved_by: nantke.janssen@goslar.de
-  denied_at: ""
-- 
   uuid: 5b4d9a53-16c9-4994-9dce-099ac6d835e6
   ip: 185.238.218.32
   backend: https://machmit.goslar.de
@@ -75,35 +57,6 @@ Onboarding-requests:
   approved_by: stuff@stuffdev.de
   denied_at: ""
 - 
-  uuid: dfded08c-6581-45bd-8b80-21fd2570bea0
-  ip: 185.238.219.42
-  backend: https://machmit.goslar.de
-  url: https://machmit.goslar.de/signage
-  user_agent: >
-    Mozilla/5.0 (Windows NT 10.0; Win64;
-    x64) AppleWebKit/537.36 (KHTML, like
-    Gecko) Chrome/145.0.0.0 Safari/537.36
-  status: approved
-  assigned_screen: mmh-foyer
-  requested_at: 2026-09-06 08:55:38
-  last_seen_at: 2026-09-06 10:23:12
-  approved_at: 2026-09-06 10:23:11
-  approved_by: stuff@stuffdev.de
-  denied_at: ""
-- 
-  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
-  ip: ""
-  backend: ""
-  url: ""
-  user_agent: Unknown
-  status: pending
-  assigned_screen: ""
-  requested_at: 2026-09-07 14:12:13
-  last_seen_at: 2026-09-07 14:12:13
-  approved_at: ""
-  approved_by: ""
-  denied_at: ""
-- 
   uuid: bbf6c0e3-7515-4331-872b-1b57a29f4ac8
   ip: 185.238.219.32
   backend: https://machmit.goslar.de
@@ -117,6 +70,53 @@ Onboarding-requests:
   requested_at: 2026-09-02 14:11:38
   last_seen_at: 2026-09-02 14:16:10
   approved_at: 2026-09-02 14:16:10
+  approved_by: nantke.janssen@goslar.de
+  denied_at: ""
+- 
+  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
+  ip: ""
+  backend: ""
+  url: ""
+  user_agent: Unknown
+  status: pending
+  assigned_screen: ""
+  requested_at: 2026-09-07 14:12:13
+  last_seen_at: 2026-09-09 06:29:34
+  approved_at: ""
+  approved_by: ""
+  denied_at: ""
+- 
+  uuid: dfded08c-6581-45bd-8b80-21fd2570bea0
+  ip: 185.238.219.42
+  backend: https://machmit.goslar.de
+  url: https://machmit.goslar.de/signage
+  user_agent: >
+    Mozilla/5.0 (Windows NT 10.0; Win64;
+    x64) AppleWebKit/537.36 (KHTML, like
+    Gecko) Chrome/145.0.0.0 Safari/537.36
+  status: approved
+  assigned_screen: mmh-flur
+  requested_at: 2026-09-06 08:55:38
+  last_seen_at: 2026-09-06 10:23:12
+  approved_at: 2026-09-06 10:23:11
+  approved_by: stuff@stuffdev.de
+  denied_at: ""
+- 
+  uuid: 5eabac62-ee53-47f8-bd34-1b62a9568413
+  ip: 185.238.219.16
+  backend: https://machmit.goslar.de
+  url: https://machmit.goslar.de/signage
+  user_agent: >
+    Mozilla/5.0 (Linux; Android 11; 2KTV-2TH
+    Build/RTT7.220211.001; wv)
+    AppleWebKit/537.36 (KHTML, like Gecko)
+    Version/4.0 Chrome/151.0.7922.199 Mobile
+    Safari/537.36
+  status: approved
+  assigned_screen: mmh-flur
+  requested_at: 2026-09-02 14:14:57
+  last_seen_at: 2026-09-02 14:15:41
+  approved_at: 2026-09-02 14:15:40
   approved_by: nantke.janssen@goslar.de
   denied_at: ""
 
