@@ -80,7 +80,14 @@ Pending-requests:
 
 ----
 
-Whitelist: 
+Whitelist:
+
+- 
+  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
+  ip: ""
+  label: '09-09 - Front'
+  approved_at: 2026-09-09 13:42:18
+  approved_by: stuff@stuffdev.de
 
 ----
 
