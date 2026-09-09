@@ -6,7 +6,7 @@ Cover: - file://km65ioqnnwfynmqw
 
 ----
 
-Headline: 
+Headline: Wahllokale im Stadtgebiet Goslar
 
 ----
 
@@ -18,7 +18,7 @@ Text:
 
 ----
 
-Layout: 
+Layout: [{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[{"content":{"text":"<p>Hier erhaltet ihr eine Auflistung der Wahlbezirke mit den dazugehörigen Wahllokalen im Stadtgebiet, an denen am Wahltag Urnenwahl möglich.</p><p>Hinzu kommen 20 Briefwahlbezirke, in denen die Briefwahl ausgezählt wird.</p><p>Hinweis: Änderungen bzw. Verlegungen von Wahllokalen sind nachträglich möglich!</p>"},"id":"8c498fb6-69b0-48bb-9607-0f91b65fa92e","isHidden":false,"type":"text"}],"id":"d475e993-606a-484e-b839-14c557252bc7","width":"1/1"}],"id":"916bb2f9-6dc7-4fc7-9bd3-86e0061f4bfe"}]
 
 ----
 
