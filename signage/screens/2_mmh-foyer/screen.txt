@@ -76,12 +76,6 @@ Whitelist:
   label: Device ac4b2a9a
   approved_at: 2026-08-24 12:59:48
   approved_by: stuff@stuffdev.de
-- 
-  uuid: dfded08c-6581-45bd-8b80-21fd2570bea0
-  ip: 185.238.219.42
-  label: '09-09 - Flur'
-  approved_at: 2026-09-06 10:23:11
-  approved_by: stuff@stuffdev.de
 
 ----
 
