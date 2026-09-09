@@ -68,14 +68,7 @@ Uuid: uh4rkbaodconxyti
 
 ----
 
-Whitelist:
-
-- 
-  uuid: 67cd09cc-b404-4df7-9786-abb7c7181b3f
-  ip: 185.238.219.106
-  label: Device 67cd09cc
-  approved_at: 2026-09-09 13:44:02
-  approved_by: stuff@stuffdev.de
+Whitelist: 
 
 ----
 
