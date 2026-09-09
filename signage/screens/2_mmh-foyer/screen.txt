@@ -88,6 +88,12 @@ Whitelist:
   label: Device dfded08c
   approved_at: 2026-09-06 10:23:11
   approved_by: stuff@stuffdev.de
+- 
+  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
+  ip: ""
+  label: Device c6aae8be
+  approved_at: 2026-09-09 06:29:34
+  approved_by: nantke.janssen@goslar.de
 
 ----
 
