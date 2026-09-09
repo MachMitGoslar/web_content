@@ -18,7 +18,7 @@ Text:
 
 ----
 
-Layout: 
+Layout: [{"attrs":{"publish_date":"","end_date":""},"columns":[{"blocks":[{"content":{"text":"<p>Wahlhelferinnen und Wahlhelfer sind die Grundlage unserer Demokratie.<br>Unsere Demokratie ist darauf angewiesen, dass sich viele Menschen für sie einsetzen. In Goslar werden, je nach Wahl, zwischen 296 und 456 Wahlhelferinnen und Wahlhelfer benötigt, damit ein reibungsloser Ablauf am Wahltag gewährleistet werden kann.</p><p><strong>Dafür benötigen wir zur Kommunalwahl in Niedersachsen deine Unterstützung!</strong></p><p><strong>Die Hauptwahl findet am Sonntag, den 13.09.2026, statt.</strong></p><p><strong>Die Stichwahl findet am Sonntag, den 27.09.2026, statt.</strong></p>"},"id":"2f7fe628-89a3-4526-8c2d-1efda355f5fa","isHidden":false,"type":"text"}],"id":"ccbd94aa-34df-4fd7-8da2-6f7c5f1e2d8e","width":"1/1"}],"id":"38a7bac6-8455-4536-ac18-0c325563f7a1"}]
 
 ----
 
