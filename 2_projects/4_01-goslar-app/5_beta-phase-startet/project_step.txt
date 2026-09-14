@@ -1,0 +1,33 @@
+Title: Beta-Phase startet
+
+----
+
+Project-start-date: 2024-12-01
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Start der Betaphase mit ersten Tester:innen, Gewinnspiel auf dem Weihnachtsmarkt, Ziel: fertige Version bis März 2025.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: j061oamtbeytrd6x

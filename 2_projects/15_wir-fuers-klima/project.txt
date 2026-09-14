@@ -1,0 +1,57 @@
+Title: Wir fürs Klima
+
+----
+
+Cover: - file://a17k2ehidgmtvmbl
+
+----
+
+Headline: 
+
+----
+
+Subheadline: MachMit!Goslar für Klimaschutz und Nachhaltigkeit
+
+----
+
+Project-status: aktiv
+
+----
+
+Topic: klima
+
+----
+
+Tags: 
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>„Wir fürs Klima!“ ist eine Netzwerk rund um Klimaschutz und Nachhaltigkeit in Goslar – getragen von einer Projektgruppe aus verschiedenen Institutionen und Organisationen der Stadt.</p>"},"id":"850337d6-435c-4e1a-920f-940d64715eb7","isHidden":false,"type":"text"},{"content":{"text":""},"id":"b9c804f8-bd18-4620-b86e-21ae8e51dcbf","isHidden":false,"type":"text"}],"id":"7452ce7e-70d2-43ba-8b1d-16818844201c","width":"1/1"}],"id":"8dc37deb-5f50-40f0-ba7c-31cca225c079"}]
+
+----
+
+Team: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Form: 
+
+----
+
+Uuid: 1gkm2fc4icdmhklw

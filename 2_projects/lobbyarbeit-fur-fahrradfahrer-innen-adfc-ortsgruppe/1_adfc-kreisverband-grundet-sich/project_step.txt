@@ -1,0 +1,33 @@
+Title: ADFC Kreisverband gründet sich
+
+----
+
+Project-start-date: 2025-04-15
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Der ADFC Kreisverband gründet sich in Goslar.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: utpv1s1idrwbl0ul

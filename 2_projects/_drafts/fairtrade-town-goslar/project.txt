@@ -1,0 +1,57 @@
+Title: Fairtrade Town Goslar
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: Externe Initiative – MachMit!Haus als Kooperationspartner
+
+----
+
+Project-status: in Vorbereitung
+
+----
+
+Topic: klima
+
+----
+
+Tags:
+
+----
+
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p>Goslar möchte Fairtrade Town werden – eine Auszeichnung für Städte, die sich für fairen Handel und nachhaltigen Konsum einsetzen. Getragen wird die Initiative von einer Bürger-AG, die sich um die Erfüllung der offiziellen Fairtrade-Kriterien kümmert.</p>"}, "id": "c567d11f-467a-4887-b66c-ebdd490a7c0a", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Im März 2025 luden die Initiator:innen zu einem Infoabend ins MachMit!Haus ein, um über das Vorhaben zu informieren und weitere Mitstreiter:innen zu gewinnen. Das MachMit!Haus ist nicht Träger der Initiative, sondern unterstützt sie als Kooperationspartner – mit Raum, Vernetzung und Öffentlichkeitsarbeit.</p>"}, "id": "8ac93b26-45a1-4583-95b2-33759d1d66c7", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Du möchtest die Bürger-AG kennenlernen oder mitmachen? Meld dich im MachMit!Haus, wir stellen den Kontakt her!</p>"}, "id": "e9a70277-d3c5-48a4-9a03-64be6d1f57a0", "isHidden": false, "type": "text"}], "id": "41dc3c2f-c8b6-4834-bce7-9bb1319d76b6", "width": "1/1"}], "id": "c108d644-3fa6-4115-a17a-8170c3d83aa0"}]
+
+----
+
+Team: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Form: 
+
+----
+
+Uuid: vg9jsca3vimep5em

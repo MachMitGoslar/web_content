@@ -1,0 +1,33 @@
+Title: Infoabend Fairtrade Town Goslar
+
+----
+
+Project-start-date: 2025-03-18
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Infoabend zur Bewerbung Goslars als Fairtrade Town, seither arbeitet eine Bürger-AG an der Erfüllung der Kriterien.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: ydobbhf65dr0e0mo

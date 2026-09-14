@@ -1,0 +1,33 @@
+Title: Erster Einsatz: Waldbrand
+
+----
+
+Project-start-date: 2025-06-15
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Erster Einsatz der Spontan- und Hochwasserhelfer:innen bei einem Waldbrand.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: bvwfu3nbbakl0qya

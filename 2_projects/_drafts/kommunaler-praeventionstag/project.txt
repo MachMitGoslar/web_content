@@ -1,0 +1,57 @@
+Title: Kommunaler Präventionstag
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 36 Institutionen, ein Tag für Sicherheit und Prävention
+
+----
+
+Project-status: in Auswertung
+
+----
+
+Topic: ehrenamt
+
+----
+
+Tags:
+
+----
+
+Text: [{"attrs": [], "columns": [{"blocks": [{"content": {"text": "<p>Am 20. September 2025 fand auf dem Goslarer Marktplatz und im MachMit!Haus der erste Kommunale Präventionstag statt – unter dem Motto „Gemeinsam stark in Goslar“.</p>"}, "id": "cf5ccee3-720c-410f-9145-77cbef65e9b1", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Von 10 bis 17 Uhr präsentierten 36 Organisationen, Initiativen und Vereine ihre Arbeit rund um Themen wie Kriminal- und Gewaltprävention, Gesundheitsschutz und mehr. Neben Vorträgen gab es zahlreiche Mitmach-Stationen – ein besonderes Highlight war eine realitätsnahe Unfallsimulation, bei der Besucher:innen hautnah miterleben konnten, wie eine Rettung nach einem Verkehrsunfall abläuft.</p>"}, "id": "5cec54b0-ffc6-4c03-9b2d-9a2b5751aa47", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Organisiert wird der Präventionstag vom Kommunalen Präventionsrat (KPR) der Stadt Goslar, das MachMit!Haus war einer der Veranstaltungsorte. Nach dem gelungenen Auftakt wird an einer Fortsetzung gearbeitet.</p>"}, "id": "8e65586b-35c0-4b09-bdec-635b41152254", "isHidden": false, "type": "text"}, {"content": {"text": "<p>Mehr Infos bei der <a href=\"https://www.goslar.de/stadt-und-verwaltung/aktuelles/aktuelle-meldungen/erster-kommunaler-praeventionstag-gelungener-auftakt\">Stadt Goslar</a>.</p>"}, "id": "5822c7e9-5faf-4851-bcca-df0461e23782", "isHidden": false, "type": "text"}], "id": "66f9ec8f-0175-44ad-9d54-09f376b808ee", "width": "1/1"}], "id": "e396bca2-506c-4895-ab6d-2aae4177a0c7"}]
+
+----
+
+Team: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Form: 
+
+----
+
+Uuid: s4j1vs3yq1wlxo6b

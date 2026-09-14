@@ -1,0 +1,33 @@
+Title: Warm-Data-Lab: Die App nimmt Gestalt an
+
+----
+
+Project-start-date: 2025-05-15
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Ein Warm-Data-Lab widmet sich der Gestaltung der Goslar App.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: 40gqgcssr4ullkbc
