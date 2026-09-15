@@ -50,7 +50,7 @@ Closing-time: 22:00:00
 
 ----
 
-Notification-email: stuff@stuffdev.de
+Notification-email: machmit@goslar.de
 
 ----
 
