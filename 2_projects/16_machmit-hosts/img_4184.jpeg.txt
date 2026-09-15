@@ -23,3 +23,7 @@ Uuid: u2evbiara96hxfeb
 ----
 
 Template: image
+
+----
+
+Focus: 54.7% 35.1%
