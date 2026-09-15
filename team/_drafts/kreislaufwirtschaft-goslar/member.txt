@@ -2,7 +2,7 @@ Title: Kreislaufwirtschaft Goslar
 
 ----
 
-Cover: 
+Cover: - file://rthy4fphmm3camcs
 
 ----
 
@@ -10,7 +10,7 @@ Name: Kreislaufwirtschaft Goslar
 
 ----
 
-Description: 
+Description: Gemeinsam wollen wir die Kreislaufwirtschaft in der Region Goslar aus- und aufbauen. Dazu ist die Unterstützung vieler gefragt. Damit wir unsere Visionen erfolgreich realisieren können, haben wir uns erfolgreich für eine Förderung beworben.
 
 ----
 
@@ -18,15 +18,15 @@ Role:
 
 ----
 
-Email: 
+Email: info@wirego.de
 
 ----
 
-Phone: 
+Phone: 05321 76-702
 
 ----
 
-Address: 
+Address: Klubgartenstraße 5, 38640 Goslar
 
 ----
 
