@@ -54,7 +54,7 @@ Social-image:
 
 ----
 
-Robots: 
+Robots: index
 
 ----
 
