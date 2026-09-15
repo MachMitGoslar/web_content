@@ -26,7 +26,7 @@ Show-calendar-overview: false
 
 ----
 
-Overview-calendar-url: https://goslar.de
+Overview-calendar-url: 
 
 ----
 
