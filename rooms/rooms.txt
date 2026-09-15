@@ -30,23 +30,23 @@ Overview-calendar-url:
 
 ----
 
-Lead-time-days: 
+Lead-time-days: 2
 
 ----
 
-Max-future-days: 
+Max-future-days: 120
 
 ----
 
-Time-slot-minutes: 
+Time-slot-minutes: 15 Minuten
 
 ----
 
-Opening-time: 
+Opening-time: 09:00:00
 
 ----
 
-Closing-time: 
+Closing-time: 22:00:00
 
 ----
 
