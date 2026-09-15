@@ -22,7 +22,7 @@ Booking-info:
 
 ----
 
-Show-calendar-overview: true
+Show-calendar-overview: false
 
 ----
 
