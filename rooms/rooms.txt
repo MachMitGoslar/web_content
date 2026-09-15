@@ -2,7 +2,7 @@ Title: Rooms and Booking System
 
 ----
 
-Cover: 
+Cover: - file://i9h7be5mrxixfzfb
 
 ----
 
