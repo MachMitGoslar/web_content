@@ -18,6 +18,10 @@ Project-status: in Auswertung
 
 ----
 
+Topic: ehrenamt
+
+----
+
 Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Das MachMit!Stipendium ist eine Förderung von konkret umsetzbaren Projekten – keine reine Konzeptförderung. Gefördert werden Vorhaben, die im öffentlichen Raum sichtbar sind und einen direkten Mehrwert für die Stadtgesellschaft schaffen.</p><p>Was fehlt in Goslar? Was kannst du dafür tun, dass ein Problem gelöst oder ein Missstand behoben wird? Sei aktiv! Wir geben dir zwischen <strong>500 und 5.000&nbsp;€</strong> für die Umsetzung deiner Verbesserer-Idee.</p>"},"id":"6ddce9c9-be7e-4dde-a5d5-32df36e5792c","isHidden":false,"type":"text"}],"id":"1b6333b0-159c-40e5-a80a-8aa4ac9fe611","width":"1/1"}],"id":"1c684204-46d3-41d1-acb3-487af0f9c443"},{"attrs":[],"columns":[{"blocks":[{"content":{"linestyle":"solid","thickness":"thin","color":"light","spacing":"regular"},"id":"3668734f-4af6-4f44-b9d1-97e43385dd81","isHidden":false,"type":"divider"}],"id":"5a30a769-0682-47e8-b58a-291c7a7d8a5b","width":"1/1"}],"id":"7ebb4d99-99c8-49cd-b53a-e3ab2d26bfa4"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file://idtp5mj6fhjvxvtu","file://vovw1qf610tcxffb","file://yulgvcojmwnxlsxn"],"caption":"","ratio":"","crop":"false"},"id":"a0a8d4ad-3ab9-4997-972f-4b8855d9b839","isHidden":false,"type":"gallery"}],"id":"d1f44070-a724-42be-9967-93d6d994b7d7","width":"1/1"}],"id":"b6a9e175-fd31-4362-b145-c24d13c6e3d9"}]
 
 ----

@@ -1,0 +1,33 @@
+Title: Christmas Challenge: 2.400 Bäume
+
+----
+
+Project-start-date: 2025-01-15
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Die MachMit!Wald Christmas Challenge in Kooperation mit der Summitree-App endet — 2.400 Baumsetzlinge sind zusammengekommen.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: zok2rhqw86gzbg06

@@ -1,0 +1,33 @@
+Title: Neue Pflanzfläche Bocksberg
+
+----
+
+Project-start-date: 2025-10-15
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Eine neue Pflanzfläche am Bocksberg kommt hinzu.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: agbmm09wsmhuzbna

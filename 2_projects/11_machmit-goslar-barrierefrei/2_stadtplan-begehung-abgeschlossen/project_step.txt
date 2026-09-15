@@ -1,0 +1,33 @@
+Title: Stadtplan-Begehung abgeschlossen
+
+----
+
+Project-start-date: 2026-06-15
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Die Begehung für den barrierefreien Stadtplan ist abgeschlossen, ab Juli beginnt die Feedback-Phase.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: m3yjv8wu77zak2mn

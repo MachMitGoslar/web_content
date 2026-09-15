@@ -1,0 +1,33 @@
+Title: Minimesse & Klimamarkt „Wir fürs Klima“
+
+----
+
+Project-start-date: 2025-09-26
+
+----
+
+Project-start-time:
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline:
+
+----
+
+Description: <p>Minimesse für Grundschulkinder im MachMit!Haus, gefolgt vom großen Klimamarkt auf dem Marktplatz mit Kooperationspartnern wie Stadt Goslar, EnergieRessourcenAgentur, Stadtforst Goslar und TU Clausthal.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: xr9ofji42n8xaxew

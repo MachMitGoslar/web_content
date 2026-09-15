@@ -18,6 +18,10 @@ Project-status: aktiv
 
 ----
 
+Topic: haus
+
+----
+
 Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Beim <strong>Black (and White) Kaffee</strong> im MachMit!Haus steht nicht der Kaffee im Mittelpunkt, sondern die gemeinsame Zeit. Das Offline-Café lädt dazu ein, das Smartphone für eine Weile beiseitezulegen und sich ganz auf die Menschen um sich herum einzulassen.</p><p>Die Idee ist einfach: <strong>Handys bleiben draußen oder können am Eingang abgegeben werden.</strong> Statt Nachrichten, Social Media und Bildschirmzeit stehen persönliche Begegnungen, gute Gespräche und ein entspannter gemeinsamer Abend im Vordergrund.</p><p>Für Kaffee, Tee und weitere Getränke ist gesorgt. Wer möchte, kann Kuchen oder andere Leckereien mitbringen und mit den anderen Gästen teilen. Ein festes Programm braucht es dabei nicht – denn beim Black (and White) Kaffee gilt: <strong>Das Gespräch ist das Programm.</strong></p><p>So entsteht im MachMit!Haus ein offener und unkomplizierter Treffpunkt für alle, die Lust auf Austausch, neue Begegnungen und ein paar Stunden ganz ohne Smartphone haben.</p>"},"id":"694fc904-299f-4c81-9156-47bfa37df128","isHidden":false,"type":"text"}],"id":"3b7946bc-dee6-49a1-ad0b-296cac2af9c7","width":"1/1"}],"id":"d61ff29e-2584-4d01-b79c-b152fac4ccaa"}]
 
 ----

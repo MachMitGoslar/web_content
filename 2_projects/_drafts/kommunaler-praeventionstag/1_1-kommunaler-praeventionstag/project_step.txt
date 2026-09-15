@@ -1,0 +1,33 @@
+Title: 1. Kommunaler Präventionstag
+
+----
+
+Project-start-date: 2025-09-20
+
+----
+
+Project-start-time: 10:00:00
+
+----
+
+Project-status-from: in Vorbereitung
+
+----
+
+Project-status-to: in Auswertung
+
+----
+
+Headline:
+
+----
+
+Description: <p>Erste Ausgabe des Kommunalen Präventionstags auf dem Marktplatz und im MachMit!Haus, unter dem Motto „Gemeinsam stark in Goslar“ – mit 36 beteiligten Institutionen, Initiativen und Vereinen.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: 0nusl46opo5rymur
