@@ -14,7 +14,7 @@ Status: true
 
 ----
 
-Assigned-channel: signage/channels/machmit-geburtstag
+Assigned-channel: signage/channels/aktuelle-veranstaltungen-und-projekte
 
 ----
 
