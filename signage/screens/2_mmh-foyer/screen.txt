@@ -76,12 +76,6 @@ Whitelist:
   label: '09-09 - Foyer'
   approved_at: 2026-09-09 13:44:46
   approved_by: stuff@stuffdev.de
-- 
-  uuid: c6aae8be-6ca8-42a3-b762-2c98447a40e6
-  ip: ""
-  label: '15-09 - Flur'
-  approved_at: 2026-09-15 10:29:44
-  approved_by: stuff@stuffdev.de
 
 ----
 
