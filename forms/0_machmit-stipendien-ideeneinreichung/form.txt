@@ -10,7 +10,7 @@ Actions: [{"content":{"tablename":""},"id":"782060cb-c54a-42d4-ba44-5ac3b3d6943a
 
 ----
 
-Successmessage: <p>Vielen Dank für die Einreichung deiner Idee!</p>
+Successmessage: <p>Vielen Dank für die Einreichung deiner Idee! Wir haben deine Idee erhalten.</p>
 
 ----
 
