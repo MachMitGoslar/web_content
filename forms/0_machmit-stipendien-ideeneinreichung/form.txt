@@ -6,7 +6,7 @@ Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"vor-und-nachname",
 
 ----
 
-Actions: 
+Actions: [{"content":{"tablename":""},"id":"782060cb-c54a-42d4-ba44-5ac3b3d6943a","isHidden":false,"type":"database-action"},{"content":{"sendto":{"type":"dynamic","field":"0fe62dc0-30ec-4b5d-9e78-4245a778a30b"},"replyto":{"type":"static","value":"machmit@goslar.de"},"subject":"MachMit!Stipendien - Wir haben deine Idee erhalten","fieldtemplate":"<p>Hallo <span data-dreamform-field=\"true\" data-field=\"{{ vor_und_nachname }}\">{{ vor_und_nachname }}</span>,</p><p>wir haben deine Ideeneinreichung für die MachMit!Stipendien erhalten. Vielen Dank für deine Teilnahme.</p><p>In Kürze starten wir mit der Bewertungsphase. Wir melden uns bei dir sobald wir Ergebnisse vorliegen haben.</p><p></p><p>Viele Grüße<br>Dein MachMit!-Team</p>","kirbytemplate":"dreamform","attachments":""},"id":"ea3d8cf2-432b-46ad-a0fa-aa4b3d4c6b04","isHidden":false,"type":"email-action"}]
 
 ----
 
