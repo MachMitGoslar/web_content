@@ -1,0 +1,29 @@
+Title: Newsletter Anmeldung
+
+----
+
+Fields: 
+
+----
+
+Actions: 
+
+----
+
+Successmessage: 
+
+----
+
+Continueonerror: false
+
+----
+
+Runworkflowinqueue: true
+
+----
+
+Storesubmissions: true
+
+----
+
+Uuid: nr4jnmeaoirirqzu
