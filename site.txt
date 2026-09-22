@@ -18,7 +18,15 @@ Newsletterteaserbuttontext: Newsletter abonieren
 
 ----
 
-Form: - page://nr4jnmeaoirirqzu
+Registrationform: 
+
+----
+
+Modalheadline: Anmeldung
+
+----
+
+Modaltext: Jetzt für den Newsletter registrieren
 
 ----
 
@@ -56,6 +64,10 @@ Social-image:
 ----
 
 Twitter-handle: 
+
+----
+
+Form: - page://nr4jnmeaoirirqzu
 
 ----
 
