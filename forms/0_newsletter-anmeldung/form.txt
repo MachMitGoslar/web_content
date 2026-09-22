@@ -14,7 +14,7 @@ Successmessage: <p>Vielen Dank für deine Registrierung. Künftig erhältst du d
 
 ----
 
-Continueonerror: true
+Continueonerror: false
 
 ----
 
