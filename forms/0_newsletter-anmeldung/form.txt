@@ -6,7 +6,7 @@ Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"firstname","label"
 
 ----
 
-Actions: [{"content":[],"id":"56a6253a-b45f-43b6-80bd-f745c6f20454","isHidden":false,"type":"newsletter-recipient-action"},{"content":{"tablename":"newsletter"},"id":"a3ea4c63-c8bc-460f-8d03-e7c5cc58afe2","isHidden":false,"type":"database-action"}]
+Actions: [{"content":[],"id":"56a6253a-b45f-43b6-80bd-f745c6f20454","isHidden":false,"type":"newsletter-recipient-action"}]
 
 ----
 
