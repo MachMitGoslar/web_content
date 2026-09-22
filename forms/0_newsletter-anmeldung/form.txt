@@ -1,0 +1,29 @@
+Title: Newsletter Anmeldung
+
+----
+
+Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"vorname","label":"Vorname","placeholder":"","required":"false","errormessage":"","maxlength":"","allowedcharacters":"all","maxlengtherrormessage":"","characterserrormessage":""},"id":"2593d93b-3a39-420d-8052-5795f0ecf754","isHidden":false,"type":"text-field"}],"id":"d50b9d7a-fd6d-4cce-b628-7be437b9d6f8","width":"1/2"},{"blocks":[{"content":{"key":"name","label":"Nachname","placeholder":"","required":"false","errormessage":""},"id":"159035df-181b-47c0-adc9-1e7a27111a89","isHidden":false,"type":"email-field"}],"id":"9aed4046-c3bc-4bc1-9373-3fda38544ca9","width":"1/2"}],"id":"8afd3649-0148-41f2-a6aa-6c160b179f74"},{"attrs":[],"columns":[{"blocks":[{"content":{"key":"email","label":"e-Mail","placeholder":"","required":"false","errormessage":""},"id":"f01a9124-16c1-4843-a57e-396a7bcb130f","isHidden":false,"type":"email-field"}],"id":"4a4ba39d-1f68-4a8b-a0ac-1dd66d1d343d","width":"1/1"}],"id":"b2ee2d35-02b9-41e3-88a2-a93d33ffbed6"},{"attrs":[],"columns":[{"blocks":[{"content":{"label":"Absenden"},"id":"3367866c-27be-4340-a274-67175ad584a9","isHidden":false,"type":"button-field"}],"id":"bbad976c-a83a-4f02-a88e-da332118cad9","width":"1/1"}],"id":"83c16a03-7282-44bb-b532-6356688de04a"}]
+
+----
+
+Actions: [{"content":[],"id":"56a6253a-b45f-43b6-80bd-f745c6f20454","isHidden":false,"type":"newsletter-recipient-action"},{"content":{"tablename":"newsletter"},"id":"a3ea4c63-c8bc-460f-8d03-e7c5cc58afe2","isHidden":false,"type":"database-action"}]
+
+----
+
+Successmessage: <p>Vielen Dank für deine Registrierung. Künftig erhältst du den Newsletter von uns.</p>
+
+----
+
+Continueonerror: true
+
+----
+
+Runworkflowinqueue: true
+
+----
+
+Storesubmissions: true
+
+----
+
+Uuid: nr4jnmeaoirirqzu
