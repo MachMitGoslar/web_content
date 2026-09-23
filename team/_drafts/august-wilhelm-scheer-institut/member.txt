@@ -2,7 +2,7 @@ Title: August-Wilhelm Scheer Institut
 
 ----
 
-Cover: 
+Cover: - file://hfrnw1uhsojb0xoi
 
 ----
 
@@ -10,23 +10,23 @@ Name: August-Wilhelm Scheer Institut
 
 ----
 
-Description: 
+Description: Wir überbrücken die Lücke zwischen Technologieeinsatz und echter Digitalisierung mit digitalen Produkten und Prozessen. Mit unserer praxisnahen Forschung und individuellen Digitalisierungsberatung begleiten wir unsere Partner durch die digitale und KI-getriebene Revolution hin zu nachhaltigem Erfolg.
 
 ----
 
-Role: 
+Role: Institut
 
 ----
 
-Email: 
+Email: info@aws-institut.de
 
 ----
 
-Phone: 
+Phone: +49 681 96777-0
 
 ----
 
-Address: 
+Address: Uni-Campus D 5 1, 66123 Saarbrücken
 
 ----
 
