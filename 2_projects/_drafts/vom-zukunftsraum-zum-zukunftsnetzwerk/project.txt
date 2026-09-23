@@ -10,15 +10,15 @@ Headline:
 
 ----
 
-Subheadline: 
+Subheadline: Gemeinsam für eine starke Region!
 
 ----
 
-Project-status: 
+Project-status: aktiv
 
 ----
 
-Topic: 
+Topic: demokratie
 
 ----
 
@@ -26,11 +26,15 @@ Tags:
 
 ----
 
-Text: 
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":[],"id":"ff0b77e6-09ff-430f-becc-14cdbba1fab6","isHidden":false,"type":"testimonial"},{"content":{"cardtype":"manual","page":[],"image":[],"headline":"Die Zukunftswerkstatt","subheadline":"06. - 07. November 2026","description_content":"[{\"content\":{\"text\":\"<p>Text</p>\"},\"id\":\"678f0777-f784-4607-bd5f-aa95b67e11a4\",\"isHidden\":false,\"type\":\"text\"}]","color":"primary","linkmode":"none","link":"","linktext":"Mehr erfahren","buttontype":{"color":"primary","size":"regular","style":"pill"}},"id":"5834b25a-09b5-4648-84b8-65e28cada3e9","isHidden":false,"type":"card"},{"content":[],"id":"fbf83ede-1101-49a4-bd7d-8944a5ebf645","isHidden":false,"type":"testimonial"}],"id":"1f8389c9-7439-4bc8-a218-8c014984cb00","width":"1/1"}],"id":"26a10321-9d6b-4f98-8a72-0bc9f41d9b2f"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Seesen und Goslar tun sich zusammen, um unsere Region fit für die Zukunft zu machen. Strukturwandel und die Nachwirkungen der Corona-Pandemie haben Spuren hinterlassen – jetzt wollen wir neue Impulse setzen. Wissenschaft, Wirtschaft und du als Bürgerin oder Bürger arbeiten dabei Hand in Hand.</p><h6 class=\"font-subheadline\"><strong>Worum geht's konkret?</strong></h6><p>Im Mittelpunkt stehen Start-ups mit frischen Ideen für die Region. So läuft's ab:</p><p>Die TU Clausthal wählt am Center for Digital Technologies (DIGIT) vielversprechende Gründungsideen aus.</p><p>Im MachMit!Haus in Goslar stellen die Start-ups ihre Ideen vor – und du kannst mitreden, mitdenken und die Konzepte mitgestalten.</p><p>In der NewKammer in Seesen, einem Coworking Space extra für Start-ups auf dem Land, bekommen die Gründerinnen und Gründer Raum und Unterstützung.</p><h6 class=\"font-subheadline\"><strong>Warum lohnt sich das?</strong></h6><p>Neue Unternehmen bedeuten neue Arbeitsplätze und mehr Lebendigkeit in Seesen und Goslar. Gleichzeitig entsteht ein Netzwerk, das zeigt: Auch außerhalb der Großstädte kann Innovation gelingen – mit Wissenschaft im Rücken und Bürgerinnen und Bürgern, die mitmischen. Andere ländliche Regionen können sich davon eine Scheibe abschneiden.</p><h6 class=\"font-subheadline\"><strong>MachMit!</strong></h6><p>Du hast Lust, neue Ideen kennenzulernen oder deine eigene Perspektive einzubringen? Komm ins MachMit!Haus nach Goslar und sei dabei, wenn aus Ideen echte Unternehmen werden.</p>"},"id":"0139e43b-6ab3-4f6a-b87d-f9665dd572ef","isHidden":false,"type":"text"}],"id":"b9907630-01ec-4420-b564-fb081e267f1d","width":"1/1"}],"id":"062c6851-ae24-4642-89d0-9c13ff575423"}]
 
 ----
 
-Team: 
+Team:
+
+- page://onpwkvxqnbqarvik
+- page://sspshn0jwkldmzyq
+- page://wwjhp3dvbzdbwqhx
 
 ----
 
