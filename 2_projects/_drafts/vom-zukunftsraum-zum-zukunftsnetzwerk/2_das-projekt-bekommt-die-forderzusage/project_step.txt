@@ -2,7 +2,7 @@ Title: Das Projekt bekommt die Förderzusage
 
 ----
 
-Project-start-date: 2026-02-24
+Project-start-date: 2025-02-24
 
 ----
 
