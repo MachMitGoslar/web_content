@@ -1,0 +1,33 @@
+Title: Kooperation TU Clausthal, Ostfalia &amp; DIGIT
+
+----
+
+Project-start-date: 2024-12-01
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: abgeschlossen
+
+----
+
+Project-status-to: abgeschlossen
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Deine digitale Idee — Kooperationsprojekt mit TU Clausthal, Hochschule Ostfalia und DIGIT.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: cnt2cgqdo0wzn1ws

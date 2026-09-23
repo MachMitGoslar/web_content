@@ -1,0 +1,33 @@
+Title: Wettbewerb startet
+
+----
+
+Project-start-date: 2025-04-15
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Der Bürgerkunstwettbewerb „Mein buntes Goslar“ startet, mit Fokus auch auf Jugendarbeit.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: peque7mbsnkrq9no
