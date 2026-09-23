@@ -2,11 +2,11 @@ Title: Das Projekt startet offiziell
 
 ----
 
-Project-start-date: 
+Project-start-date: 2025-06-01
 
 ----
 
-Project-start-time: 
+Project-start-time: 12:00:00
 
 ----
 
@@ -14,7 +14,7 @@ Project-status-from:
 
 ----
 
-Project-status-to: 
+Project-status-to: in Vorbereitung
 
 ----
 
@@ -26,11 +26,11 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Das Projekt ist offiziell auf dem Weg</p>
 
 ----
 
-Tags: 
+Tags: start, beginn
 
 ----
 
