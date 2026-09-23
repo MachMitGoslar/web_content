@@ -34,7 +34,11 @@ Team:
 
 ----
 
+<<<<<<< HEAD
 Show-project-step-pictures: false
+=======
+Show-project-step-pictures: true
+>>>>>>> 1eb114e1d1dad755073519e89fa07e608ab657b5
 
 ----
 
