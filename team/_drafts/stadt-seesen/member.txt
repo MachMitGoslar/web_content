@@ -10,7 +10,7 @@ Name: Stadt Seesen
 
 ----
 
-Description: 
+Description: Stadtverwaltung Seesen
 
 ----
 
