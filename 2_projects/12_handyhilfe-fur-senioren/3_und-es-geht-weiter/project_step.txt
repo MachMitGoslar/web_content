@@ -18,11 +18,15 @@ Project-status-to:
 
 ----
 
+Image: 
+
+----
+
 Headline: 
 
 ----
 
-Description: <p>Am 05.10.2026 um 10 Uhr findet die nächste Handyhilfe für Seniorinnen und Senioren statt.</p>
+Description: <p>Am 05.10.2026 um 10 Uhr findet die nächste Handyhilfe für Seniorinnen und Senioren statt. Dieses mal dreht sich alles um den App- und Play Store.</p>
 
 ----
 
