@@ -62,12 +62,6 @@ Uuid: e36m89tno9zfkgps
 Whitelist:
 
 - 
-  uuid: 587a933c-fc3f-4122-b0c8-a21b238ff6bb
-  ip: 80.148.36.114
-  label: Flur 23-09
-  approved_at: 2026-09-23 08:25:32
-  approved_by: stuff@stuffdev.de
-- 
   uuid: bbf6c0e3-7515-4331-872b-1b57a29f4ac8
   ip: 185.238.219.14
   label: '09-09 - Foyer'
