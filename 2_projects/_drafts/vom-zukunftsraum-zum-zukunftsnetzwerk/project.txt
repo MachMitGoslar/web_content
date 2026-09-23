@@ -38,7 +38,7 @@ Team:
 
 ----
 
-Show-project-step-pictures: true
+Show-project-step-pictures: false
 
 ----
 
