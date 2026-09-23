@@ -2,11 +2,11 @@ Title: Das Projekt bekommt die Förderzusage
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-02-24
 
 ----
 
-Project-start-time: 
+Project-start-time: 12:00:00
 
 ----
 
@@ -14,7 +14,7 @@ Project-status-from:
 
 ----
 
-Project-status-to: 
+Project-status-to: in Planung
 
 ----
 
@@ -26,7 +26,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p><strong>Regionalentwicklungsministerin </strong>Ministerin Osigus übergibt den Antragspartnern "Stadt Seesen", "Stadt Goslar" und dem DIGIT 290.700€ Fördermittel für die Realisierung unseres Antrags "Vom Zukunftsraum zum Zukunftsnetzwerk"</p>
 
 ----
 
