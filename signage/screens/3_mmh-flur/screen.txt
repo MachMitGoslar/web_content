@@ -85,6 +85,12 @@ Whitelist:
   label: '09-09 - Flur'
   approved_at: 2026-09-09 13:45:15
   approved_by: stuff@stuffdev.de
+- 
+  uuid: 5b4d9a53-16c9-4994-9dce-099ac6d835e6
+  ip: 185.238.218.32
+  label: '11-09 - Flur'
+  approved_at: 2026-09-11 14:39:05
+  approved_by: stuff@stuffdev.de
 
 ----
 
