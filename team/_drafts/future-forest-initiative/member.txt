@@ -10,7 +10,7 @@ Name: Future Forest Initiative
 
 ----
 
-Description: 
+Description: Die Future Forest Initiative verbindet und unterstützt Visionäre und Pioniere, um Innovationen in Einklang mit der Natur zu entwickeln – mit einem intakten Wald als Symbol für einen gesunden Planeten.
 
 ----
 
@@ -18,7 +18,7 @@ Role:
 
 ----
 
-Email: 
+Email: info@futureforest.de
 
 ----
 
@@ -42,7 +42,7 @@ Facebook:
 
 ----
 
-Instagram: 
+Instagram: futureforest_de
 
 ----
 
@@ -50,7 +50,7 @@ X:
 
 ----
 
-Linkedin: 
+Linkedin: company/futureforest-deutschland
 
 ----
 
@@ -58,7 +58,7 @@ Github:
 
 ----
 
-Youtube: 
+Youtube: @FutureForestInitiative
 
 ----
 
