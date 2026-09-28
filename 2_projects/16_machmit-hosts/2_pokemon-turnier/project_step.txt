@@ -1,0 +1,33 @@
+Title: Pokémon-Turnier
+
+----
+
+Project-start-date: 2025-11-15
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: aktiv
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Erste größere Aktion der MachMit!Hosts — ein Pokémon-Turnier im MachMit!Haus.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: 1lss5cjq38qu3y8t

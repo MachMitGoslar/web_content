@@ -1,0 +1,53 @@
+Title: Das Projekt startet offiziell
+
+----
+
+Project-start-date: 2025-06-01
+
+----
+
+Project-start-time: 12:00:00
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Image: 
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Das Projekt ist offiziell auf dem Weg</p>
+
+----
+
+Tags: start, beginn
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: v9hlk9ocpkfdbvhh

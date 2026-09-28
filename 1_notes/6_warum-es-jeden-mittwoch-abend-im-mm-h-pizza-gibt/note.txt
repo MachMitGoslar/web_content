@@ -1,0 +1,53 @@
+Title: Warum es jeden Mittwoch Abend im MM!H Pizza gibt
+
+----
+
+Cover: - file://vfkjumypumw5e4vl
+
+----
+
+Headline: Der Treffpunkt für Coder in Goslar
+
+----
+
+Text: [{"content":{"text":"<p>Immer Mittwochs wird gegen 19:00 Uhr gemeinsam Pizza bestellt (Nein, sie wird nicht von der Stadt Goslar bezahlt). Warum? Das ist einfach erklärt!</p><p>Schon eine geraume Weile findet im MachMit!Haus das Projekt <a href=\"https://machmit.goslar.de/projects/coding4kids\" class=\"gs-c-btn\" title=\"Coding4Goslar\" data-button=\"true\" data-type=\"tertiary\" data-size=\"small\" data-style=\"square\">Coding4Goslar</a> statt. Projekt ist dabei vielleicht ein sehr großer Begriff. Mittwoch Abend wird das MachMit!Haus zum Treffpunkt für Interessierte im Bereich Coding, Making &amp; Automatisierung. Dabei gibt es kein Programm, keinen Vortrag, keine Anwesenheitspflicht... einfach dabei sein reicht. </p><p>Viele der Besucher:innen bringen ihre eigenen Laptops und Projekte mit und nutzen die Zeit mit Gleichgesinnten ins Gespräch zu kommen. Denn viele Programmierer:innen sehen Coding nicht nur Hauptjob, sondern auch als Leidenschaft in ihrer Freizeit. </p><p>Nur gibt es eben keine \"Sportvereine\" für Programmierer:innen in den meisten Städten. Daher ist der Mittwoch zu so etwas wie dem Trainings- oder Dienstabend für Coder gereift. Und weil es eben eine super Zeit für Abendbrot ist, wird Pizza bestellt. </p><p>Auch Lust auf Pizza? Ich freue mich dich ebenfalls einmal am Mittwoch Abend im MachMit!Haus begrüßen zu dürfen. Ob es für dich richtig ist oder nicht... das kann ich nicht sagen. Aber zuschauen, wohlfühlen und mitessen ist bei uns immer erlaubt!</p>","publish_date":"","end_date":""},"id":"8e9f8ac0-66f7-47de-92cf-a95433f86283","isHidden":false,"type":"text"}]
+
+----
+
+Published: 2026-09-23
+
+----
+
+Author: - page://Cw3N87jTU3LFBVvj
+
+----
+
+Tags: coding, blog, story, project
+
+----
+
+Featured: false
+
+----
+
+Internal-notes: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: Immer Mittwochs wird gegen 19:00 Uhr gemeinsam Pizza bestellt (Nein, sie wird nicht von der Stadt Goslar bezahlt). Warum? Das ist einfach erklärt!
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: uqh9g8biquqszaxg

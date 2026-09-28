@@ -1,0 +1,85 @@
+Title: August-Wilhelm Scheer Institut
+
+----
+
+Cover: - file://hfrnw1uhsojb0xoi
+
+----
+
+Name: August-Wilhelm Scheer Institut für digitale Produkte und Prozesse gGmbH
+
+----
+
+Description: Wir überbrücken die Lücke zwischen Technologieeinsatz und echter Digitalisierung mit digitalen Produkten und Prozessen. Mit unserer praxisnahen Forschung und individuellen Digitalisierungsberatung begleiten wir unsere Partner durch die digitale und KI-getriebene Revolution hin zu nachhaltigem Erfolg.
+
+----
+
+Role: Institut
+
+----
+
+Email: info@aws-institut.de
+
+----
+
+Phone: +49 681 96777-0
+
+----
+
+Address: Uni-Campus D 5 1, 66123 Saarbrücken
+
+----
+
+Geo: 
+
+----
+
+Teams: partner
+
+----
+
+Facebook: 
+
+----
+
+Instagram: 
+
+----
+
+X: 
+
+----
+
+Linkedin: 
+
+----
+
+Github: 
+
+----
+
+Youtube: 
+
+----
+
+Tags: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: ieupwglniqevhsyp

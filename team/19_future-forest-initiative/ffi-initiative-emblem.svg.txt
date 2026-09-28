@@ -18,4 +18,8 @@ Link:
 
 ----
 
-Uuid: kx1jc4uvdot6xvkj
+Uuid: yhzxdcs3u2zbnjbm
+
+----
+
+Template: image

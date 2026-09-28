@@ -1,0 +1,85 @@
+Title: Stadt Seesen
+
+----
+
+Cover: - file://sphfseepv0boezao
+
+----
+
+Name: Stadt Seesen
+
+----
+
+Description: Stadtverwaltung Seesen
+
+----
+
+Role: Wirtschaftsförderung
+
+----
+
+Email: kott@seesen.de
+
+----
+
+Phone: 05381 75 287
+
+----
+
+Address: Marktstraße 1, 38723 Seesen
+
+----
+
+Geo: 
+
+----
+
+Teams: partner
+
+----
+
+Facebook: 
+
+----
+
+Instagram: 
+
+----
+
+X: 
+
+----
+
+Linkedin: 
+
+----
+
+Github: 
+
+----
+
+Youtube: 
+
+----
+
+Tags: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: l8sqn0nwytultsea

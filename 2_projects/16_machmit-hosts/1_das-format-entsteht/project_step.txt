@@ -1,0 +1,33 @@
+Title: Das Format entsteht
+
+----
+
+Project-start-date: 2025-03-15
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Ein neues Ehrenamtsformat für Gastgeber:innen im MachMit!Haus entsteht.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: ovquskbt134gw25x

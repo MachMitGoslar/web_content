@@ -1,12 +1,12 @@
-Title: Rooms and Booking System
+Title: Unsere Räume
 
 ----
 
-Cover: 
+Cover: - file://i9h7be5mrxixfzfb
 
 ----
 
-Headline: 
+Headline: Räume im MachMit!Haus
 
 ----
 
@@ -22,39 +22,55 @@ Booking-info:
 
 ----
 
-Show-calendar-overview: true
+Show-calendar-overview: false
 
 ----
 
-Overview-calendar-url: https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FBerlin&showPrint=1&src=MWE2NWZjMjA5ODA5MmU1M2JkNGM1ZDAxZWY0MTdiMGJmMDM4MzIyN2VjZWU1MmQxZWE5NDgyMTQ5OWIzZGE0NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YzRhYzYzN2RjMzE4NmJmMDAyYmQyYzcwYjI0ZWI1NzFkNWFjYmU2YjA5OGFkMzk1MjJlN2MzNWFmMDdjYzA4MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MmYwMWZmZWYyNjY1ZjJhNjAxNzgzYTZjNzllNjQ5YTE2MmU1N2I5ZGE3ZWE3ZjM0ZWY1ZGEyZjc1ZDAyM2UwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZTdjNzJmNTAyNTk1NWFkMmNmMTY4ZjdmNWU2YThlNWE3ZTA4OGZhMjYzZThkZGY1YTBiMjBjYzVjZWRhMWZmY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%237986cb&color=%23795548&color=%23b39ddb&color=%233f51b5
+Overview-calendar-url: 
 
 ----
 
-Lead-time-days: 
+Lead-time-days: 2
 
 ----
 
-Max-future-days: 
+Max-future-days: 120
 
 ----
 
-Time-slot-minutes: 
+Time-slot-minutes: 15 Minuten
 
 ----
 
-Opening-time: 
+Opening-time: 09:00:00
 
 ----
 
-Closing-time: 
+Closing-time: 22:00:00
 
 ----
 
-Notification-email: stuff@stuffdev.de
+Notification-email: machmit@goslar.de
 
 ----
 
 Notification-enabled: true
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
 
 ----
 
