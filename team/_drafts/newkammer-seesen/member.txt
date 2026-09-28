@@ -2,7 +2,7 @@ Title: NewKammer Seesen
 
 ----
 
-Cover: 
+Cover: - file://a0qqo5b2opvcgwya
 
 ----
 
@@ -10,27 +10,30 @@ Name: NewKammer Seesen
 
 ----
 
-Description: 
+Description: Die NewKammer ist Seesens moderner, kommunal betriebener Coworking Space, der allen Interessierten eine kreative Plattform und ein innovatives Arbeitsumfeld bietet.
 
 ----
 
-Role: 
+Role: CoWorking Space
 
 ----
 
-Email: 
+Email: newkammer@seesen.de
 
 ----
 
-Phone: 
+Phone: Cristoph Ciupka
 
 ----
 
-Address: 
+Address: Poststraße 14, 38723 Seesen, Niedersachsen Deutschland
 
 ----
 
-Geo: 
+Geo:
+
+latitude: "51.888758"
+longitude: "10.172868"
 
 ----
 
@@ -42,7 +45,7 @@ Facebook:
 
 ----
 
-Instagram: 
+Instagram: newkammerseesen
 
 ----
 
