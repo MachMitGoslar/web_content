@@ -2,19 +2,19 @@ Title: Mia Cowan leitet zukünftig das Projekt
 
 ----
 
-Project-start-date: 
+Project-start-date: 2025-11-01
 
 ----
 
-Project-start-time: 
+Project-start-time: 10:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: in Vorbereitung
 
 ----
 
-Project-status-to: 
+Project-status-to: aktiv
 
 ----
 
@@ -26,7 +26,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Als Projektmanagerin des Projekts verfolgt Mia, durch die Verbindung von Wirtschaft, Wissenschaft und Bürgerschaft neue Impulse für die regionale Entwicklung zu schaffen und die Gründungskultur in der Region zu stärken. Künftig werdet ihr sie im MachMit!Haus, in der NewKammer und im DIGIT persönlich antreffen können</p>
 
 ----
 
