@@ -10,11 +10,11 @@ Project-start-time: 10:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: in Planung
 
 ----
 
-Project-status-to: 
+Project-status-to: in Vorbereitung
 
 ----
 
@@ -26,7 +26,7 @@ Headline:
 
 ----
 
-Description: <p>Am 05.10.2026 um 10 Uhr findet die nächste Handyhilfe für Seniorinnen und Senioren statt. Dieses mal dreht sich alles um den App- und Play Store.</p>
+Description: <p>Am 05.10.2026 um 10 Uhr findet die nächste Handyhilfe für Seniorinnen und Senioren statt. Dieses mal dreht sich alles um den App- und Play Store. Im Anschluss kommen Schülerinnen und Schüler der BBS Baßgeige ins MachMit!Haus, um in 1:1 Gesprächen bei individuellen Anfragen und Problemen ehrenamtlich zu helfen. </p>
 
 ----
 
