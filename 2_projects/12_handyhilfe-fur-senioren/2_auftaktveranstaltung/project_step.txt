@@ -10,7 +10,7 @@ Project-start-time:
 
 ----
 
-Project-status-from: in Vorbereitung
+Project-status-from: 
 
 ----
 
