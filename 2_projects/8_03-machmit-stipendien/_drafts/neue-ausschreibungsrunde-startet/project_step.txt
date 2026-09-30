@@ -46,7 +46,7 @@ Social-image: - file://xgkn254lof1lfmnu
 
 ----
 
-Robots: 
+Robots: index
 
 ----
 
