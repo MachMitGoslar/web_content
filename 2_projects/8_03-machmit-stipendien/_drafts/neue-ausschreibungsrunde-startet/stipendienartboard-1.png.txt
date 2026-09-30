@@ -23,3 +23,7 @@ Uuid: xgkn254lof1lfmnu
 ----
 
 Template: image
+
+----
+
+Focus: 52.5% 78.9%
