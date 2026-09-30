@@ -34,7 +34,7 @@ Tags:
 
 ----
 
-Seo-title: 
+Seo-title: MachMit!Stipenden - Neue Ausschreibungsrunde startet
 
 ----
 
@@ -42,7 +42,7 @@ Seo-description:
 
 ----
 
-Social-image: 
+Social-image: - file://xgkn254lof1lfmnu
 
 ----
 
