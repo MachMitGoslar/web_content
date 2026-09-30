@@ -34,11 +34,11 @@ Internal-notes:
 
 ----
 
-Seo-title: 
+Seo-title: Beteiligung funktioniert mit Türen aufmachen
 
 ----
 
-Seo-description: 
+Seo-description: Heute gab es wieder einmal die "Advanced Avionics Challenge" im MachMit!Haus, aber warum?
 
 ----
 
@@ -46,7 +46,7 @@ Social-image:
 
 ----
 
-Robots: 
+Robots: index
 
 ----
 
