@@ -14,7 +14,7 @@ Subheadline: Du weißt, wie du Goslar voranbringen könntest? Los geht’s! Wir 
 
 ----
 
-Project-status: in Auswertung
+Project-status: aktiv
 
 ----
 
