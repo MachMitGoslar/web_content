@@ -18,7 +18,7 @@ Project-status-to: in Vorbereitung
 
 ----
 
-Image: 
+Image: - file://hrmhf36n6ntiltvy
 
 ----
 
