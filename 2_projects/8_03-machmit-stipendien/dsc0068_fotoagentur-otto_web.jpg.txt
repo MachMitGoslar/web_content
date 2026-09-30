@@ -23,3 +23,7 @@ Uuid: ropskerx9loqnpvz
 ----
 
 Template: image
+
+----
+
+Focus: 52.2% 22.1%
