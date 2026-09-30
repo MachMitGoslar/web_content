@@ -2,19 +2,19 @@ Title: Neue Ausschreibungsrunde startet
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-10-01
 
 ----
 
-Project-start-time: 
+Project-start-time: 10:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: in Auswertung
 
 ----
 
-Project-status-to: 
+Project-status-to: aktiv
 
 ----
 
@@ -26,7 +26,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Es geht wieder los! Ab heute könnt ihr euch mit euren traumhaften Ideen für eine weitere Runde Stipendien bewerben. Diesmal mit dem besonderen Augenmerk auf die Goslarer Innenstadt</p>
 
 ----
 
