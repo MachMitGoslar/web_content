@@ -10,7 +10,7 @@ Headline: Beteiligung funktioniert mit Türen aufmachen
 
 ----
 
-Text: [{"content":{"level":"h2","text":"Heute gab es wieder einmal die \"Advance Avionics Challenge\" im MachMit!Haus...","publish_date":"","end_date":""},"id":"079bf89a-84bc-4bb7-bb31-102ee3f3491e","isHidden":false,"type":"heading"},{"content":{"text":"<p>...aber warum? </p>","publish_date":"","end_date":""},"id":"3e889be5-c59f-4e2e-a0ab-e4e80acc8f20","isHidden":false,"type":"text"}]
+Text: [{"content":{"level":"h2","text":"Heute gab es wieder einmal die \"Advanced Avionics Challenge\" im MachMit!Haus...","publish_date":"","end_date":""},"id":"079bf89a-84bc-4bb7-bb31-102ee3f3491e","isHidden":false,"type":"heading"},{"content":{"text":"<p>...aber warum? </p><p>Jeden Tagen habe ich die Gelegenheit Bürger:innen und Bürgern unserer Stadt unsere Aufgabe im MachMit!Haus zu erklären. </p><p><em>\"Das MachMit!Haus ist das Haus der Bürgerbeteiligung und Digitalisierung in Goslar. Hier ist man als Bürger:in richtig wenn man einmal Meckern, Loben oder Besser-Machen möchte. Denn wir als Stadt Goslar haben entdeckt dass wir beim zuhören soviel lernen können\"</em></p><p>Und eine weitere Frage darf ich ebenfalls sehr oft beantworten... <em>\"Was kann man denn hier eigentlich mit!machen?\" </em>Und diese Frage finde ich super! Denn es zeigt das sich unsere Bürger:innen einbringen wollen. </p><p>Doch oft ist der Weg ins MachMit!Haus gar nicht so einfach. Sich durch eine Tür zu trauen, bei der man nicht weiß was einen dahinter erwartet, dass braucht Mut. Mut und Neugier. Tatsächlich scheint es mir dass Touristen neugieriger sind und in der \"fremden\" Stadt einmal schauen wollen, was es dort für tolle Ideen gibt.</p><p>Und daher ist der erste Schritte zum Zuhören, das Neugierig machen! </p><p>Heute eben mit der Advanced Avionics Challenge!</p>","publish_date":"","end_date":""},"id":"3e889be5-c59f-4e2e-a0ab-e4e80acc8f20","isHidden":false,"type":"text"},{"content":{"images":["file://lwdycitduxchq4fb","file://acybwfgxgtteaenh","file://cv2zdd5lrjsy1b2l","file://qachdw7rqocusngg"],"caption":"","ratio":"","crop":"false","publish_date":"","end_date":""},"id":"71dce063-77b3-45bf-b015-3253c274e7a6","isHidden":false,"type":"gallery"}]
 
 ----
 
@@ -18,7 +18,7 @@ Published: 2026-09-30
 
 ----
 
-Author: 
+Author: - page://Cw3N87jTU3LFBVvj
 
 ----
 
