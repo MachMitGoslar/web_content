@@ -2,7 +2,7 @@ Title: Newsletter Juni 2026
 
 ----
 
-Cover: 
+Cover: - file://fcrlukjhv76cgqib
 
 ----
 
@@ -391,6 +391,22 @@ Wenn ihr jemanden kennt, der von unseren Angeboten und Projekten profitieren kö
 Wir blicken gespannt auf die kommenden Monate und wünschen euch einen tollen Sommeranfang sowie viele schöne und sonnige Tage!
 
 Euer MachMit!Team
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
 
 ----
 
