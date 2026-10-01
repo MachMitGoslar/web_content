@@ -6,7 +6,7 @@ Cover: - file://hlunzgurspy6u0dn
 
 ----
 
-Headline: Beteiligung funktioniert mit Türen aufmachen
+Headline: Beteiligung beginnt mit Türen aufmachen
 
 ----
 
@@ -34,7 +34,7 @@ Internal-notes:
 
 ----
 
-Seo-title: Beteiligung funktioniert mit Türen aufmachen
+Seo-title: Beteiligung beginnt mit Türen aufmachen
 
 ----
 
