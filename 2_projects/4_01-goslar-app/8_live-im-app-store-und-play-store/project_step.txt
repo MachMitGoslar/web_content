@@ -18,7 +18,11 @@ Project-status-to: aktiv
 
 ----
 
-Headline: 
+Image: 
+
+----
+
+Headline: <p>Live im App- und Play Store</p>
 
 ----
 
@@ -27,6 +31,22 @@ Description: <p>Die Goslar App ist √∂ffentlich in App Store und Play Store verf√
 ----
 
 Tags: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
 
 ----
 
