@@ -18,7 +18,7 @@ Link:
 
 ----
 
-Uuid: Rrguu37BSWso2Zju
+Uuid: xgkn254lof1lfmnu
 
 ----
 
@@ -26,4 +26,4 @@ Template: image
 
 ----
 
-Focus: 47.6% 31.5%
+Focus: 52.5% 78.9%

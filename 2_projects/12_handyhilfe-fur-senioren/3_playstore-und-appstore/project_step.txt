@@ -1,0 +1,53 @@
+Title: Handyhilfe und Vortrag zum Thema "Play-Store und App-Store"
+
+----
+
+Project-start-date: 2026-10-05
+
+----
+
+Project-start-time: 10:00:00
+
+----
+
+Project-status-from: in Planung
+
+----
+
+Project-status-to: in Vorbereitung
+
+----
+
+Image: - file://hrmhf36n6ntiltvy
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Am 05.10.2026 um 10 Uhr findet die nächste Handyhilfe für Seniorinnen und Senioren statt. Dieses mal dreht sich alles um den App- und Play Store. Im Anschluss kommen Schülerinnen und Schüler der BBS Baßgeige ins MachMit!Haus, um in 1:1 Gesprächen bei individuellen Anfragen und Problemen ehrenamtlich zu helfen. </p>
+
+----
+
+Tags: handyhilfe, senioren
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: 1xtj2yuok8q86btt

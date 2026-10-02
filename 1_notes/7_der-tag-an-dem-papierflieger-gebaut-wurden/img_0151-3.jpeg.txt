@@ -18,12 +18,8 @@ Link:
 
 ----
 
-Uuid: Rrguu37BSWso2Zju
+Uuid: cv2zdd5lrjsy1b2l
 
 ----
 
-Template: image
-
-----
-
-Focus: 47.6% 31.5%
+Template: blocks/image
