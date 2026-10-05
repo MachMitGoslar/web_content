@@ -2,15 +2,15 @@ Title: Die Chance für deine Ideen!
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-11-06
 
 ----
 
-Project-start-time: 
+Project-start-time: 08:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
@@ -26,7 +26,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Am 6. und 7. November laden wir bis zu 50 interessierte Bürgerinnen und Bürger ins MachMit!Haus ein. Es geht um nichts weniger als die Zukunft Goslar... denn deine Idee zählen!</p><p>Jetzt anmelden!</p>
 
 ----
 
