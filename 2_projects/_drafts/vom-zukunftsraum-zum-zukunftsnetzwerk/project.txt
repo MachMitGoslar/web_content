@@ -59,7 +59,7 @@ Seo-title:
 
 ----
 
-Seo-description: 
+Seo-description: Vom 5.-6. November laden wir zur Zukunftswerkstatt ein. DIE Chance etwas in Goslar zu bewegen. Jetzt dabei sein!
 
 ----
 
@@ -67,7 +67,7 @@ Social-image:
 
 ----
 
-Robots: 
+Robots: index
 
 ----
 
