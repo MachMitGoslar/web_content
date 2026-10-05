@@ -10,11 +10,11 @@ Headline: Seitennavigation
 
 ----
 
-Subheadline: Ein Überblick über unsere Seite
+Subheadline: 
 
 ----
 
-Intro-text: 
+Intro-text: <p>Ein Überblick über unsere Seite</p>
 
 ----
 
