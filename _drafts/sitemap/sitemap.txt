@@ -2,15 +2,15 @@ Title: Navigation
 
 ----
 
-Cover: 
+Cover: - file://sxzswa62ieuoox6q
 
 ----
 
-Headline: 
+Headline: Seitennavigation
 
 ----
 
-Subheadline: 
+Subheadline: Ein Überblick über unsere Seite
 
 ----
 
