@@ -1,0 +1,45 @@
+Title: Navigation
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Intro-text: 
+
+----
+
+Publish-date: 2026-10-05 13:40:00
+
+----
+
+End-date: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: nn8txtqjwv7lbxdb
