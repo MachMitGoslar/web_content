@@ -2,7 +2,7 @@ Title: Vom Zukunftsraum zum Zukunftsnetzwerk
 
 ----
 
-Cover: 
+Cover: - file://ctkhc3nnelsqxuck
 
 ----
 
@@ -23,6 +23,14 @@ Topic: demokratie
 ----
 
 Tags: 
+
+----
+
+Project-color: 
+
+----
+
+Project-color-accents: false
 
 ----
 
