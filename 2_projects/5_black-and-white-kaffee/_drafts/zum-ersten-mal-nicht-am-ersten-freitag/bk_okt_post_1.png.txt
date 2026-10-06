@@ -1,0 +1,5 @@
+Uuid: c35o4hehr2rgvbyn
+
+----
+
+Template: image
