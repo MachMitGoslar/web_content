@@ -10,7 +10,7 @@ Project-start-time:
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
@@ -18,7 +18,7 @@ Project-status-to:
 
 ----
 
-Image: 
+Image: - file://c35o4hehr2rgvbyn
 
 ----
 
@@ -26,11 +26,11 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Am 9. Oktober (nicht dem ersten Freitag) laden wir euch erneut zum Black Kaffee ein! Das klassische Format ohne Handys, mit stimmungsvoller Atmosphäre und Schach ist wieder da. Wir sehen uns am Freitag!</p>
 
 ----
 
-Tags: 
+Tags: black kaffe, veranstaltung, abend, spielen, mit!bringen
 
 ----
 
