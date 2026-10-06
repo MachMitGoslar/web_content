@@ -2,7 +2,7 @@ Title: Zum ersten Mal nicht am "ersten" Freitag
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-10-09
 
 ----
 
