@@ -1,5 +1,29 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
 Uuid: c35o4hehr2rgvbyn
 
 ----
 
 Template: image
+
+----
+
+Focus: 49.2% 74.3%
