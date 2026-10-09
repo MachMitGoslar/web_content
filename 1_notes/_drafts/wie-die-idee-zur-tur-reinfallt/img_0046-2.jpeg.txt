@@ -1,5 +1,29 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
 Uuid: epof2s8qqmupudn6
 
 ----
 
 Template: image
+
+----
+
+Focus: 24.7% 45.7%
