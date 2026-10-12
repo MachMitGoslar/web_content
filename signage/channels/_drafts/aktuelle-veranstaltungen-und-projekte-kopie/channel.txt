@@ -1,0 +1,29 @@
+Title: Aktuelle Veranstaltungen und Projekte (Front)
+
+----
+
+Channel-id: 5
+
+----
+
+Description: Informieren über die aktuellen Veranstaltungen und Projekte.
+
+----
+
+Default-bg-image: 
+
+----
+
+Default-bg-video: 
+
+----
+
+Default-overlay-color: 
+
+----
+
+Default-overlay-opacity: 0
+
+----
+
+Uuid: 84za3oua1vvzggur
