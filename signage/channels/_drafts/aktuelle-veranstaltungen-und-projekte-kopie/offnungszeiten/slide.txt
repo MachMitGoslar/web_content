@@ -14,7 +14,7 @@ Canva-embed-url:
 
 ----
 
-Template-preset: compact_info
+Template-preset: event_focus
 
 ----
 
@@ -22,27 +22,27 @@ Template-theme: dark
 
 ----
 
-Template-title: Öffnungszeiten
+Template-title: Let's talk about
 
 ----
 
-Template-subtitle: Wir sind für euch da
+Template-subtitle: Offene Sprechstunde
 
 ----
 
-Template-date: 
+Template-date: 2026-10-12
 
 ----
 
-Template-time: 
+Template-time: 13:00:00
 
 ----
 
-Template-end-time: 
+Template-end-time: 18:00:00
 
 ----
 
-Template-location: 
+Template-location: hier
 
 ----
 
