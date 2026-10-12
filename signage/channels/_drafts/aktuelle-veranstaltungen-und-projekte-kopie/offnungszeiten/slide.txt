@@ -42,7 +42,7 @@ Template-end-time: 18:00:00
 
 ----
 
-Template-location: hier
+Template-location: Foyer
 
 ----
 
