@@ -22,11 +22,11 @@ Template-theme: dark
 
 ----
 
-Template-title: Let's talk about
+Template-title: Kreativcafé
 
 ----
 
-Template-subtitle: Offene Sprechstunde
+Template-subtitle: Offenes Kreativcafé im MachMit!Haus
 
 ----
 
@@ -34,15 +34,15 @@ Template-date: 2026-10-12
 
 ----
 
-Template-time: 13:00:00
+Template-time: 15:00:00
 
 ----
 
-Template-end-time: 18:00:00
+Template-end-time: 16:30:00
 
 ----
 
-Template-location: Foyer
+Template-location: Projektraum
 
 ----
 
