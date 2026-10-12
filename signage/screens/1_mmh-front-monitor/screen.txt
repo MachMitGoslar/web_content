@@ -14,7 +14,7 @@ Status: true
 
 ----
 
-Assigned-channel: signage/channels/offentlicher-advertisment-channel
+Assigned-channel: signage/channels/aktuelle-veranstaltungen-und-projekte-kopie
 
 ----
 
