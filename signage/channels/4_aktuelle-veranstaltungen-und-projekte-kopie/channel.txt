@@ -18,7 +18,7 @@ Default-bg-video:
 
 ----
 
-Default-overlay-color: #e8dcdc
+Default-overlay-color: #ffffff
 
 ----
 
