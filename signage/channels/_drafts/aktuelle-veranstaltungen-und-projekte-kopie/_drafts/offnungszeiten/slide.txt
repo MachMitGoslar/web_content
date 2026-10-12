@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: 
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"text":"<p>Mo. - Fr.</p><p>13:00 - 18:00 Uhr</p>"},"id":"d1d56d12-202d-4f9d-8bbe-69706700274e","isHidden":false,"type":"signage-text"}],"id":"8d278fe9-f53f-40bd-a660-b0802b63a44a","width":"1/1"}],"id":"27bca5f6-a7c6-4910-a96f-9f72af4cda70"}]
 
 ----
 
@@ -58,7 +58,7 @@ Calendar-max-events: 5
 
 ----
 
-Duration-mode: auto
+Duration-mode: manual
 
 ----
 
@@ -74,7 +74,7 @@ Transition-duration: 1
 
 ----
 
-Bg-type: none
+Bg-type: color
 
 ----
 
