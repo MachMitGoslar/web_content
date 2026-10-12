@@ -14,7 +14,7 @@ Canva-embed-url:
 
 ----
 
-Template-preset: announcement
+Template-preset: compact_info
 
 ----
 
@@ -26,7 +26,7 @@ Template-title: Öffnungszeiten
 
 ----
 
-Template-subtitle: 
+Template-subtitle: Wir sind für euch da
 
 ----
 
@@ -54,7 +54,7 @@ Template-message:
 
 ----
 
-Template-highlight: 
+Template-highlight: Mo. - Fr. | 13:00 - 18:00 Uhr
 
 ----
 
