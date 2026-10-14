@@ -83,12 +83,6 @@ Pending-requests:
 Whitelist:
 
 - 
-  uuid: 5b4d9a53-16c9-4994-9dce-099ac6d835e6
-  ip: 185.238.219.112
-  label: Device 5b4d9a53
-  approved_at: 2026-10-12 11:17:13
-  approved_by: stuff@stuffdev.de
-- 
   uuid: 3f2dd4fe-63a0-4966-8c7d-61c846cf728f
   ip: 185.238.219.83
   label: Device 3f2dd4fe
