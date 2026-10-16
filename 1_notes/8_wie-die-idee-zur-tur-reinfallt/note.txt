@@ -26,7 +26,7 @@ Tags: miteinander, day-to-day, begegnungen
 
 ----
 
-Featured: false
+Featured: true
 
 ----
 
