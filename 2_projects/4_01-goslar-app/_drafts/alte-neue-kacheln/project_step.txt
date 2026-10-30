@@ -2,19 +2,19 @@ Title: Alte/Neue Kacheln
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-10-30
 
 ----
 
-Project-start-time: 
+Project-start-time: 10:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
-Project-status-to: 
+Project-status-to: aktiv
 
 ----
 
@@ -22,15 +22,15 @@ Image:
 
 ----
 
-Headline: 
+Headline: <p>Alte/Neue Kacheln - Herbstputz</p>
 
 ----
 
-Description: 
+Description: <p>Wir haben Herbstputz gemacht und ein paar unserer beliebten Dashboard-Kacheln abgestaubt. Freut euch nun wieder auf aktuelle Informationen aus den Städten und Ortschaften rund um Goslar, sowie aus dem Christian-von-Dohm- und dem Ratsgymnasium. Auch die Leser Däle und die Fahrzeuge unsere Stadtbuslinien sind nun als Kacheln ganz frisch und einsatzfähig</p>
 
 ----
 
-Tags: 
+Tags: goslar app, dashboard, digitalisierung
 
 ----
 
@@ -38,15 +38,15 @@ Seo-title:
 
 ----
 
-Seo-description: 
+Seo-description: Neuigkeiten aus der Goslar APP
 
 ----
 
-Social-image: 
+Social-image: - file://lqb3jwwdbdhqd0xp
 
 ----
 
-Robots: 
+Robots: index
 
 ----
 
