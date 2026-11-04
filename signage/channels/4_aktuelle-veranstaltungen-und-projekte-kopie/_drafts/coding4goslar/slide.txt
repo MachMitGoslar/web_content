@@ -2,7 +2,7 @@ Title: Coding4Goslar
 
 ----
 
-Slide-type: blocks
+Slide-type: template
 
 ----
 
@@ -18,31 +18,31 @@ Template-preset: event_focus
 
 ----
 
-Template-theme: light
+Template-theme: dark
 
 ----
 
-Template-title: 
+Template-title: Coding4Goslar
 
 ----
 
-Template-subtitle: 
+Template-subtitle: Offner Programmier-Space für Alle
 
 ----
 
-Template-date: 
+Template-date: 2026-11-04
 
 ----
 
-Template-time: 
+Template-time: 19:00:00
 
 ----
 
-Template-end-time: 
+Template-end-time: 22:00:00
 
 ----
 
-Template-location: 
+Template-location: Foyer
 
 ----
 
