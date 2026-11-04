@@ -2,11 +2,11 @@ Title: Die Idee reift bei den Black Kaffees
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-10-09
 
 ----
 
-Project-start-time: 
+Project-start-time: 18:00:00
 
 ----
 
@@ -14,7 +14,7 @@ Project-status-from:
 
 ----
 
-Project-status-to: 
+Project-status-to: in Planung
 
 ----
 
@@ -22,7 +22,7 @@ Image:
 
 ----
 
-Headline: 
+Headline: <p>Bisher ist Schach ein fester Teil des Black Kaffee Formates im MachMit!Haus gewesen. Nun bekommt es seinen eigenen Platz. Organisiert, geplant und durchgeführt von Ole</p>
 
 ----
 
@@ -30,7 +30,7 @@ Description:
 
 ----
 
-Tags: 
+Tags: anfang, idee, losGehts
 
 ----
 
