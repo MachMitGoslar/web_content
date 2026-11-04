@@ -30,7 +30,7 @@ Template-subtitle: Offene Sprechstunde
 
 ----
 
-Template-date: 2026-10-12
+Template-date: 2026-11-04
 
 ----
 
