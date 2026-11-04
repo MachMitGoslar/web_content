@@ -2,19 +2,19 @@ Title: Der erste Termin
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-11-09
 
 ----
 
-Project-start-time: 
+Project-start-time: 18:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: in Vorbereitung
 
 ----
 
-Project-status-to: 
+Project-status-to: aktiv
 
 ----
 
@@ -26,7 +26,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Am 9. November ist es endlich soweit, der erste Schach!Mit Termin ist da. Auf gute Spiele bei uns im Haus</p>
 
 ----
 
