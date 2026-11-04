@@ -130,7 +130,7 @@ Transition-duration: 1
 
 ----
 
-Bg-type: none
+Bg-type: color
 
 ----
 
