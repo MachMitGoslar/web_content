@@ -22,11 +22,11 @@ Image:
 
 ----
 
-Headline: <p>Bisher ist Schach ein fester Teil des Black Kaffee Formates im MachMit!Haus gewesen. Nun bekommt es seinen eigenen Platz. Organisiert, geplant und durchgeführt von Ole</p>
+Headline: <p>Die Idee reift im Rahmen der Black Kaffees</p>
 
 ----
 
-Description: 
+Description: <p>Bisher ist Schach ein fester Teil des Black Kaffee Formates im MachMit!Haus gewesen. Nun bekommt es seinen eigenen Platz. Organisiert, geplant und durchgeführt von Ole</p>
 
 ----
 
