@@ -14,7 +14,7 @@ Subheadline: jeden 2. und 4. Montag im Monat
 
 ----
 
-Project-status: aktiv
+Project-status: in Planung
 
 ----
 
