@@ -10,6 +10,62 @@ Content-layout:
 
 ----
 
+Canva-embed-url: 
+
+----
+
+Template-preset: 
+
+----
+
+Template-theme: 
+
+----
+
+Template-title: 
+
+----
+
+Template-subtitle: 
+
+----
+
+Template-date: 
+
+----
+
+Template-time: 
+
+----
+
+Template-end-time: 
+
+----
+
+Template-location: 
+
+----
+
+Template-label: 
+
+----
+
+Template-message: 
+
+----
+
+Template-highlight: 
+
+----
+
+Template-footer: 
+
+----
+
+Template-image: 
+
+----
+
 Video-source: upload
 
 ----
@@ -38,7 +94,7 @@ Calendar-source-type: external
 
 ----
 
-Calendar-source: https://calendar.google.com/calendar/ical/stuffsbilder%40googlemail.com/public/basic.ics
+Calendar-source: 
 
 ----
 
