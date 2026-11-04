@@ -10,10 +10,6 @@ Description: Allgemeiner Vorstellungskanal des MachMit!Hauses
 
 ----
 
-Background-color: #ffffff
-
-----
-
 Default-bg-image: - file://c9pykpcjc0fg3ijj
 
 ----
@@ -27,6 +23,18 @@ Default-overlay-color:
 ----
 
 Default-overlay-opacity: 
+
+----
+
+Slides:
+
+- page://y04heg18jsf1igut
+- page://qzewmffbnqkrumtq
+- page://latrjoqrp6qkk3ly
+
+----
+
+Background-color: #ffffff
 
 ----
 
