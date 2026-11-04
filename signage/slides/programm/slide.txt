@@ -1,0 +1,113 @@
+Title: Allgemein
+
+----
+
+Slide-type: blocks
+
+----
+
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://arqb05ggcwge1c5c"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"60ea9d40-80a5-49e2-b14b-beb247dc60d2","isHidden":false,"type":"image"}],"id":"f0c64267-f012-4d8e-8431-4112ffd54ab6","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://2rkmuihonl9dqoeo"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"619c3c48-c8e0-4cfa-b293-9e3dd2bc7d7b","isHidden":false,"type":"image"}],"id":"1802f661-1cec-4b34-8c2f-ad4dcaaccdeb","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://yu9gj2tpsvzlv2do"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"98d34a32-dc76-49ee-aec6-0d19ee64ccfc","isHidden":false,"type":"image"}],"id":"2ad04216-7ca2-4ca6-afd5-3cc0b32a839b","width":"1/3"}],"id":"c0cacf88-7914-4776-8881-46ff83e37c3f"}]
+
+----
+
+Video-source: upload
+
+----
+
+Video-file: 
+
+----
+
+Video-embed: 
+
+----
+
+Video-autoplay: true
+
+----
+
+Video-muted: true
+
+----
+
+Video-loop: false
+
+----
+
+Calendar-source-type: external
+
+----
+
+Calendar-source: 
+
+----
+
+Calendar-pages: 
+
+----
+
+Calendar-layout: list
+
+----
+
+Calendar-range: week
+
+----
+
+Calendar-max-events: 5
+
+----
+
+Duration-mode: manual
+
+----
+
+Duration-override: 15
+
+----
+
+Transition: slide
+
+----
+
+Transition-duration: 1
+
+----
+
+Bg-type: color
+
+----
+
+Bg-image: 
+
+----
+
+Bg-video: 
+
+----
+
+Bg-position: center
+
+----
+
+Bg-size: cover
+
+----
+
+Overlay-enabled: true
+
+----
+
+Overlay-color: #000000
+
+----
+
+Overlay-opacity: 40
+
+----
+
+Overlay-gradient: none
+
+----
+
+Uuid: nhqic0toxqo3zgxv
