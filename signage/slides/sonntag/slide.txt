@@ -1,0 +1,113 @@
+Title: Sonntag
+
+----
+
+Slide-type: blocks
+
+----
+
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://gor9ahgc9yh1ovko"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4a3217a5-9af4-4590-aa85-70210542137e","isHidden":false,"type":"image"}],"id":"d5294f85-9376-4d8f-8ace-dfd7321f4eca","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://vs58argb99gtklof"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"e353fc3d-1b40-48a4-91b2-407acb0b1599","isHidden":false,"type":"image"}],"id":"70b9a91f-ea31-48bb-9d9a-163e57d0405e","width":"1/2"}],"id":"05a6da08-11bc-4b24-bf0f-e1e4cb87921c"}]
+
+----
+
+Video-source: upload
+
+----
+
+Video-file: 
+
+----
+
+Video-embed: 
+
+----
+
+Video-autoplay: true
+
+----
+
+Video-muted: true
+
+----
+
+Video-loop: false
+
+----
+
+Calendar-source-type: external
+
+----
+
+Calendar-source: 
+
+----
+
+Calendar-pages: 
+
+----
+
+Calendar-layout: list
+
+----
+
+Calendar-range: week
+
+----
+
+Calendar-max-events: 5
+
+----
+
+Duration-mode: manual
+
+----
+
+Duration-override: 15
+
+----
+
+Transition: fade
+
+----
+
+Transition-duration: 1
+
+----
+
+Bg-type: color
+
+----
+
+Bg-image: 
+
+----
+
+Bg-video: 
+
+----
+
+Bg-position: center
+
+----
+
+Bg-size: cover
+
+----
+
+Overlay-enabled: true
+
+----
+
+Overlay-color: #000000
+
+----
+
+Overlay-opacity: 40
+
+----
+
+Overlay-gradient: none
+
+----
+
+Uuid: lftu7oatzpeywiga

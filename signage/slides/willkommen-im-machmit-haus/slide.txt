@@ -1,0 +1,117 @@
+Title: Willkommen im MachMit!Haus
+
+----
+
+Slide-type: blocks
+
+----
+
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"level":"h2","text":"Test"},"id":"2c5ab30d-8dc9-4c59-bf93-a2631caf76a3","isHidden":false,"type":"heading"}],"id":"f0f827e4-f5b2-4874-bd82-8732583528da","width":"1/1"}],"id":"3895366f-6bee-44a7-abef-d0a6972e7f3c"}]
+
+----
+
+Video-source: upload
+
+----
+
+Video-file: 
+
+----
+
+Video-embed: 
+
+----
+
+Video-autoplay: true
+
+----
+
+Video-muted: false
+
+----
+
+Video-loop: false
+
+----
+
+Calendar-source-type: external
+
+----
+
+Calendar-source: 
+
+----
+
+Calendar-pages: 
+
+----
+
+Calendar-layout: list
+
+----
+
+Calendar-range: week
+
+----
+
+Calendar-max-events: 5
+
+----
+
+Duration-mode: auto
+
+----
+
+Duration-override: 15
+
+----
+
+Transition: fade
+
+----
+
+Transition-duration: 1
+
+----
+
+Bg-type: image
+
+----
+
+Bg-image: - file://zud0pkcidsethpps
+
+----
+
+Bg-video: 
+
+----
+
+Bg-position: center
+
+----
+
+Bg-size: contain
+
+----
+
+Overlay-enabled: true
+
+----
+
+Overlay-color: #ff8300
+
+----
+
+Overlay-opacity: 40
+
+----
+
+Overlay-gradient: to-top
+
+----
+
+Blocks: [{"content":{"location":"kirby","image":["file://zud0pkcidsethpps"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4b7588dd-1633-49ee-8065-a072a2f7dc81","isHidden":false,"type":"image"}]
+
+----
+
+Uuid: qzewmffbnqkrumtq

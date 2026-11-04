@@ -1,0 +1,113 @@
+Title: Termine
+
+----
+
+Slide-type: calendar
+
+----
+
+Content-layout: 
+
+----
+
+Video-source: upload
+
+----
+
+Video-file: 
+
+----
+
+Video-embed: 
+
+----
+
+Video-autoplay: true
+
+----
+
+Video-muted: true
+
+----
+
+Video-loop: false
+
+----
+
+Calendar-source-type: external
+
+----
+
+Calendar-source: https://calendar.google.com/calendar/ical/stuffsbilder%40googlemail.com/public/basic.ics
+
+----
+
+Calendar-pages: 
+
+----
+
+Calendar-layout: agenda
+
+----
+
+Calendar-range: month
+
+----
+
+Calendar-max-events: 7
+
+----
+
+Duration-mode: auto
+
+----
+
+Duration-override: 15
+
+----
+
+Transition: fade
+
+----
+
+Transition-duration: 1
+
+----
+
+Bg-type: none
+
+----
+
+Bg-image: 
+
+----
+
+Bg-video: 
+
+----
+
+Bg-position: center
+
+----
+
+Bg-size: cover
+
+----
+
+Overlay-enabled: true
+
+----
+
+Overlay-color: #000000
+
+----
+
+Overlay-opacity: 40
+
+----
+
+Overlay-gradient: none
+
+----
+
+Uuid: y04heg18jsf1igut
