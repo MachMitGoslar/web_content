@@ -1,0 +1,169 @@
+Title: Coding4Youth
+
+----
+
+Slide-type: template
+
+----
+
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"text":"<p>Mo. - Fr.</p><p>13:00 - 18:00 Uhr</p>"},"id":"d1d56d12-202d-4f9d-8bbe-69706700274e","isHidden":false,"type":"signage-text"}],"id":"8d278fe9-f53f-40bd-a660-b0802b63a44a","width":"1/1"}],"id":"27bca5f6-a7c6-4910-a96f-9f72af4cda70"}]
+
+----
+
+Canva-embed-url: 
+
+----
+
+Template-preset: event_focus
+
+----
+
+Template-theme: light
+
+----
+
+Template-title: Kreativcafé
+
+----
+
+Template-subtitle: Offener Programmier-Space für Interessierte ab 10 Jahren
+
+----
+
+Template-date: 2026-11-04
+
+----
+
+Template-time: 17:00:00
+
+----
+
+Template-end-time: 19:00:00
+
+----
+
+Template-location: Foyer
+
+----
+
+Template-label: 
+
+----
+
+Template-message: 
+
+----
+
+Template-highlight: Mo. - Fr. | 13:00 - 18:00 Uhr
+
+----
+
+Template-footer: 
+
+----
+
+Template-image: 
+
+----
+
+Video-source: upload
+
+----
+
+Video-file: 
+
+----
+
+Video-embed: 
+
+----
+
+Video-autoplay: true
+
+----
+
+Video-muted: true
+
+----
+
+Video-loop: false
+
+----
+
+Calendar-source-type: external
+
+----
+
+Calendar-source: 
+
+----
+
+Calendar-pages: 
+
+----
+
+Calendar-layout: list
+
+----
+
+Calendar-range: week
+
+----
+
+Calendar-max-events: 5
+
+----
+
+Duration-mode: manual
+
+----
+
+Duration-override: 15
+
+----
+
+Transition: fade
+
+----
+
+Transition-duration: 1
+
+----
+
+Bg-type: color
+
+----
+
+Bg-image: 
+
+----
+
+Bg-video: 
+
+----
+
+Bg-position: center
+
+----
+
+Bg-size: cover
+
+----
+
+Overlay-enabled: true
+
+----
+
+Overlay-color: #fff
+
+----
+
+Overlay-opacity: 90
+
+----
+
+Overlay-gradient: none
+
+----
+
+Uuid: 3d9soee4srwddybv
