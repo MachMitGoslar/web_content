@@ -2,7 +2,7 @@ Title: SchachMit
 
 ----
 
-Cover: 
+Cover: - file://uom8tcae5gxqielq
 
 ----
 
@@ -10,23 +10,23 @@ Headline:
 
 ----
 
-Subheadline: 
+Subheadline: jeden 2. und 4. Montag im Monat
 
 ----
 
-Project-status: 
+Project-status: aktiv
 
 ----
 
-Topic: 
+Topic: ehrenamt
 
 ----
 
-Tags: 
+Tags: schach, ehrenamt, freizeit
 
 ----
 
-Project-color: 
+Project-color: #f2f2f2
 
 ----
 
@@ -34,7 +34,7 @@ Project-color-accents: true
 
 ----
 
-Text: 
+Text: [{"attrs":{"highlight":"none"},"columns":[{"blocks":[{"content":{"text":"<p>Jeden 2. und 4. Montag im Monat sind ab 18:00 Uhr die Schachbretter im MachMit-Haus aufgebaut. Ole hat den Treff ehrenamtlich ins Leben gerufen und lädt alle ein, die Lust auf eine Partie haben. Ob du gerade erst die Regeln lernst oder seit Jahren spielst, du bist willkommen.</p> <p>Es gibt kein festes Programm und keinen Turnierdruck, es wird einfach frei gespielt. Ein erfahrener Vereinsspieler ist dabei und gibt gerne Tipps, wenn du welche möchtest. Kaffee und Getränke bringt Ole mit, so kommt man auch zwischen den Partien gut ins Gespräch.</p> <p>SchachMit! zeigt, worum es im MachMit-Haus geht: Menschen aus Goslar bringen ihre Ideen ein und gestalten gemeinsam etwas. Wer zwischen zwei Partien wissen möchte, welche Projekte gerade laufen, kann uns jederzeit ansprechen.</p>"},"id":"a2d0dfcd-0343-4033-848b-c6768fee6d21","isHidden":false,"type":"text"}],"id":"ce0f07d4-497d-4b43-ba97-05cf1aef0f85","width":"1/1"}],"id":"998c22d9-d084-4ddc-900b-bf59d286cda1"},{"attrs":{"highlight":"none"},"columns":[{"blocks":[{"content":{"items":[{"icon":"calendar","label":"Wann?","value":"Jeden 2. und 4. Montag im Monat","link":""},{"icon":"clock","label":"Uhrzeit?","value":"ab 18:00 Uhr","link":""},{"icon":"user","label":"Für wen?","value":"alle Klassen und Fähigkeiten","link":""}],"columns":"","surface":"card","theme":"default","map":"false","maplabel":"","lat":"","lng":"","maphref":""},"id":"514d2d77-4f2a-4c13-ab14-70798a8a8798","isHidden":false,"type":"facts"}],"id":"08ac16b4-938b-4085-81b4-f6cb38b73a55","width":"1/1"}],"id":"0829be08-b293-4e51-a14d-b30ba75f5b0c"}]
 
 ----
 
