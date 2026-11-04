@@ -18,7 +18,7 @@ Template-preset: event_focus
 
 ----
 
-Template-theme: dark
+Template-theme: light
 
 ----
 
