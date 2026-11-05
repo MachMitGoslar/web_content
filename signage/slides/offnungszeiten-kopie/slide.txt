@@ -1,4 +1,4 @@
-Title: Coding4Youth
+Title: Sprachcafé
 
 ----
 
@@ -22,23 +22,23 @@ Template-theme: light
 
 ----
 
-Template-title: Coding4Youth
+Template-title: Internationales Sprachcafé
 
 ----
 
-Template-subtitle: Offener Programmier-Space für Interessierte ab 10 Jahren
+Template-subtitle: offenes Sprachcafé für Frauen zum gemeinsamen Deutsch üben
 
 ----
 
-Template-date: 2026-11-04
+Template-date: 2026-11-05
 
 ----
 
-Template-time: 17:00:00
+Template-time: 15:00:00
 
 ----
 
-Template-end-time: 19:00:00
+Template-end-time: 17:00:00
 
 ----
 
