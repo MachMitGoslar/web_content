@@ -46,6 +46,10 @@ Show-project-step-pictures: false
 
 ----
 
+App-widget: true
+
+----
+
 Seo-title: 
 
 ----
