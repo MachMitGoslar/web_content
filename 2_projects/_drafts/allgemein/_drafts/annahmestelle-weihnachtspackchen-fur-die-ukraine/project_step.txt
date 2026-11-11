@@ -2,15 +2,15 @@ Title: Annahmestelle: Weihnachtspäckchen für die Ukraine
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-11-11
 
 ----
 
-Project-start-time: 
+Project-start-time: 18:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
@@ -18,7 +18,7 @@ Project-status-to:
 
 ----
 
-Image: 
+Image: - file://4k84lwozvntcemh0
 
 ----
 
@@ -26,7 +26,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Auch in diesem Jahr sind wir wieder Annahmestelle für das Projekt "Weihnachtspäckchen" für die Ukraine. Mehr Infos gibt es hier!</p>
 
 ----
 
