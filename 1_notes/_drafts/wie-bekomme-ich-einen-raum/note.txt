@@ -1,0 +1,53 @@
+Title: Wie bekomme ich einen Raum?
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Text: 
+
+----
+
+Published: 2026-11-11
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Featured: false
+
+----
+
+Internal-notes: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: 9ysedmnkrziemu7o
