@@ -59,7 +59,7 @@ Seo-title:
 
 ----
 
-Seo-description: 
+Seo-description: Allgemeine Themen aus dem Alltag des MachMit!Hauses
 
 ----
 
