@@ -2,7 +2,7 @@ Title: Allgemein
 
 ----
 
-Cover: 
+Cover: - file://t6rndonfvqpyk8v8
 
 ----
 
@@ -10,15 +10,15 @@ Headline:
 
 ----
 
-Subheadline: 
+Subheadline: Laufende Themen aus dem MachMit!Haus
 
 ----
 
-Project-status: 
+Project-status: aktiv
 
 ----
 
-Topic: 
+Topic: haus
 
 ----
 
@@ -34,15 +34,20 @@ Project-color-accents: true
 
 ----
 
-Text: 
+Text: [{"attrs":{"highlight":"none"},"columns":[{"blocks":[{"content":{"text":"<p>Hier findest du alle Infos die sich keinem klassischen Themen zuordnen lassen aber den Alltag in unserem Haus prägen. </p><p></p><p>Dir fällt noch etwas ein? Sehr gut, sprechen wir darüber!</p>"},"id":"2371675a-e4f0-4773-a7e6-f1aa066c2fb0","isHidden":false,"type":"text"}],"id":"c3d25eb7-49cb-47fd-8e22-f99b4cffca41","width":"1/1"}],"id":"80bd93d0-d744-42c5-b706-96051f03dc12"}]
 
 ----
 
-Team: 
+Team:
+
+- page://onpwkvxqnbqarvik
+- page://Cw3N87jTU3LFBVvj
+- page://nptsef9geyexw0gz
+- page://sspshn0jwkldmzyq
 
 ----
 
-Show-project-step-pictures: true
+Show-project-step-pictures: false
 
 ----
 
