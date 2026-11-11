@@ -2,15 +2,15 @@ Title: Terminanfragen geöffnet
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-11-01
 
 ----
 
-Project-start-time: 
+Project-start-time: 10:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
@@ -18,7 +18,7 @@ Project-status-to:
 
 ----
 
-Image: 
+Image: - file://a1bupdqunmxepyil
 
 ----
 
@@ -26,7 +26,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Du möchtest gern die Räumlichkeiten des MachMit!Hauses 2027 nutzen? Wir nehmen gerade Terminanfragen für das erste Halbjahr an. Jetzt Termine bis zum 1. Dezember 2027 anfragen </p>
 
 ----
 
