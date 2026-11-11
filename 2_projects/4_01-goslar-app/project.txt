@@ -26,6 +26,10 @@ Tags:
 
 ----
 
+Project-color: 
+
+----
+
 Project-color-accents: true
 
 ----
@@ -42,6 +46,10 @@ Team:
 ----
 
 Show-project-step-pictures: false
+
+----
+
+App-widget: true
 
 ----
 
