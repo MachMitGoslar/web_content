@@ -2,15 +2,15 @@ Title: Das erste Mal
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-11-10
 
 ----
 
-Project-start-time: 
+Project-start-time: 10:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
@@ -26,7 +26,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Mit 6 ersten interessierten Schachspieler:innen war das erste Treffen ein voller Erfolg. Organisator Ole zeigte sich vom Auftakt des "SchachMit!" begeistert. Bist du beim nächsten Termin am 23.11. ab 18:00 Uhr auch dabei? </p>
 
 ----
 
