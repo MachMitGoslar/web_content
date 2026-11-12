@@ -30,11 +30,11 @@ Template-subtitle: Offene Sprechstunde
 
 ----
 
-Template-date: 2026-11-05
+Template-date: 2026-11-12
 
 ----
 
-Template-time: 17:00:00
+Template-time: 13:00:00
 
 ----
 
