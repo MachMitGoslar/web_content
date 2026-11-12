@@ -150,15 +150,15 @@ Bg-size: contain
 
 ----
 
-Overlay-enabled: false
+Overlay-enabled: true
 
 ----
 
-Overlay-color: #ff8300
+Overlay-color: #ffffff
 
 ----
 
-Overlay-opacity: 40
+Overlay-opacity: 25
 
 ----
 
