@@ -150,7 +150,7 @@ Bg-size: contain
 
 ----
 
-Overlay-enabled: true
+Overlay-enabled: false
 
 ----
 
