@@ -6,7 +6,7 @@ Slide-type: blocks
 
 ----
 
-Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"f0f827e4-f5b2-4874-bd82-8732583528da","width":"1/1"}],"id":"3895366f-6bee-44a7-abef-d0a6972e7f3c"}]
+Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[{"content":{"text":"<p>Willkommen im MachMit!Haus</p>"},"id":"3c20af6d-bfe8-445d-97ce-9bacdc3a8589","isHidden":false,"type":"signage-text"}],"id":"f0f827e4-f5b2-4874-bd82-8732583528da","width":"1/1"}],"id":"3895366f-6bee-44a7-abef-d0a6972e7f3c"}]
 
 ----
 
