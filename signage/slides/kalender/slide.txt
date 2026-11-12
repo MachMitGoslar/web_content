@@ -158,7 +158,7 @@ Overlay-color: #f2d593
 
 ----
 
-Overlay-opacity: 75
+Overlay-opacity: 100
 
 ----
 
