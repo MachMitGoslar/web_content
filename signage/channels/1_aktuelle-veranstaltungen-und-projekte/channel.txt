@@ -22,7 +22,7 @@ Default-overlay-color:
 
 ----
 
-Default-overlay-opacity: 0
+Default-overlay-opacity: 20
 
 ----
 
