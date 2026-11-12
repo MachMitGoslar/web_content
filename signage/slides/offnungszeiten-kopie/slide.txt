@@ -30,7 +30,7 @@ Template-subtitle: offenes Sprachcafé für Frauen zum gemeinsamen Deutsch üben
 
 ----
 
-Template-date: 2026-11-05
+Template-date: 2026-11-12
 
 ----
 
