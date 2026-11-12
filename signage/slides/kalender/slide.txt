@@ -10,6 +10,62 @@ Content-layout:
 
 ----
 
+Canva-embed-url: 
+
+----
+
+Template-preset: 
+
+----
+
+Template-theme: 
+
+----
+
+Template-title: 
+
+----
+
+Template-subtitle: 
+
+----
+
+Template-date: 
+
+----
+
+Template-time: 
+
+----
+
+Template-end-time: 
+
+----
+
+Template-location: 
+
+----
+
+Template-label: 
+
+----
+
+Template-message: 
+
+----
+
+Template-highlight: 
+
+----
+
+Template-footer: 
+
+----
+
+Template-image: 
+
+----
+
 Video-source: upload
 
 ----
@@ -46,7 +102,7 @@ Calendar-pages:
 
 ----
 
-Calendar-layout: list
+Calendar-layout: agenda
 
 ----
 
