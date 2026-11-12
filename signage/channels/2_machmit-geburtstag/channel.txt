@@ -28,7 +28,6 @@ Default-overlay-opacity: 40
 
 Slides:
 
-- page://1ugnudvx5gugcsu2
 - page://nhqic0toxqo3zgxv
 - page://ftwmkvdvs6nubmsk
 
