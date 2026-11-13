@@ -26,7 +26,7 @@ Tags: räume, miete, nutzung
 
 ----
 
-Featured: false
+Featured: true
 
 ----
 
@@ -38,7 +38,7 @@ Seo-title:
 
 ----
 
-Seo-description: 
+Seo-description: Kann man die Räume im MachMit!Haus eigentlich mieten? Martin erklärt es für 2027
 
 ----
 
