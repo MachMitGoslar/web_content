@@ -2,19 +2,19 @@ Title: In den letzten Abstimmungen
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-11-16
 
 ----
 
-Project-start-time: 
+Project-start-time: 10:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: abgeschlossen
 
 ----
 
-Project-status-to: 
+Project-status-to: in Planung
 
 ----
 
@@ -26,7 +26,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Das Wetter wird kühler und der Baum auf dem Marktplatz wird geschmückt... höchste Zeit an Weihnachten zu denken! Wir gehen wieder in die Planung</p>
 
 ----
 
