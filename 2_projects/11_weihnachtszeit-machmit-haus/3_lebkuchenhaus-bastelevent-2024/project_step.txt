@@ -1,0 +1,33 @@
+Title: Lebkuchenhaus-Bastelevent 2024
+
+----
+
+Project-start-date: 2024-12-04
+
+----
+
+Project-start-time: 
+
+----
+
+Project-status-from: abgeschlossen
+
+----
+
+Project-status-to: abgeschlossen
+
+----
+
+Headline: 
+
+----
+
+Description: <p>Familien-Bastelevent im Lebkuchenhaus.</p>
+
+----
+
+Tags: 
+
+----
+
+Uuid: 08zt6yodxeijlfxc
