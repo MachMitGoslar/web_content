@@ -14,7 +14,7 @@ Subheadline: Digitale Teilhabe im MachMit!Haus
 
 ----
 
-Project-status: in Vorbereitung
+Project-status: aktiv
 
 ----
 
@@ -23,6 +23,14 @@ Topic: teilhabe
 ----
 
 Tags: 
+
+----
+
+Project-color: 
+
+----
+
+Project-color-accents: false
 
 ----
 
@@ -35,6 +43,10 @@ Team: - page://nptsef9geyexw0gz
 ----
 
 Show-project-step-pictures: true
+
+----
+
+App-widget: false
 
 ----
 
