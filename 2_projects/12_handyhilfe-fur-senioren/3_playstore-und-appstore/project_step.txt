@@ -10,7 +10,7 @@ Project-start-time: 10:00:00
 
 ----
 
-Project-status-from: in Planung
+Project-status-from: 
 
 ----
 
