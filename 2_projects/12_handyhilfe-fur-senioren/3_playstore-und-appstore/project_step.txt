@@ -14,7 +14,7 @@ Project-status-from: in Planung
 
 ----
 
-Project-status-to: in Vorbereitung
+Project-status-to: abgeschlossen
 
 ----
 
