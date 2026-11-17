@@ -2,11 +2,11 @@ Title: Handyhilfe und Vortrag am 07.12.26
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-12-07
 
 ----
 
-Project-start-time: 
+Project-start-time: 10:00:00
 
 ----
 
@@ -18,7 +18,7 @@ Project-status-to:
 
 ----
 
-Image: 
+Image: - file://yln8vlgokfqr2ixc
 
 ----
 
@@ -26,7 +26,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Der nächste Termin steht fest! Am 07.12.26 um 10:00 Uhr beginnt die nächste Handyhilf für Seniorinnen und Senioren. Bevor es in die 1:1-Gespräche mit den Ehrenamtlichen geht, werden die Schülerinnen und Schüler einen Vortrag über Betrugsnachrichten halten. Hierbei geht es vor allem darum, wie man sie erkennt und wie man sicher darauf reagiert. Eine Anmeldung ist nicht erforderlich, hilft aber bei der Planung.</p>
 
 ----
 
