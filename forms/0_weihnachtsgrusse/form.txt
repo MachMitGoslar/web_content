@@ -1,0 +1,29 @@
+Title: Weihnachtsgrüße
+
+----
+
+Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"absender","label":"Absender","placeholder":"","required":"true","errormessage":"","maxlength":"","allowedcharacters":"all","maxlengtherrormessage":"","characterserrormessage":""},"id":"7c61d157-6717-4634-9128-017c6fbce03f","isHidden":false,"type":"text-field"}],"id":"66e91312-7711-4c2e-88b7-8006a43ffeea","width":"1/1"}],"id":"312ece69-c836-43cc-82e0-73ae2b96f62e"},{"attrs":[],"columns":[{"blocks":[{"content":{"key":"gru-botschaft","label":"Grußbotschaft","placeholder":"","required":"true","errormessage":"","maxlength":140,"maxlengtherrormessage":""},"id":"3a1a9561-4c5e-46c4-9095-e717d7d4bc51","isHidden":false,"type":"textarea-field"}],"id":"bfedd5ab-5f65-46b6-86a9-cfeb6c864b67","width":"1/1"}],"id":"d88f9358-6c86-4fa9-9728-e243bbdd5240"},{"attrs":[],"columns":[{"blocks":[{"content":{"key":"accnoledge","label":"","options":[{"value":"dsgvo","label":"Ich stimme der Speicherung, Übertragung und Verwendung meiner Daten für die Funktion \"Weihnachtsgrüße\" auf dem Infosystem von machmit.goslar.de zu. Die Datenschutzrichtlinien der Stadt Goslar finden Anwendung."},{"value":"moderation","label":"Ich verstehe dass meine Einsendung im Vorfeld freigegeben wird"}],"min":2,"max":2,"errormessage":""},"id":"544e668a-a76d-4aff-abc6-70a8c27c4436","isHidden":false,"type":"checkbox-field"}],"id":"2c992436-5d8a-41f6-b1b7-277110a7b7be","width":"1/1"}],"id":"da661f34-432a-468f-a459-074a03c01729"}]
+
+----
+
+Actions: 
+
+----
+
+Successmessage: 
+
+----
+
+Continueonerror: false
+
+----
+
+Runworkflowinqueue: true
+
+----
+
+Storesubmissions: true
+
+----
+
+Uuid: csed4dskj62pvqve
