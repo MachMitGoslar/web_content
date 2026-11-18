@@ -2,7 +2,7 @@ Title: Coding4Goslar
 
 ----
 
-Slide-type: blocks
+Slide-type: template
 
 ----
 
@@ -22,27 +22,27 @@ Template-theme: light
 
 ----
 
-Template-title: 
+Template-title: Coding4Goslar
 
 ----
 
-Template-subtitle: 
+Template-subtitle: DER offene Programmierer Space im MachMit!Haus. Coding + Pizza + Talk = Love
 
 ----
 
-Template-date: 
+Template-date: 2026-11-18
 
 ----
 
-Template-time: 
+Template-time: 19:00:00
 
 ----
 
-Template-end-time: 
+Template-end-time: 22:00:00
 
 ----
 
-Template-location: 
+Template-location: Foyer
 
 ----
 
