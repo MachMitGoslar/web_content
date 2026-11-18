@@ -30,7 +30,7 @@ Template-subtitle: Offene Sprechstunde
 
 ----
 
-Template-date: 2026-11-05
+Template-date: 2026-11-18
 
 ----
 
@@ -38,7 +38,7 @@ Template-time: 13:00:00
 
 ----
 
-Template-end-time: 15:00:00
+Template-end-time: 17:00:00
 
 ----
 
@@ -111,6 +111,30 @@ Calendar-range: week
 ----
 
 Calendar-max-events: 5
+
+----
+
+Tree-title: 
+
+----
+
+Tree-subtitle: 
+
+----
+
+Tree-form-link: 
+
+----
+
+Tree-qr-label: 
+
+----
+
+Tree-visible-balls: 
+
+----
+
+Tree-seconds-per-greeting: 
 
 ----
 
