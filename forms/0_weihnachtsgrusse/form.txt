@@ -6,7 +6,7 @@ Fields: [{"attrs":[],"columns":[{"blocks":[{"content":{"key":"absender","label":
 
 ----
 
-Actions: 
+Actions: [{"content":{"treeslide":["page://pnkgij60l8c26qjg"],"namefield":"7c61d157-6717-4634-9128-017c6fbce03f","textfield":"3a1a9561-4c5e-46c4-9095-e717d7d4bc51"},"id":"adce97cc-4a00-4725-88d4-435319eb9efd","isHidden":false,"type":"christmas-tree-action"}]
 
 ----
 
