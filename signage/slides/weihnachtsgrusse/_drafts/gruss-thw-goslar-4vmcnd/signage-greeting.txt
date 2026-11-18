@@ -1,0 +1,21 @@
+Title: Gruß von THW Goslar
+
+----
+
+Greeting-name: THW Goslar
+
+----
+
+Greeting-text: 🎄✨ Das THW Goslar wünscht allen Goslarerinnen und Goslarern frohe Weihnachten, erholsame Feiertage und einen gesunden Start ins neue Jahr!
+
+----
+
+Submitted-at: 2026-11-18 17:05:00
+
+----
+
+Submission-ref: page://wyc0eg5sbvmpffxs
+
+----
+
+Uuid: 1svfemjk6xqr05j7
