@@ -10,15 +10,15 @@ Headline:
 
 ----
 
-Subheadline: 
+Subheadline: Eine Malaktion für Kinder zum Internationalen Tag der Kinderrechte
 
 ----
 
-Project-status: 
+Project-status: aktiv
 
 ----
 
-Topic: 
+Topic: kultur
 
 ----
 
