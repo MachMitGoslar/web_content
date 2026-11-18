@@ -2,7 +2,7 @@ Title: Coding4Youth
 
 ----
 
-Slide-type: blocks
+Slide-type: template
 
 ----
 
@@ -22,27 +22,27 @@ Template-theme: light
 
 ----
 
-Template-title: 
+Template-title: Coding4Youth
 
 ----
 
-Template-subtitle: 
+Template-subtitle: offener Coding Space für Nachwuchs-Coder ab 10 Jahren
 
 ----
 
-Template-date: 
+Template-date: 2026-11-18
 
 ----
 
-Template-time: 
+Template-time: 17:00:00
 
 ----
 
-Template-end-time: 
+Template-end-time: 19:00:00
 
 ----
 
-Template-location: 
+Template-location: Foyer
 
 ----
 
