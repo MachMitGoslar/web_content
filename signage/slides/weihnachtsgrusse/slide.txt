@@ -154,11 +154,11 @@ Transition-duration: 1
 
 ----
 
-Bg-type: none
+Bg-type: image
 
 ----
 
-Bg-image: 
+Bg-image: - file://ybgpao2qzp8cbrti
 
 ----
 
