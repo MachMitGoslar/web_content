@@ -2,15 +2,15 @@ Title: Ausstellungseröffnung "Helins Welt" und "Kinderträume"
 
 ----
 
-Project-start-date: 
+Project-start-date: 2026-11-20
 
 ----
 
-Project-start-time: 
+Project-start-time: 17:00:00
 
 ----
 
-Project-status-from: 
+Project-status-from: aktiv
 
 ----
 
@@ -18,7 +18,7 @@ Project-status-to:
 
 ----
 
-Image: 
+Image: - file://qbhn4qxvqofpyuxk
 
 ----
 
@@ -26,7 +26,7 @@ Headline:
 
 ----
 
-Description: 
+Description: <p>Wovon träumen Kinder? Was wünschen sie sich? Und wie sehen sie die Welt mit ihren Augen?</p><p>Zum <strong>Internationalen Tag der Kinderrechte</strong> laden wir herzlich zur Eröffnung zweier ganz besonderer Ausstellungen ins MachMit!Haus Goslar ein!</p><p><strong>„Kinderträume“</strong></p><p>Mehr als 30 Schülerinnen und Schüler der Schule am Harly haben ihre Wünsche, Hoffnungen und Träume in kreativen Kunstwerken festgehalten. Entstanden ist eine Ausstellung voller Fantasie, Farben und ganz persönlicher Gedanken.</p><p><strong>„Helins Welt“</strong></p><p>Die junge Goslarer Künstlerin Helin zeigt ihre selbst gemalten Porträts und gewährt einen Einblick in ihre ganz persönliche Welt.</p><p><strong>Ein besonderes Highlight:</strong> Helin wird bei der Eröffnung persönlich anwesend sein und bietet Besucherinnen und Besuchern die Möglichkeit, sich von ihr porträtieren zu lassen.</p>
 
 ----
 
