@@ -2,7 +2,7 @@ Title: Weihnachtsgrüße
 
 ----
 
-Slide-type: blocks
+Slide-type: christmas_tree
 
 ----
 
