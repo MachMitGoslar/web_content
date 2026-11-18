@@ -14,7 +14,7 @@ Subheadline: Digitale Teilhabe im MachMit!Haus
 
 ----
 
-Project-status: aktiv
+Project-status: abgeschlossen
 
 ----
 
