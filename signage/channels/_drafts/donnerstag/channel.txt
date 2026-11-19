@@ -2,11 +2,11 @@ Title: Donnerstag
 
 ----
 
-Channel-id: 
+Channel-id: donnerstags_plan
 
 ----
 
-Description: 
+Description: Zeigt Tagesplan am Donnerstag
 
 ----
 
@@ -26,7 +26,10 @@ Default-overlay-opacity: 40
 
 ----
 
-Slides: 
+Slides:
+
+- page://rhn0kntriqnaxz1a
+- page://3d9soee4srwddybv
 
 ----
 
