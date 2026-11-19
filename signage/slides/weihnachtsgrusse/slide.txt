@@ -186,7 +186,7 @@ Overlay-opacity: 85
 
 ----
 
-Overlay-gradient: to-left
+Overlay-gradient: radial
 
 ----
 
