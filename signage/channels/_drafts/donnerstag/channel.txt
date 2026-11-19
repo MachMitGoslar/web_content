@@ -1,0 +1,33 @@
+Title: Donnerstag
+
+----
+
+Channel-id: 
+
+----
+
+Description: 
+
+----
+
+Default-bg-image: 
+
+----
+
+Default-bg-video: 
+
+----
+
+Default-overlay-color: #000000
+
+----
+
+Default-overlay-opacity: 40
+
+----
+
+Slides: 
+
+----
+
+Uuid: nhldxcrkbbdvoi8k
