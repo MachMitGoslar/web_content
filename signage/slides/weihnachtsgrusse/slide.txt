@@ -178,11 +178,11 @@ Overlay-enabled: true
 
 ----
 
-Overlay-color: #ff0000
+Overlay-color: #41bc00
 
 ----
 
-Overlay-opacity: 100
+Overlay-opacity: 85
 
 ----
 
