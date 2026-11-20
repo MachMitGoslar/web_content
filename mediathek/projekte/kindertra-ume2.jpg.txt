@@ -1,0 +1,33 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: nmapawqwyfe1i2d2
+
+----
+
+Template: mediathek-image
+
+----
+
+Source-hash: d3ed2be5a50339647080bd67d9cdb2d061f3d2c7
+
+----
+
+Focus: 46.7% 19.7%

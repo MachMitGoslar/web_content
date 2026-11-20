@@ -1,0 +1,9 @@
+Uuid: 6KoONpXLla03TtNE
+
+----
+
+Template: mediathek-image
+
+----
+
+Source-hash: 7f2a48c27f2ba6d04ab26f3ffd1735b9513898bd

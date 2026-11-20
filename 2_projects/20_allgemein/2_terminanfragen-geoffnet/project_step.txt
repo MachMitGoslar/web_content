@@ -18,7 +18,7 @@ Project-status-to:
 
 ----
 
-Image: - file://a1bupdqunmxepyil
+Image: - file://zf6zvwbxsqpsgnyd
 
 ----
 
@@ -51,3 +51,7 @@ Robots:
 ----
 
 Uuid: v7tzugouyubket9u
+
+----
+
+Cover: - file://zf6zvwbxsqpsgnyd

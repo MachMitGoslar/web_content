@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Uuid: SqdZCQSjnXyf1YxT
+
+----
+
+Template: mediathek-image
+
+----
+
+Source-hash: 1a47148dcc95e1083a983f94df5d25591bc40687

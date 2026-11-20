@@ -1,0 +1,29 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: a17k2ehidgmtvmbl
+
+----
+
+Template: mediathek-image
+
+----
+
+Source-hash: 73cfe4d4e3321eee641e79c89ef7b3a3a98079d9

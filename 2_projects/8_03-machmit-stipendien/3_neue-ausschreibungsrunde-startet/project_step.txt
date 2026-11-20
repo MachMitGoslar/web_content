@@ -51,3 +51,7 @@ Robots: index
 ----
 
 Uuid: icz7kk12nwpqmy9j
+
+----
+
+Cover: - file://xgkn254lof1lfmnu

@@ -1,0 +1,33 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: skapvoleihtfd5gn
+
+----
+
+Template: mediathek-image
+
+----
+
+Focus: 50.0% 61.9%
+
+----
+
+Source-hash: fdb78b1ad5fdc1ba09bf803ee8c06aa875e7d7d1

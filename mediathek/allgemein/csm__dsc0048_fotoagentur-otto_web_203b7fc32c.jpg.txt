@@ -1,0 +1,33 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: jzpk7rrdaexzxegg
+
+----
+
+Template: mediathek-image
+
+----
+
+Focus: 49.4% 36.8%
+
+----
+
+Source-hash: 51251cc2f2b809e7fbd8d64a8607436018f5951a
