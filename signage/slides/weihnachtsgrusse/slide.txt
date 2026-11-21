@@ -158,7 +158,7 @@ Bg-type: image
 
 ----
 
-Bg-image: - file://ybgpao2qzp8cbrti
+Bg-image: - file://vfkjumypumw5e4vl
 
 ----
 

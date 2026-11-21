@@ -1,0 +1,29 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: snalaipfax86kuhm
+
+----
+
+Template: mediathek-image
+
+----
+
+Source-hash: 131d498ce66a0f318cb335a026f7d1b27c55f86c
