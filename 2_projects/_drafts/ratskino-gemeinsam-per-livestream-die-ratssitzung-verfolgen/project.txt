@@ -2,7 +2,11 @@ Title: Ratskino - Gemeinsam per Livestream die Ratssitzung verfolgen
 
 ----
 
-Cover: 
+Cover: - file://a6q1budgxiay5mah
+
+----
+
+Cover-focus: 49% 34%
 
 ----
 
