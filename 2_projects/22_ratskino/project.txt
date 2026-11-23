@@ -6,7 +6,7 @@ Cover: - file://ivbpxzq7wvovga1o
 
 ----
 
-Cover-focus: 47% 11%
+Cover-focus: 48% 5%
 
 ----
 
