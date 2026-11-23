@@ -6,7 +6,7 @@ Cover: - file://lbzelogmcekj1waf
 
 ----
 
-Cover-focus: 49% 56%
+Cover-focus: 48% 63%
 
 ----
 
