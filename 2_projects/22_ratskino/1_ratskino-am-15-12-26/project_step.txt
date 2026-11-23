@@ -10,7 +10,7 @@ Project-start-time: 17:00:00
 
 ----
 
-Project-status-from: aktiv
+Project-status-from: 
 
 ----
 
