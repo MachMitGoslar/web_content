@@ -6,7 +6,7 @@ Channel-id: mittwochs
 
 ----
 
-Description: 
+Description: Programminhalte Mittwochs
 
 ----
 
