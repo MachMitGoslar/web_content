@@ -1,0 +1,41 @@
+Title: Mittwoch
+
+----
+
+Channel-id: 
+
+----
+
+Description: 
+
+----
+
+Default-bg-image: 
+
+----
+
+Default-bg-video: 
+
+----
+
+Default-overlay-color: #000000
+
+----
+
+Default-overlay-opacity: 40
+
+----
+
+Default-overlay-gradient: none
+
+----
+
+Default-overlay-strength: 60
+
+----
+
+Slides: 
+
+----
+
+Uuid: 4fg2ojafofjjlgvz
