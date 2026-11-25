@@ -146,7 +146,7 @@ Duration-mode: manual
 
 ----
 
-Duration-override: 300
+Duration-override: 120
 
 ----
 
