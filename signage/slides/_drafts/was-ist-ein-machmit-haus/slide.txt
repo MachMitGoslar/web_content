@@ -2,7 +2,7 @@ Title: Was ist ein MachMit!Haus?
 
 ----
 
-Slide-type: blocks
+Slide-type: template
 
 ----
 
@@ -14,7 +14,7 @@ Canva-embed-url:
 
 ----
 
-Template-preset: event_focus
+Template-preset: compact_info
 
 ----
 
@@ -22,7 +22,7 @@ Template-theme: light
 
 ----
 
-Template-title: 
+Template-title: Was ist ein MachMit!Haus?
 
 ----
 
@@ -50,11 +50,11 @@ Template-location:
 
 ----
 
-Template-label: 
+Template-label: Infos
 
 ----
 
-Template-message: 
+Template-message: Wir verstehen uns als Anlaufstelle für Bürgerinnen und Bürger in Goslar. Kommt mit eurer Stadt ins Gespräch... denn gemeinsam machen wir Stadt besser!
 
 ----
 
