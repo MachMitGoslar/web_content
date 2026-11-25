@@ -96,6 +96,12 @@ Whitelist:
   label: Device 3f2dd4fe
   approved_at: 2026-10-12 09:12:47
   approved_by: stuff@stuffdev.de
+- 
+  uuid: 4b1c57d7-6685-4441-b422-4bc53bf9c93e
+  ip: 185.238.219.41
+  label: Device 4b1c57d7
+  approved_at: 2026-11-25 11:33:12
+  approved_by: stuff@stuffdev.de
 
 ----
 
