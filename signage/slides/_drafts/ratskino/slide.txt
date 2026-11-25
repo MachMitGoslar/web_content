@@ -2,7 +2,7 @@ Title: Ratskino
 
 ----
 
-Slide-type: blocks
+Slide-type: template
 
 ----
 
@@ -22,11 +22,14 @@ Template-theme: light
 
 ----
 
-Template-title: 
+Template-title: Ratskino
 
 ----
 
-Template-subtitle: 
+Template-subtitle:
+
+Wenn ihr schon immer mal eine Sitzung des Goslarer Rates erleben und erfahren wolltet, wie Kommunalpolitik funktioniert und Entscheidungen vor Ort getroffen werden, dann kommt einfach vorbei!
+Keine Anmeldung, keine Kosten. Wir freuen uns auf euch!
 
 ----
 
@@ -34,11 +37,11 @@ Template-recurrence:
 
 ----
 
-Template-date: 
+Template-date: 2026-12-15
 
 ----
 
-Template-time: 
+Template-time: 17:00:00
 
 ----
 
@@ -46,15 +49,18 @@ Template-end-time:
 
 ----
 
-Template-location: 
+Template-location: MachMit!Haus
 
 ----
 
-Template-label: 
+Template-label: Veranstaltung
 
 ----
 
-Template-message: 
+Template-message:
+
+Wenn ihr schon immer mal eine Sitzung des Goslarer Rates erleben und erfahren wolltet, wie Kommunalpolitik funktioniert und Entscheidungen vor Ort getroffen werden, dann kommt einfach vorbei!
+Keine Anmeldung, keine Kosten. Wir freuen uns auf euch!
 
 ----
 
@@ -66,7 +72,7 @@ Template-footer:
 
 ----
 
-Template-image: 
+Template-image: - file://ivbpxzq7wvovga1o
 
 ----
 
