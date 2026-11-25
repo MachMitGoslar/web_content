@@ -165,7 +165,7 @@ Transition-duration: 1
 
 ----
 
-Bg-type: none
+Bg-type: color
 
 ----
 
@@ -177,7 +177,7 @@ Bg-video:
 
 ----
 
-Bg-color: #000000
+Bg-color: #fff
 
 ----
 
