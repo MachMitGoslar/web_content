@@ -2,7 +2,7 @@ Title: Mittwoch
 
 ----
 
-Channel-id: 
+Channel-id: mittwochs
 
 ----
 
