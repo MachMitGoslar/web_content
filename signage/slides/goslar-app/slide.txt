@@ -10,6 +10,66 @@ Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"column
 
 ----
 
+Canva-embed-url: 
+
+----
+
+Template-preset: 
+
+----
+
+Template-theme: 
+
+----
+
+Template-title: 
+
+----
+
+Template-subtitle: 
+
+----
+
+Template-recurrence: 
+
+----
+
+Template-date: 
+
+----
+
+Template-time: 
+
+----
+
+Template-end-time: 
+
+----
+
+Template-location: 
+
+----
+
+Template-label: 
+
+----
+
+Template-message: 
+
+----
+
+Template-highlight: 
+
+----
+
+Template-footer: 
+
+----
+
+Template-image: 
+
+----
+
 Video-source: upload
 
 ----
@@ -58,6 +118,30 @@ Calendar-max-events: 5
 
 ----
 
+Tree-title: 
+
+----
+
+Tree-subtitle: 
+
+----
+
+Tree-form-link: 
+
+----
+
+Tree-qr-label: 
+
+----
+
+Tree-visible-balls: 
+
+----
+
+Tree-seconds-per-greeting: 
+
+----
+
 Duration-mode: manual
 
 ----
@@ -86,11 +170,15 @@ Bg-video:
 
 ----
 
+Bg-color: 
+
+----
+
 Bg-position: center
 
 ----
 
-Bg-size: cover
+Bg-size: contain
 
 ----
 
@@ -107,6 +195,10 @@ Overlay-opacity: 40
 ----
 
 Overlay-gradient: none
+
+----
+
+Overlay-strength: 
 
 ----
 
