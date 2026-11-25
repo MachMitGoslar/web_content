@@ -41,4 +41,12 @@ Slides:
 
 ----
 
+Default-color-scheme: dark
+
+----
+
+Default-overlay-preset: custom
+
+----
+
 Uuid: 4fg2ojafofjjlgvz

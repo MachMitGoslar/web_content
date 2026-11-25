@@ -2,11 +2,7 @@ Title: Goslar App
 
 ----
 
-Slide-type: blocks
-
-----
-
-Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"00cbf2fb-ba7e-4e12-97d0-c011e8191e36","width":"1/1"}],"id":"d145f9e0-b700-4841-b142-1f303d3cd3c4"}]
+Slide-type: template
 
 ----
 
@@ -14,11 +10,7 @@ Canva-embed-url:
 
 ----
 
-Template-preset: 
-
-----
-
-Template-theme: 
+Template-preset: image
 
 ----
 
@@ -63,10 +55,6 @@ Template-highlight:
 ----
 
 Template-footer: 
-
-----
-
-Template-image: 
 
 ----
 
@@ -174,15 +162,7 @@ Bg-color:
 
 ----
 
-Bg-position: center
-
-----
-
 Bg-size: contain
-
-----
-
-Overlay-enabled: false
 
 ----
 
@@ -199,6 +179,14 @@ Overlay-gradient: none
 ----
 
 Overlay-strength: 
+
+----
+
+Color-scheme: light
+
+----
+
+Overlay-preset: none
 
 ----
 

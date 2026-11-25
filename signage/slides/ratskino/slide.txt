@@ -18,10 +18,6 @@ Template-preset: event_focus
 
 ----
 
-Template-theme: dark
-
-----
-
 Template-title: Ratskino
 
 ----
@@ -66,14 +62,6 @@ Template-highlight:
 ----
 
 Template-footer: 
-
-----
-
-Template-image: - file://ivbpxzq7wvovga1o
-
-----
-
-Template-focus: 50% 14%
 
 ----
 
@@ -165,11 +153,11 @@ Transition-duration: 1
 
 ----
 
-Bg-type: 
+Bg-type: image
 
 ----
 
-Bg-image: 
+Bg-image: - file://ivbpxzq7wvovga1o
 
 ----
 
@@ -181,31 +169,35 @@ Bg-color: #ffffff
 
 ----
 
-Bg-position: focus
-
-----
-
 Bg-size: cover
 
 ----
 
-Overlay-enabled: true
+Overlay-color: #10100f
 
 ----
 
-Overlay-color: #fff
+Overlay-opacity: 58
 
 ----
 
-Overlay-opacity: 75
+Overlay-gradient: none
 
 ----
 
-Overlay-gradient: to-top
+Overlay-strength: 100
 
 ----
 
-Overlay-strength: 60
+Bg-focus: 50% 14%
+
+----
+
+Color-scheme: dark
+
+----
+
+Overlay-preset: custom
 
 ----
 

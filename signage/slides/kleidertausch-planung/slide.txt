@@ -2,11 +2,7 @@ Title: Kleidertausch Planung
 
 ----
 
-Slide-type: blocks
-
-----
-
-Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"2d24e3e8-2b06-4cbf-82e0-e9136cea8307","width":"1/1"}],"id":"2d5f7da1-64e6-4bee-ba3e-7fcfcb36cbea"}]
+Slide-type: template
 
 ----
 
@@ -86,15 +82,7 @@ Bg-video:
 
 ----
 
-Bg-position: center
-
-----
-
 Bg-size: cover
-
-----
-
-Overlay-enabled: false
 
 ----
 
@@ -107,6 +95,22 @@ Overlay-opacity: 40
 ----
 
 Overlay-gradient: none
+
+----
+
+Template-preset: image
+
+----
+
+Template-title: 
+
+----
+
+Color-scheme: light
+
+----
+
+Overlay-preset: none
 
 ----
 

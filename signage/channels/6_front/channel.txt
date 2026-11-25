@@ -42,4 +42,12 @@ Slides:
 
 ----
 
+Default-color-scheme: dark
+
+----
+
+Default-overlay-preset: custom
+
+----
+
 Uuid: ilth19ohakh5r570
