@@ -30,6 +30,10 @@ Template-subtitle: offener Coding Space für Nachwuchs-Coder ab 10 Jahren
 
 ----
 
+Template-recurrence: immer mittwochs
+
+----
+
 Template-date: 2026-11-18
 
 ----
@@ -166,6 +170,10 @@ Bg-video:
 
 ----
 
+Bg-color: 
+
+----
+
 Bg-position: focus
 
 ----
@@ -187,6 +195,10 @@ Overlay-opacity: 40
 ----
 
 Overlay-gradient: none
+
+----
+
+Overlay-strength: 
 
 ----
 
