@@ -1,0 +1,41 @@
+Title: Front
+
+----
+
+Channel-id: 
+
+----
+
+Description: 
+
+----
+
+Default-bg-image: 
+
+----
+
+Default-bg-video: 
+
+----
+
+Default-overlay-color: #000000
+
+----
+
+Default-overlay-opacity: 40
+
+----
+
+Default-overlay-gradient: none
+
+----
+
+Default-overlay-strength: 60
+
+----
+
+Slides: 
+
+----
+
+Uuid: ilth19ohakh5r570
