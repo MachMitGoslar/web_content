@@ -177,7 +177,7 @@ Bg-video:
 
 ----
 
-Bg-color: #fff
+Bg-color: #ffffff
 
 ----
 
