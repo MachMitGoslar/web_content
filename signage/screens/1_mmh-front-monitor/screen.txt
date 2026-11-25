@@ -43,7 +43,7 @@ Active-times:
 
 - 
   start: 08:00:00
-  end: 20:00:00
+  end: 22:00:00
   days: mon, tue, wed, thu, fri, sat, sun
 
 ----
