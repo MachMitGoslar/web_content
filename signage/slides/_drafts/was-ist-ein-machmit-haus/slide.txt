@@ -18,7 +18,7 @@ Template-preset: compact_info
 
 ----
 
-Template-theme: light
+Template-theme: dark
 
 ----
 
