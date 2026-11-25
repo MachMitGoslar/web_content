@@ -73,6 +73,10 @@ Template-image: - file://ivbpxzq7wvovga1o
 
 ----
 
+Template-focus: 50% 14%
+
+----
+
 Video-source: upload
 
 ----
