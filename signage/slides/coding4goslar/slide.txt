@@ -30,6 +30,10 @@ Template-subtitle: DER offene Programmierer Space im MachMit!Haus. Coding + Pizz
 
 ----
 
+Template-recurrence: Immer Mittwochs
+
+----
+
 Template-date: 2026-11-18
 
 ----
@@ -166,6 +170,10 @@ Bg-video:
 
 ----
 
+Bg-color: 
+
+----
+
 Bg-position: focus
 
 ----
@@ -187,6 +195,10 @@ Overlay-opacity: 40
 ----
 
 Overlay-gradient: none
+
+----
+
+Overlay-strength: 
 
 ----
 
