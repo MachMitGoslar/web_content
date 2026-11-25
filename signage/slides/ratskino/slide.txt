@@ -201,7 +201,7 @@ Overlay-opacity: 75
 
 ----
 
-Overlay-gradient: none
+Overlay-gradient: to-top
 
 ----
 
