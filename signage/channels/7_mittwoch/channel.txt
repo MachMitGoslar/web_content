@@ -1,0 +1,52 @@
+Title: Mittwoch
+
+----
+
+Channel-id: mittwochs
+
+----
+
+Description: Programminhalte Mittwochs
+
+----
+
+Default-bg-image: 
+
+----
+
+Default-bg-video: 
+
+----
+
+Default-overlay-color: #fff
+
+----
+
+Default-overlay-opacity: 40
+
+----
+
+Default-overlay-gradient: none
+
+----
+
+Default-overlay-strength: 60
+
+----
+
+Slides:
+
+- page://8zazwnpheb56a7df
+- page://4iac2dkdpqrx1ltv
+
+----
+
+Default-color-scheme: dark
+
+----
+
+Default-overlay-preset: custom
+
+----
+
+Uuid: 4fg2ojafofjjlgvz

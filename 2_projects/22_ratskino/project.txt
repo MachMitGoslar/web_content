@@ -1,0 +1,73 @@
+Title: Ratskino
+
+----
+
+Cover: - file://ivbpxzq7wvovga1o
+
+----
+
+Cover-focus: 48% 5%
+
+----
+
+Headline: 
+
+----
+
+Subheadline: Gemeinsam per Livestream die Ratssitzung verfolgen
+
+----
+
+Project-status: aktiv
+
+----
+
+Topic: demokratie
+
+----
+
+Tags: 
+
+----
+
+Project-color: 
+
+----
+
+Project-color-accents: true
+
+----
+
+Text: [{"attrs":{"highlight":"none"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Demokratie erleben, aber gemütlich.</strong></p><p>Gemeinsam in Kinoatmosphäre die Sitzungen des Goslarer Rates mitverfolgen – das könnt ihr bei uns im MachMit!Haus!</p><p>Als Haus der Bürgerbeteiligung und Digitalisierung möchten wir Kommunalpolitik für alle zugänglicher machen und die Möglichkeit bieten, Ratssitzungen in einer offenen und gemütlichen Atmosphäre mitzuerleben. Denn Demokratie lebt davon, dass Menschen sich informieren, mitreden und mitgestalten können.</p><p>Im Rahmen unserer Veranstaltungsreihe zeigen wir deshalb regelmäßig den Livestream der Ratssitzungen und schmeißen dafür unsere berühmt-berüchtigte Popcornmaschine an.</p><p>Wenn ihr schon immer mal eine Sitzung des Goslarer Rates erleben und erfahren wolltet, wie Kommunalpolitik funktioniert und Entscheidungen vor Ort getroffen werden, dann kommt einfach vorbei!</p><p><strong>Keine Anmeldung, keine Kosten.</strong> Wir freuen uns auf euch!</p>"},"id":"b2fc6755-3509-4a84-a988-c5527c5fcdad","isHidden":false,"type":"text"}],"id":"92710afe-d903-44a1-af4f-2c58604bfa97","width":"1/1"}],"id":"6e160fc3-90b6-4c19-b2cc-b88fb4136271"}]
+
+----
+
+Team: - page://nptsef9geyexw0gz
+
+----
+
+Show-project-step-pictures: true
+
+----
+
+App-widget: false
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: 80gvjpdbz8xiokvr

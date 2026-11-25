@@ -2,11 +2,59 @@ Title: Goslar App
 
 ----
 
-Slide-type: blocks
+Slide-type: template
 
 ----
 
-Content-layout: [{"attrs":{"vertical_align":"center","padding":"medium"},"columns":[{"blocks":[],"id":"00cbf2fb-ba7e-4e12-97d0-c011e8191e36","width":"1/1"}],"id":"d145f9e0-b700-4841-b142-1f303d3cd3c4"}]
+Canva-embed-url: 
+
+----
+
+Template-preset: image
+
+----
+
+Template-title: 
+
+----
+
+Template-subtitle: 
+
+----
+
+Template-recurrence: 
+
+----
+
+Template-date: 
+
+----
+
+Template-time: 
+
+----
+
+Template-end-time: 
+
+----
+
+Template-location: 
+
+----
+
+Template-label: 
+
+----
+
+Template-message: 
+
+----
+
+Template-highlight: 
+
+----
+
+Template-footer: 
 
 ----
 
@@ -58,6 +106,30 @@ Calendar-max-events: 5
 
 ----
 
+Tree-title: 
+
+----
+
+Tree-subtitle: 
+
+----
+
+Tree-form-link: 
+
+----
+
+Tree-qr-label: 
+
+----
+
+Tree-visible-balls: 
+
+----
+
+Tree-seconds-per-greeting: 
+
+----
+
 Duration-mode: manual
 
 ----
@@ -86,15 +158,11 @@ Bg-video:
 
 ----
 
-Bg-position: center
+Bg-color: 
 
 ----
 
-Bg-size: cover
-
-----
-
-Overlay-enabled: false
+Bg-size: contain
 
 ----
 
@@ -107,6 +175,18 @@ Overlay-opacity: 40
 ----
 
 Overlay-gradient: none
+
+----
+
+Overlay-strength: 
+
+----
+
+Color-scheme: light
+
+----
+
+Overlay-preset: none
 
 ----
 

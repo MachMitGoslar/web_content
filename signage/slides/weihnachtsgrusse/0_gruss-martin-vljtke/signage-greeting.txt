@@ -1,0 +1,21 @@
+Title: Gruß von Martin
+
+----
+
+Greeting-name: Martin
+
+----
+
+Greeting-text: Viel Spaß auf dem Weihnachtsmarkt wünschen wir euch. Und wenn ihr euch aufwärmen möchtet, sind wir gern für euch da!
+
+----
+
+Submitted-at: 2026-11-25 20:30:00
+
+----
+
+Submission-ref: page://wrfnbtl2mwy2g0uf
+
+----
+
+Uuid: gfa4pgzfdjhpe6x6

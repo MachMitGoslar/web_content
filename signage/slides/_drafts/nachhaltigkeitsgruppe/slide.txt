@@ -2,11 +2,7 @@ Title: Nachhaltigkeitsgruppe
 
 ----
 
-Slide-type: blocks
-
-----
-
-Content-layout: 
+Slide-type: template
 
 ----
 
@@ -86,15 +82,7 @@ Bg-video:
 
 ----
 
-Bg-position: center
-
-----
-
 Bg-size: cover
-
-----
-
-Overlay-enabled: true
 
 ----
 
@@ -107,6 +95,22 @@ Overlay-opacity: 0
 ----
 
 Overlay-gradient: none
+
+----
+
+Template-preset: image
+
+----
+
+Template-title: 
+
+----
+
+Color-scheme: dark
+
+----
+
+Overlay-preset: none
 
 ----
 

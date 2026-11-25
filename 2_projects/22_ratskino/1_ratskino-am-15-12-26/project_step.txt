@@ -1,0 +1,57 @@
+Title: Ratskino am 15.12.26
+
+----
+
+Project-start-date: 2026-12-15
+
+----
+
+Project-start-time: 17:00:00
+
+----
+
+Project-status-from: 
+
+----
+
+Project-status-to: aktiv
+
+----
+
+Image: - file://a6q1budgxiay5mah
+
+----
+
+Image-focus: 48% 37%
+
+----
+
+Headline: 
+
+----
+
+Description: <p><strong>Demokratie erleben, aber gemütlich.</strong></p><p>Gemeinsam in Kinoatmosphäre die Sitzung des Goslarer Rates mitverfolgen – das könnt ihr am <strong>15.12.2026 um 17:00 Uhr</strong> bei uns im MachMit!Haus!</p><p>Als Haus der Bürgerbeteiligung und Digitalisierung möchten wir Kommunalpolitik für alle zugänglicher machen und die Möglichkeit bieten, Ratssitzungen in einer offenen und gemütlichen Atmosphäre mitzuerleben. Denn Demokratie lebt davon, dass Menschen sich informieren, mitreden und mitgestalten können.</p><p>Deshalb zeigen wir am 15. Dezember den Livestream der Ratssitzung und schmeißen dafür unsere berühmt-berüchtigte Popcornmaschine an. Wenn ihr möchtet, könnt ihr euch natürlich auch gerne eure eigenen Snacks und Getränke mitbringen.</p><p>Wenn ihr schon immer mal eine Sitzung des Goslarer Rates erleben und erfahren wolltet, wie Kommunalpolitik funktioniert und Entscheidungen vor Ort getroffen werden, dann kommt einfach vorbei!</p><p><strong>Keine Anmeldung, keine Kosten.</strong> Wir freuen uns auf euch!</p>
+
+----
+
+Tags: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Social-image: 
+
+----
+
+Robots: 
+
+----
+
+Uuid: jg3482ptz6fuj5vx

@@ -18,15 +18,15 @@ Template-preset: event_focus
 
 ----
 
-Template-theme: light
-
-----
-
 Template-title: Coding4Youth
 
 ----
 
 Template-subtitle: offener Coding Space für Nachwuchs-Coder ab 10 Jahren
+
+----
+
+Template-recurrence: immer mittwochs
 
 ----
 
@@ -59,10 +59,6 @@ Template-highlight:
 ----
 
 Template-footer: 
-
-----
-
-Template-image: 
 
 ----
 
@@ -166,7 +162,7 @@ Bg-video:
 
 ----
 
-Bg-position: focus
+Bg-color: 
 
 ----
 
@@ -174,11 +170,7 @@ Bg-size: cover
 
 ----
 
-Overlay-enabled: true
-
-----
-
-Overlay-color: #000000
+Overlay-color: #fff
 
 ----
 
@@ -187,6 +179,18 @@ Overlay-opacity: 40
 ----
 
 Overlay-gradient: none
+
+----
+
+Overlay-strength: 
+
+----
+
+Color-scheme: dark
+
+----
+
+Overlay-preset: none
 
 ----
 

@@ -18,15 +18,15 @@ Template-preset: event_focus
 
 ----
 
-Template-theme: light
-
-----
-
 Template-title: Coding4Goslar
 
 ----
 
 Template-subtitle: DER offene Programmierer Space im MachMit!Haus. Coding + Pizza + Talk = Love
+
+----
+
+Template-recurrence: Immer Mittwochs
 
 ----
 
@@ -59,10 +59,6 @@ Template-highlight:
 ----
 
 Template-footer: 
-
-----
-
-Template-image: 
 
 ----
 
@@ -166,15 +162,11 @@ Bg-video:
 
 ----
 
-Bg-position: focus
+Bg-color: 
 
 ----
 
 Bg-size: cover
-
-----
-
-Overlay-enabled: true
 
 ----
 
@@ -187,6 +179,18 @@ Overlay-opacity: 40
 ----
 
 Overlay-gradient: none
+
+----
+
+Overlay-strength: 
+
+----
+
+Color-scheme: light
+
+----
+
+Overlay-preset: none
 
 ----
 

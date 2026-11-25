@@ -18,11 +18,19 @@ Default-bg-video:
 
 ----
 
-Default-overlay-color: 
+Default-overlay-color: #000000
 
 ----
 
 Default-overlay-opacity: 20
+
+----
+
+Default-overlay-gradient: none
+
+----
+
+Default-overlay-strength: 60
 
 ----
 
@@ -31,10 +39,15 @@ Slides:
 - page://pnkgij60l8c26qjg
 - page://vpgft1ee8dyrhpwb
 - page://ngmu7ukc1r206ayw
-- page://ensmeuu8k8op6lbz
-- page://3d9soee4srwddybv
-- page://rhn0kntriqnaxz1a
-- page://5onsyyrrqmn7yuoh
+- page://zwqdhow8r06kakzf
+
+----
+
+Default-color-scheme: dark
+
+----
+
+Default-overlay-preset: custom
 
 ----
 

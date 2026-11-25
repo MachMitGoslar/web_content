@@ -1,0 +1,53 @@
+Title: Frontkanal
+
+----
+
+Channel-id: front-channel
+
+----
+
+Description: 
+
+----
+
+Default-bg-image: 
+
+----
+
+Default-bg-video: 
+
+----
+
+Default-overlay-color: #fff
+
+----
+
+Default-overlay-opacity: 40
+
+----
+
+Default-overlay-gradient: to-top
+
+----
+
+Default-overlay-strength: 60
+
+----
+
+Slides:
+
+- page://pnkgij60l8c26qjg
+- page://y04heg18jsf1igut
+- page://vpgft1ee8dyrhpwb
+
+----
+
+Default-color-scheme: dark
+
+----
+
+Default-overlay-preset: custom
+
+----
+
+Uuid: ilth19ohakh5r570

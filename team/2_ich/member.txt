@@ -6,15 +6,18 @@ Cover: - file://Rrguu37BSWso2Zju
 
 ----
 
+Cover-focus: 55% 67%
+
+----
+
 Name: Martin Sänger
 
 ----
 
 Description:
 
-Glück auf!
-
-Ich bin Martin und ich kümmere mich im MachMit!Haus um ganz viele unterschiedliche Baustellen. Hauptsächlich erlebt man mich immer mittwochs bis freitags und manchmal am Wochenende im offenen Bereich des Hauses. Hier stehe ich euch für alle Anliegen, Frust oder auch ein gutes Gespräch gern zur Verfügung. 
+**Ahnungslos**
+Glück auf! Ich bin Martin und ich kümmere mich im MachMit!Haus um ganz viele unterschiedliche Baustellen. Hauptsächlich erlebt man mich immer mittwochs bis freitags und manchmal am Wochenende im offenen Bereich des Hauses. Hier stehe ich euch für alle Anliegen, Frust oder auch ein gutes Gespräch gern zur Verfügung. 
 
 Nebenbei kümmere ich mich um die zahlreichen Digitalisierungsbaustellen wie: Goslar App, Datenaggregation, Website, Social und Produktion. 
 

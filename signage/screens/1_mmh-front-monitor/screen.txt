@@ -6,7 +6,7 @@ Screen-id: mmh-entrance
 
 ----
 
-Orientation: horizontal
+Orientation: vertical
 
 ----
 
@@ -14,11 +14,28 @@ Status: true
 
 ----
 
-Assigned-channel: signage/channels/aktuelle-veranstaltungen-und-projekte-kopie
+Assigned-channel: signage/channels/front
 
 ----
 
-Channel-schedule: 
+Channel-schedule:
+
+- 
+  channel: signage/channels/donnerstag
+  mode: add
+  days: thu
+  date_start: 2026-01-01
+  date_end: 2028-01-01
+  time_start: 08:00:00
+  time_end: 00:00:00
+- 
+  channel: signage/channels/mittwoch
+  mode: add
+  days: wed
+  date_start: 2026-01-01
+  date_end: 2028-01-01
+  time_start: 08:00:00
+  time_end: 00:00:00
 
 ----
 
@@ -26,7 +43,7 @@ Active-times:
 
 - 
   start: 08:00:00
-  end: 20:00:00
+  end: 22:00:00
   days: mon, tue, wed, thu, fri, sat, sun
 
 ----
@@ -95,6 +112,12 @@ Whitelist:
   ip: 185.238.219.83
   label: Device 3f2dd4fe
   approved_at: 2026-10-12 09:12:47
+  approved_by: stuff@stuffdev.de
+- 
+  uuid: 4b1c57d7-6685-4441-b422-4bc53bf9c93e
+  ip: 185.238.219.41
+  label: Device 4b1c57d7
+  approved_at: 2026-11-25 11:33:12
   approved_by: stuff@stuffdev.de
 
 ----

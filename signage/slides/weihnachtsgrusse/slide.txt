@@ -18,15 +18,15 @@ Template-preset: event_focus
 
 ----
 
-Template-theme: light
-
-----
-
 Template-title: 
 
 ----
 
 Template-subtitle: 
+
+----
+
+Template-recurrence: 
 
 ----
 
@@ -59,10 +59,6 @@ Template-highlight:
 ----
 
 Template-footer: 
-
-----
-
-Template-image: 
 
 ----
 
@@ -114,11 +110,11 @@ Calendar-max-events: 5
 
 ----
 
-Tree-title: Happy Murmeltiertag!
+Tree-title: Frohe Weihnachten
 
 ----
 
-Tree-subtitle: Ja, du brauchst eine Freigabe
+Tree-subtitle: Lass uns deine Grüße da!
 
 ----
 
@@ -142,7 +138,7 @@ Duration-mode: manual
 
 ----
 
-Duration-override: 300
+Duration-override: 120
 
 ----
 
@@ -166,15 +162,11 @@ Bg-video:
 
 ----
 
-Bg-position: focus
+Bg-color: 
 
 ----
 
 Bg-size: cover
-
-----
-
-Overlay-enabled: true
 
 ----
 
@@ -187,6 +179,18 @@ Overlay-opacity: 85
 ----
 
 Overlay-gradient: radial
+
+----
+
+Overlay-strength: 60
+
+----
+
+Color-scheme: 
+
+----
+
+Overlay-preset: custom
 
 ----
 
