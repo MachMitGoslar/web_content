@@ -50,7 +50,7 @@ Template-location:
 
 ----
 
-Template-label: Infos
+Template-label: Info
 
 ----
 
