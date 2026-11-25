@@ -6,7 +6,7 @@ Screen-id: mmh-entrance
 
 ----
 
-Orientation: horizontal
+Orientation: vertical
 
 ----
 
