@@ -197,7 +197,7 @@ Overlay-color: #fff
 
 ----
 
-Overlay-opacity: 40
+Overlay-opacity: 75
 
 ----
 
