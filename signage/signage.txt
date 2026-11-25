@@ -200,6 +200,23 @@ Onboarding-requests:
   approved_at: 2026-10-12 11:17:13
   approved_by: stuff@stuffdev.de
   denied_at: ""
+- 
+  uuid: 4b1c57d7-6685-4441-b422-4bc53bf9c93e
+  ip: 185.238.219.41
+  backend: https://machmit.goslar.de
+  url: https://machmit.goslar.de/signage
+  user_agent: >
+    Mozilla/5.0 (SMART-TV; Linux; Tizen 5.0)
+    AppleWebKit/537.36 (KHTML, like Gecko)
+    SamsungBrowser/2.2 Chrome/94.0.4606.31
+    TV Safari/537.36
+  status: approved
+  assigned_screen: mmh-front-monitor
+  requested_at: 2026-11-25 11:29:25
+  last_seen_at: 2026-11-25 11:33:12
+  approved_at: 2026-11-25 11:33:12
+  approved_by: stuff@stuffdev.de
+  denied_at: ""
 
 ----
 
