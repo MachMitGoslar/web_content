@@ -33,4 +33,20 @@ Slides:
 
 ----
 
+Default-color-scheme: dark
+
+----
+
+Default-overlay-preset: custom
+
+----
+
+Default-overlay-gradient: none
+
+----
+
+Default-overlay-strength: 60
+
+----
+
 Uuid: nhldxcrkbbdvoi8k

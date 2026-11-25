@@ -18,10 +18,6 @@ Template-preset:
 
 ----
 
-Template-theme: 
-
-----
-
 Template-title: 
 
 ----
@@ -59,10 +55,6 @@ Template-highlight:
 ----
 
 Template-footer: 
-
-----
-
-Template-image: 
 
 ----
 
@@ -142,15 +134,7 @@ Bg-video:
 
 ----
 
-Bg-position: center
-
-----
-
 Bg-size: cover
-
-----
-
-Overlay-enabled: true
 
 ----
 
@@ -163,6 +147,14 @@ Overlay-opacity: 40
 ----
 
 Overlay-gradient: none
+
+----
+
+Color-scheme: light
+
+----
+
+Overlay-preset: none
 
 ----
 

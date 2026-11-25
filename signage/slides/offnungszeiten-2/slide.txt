@@ -18,10 +18,6 @@ Template-preset: event_focus
 
 ----
 
-Template-theme: light
-
-----
-
 Template-title: Let's talk about
 
 ----
@@ -59,10 +55,6 @@ Template-highlight: Mo. - Fr. | 13:00 - 18:00 Uhr
 ----
 
 Template-footer: 
-
-----
-
-Template-image: 
 
 ----
 
@@ -166,15 +158,7 @@ Bg-video:
 
 ----
 
-Bg-position: center
-
-----
-
 Bg-size: cover
-
-----
-
-Overlay-enabled: true
 
 ----
 
@@ -187,6 +171,14 @@ Overlay-opacity: 100
 ----
 
 Overlay-gradient: none
+
+----
+
+Color-scheme: light
+
+----
+
+Overlay-preset: none
 
 ----
 
