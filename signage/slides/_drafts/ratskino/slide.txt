@@ -26,10 +26,7 @@ Template-title: Ratskino
 
 ----
 
-Template-subtitle:
-
-Wenn ihr schon immer mal eine Sitzung des Goslarer Rates erleben und erfahren wolltet, wie Kommunalpolitik funktioniert und Entscheidungen vor Ort getroffen werden, dann kommt einfach vorbei!
-Keine Anmeldung, keine Kosten. Wir freuen uns auf euch!
+Template-subtitle: Wenn ihr schon immer mal eine Sitzung des Goslarer Rates erleben und erfahren wolltet, wie Kommunalpolitik funktioniert dann kommt einfach vorbei!
 
 ----
 
