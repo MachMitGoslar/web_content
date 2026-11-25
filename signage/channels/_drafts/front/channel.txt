@@ -1,8 +1,8 @@
-Title: Front
+Title: Frontkanal
 
 ----
 
-Channel-id: 
+Channel-id: front-channel
 
 ----
 
