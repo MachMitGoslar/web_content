@@ -165,7 +165,7 @@ Transition-duration: 1
 
 ----
 
-Bg-type: color
+Bg-type: 
 
 ----
 
